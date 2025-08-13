@@ -1,0 +1,15 @@
+I provided a page from an old article with colored bounding boxes.
+The colored bounding boxes might not always be right.
+Red means it's a paragraph.
+Blue means it's marginalia (foot-nodes, side-notes, page-number, paragraph, article-name etc).
+
+Our job is to point out the incorrect bounding boxes. Reading the text will help you find stuff that does not make sense and thus belongs into a different class.
+
+In the end you might get a list that could look like this:
+1. Page number "176" belongs in marginalia (blue)
+2. "Fig 5. Prinz Eugen von Savoyen" belongs in marginalia (blue)
+3. There are boxes without text in them on the left side
+4. "Commercio interno ed" is a sidenode (marginalia) and should belong in marginalia (blue)
+5. "1858 - 1852" is a footnote and should belong in marginalia (blue)
+
+It's always important to look at the color of the box! Blue is marginalia and red is a paragraph. Sometimes everything will be okay and there is nothing to correct.

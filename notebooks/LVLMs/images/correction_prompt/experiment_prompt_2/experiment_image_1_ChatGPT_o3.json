@@ -1,0 +1,15 @@
+{
+  "error_score": 20,
+  "errors": [
+    {
+      "bbox": [0.18, 0.33, 0.61, 0.36],
+      "class": "C",
+      "description": "Red box drawn around a dark horizon line inside the illustration – this is non-text mistakenly annotated as text."
+    },
+    {
+      "bbox": [0.69, 0.34, 0.82, 0.35],
+      "class": "C",
+      "description": "Small red box on the right-hand part of the picture marks an image artefact, not text."
+    }
+  ]
+}

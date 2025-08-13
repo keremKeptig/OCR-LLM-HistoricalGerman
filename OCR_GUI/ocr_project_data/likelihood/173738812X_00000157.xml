@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="173738812X_00000157.bin.png" imageHeight="2786" imageWidth="1872" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="9,253 17,289 0,295 0,260 9,253" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="15,0 23,0 23,4 12,4 15,0" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="17,80 17,103 23,122 12,122 17,80" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="9,2631 29,2637 29,2784 0,2784 9,2631" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="1481,303 1537,309 1556,334 1549,2412 1266,2431 1223,2468 204,2474 185,2159 192,321 1481,303" />
+    <TextLine id="l_0001" text="kommt dem Landesgerichte (Kreisgerichte) zu. (Für Handelsange-">
+      <Coords points="893,311 795,318 718,312 716,314 701,314 687,314 661,321 190,321 192,351 192,365 1537,352 1539,338 1536,314 1370,306 1368,306 1367,306 1365,306 1353,314 1204,308 1203,308 1201,308 1169,315 1080,309 1079,309 978,317 894,311 893,311" />
+      <Word id="l_0001-w_0001" text="kommt" error_score="1.000" error_type="error" />
+      <Word id="l_0001-w_0002" text="dem" error_score="1.000" error_type="error" />
+      <Word id="l_0001-w_0003" text="Landesgerichte" error_score="0.500" />
+      <Word id="l_0001-w_0004" text="(Kreisgerichte)" error_score="0.000" />
+      <Word id="l_0001-w_0005" text="zu." error_score="0.000" />
+      <Word id="l_0001-w_0006" text="(Für" error_score="1.000" error_type="error" />
+      <Word id="l_0001-w_0007" text="Handelsange-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0002" text="legenheiten gibt es besondere Handelsgerichte. ) In Strafsachen">
+      <Coords points="193,402 193,414 1539,407 1540,394 1537,371 1311,362 1309,362 1220,371 1082,363 1080,363 1079,363 1063,371 953,365 952,365 950,365 949,365 939,373 896,365 894,365 788,373 755,365 754,365 752,365 750,365 716,374 642,366 641,366 639,366 617,374 504,366 503,366 456,376 192,373 193,402" />
+      <Word id="l_0002-w_0001" text="legenheiten" error_score="0.500" />
+      <Word id="l_0002-w_0002" text="gibt" error_score="0.500" />
+      <Word id="l_0002-w_0003" text="es" error_score="0.000" />
+      <Word id="l_0002-w_0004" text="besondere" error_score="0.500" />
+      <Word id="l_0002-w_0005" text="Handelsgerichte." error_score="0.000" />
+      <Word id="l_0002-w_0006" text=")" error_score="0.500" />
+      <Word id="l_0002-w_0007" text="In" error_score="0.500" />
+      <Word id="l_0002-w_0008" text="Strafsachen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0003" text="erfolgt die Rechtsprechung beim Landesgerichte unter Zuziehung">
+      <Coords points="193,456 193,468 1049,470 1051,470 1316,461 1536,467 1539,447 1536,422 1090,416 1088,416 1086,416 1085,416 1074,424 648,419 647,419 645,419 644,419 631,427 428,420 427,420 425,420 424,420 411,428 240,422 238,422 192,430 193,456" />
+      <Word id="l_0003-w_0001" text="erfolgt" error_score="0.500" />
+      <Word id="l_0003-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0003-w_0003" text="Rechtsprechung" error_score="0.000" />
+      <Word id="l_0003-w_0004" text="beim" error_score="0.500" />
+      <Word id="l_0003-w_0005" text="Landesgerichte" error_score="0.000" />
+      <Word id="l_0003-w_0006" text="unter" error_score="1.000" error_type="error" />
+      <Word id="l_0003-w_0007" text="Zuziehung" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0004" text="von Geschworenen, d. i. von Männern aus dem Volke, welche">
+      <Coords points="193,507 193,518 1539,512 1540,499 1537,478 1500,468 1498,468 1361,476 1271,468 1269,468 1268,468 1229,478 1165,470 1164,470 1162,470 1139,479 967,479 857,472 856,472 854,472 853,472 840,479 712,473 710,473 709,473 707,473 696,481 670,473 668,473 667,473 665,473 664,473 653,482 427,482 404,475 402,475 401,475 348,482 294,475 292,475 291,475 289,475 277,484 192,484 193,507" />
+      <Word id="l_0004-w_0001" text="von" error_score="0.500" />
+      <Word id="l_0004-w_0002" text="Geschworenen," error_score="0.000" />
+      <Word id="l_0004-w_0003" text="d." error_score="0.000" />
+      <Word id="l_0004-w_0004" text="i." error_score="0.000" />
+      <Word id="l_0004-w_0005" text="von" error_score="0.500" />
+      <Word id="l_0004-w_0006" text="Männern" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="aus" error_score="1.000" error_type="error" />
+      <Word id="l_0004-w_0008" text="dem" error_score="0.000" />
+      <Word id="l_0004-w_0009" text="Volke," error_score="0.000" />
+      <Word id="l_0004-w_0010" text="welche" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0005" text="durch ihren Wahrspruch (ihr Verdikt; sprich: Werdikt) zu ent-">
+      <Coords points="192,560 192,569 419,578 421,578 422,578 447,571 622,577 624,577 727,569 757,577 758,577 760,577 812,569 989,575 990,575 992,575 1018,568 1062,575 1063,575 1540,564 1542,554 1539,530 1285,520 1283,520 1282,520 1252,529 1204,520 1203,520 1201,520 1169,530 1125,521 1124,521 995,530 916,521 915,521 913,521 884,530 831,523 829,523 828,523 826,523 814,532 775,523 774,523 772,523 712,532 690,523 689,523 687,523 685,523 665,532 545,523 543,523 472,524 470,524 469,524 455,533 342,524 340,524 339,524 309,533 284,524 283,524 281,524 236,533 213,524 212,524 210,524 209,524 190,533 192,560" />
+      <Word id="l_0005-w_0001" text="durch" error_score="0.500" />
+      <Word id="l_0005-w_0002" text="ihren" error_score="1.000" error_type="error" />
+      <Word id="l_0005-w_0003" text="Wahrspruch" error_score="0.500" />
+      <Word id="l_0005-w_0004" text="(ihr" error_score="0.500" />
+      <Word id="l_0005-w_0005" text="Verdikt;" error_score="0.000" />
+      <Word id="l_0005-w_0006" text="sprich:" error_score="0.000" />
+      <Word id="l_0005-w_0007" text="Werdikt)" error_score="0.000" />
+      <Word id="l_0005-w_0008" text="zu" error_score="0.500" />
+      <Word id="l_0005-w_0009" text="ent-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0006" text="scheiden haben, ob der Angeklagte schuldig oder unschuldig sei">
+      <Coords points="192,614 192,625 1537,620 1539,605 1534,575 1446,581 1432,572 1430,572 1429,572 1385,572 1384,572 1382,572 1361,581 1340,572 1339,572 1337,572 1336,572 1308,585 1212,585 1182,574 1181,574 1179,574 1130,583 1086,574 1085,574 1023,585 1011,575 1009,575 1008,575 1006,575 1004,575 981,585 822,577 820,577 775,586 639,577 637,577 636,577 634,577 622,588 585,578 583,578 582,578 510,588 439,578 438,578 377,589 235,580 233,580 190,589 192,614" />
+      <Word id="l_0006-w_0001" text="scheiden" error_score="0.500" />
+      <Word id="l_0006-w_0002" text="haben," error_score="0.000" />
+      <Word id="l_0006-w_0003" text="ob" error_score="0.500" />
+      <Word id="l_0006-w_0004" text="der" error_score="0.500" />
+      <Word id="l_0006-w_0005" text="Angeklagte" error_score="0.000" />
+      <Word id="l_0006-w_0006" text="schuldig" error_score="0.000" />
+      <Word id="l_0006-w_0007" text="oder" error_score="0.000" />
+      <Word id="l_0006-w_0008" text="unschuldig" error_score="0.000" />
+      <Word id="l_0006-w_0009" text="sei" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0007" text="(Schwurgerichte). Die Höhe der Strafe wird jedoch vom Gerichts-">
+      <Coords points="190,668 190,681 1539,668 1540,657 1537,633 1367,623 1365,623 1364,623 1342,633 1170,625 1169,625 1167,625 1165,625 1155,633 1100,626 1099,626 1097,626 1079,634 1062,626 1060,626 1059,626 1009,634 983,626 981,626 980,626 978,626 958,636 831,628 829,628 828,628 826,628 814,636 696,629 695,629 693,629 692,629 681,637 606,629 605,629 603,629 602,629 591,637 576,629 574,629 572,629 571,629 552,639 514,631 512,631 357,640 201,633 199,633 198,633 196,633 188,637 190,668" />
+      <Word id="l_0007-w_0001" text="(Schwurgerichte)." error_score="0.500" />
+      <Word id="l_0007-w_0002" text="Die" error_score="0.500" />
+      <Word id="l_0007-w_0003" text="Höhe" error_score="0.500" />
+      <Word id="l_0007-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0007-w_0005" text="Strafe" error_score="0.000" />
+      <Word id="l_0007-w_0006" text="wird" error_score="0.000" />
+      <Word id="l_0007-w_0007" text="jedoch" error_score="1.000" error_type="error" />
+      <Word id="l_0007-w_0008" text="vom" error_score="0.500" />
+      <Word id="l_0007-w_0009" text="Gerichts-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="hofe selbst (von den sogenannten ,gelehrten Richtern‟) festgesetzt.">
+      <Coords points="193,718 193,730 1539,725 1540,711 1537,688 1282,679 1280,679 1234,687 1102,681 1100,681 1099,681 1097,681 1085,688 952,681 950,681 846,691 582,691 563,682 562,682 560,682 558,682 526,691 447,684 445,684 444,684 425,691 363,684 362,684 322,691 267,684 266,684 192,688 193,718" />
+      <Word id="l_0008-w_0001" text="hofe" error_score="0.500" />
+      <Word id="l_0008-w_0002" text="selbst" error_score="0.500" />
+      <Word id="l_0008-w_0003" text="(von" error_score="0.500" />
+      <Word id="l_0008-w_0004" text="den" error_score="0.000" />
+      <Word id="l_0008-w_0005" text="sogenannten" error_score="0.000" />
+      <Word id="l_0008-w_0006" text=",gelehrten" error_score="0.500" />
+      <Word id="l_0008-w_0007" text="Richtern‟)" error_score="0.500" />
+      <Word id="l_0008-w_0008" text="festgesetzt." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="Gegen das vom Landesgerichte gefällte Urteil kann sowohl von">
+      <Coords points="192,772 192,783 846,787 848,787 850,787 867,780 990,786 992,786 1540,775 1540,763 1537,739 1405,730 1404,730 1306,739 1142,732 1141,732 1139,732 1122,739 938,733 936,733 935,733 916,741 763,735 761,735 675,742 647,735 645,735 644,735 642,735 641,735 628,744 557,736 555,736 554,736 552,736 541,746 401,746 371,738 370,738 368,738 366,738 365,738 353,747 255,747 202,738 201,738 199,738 198,738 190,744 192,772" />
+      <Word id="l_0009-w_0001" text="Gegen" error_score="0.500" />
+      <Word id="l_0009-w_0002" text="das" error_score="0.500" />
+      <Word id="l_0009-w_0003" text="vom" error_score="1.000" error_type="error" />
+      <Word id="l_0009-w_0004" text="Landesgerichte" error_score="0.000" />
+      <Word id="l_0009-w_0005" text="gefällte" error_score="0.000" />
+      <Word id="l_0009-w_0006" text="Urteil" error_score="0.000" />
+      <Word id="l_0009-w_0007" text="kann" error_score="0.000" />
+      <Word id="l_0009-w_0008" text="sowohl" error_score="0.500" />
+      <Word id="l_0009-w_0009" text="von" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0010" text="Seite des Staatsanwaltes als auch von Seite des Angeklagten">
+      <Coords points="193,826 193,835 1537,831 1539,815 1536,794 1388,783 1387,783 1385,783 1342,794 1294,784 1292,784 1291,784 1289,784 1275,795 1229,795 1201,784 1200,784 1198,784 1148,795 1059,786 1057,786 1056,786 1054,786 1040,797 953,797 905,787 904,787 902,787 877,798 802,798 781,787 780,787 778,787 777,787 746,798 665,789 664,789 487,800 455,790 453,790 452,790 407,800 354,792 353,792 351,792 323,801 269,792 267,792 192,795 193,826" />
+      <Word id="l_0010-w_0001" text="Seite" error_score="1.000" error_type="error" />
+      <Word id="l_0010-w_0002" text="des" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="Staatsanwaltes" error_score="0.000" />
+      <Word id="l_0010-w_0004" text="als" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="auch" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="von" error_score="0.000" />
+      <Word id="l_0010-w_0007" text="Seite" error_score="1.000" error_type="error" />
+      <Word id="l_0010-w_0008" text="des" error_score="0.000" />
+      <Word id="l_0010-w_0009" text="Angeklagten" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0011" text="Berufung an die nächsthöhere Instanz, das Oberlandesgericht, ein-">
+      <Coords points="192,879 192,900 269,889 348,899 349,899 455,888 969,894 970,894 972,894 973,894 987,885 1001,893 1003,893 1004,893 1138,885 1311,893 1313,893 1444,891 1446,891 1447,891 1461,882 1517,888 1518,888 1520,888 1539,879 1539,869 1537,846 1495,835 1494,835 1492,835 1433,845 1365,835 1364,835 1300,846 1249,837 1248,837 1206,846 1178,837 1176,837 1175,837 1173,837 1134,846 1090,837 1088,837 1086,837 1085,837 1071,848 1011,838 1009,838 1008,838 1006,838 992,849 862,849 826,840 825,840 823,840 822,840 820,840 806,851 764,851 675,840 673,840 672,840 641,849 628,841 627,841 625,841 624,841 551,851 506,841 504,841 503,841 466,851 190,849 192,879" />
+      <Word id="l_0011-w_0001" text="Berufung" error_score="0.000" />
+      <Word id="l_0011-w_0002" text="an" error_score="0.500" />
+      <Word id="l_0011-w_0003" text="die" error_score="0.500" />
+      <Word id="l_0011-w_0004" text="nächsthöhere" error_score="0.000" />
+      <Word id="l_0011-w_0005" text="Instanz," error_score="0.000" />
+      <Word id="l_0011-w_0006" text="das" error_score="0.000" />
+      <Word id="l_0011-w_0007" text="Oberlandesgericht," error_score="0.000" />
+      <Word id="l_0011-w_0008" text="ein-" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0012" text="gelegt (appelliert) werden.">
+      <Coords points="195,934 195,947 405,953 407,953 408,953 428,942 523,942 545,950 546,950 548,950 549,950 551,950 551,948 558,941 726,939 726,927 723,903 651,894 650,894 605,903 534,896 532,896 531,896 503,905 442,897 441,897 326,906 314,899 312,899 311,899 309,899 193,910 195,934" />
+      <Word id="l_0012-w_0001" text="gelegt" error_score="0.500" />
+      <Word id="l_0012-w_0002" text="(appelliert)" error_score="0.000" />
+      <Word id="l_0012-w_0003" text="werden." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="Das Oberlandesgericht kann das Urteil des Landesgerichtes">
+      <Coords points="295,984 295,998 1540,989 1542,975 1539,951 1422,942 1421,942 1419,942 1418,942 1405,950 1308,944 1306,944 1305,944 1303,944 1292,951 1155,944 1153,944 1152,944 1150,944 1141,951 1127,944 1125,944 1124,944 1122,944 1086,953 953,945 952,945 950,945 915,954 775,947 774,947 772,947 771,947 761,954 735,947 733,947 732,947 730,947 707,956 605,948 603,948 602,948 576,956 520,948 518,948 517,948 483,958 442,950 441,950 294,954 295,984" />
+      <Word id="l_0013-w_0001" text="Das" error_score="0.500" />
+      <Word id="l_0013-w_0002" text="Oberlandesgericht" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="kann" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="das" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="Urteil" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="des" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="Landesgerichtes" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="bestätigen, aber auch ganz oder teilweise abändern. Oberlandes-">
+      <Coords points="192,1040 192,1050 1348,1050 1348,1049 1518,1047 1520,1047 1542,1038 1542,1029 1539,1006 1399,996 1398,996 1362,1004 1351,996 1350,996 1348,996 1347,996 1294,1006 1176,998 1175,998 1173,998 1172,998 1161,1006 1096,999 1094,999 1093,999 1074,1007 1000,999 998,999 877,1009 808,1001 806,1001 805,1001 766,1012 645,1012 633,1002 631,1002 630,1002 628,1002 549,1012 475,1004 473,1004 435,1012 190,1010 192,1040" />
+      <Word id="l_0014-w_0001" text="bestätigen," error_score="0.000" />
+      <Word id="l_0014-w_0002" text="aber" error_score="0.500" />
+      <Word id="l_0014-w_0003" text="auch" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="ganz" error_score="0.500" />
+      <Word id="l_0014-w_0005" text="oder" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="teilweise" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="abändern." error_score="0.000" />
+      <Word id="l_0014-w_0008" text="Oberlandes-" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0015" text="gerichte bestehen in Wien, Graz, Innsbruck, Triest, Zara, Prag,">
+      <Coords points="195,1094 195,1111 1303,1097 1536,1103 1539,1086 1536,1060 1430,1049 1429,1049 1427,1049 1426,1049 1412,1060 1357,1060 1314,1049 1313,1049 1311,1049 1309,1049 1296,1058 1169,1050 1167,1050 1165,1050 1128,1060 1105,1050 1104,1050 1102,1050 1100,1050 1099,1050 1083,1061 1040,1061 1020,1050 1018,1050 1017,1050 1015,1050 1014,1050 997,1061 952,1052 950,1052 867,1061 811,1052 809,1052 808,1052 806,1052 792,1061 658,1054 656,1054 654,1054 622,1063 593,1054 591,1054 589,1054 588,1054 586,1054 572,1064 515,1064 492,1054 490,1054 489,1054 436,1064 397,1055 396,1055 394,1055 339,1064 264,1055 263,1055 193,1066 195,1094" />
+      <Word id="l_0015-w_0001" text="gerichte" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="bestehen" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="in" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="Wien," error_score="0.000" />
+      <Word id="l_0015-w_0005" text="Graz," error_score="0.000" />
+      <Word id="l_0015-w_0006" text="Innsbruck," error_score="0.000" />
+      <Word id="l_0015-w_0007" text="Triest," error_score="0.000" />
+      <Word id="l_0015-w_0008" text="Zara," error_score="0.000" />
+      <Word id="l_0015-w_0009" text="Prag," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="Brünn, Lemberg und Krakau.">
+      <Coords points="195,1145 195,1156 792,1160 794,1160 795,1160 797,1160 805,1153 805,1140 802,1117 744,1117 730,1106 729,1106 727,1106 726,1106 724,1106 696,1114 639,1106 637,1106 636,1106 634,1106 634,1108 627,1115 608,1106 606,1106 605,1106 603,1106 602,1106 602,1108 600,1108 593,1119 459,1119 449,1108 447,1108 445,1108 444,1108 380,1119 371,1111 371,1109 370,1109 368,1109 366,1109 365,1109 334,1119 267,1109 266,1109 193,1114 195,1145" />
+      <Word id="l_0016-w_0001" text="Brünn," error_score="0.000" />
+      <Word id="l_0016-w_0002" text="Lemberg" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="Krakau." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="Aber auch gegen das Urteil des Oberlandesgerichtes ist unter">
+      <Coords points="295,1199 295,1210 1540,1202 1542,1190 1539,1165 1374,1156 1373,1156 1323,1165 1249,1157 1248,1157 1246,1157 1244,1157 1234,1167 1153,1167 1133,1157 1131,1157 1130,1157 1128,1157 1127,1157 1116,1167 972,1159 970,1159 969,1159 967,1159 956,1167 752,1160 750,1160 749,1160 747,1160 737,1168 685,1162 684,1162 682,1162 681,1162 670,1171 518,1171 506,1162 504,1162 503,1162 501,1162 500,1162 472,1171 314,1163 312,1163 311,1163 294,1171 295,1199" />
+      <Word id="l_0017-w_0001" text="Aber" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0002" text="auch" error_score="0.000" />
+      <Word id="l_0017-w_0003" text="gegen" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0004" text="das" error_score="0.000" />
+      <Word id="l_0017-w_0005" text="Urteil" error_score="0.000" />
+      <Word id="l_0017-w_0006" text="des" error_score="0.000" />
+      <Word id="l_0017-w_0007" text="Oberlandesgerichtes" error_score="0.000" />
+      <Word id="l_0017-w_0008" text="ist" error_score="0.500" />
+      <Word id="l_0017-w_0009" text="unter" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0018" text="Umständen noch ein Rechtsmittel zulässig: die Berufung an den">
+      <Coords points="195,1250 195,1262 1539,1256 1540,1242 1537,1219 1477,1210 1475,1210 1474,1210 1472,1210 1461,1219 1322,1219 1296,1210 1294,1210 1292,1210 1291,1210 1265,1219 1130,1211 1128,1211 1062,1219 1035,1211 1034,1211 1032,1211 950,1221 894,1213 893,1213 891,1213 870,1221 834,1213 833,1213 774,1221 732,1213 730,1213 729,1213 727,1213 713,1222 676,1215 675,1215 639,1222 602,1215 600,1215 599,1215 572,1222 526,1215 524,1215 449,1224 374,1216 373,1216 371,1216 346,1224 326,1216 325,1216 323,1216 193,1219 195,1250" />
+      <Word id="l_0018-w_0001" text="Umständen" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="noch" error_score="0.000" />
+      <Word id="l_0018-w_0003" text="ein" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="Rechtsmittel" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="zulässig:" error_score="0.000" />
+      <Word id="l_0018-w_0006" text="die" error_score="0.500" />
+      <Word id="l_0018-w_0007" text="Berufung" error_score="0.000" />
+      <Word id="l_0018-w_0008" text="an" error_score="0.000" />
+      <Word id="l_0018-w_0009" text="den" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Obersten Gerichtshof in Wien.">
+      <Coords points="193,1306 193,1317 899,1312 901,1301 898,1275 777,1266 775,1266 774,1266 749,1275 721,1266 720,1266 718,1266 716,1266 715,1266 707,1273 689,1266 687,1266 685,1266 684,1266 658,1276 630,1267 628,1267 627,1267 625,1267 624,1267 613,1278 576,1278 560,1267 558,1267 557,1267 555,1267 554,1267 534,1276 515,1267 514,1267 512,1267 466,1276 435,1267 433,1267 432,1267 430,1267 428,1267 428,1269 427,1269 419,1280 261,1280 250,1269 249,1269 247,1269 205,1269 204,1269 202,1269 201,1269 192,1273 193,1306" />
+      <Word id="l_0019-w_0001" text="Obersten" error_score="0.000" />
+      <Word id="l_0019-w_0002" text="Gerichtshof" error_score="0.000" />
+      <Word id="l_0019-w_0003" text="in" error_score="0.500" />
+      <Word id="l_0019-w_0004" text="Wien." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0020" text="Der Oberste Gerichtshof entscheidet insbesondere auch über sogenannte">
+      <Coords points="297,1355 297,1369 1539,1363 1540,1349 1537,1327 1229,1320 1227,1320 1226,1320 1224,1320 1212,1327 942,1321 941,1321 939,1321 913,1329 622,1323 620,1323 579,1332 295,1332 297,1355" />
+      <Word id="l_0020-w_0001" text="Der" error_score="0.500" />
+      <Word id="l_0020-w_0002" text="Oberste" error_score="0.000" />
+      <Word id="l_0020-w_0003" text="Gerichtshof" error_score="0.000" />
+      <Word id="l_0020-w_0004" text="entscheidet" error_score="0.000" />
+      <Word id="l_0020-w_0005" text="insbesondere" error_score="0.500" />
+      <Word id="l_0020-w_0006" text="auch" error_score="0.500" />
+      <Word id="l_0020-w_0007" text="über" error_score="0.000" />
+      <Word id="l_0020-w_0008" text="sogenannte" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="Nichtigkeitsbeschwerden. Die Nichtigkeitsbeschwerde kann erhoben werden">
+      <Coords points="195,1402 195,1414 1537,1408 1539,1394 1536,1372 1484,1363 1483,1363 1348,1371 1325,1363 1323,1363 1322,1363 1320,1363 1303,1371 1285,1363 1283,1363 1282,1363 1280,1363 1278,1363 1265,1374 1172,1374 1155,1365 1153,1365 1152,1365 1150,1365 1127,1372 1104,1365 1102,1365 1100,1365 1026,1372 1008,1365 1006,1365 1004,1365 1003,1365 1001,1365 989,1374 732,1366 730,1366 729,1366 727,1366 713,1375 692,1368 690,1368 689,1368 504,1375 478,1368 476,1368 475,1368 473,1368 472,1368 459,1377 416,1369 414,1369 193,1375 195,1402" />
+      <Word id="l_0021-w_0001" text="Nichtigkeitsbeschwerden." error_score="0.000" />
+      <Word id="l_0021-w_0002" text="Die" error_score="0.500" />
+      <Word id="l_0021-w_0003" text="Nichtigkeitsbeschwerde" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="kann" error_score="0.000" />
+      <Word id="l_0021-w_0005" text="erhoben" error_score="0.000" />
+      <Word id="l_0021-w_0006" text="werden" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="wenn entweder bei dem früheren Gerichtsverfahren die Vorschriften der">
+      <Coords points="196,1448 196,1459 963,1461 964,1461 1539,1448 1540,1437 1537,1416 1347,1408 1345,1408 1344,1408 1342,1408 1331,1416 583,1414 582,1414 580,1414 579,1414 569,1422 416,1416 414,1416 195,1425 196,1448" />
+      <Word id="l_0022-w_0001" text="wenn" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0002" text="entweder" error_score="0.500" />
+      <Word id="l_0022-w_0003" text="bei" error_score="0.500" />
+      <Word id="l_0022-w_0004" text="dem" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="früheren" error_score="0.500" />
+      <Word id="l_0022-w_0006" text="Gerichtsverfahren" error_score="0.000" />
+      <Word id="l_0022-w_0007" text="die" error_score="0.500" />
+      <Word id="l_0022-w_0008" text="Vorschriften" error_score="0.000" />
+      <Word id="l_0022-w_0009" text="der" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0023" text="Prozeßordnung nicht beobachtet wurden, 2. B. Zeugen nicht vorgeladen">
+      <Coords points="193,1490 193,1501 1539,1496 1540,1484 1537,1462 1252,1454 1251,1454 1200,1462 887,1456 885,1456 884,1456 862,1465 192,1465 193,1490" />
+      <Word id="l_0023-w_0001" text="Prozeßordnung" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="nicht" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="beobachtet" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="wurden," error_score="0.000" />
+      <Word id="l_0023-w_0005" text="2." error_score="0.000" />
+      <Word id="l_0023-w_0006" text="B." error_score="0.000" />
+      <Word id="l_0023-w_0007" text="Zeugen" error_score="1.000" error_type="error" />
+      <Word id="l_0023-w_0008" text="nicht" error_score="0.000" />
+      <Word id="l_0023-w_0009" text="vorgeladen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="wurden, welche hätten vorgeladen werden sollen, oder wenn die Gerichts-">
+      <Coords points="198,1535 198,1547 1537,1540 1539,1527 1536,1507 1478,1498 1477,1498 1357,1505 1317,1498 1316,1498 1265,1507 1131,1499 1130,1499 1128,1499 1127,1499 1116,1509 1054,1509 1014,1499 1012,1499 1011,1499 1009,1499 992,1509 733,1501 732,1501 616,1510 495,1502 493,1502 492,1502 490,1502 478,1510 404,1504 402,1504 329,1512 274,1504 272,1504 196,1513 198,1535" />
+      <Word id="l_0024-w_0001" text="wurden," error_score="0.000" />
+      <Word id="l_0024-w_0002" text="welche" error_score="1.000" error_type="error" />
+      <Word id="l_0024-w_0003" text="hätten" error_score="0.500" />
+      <Word id="l_0024-w_0004" text="vorgeladen" error_score="0.000" />
+      <Word id="l_0024-w_0005" text="werden" error_score="0.000" />
+      <Word id="l_0024-w_0006" text="sollen," error_score="0.000" />
+      <Word id="l_0024-w_0007" text="oder" error_score="0.000" />
+      <Word id="l_0024-w_0008" text="wenn" error_score="0.000" />
+      <Word id="l_0024-w_0009" text="die" error_score="0.000" />
+      <Word id="l_0024-w_0010" text="Gerichts-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="höfe der I. und II. Instanz das Gesetz unrichtig ausgelegt haben. Gibt der">
+      <Coords points="195,1581 195,1592 1537,1583 1539,1572 1536,1550 1393,1541 1392,1541 1390,1541 1388,1541 1376,1549 1297,1543 1296,1543 1294,1543 1292,1543 1280,1550 1172,1543 1170,1543 1076,1552 961,1544 960,1544 834,1553 702,1546 701,1546 634,1555 571,1547 569,1547 193,1553 195,1581" />
+      <Word id="l_0025-w_0001" text="höfe" error_score="0.500" />
+      <Word id="l_0025-w_0002" text="der" error_score="0.500" />
+      <Word id="l_0025-w_0003" text="I." error_score="0.000" />
+      <Word id="l_0025-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0025-w_0005" text="II." error_score="0.000" />
+      <Word id="l_0025-w_0006" text="Instanz" error_score="0.000" />
+      <Word id="l_0025-w_0007" text="das" error_score="0.500" />
+      <Word id="l_0025-w_0008" text="Gesetz" error_score="0.500" />
+      <Word id="l_0025-w_0009" text="unrichtig" error_score="0.000" />
+      <Word id="l_0025-w_0010" text="ausgelegt" error_score="0.000" />
+      <Word id="l_0025-w_0011" text="haben." error_score="0.000" />
+      <Word id="l_0025-w_0012" text="Gibt" error_score="0.500" />
+      <Word id="l_0025-w_0013" text="der" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0026" text="Oberste Gerichtshof der Beschwerde Folge, so hebt er das Urteil auf und">
+      <Coords points="195,1626 195,1636 1542,1628 1542,1617 1537,1591 1466,1592 1450,1584 1449,1584 1447,1584 1387,1592 1364,1584 1362,1584 1361,1584 1359,1584 1342,1592 1283,1586 1282,1586 1241,1594 1224,1586 1223,1586 1221,1586 1220,1586 1218,1586 1206,1595 1119,1595 1100,1586 1099,1586 1097,1586 1096,1586 1094,1586 1085,1595 1063,1588 1062,1588 1060,1588 1059,1588 1057,1588 1045,1597 958,1597 882,1588 881,1588 879,1588 877,1588 862,1597 730,1589 729,1589 727,1589 696,1597 654,1589 653,1589 651,1589 650,1589 637,1598 549,1591 548,1591 546,1591 545,1591 532,1598 425,1591 424,1591 422,1591 421,1591 407,1600 387,1592 385,1592 384,1592 317,1600 209,1592 207,1592 205,1592 204,1592 193,1598 195,1626" />
+      <Word id="l_0026-w_0001" text="Oberste" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="Gerichtshof" error_score="0.000" />
+      <Word id="l_0026-w_0003" text="der" error_score="0.500" />
+      <Word id="l_0026-w_0004" text="Beschwerde" error_score="0.000" />
+      <Word id="l_0026-w_0005" text="Folge," error_score="0.000" />
+      <Word id="l_0026-w_0006" text="so" error_score="0.000" />
+      <Word id="l_0026-w_0007" text="hebt" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0008" text="er" error_score="0.000" />
+      <Word id="l_0026-w_0009" text="das" error_score="0.000" />
+      <Word id="l_0026-w_0010" text="Urteil" error_score="0.000" />
+      <Word id="l_0026-w_0011" text="auf" error_score="0.500" />
+      <Word id="l_0026-w_0012" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="befiehlt Wiederaufnahme des Verfahrens. Die Entscheidungen des Obersten">
+      <Coords points="195,1671 195,1682 1539,1676 1540,1663 1537,1639 1390,1629 1388,1629 1339,1637 1317,1629 1316,1629 1314,1629 1268,1639 1172,1631 1170,1631 1131,1639 1116,1631 1114,1631 1113,1631 1054,1639 1021,1631 1020,1631 1018,1631 1017,1631 998,1640 791,1632 789,1632 788,1632 764,1640 733,1632 732,1632 730,1632 729,1632 709,1642 664,1634 662,1634 582,1642 563,1634 562,1634 560,1634 558,1634 540,1642 518,1634 517,1634 515,1634 461,1643 438,1636 436,1636 435,1636 326,1643 249,1636 247,1636 246,1636 224,1643 205,1636 204,1636 202,1636 201,1636 199,1636 193,1640 195,1671" />
+      <Word id="l_0027-w_0001" text="befiehlt" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="Wiederaufnahme" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="des" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="Verfahrens." error_score="0.000" />
+      <Word id="l_0027-w_0005" text="Die" error_score="0.500" />
+      <Word id="l_0027-w_0006" text="Entscheidungen" error_score="0.000" />
+      <Word id="l_0027-w_0007" text="des" error_score="0.000" />
+      <Word id="l_0027-w_0008" text="Obersten" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="Gerichtshofes sind namentlich für solche Falle, in denen die Auslegung">
+      <Coords points="196,1713 196,1724 1536,1727 1539,1708 1536,1687 1294,1677 1292,1677 1291,1677 1289,1677 1278,1687 1196,1687 1167,1677 1165,1677 1164,1677 1125,1685 1102,1677 1100,1677 1099,1677 1097,1677 1096,1677 1085,1687 1046,1679 1045,1679 829,1687 778,1679 777,1679 775,1679 747,1687 681,1679 679,1679 631,1688 270,1680 269,1680 267,1680 249,1688 210,1680 209,1680 207,1680 205,1680 195,1687 196,1713" />
+      <Word id="l_0028-w_0001" text="Gerichtshofes" error_score="0.000" />
+      <Word id="l_0028-w_0002" text="sind" error_score="0.000" />
+      <Word id="l_0028-w_0003" text="namentlich" error_score="0.500" />
+      <Word id="l_0028-w_0004" text="für" error_score="0.500" />
+      <Word id="l_0028-w_0005" text="solche" error_score="0.500" />
+      <Word id="l_0028-w_0006" text="Falle," error_score="0.000" />
+      <Word id="l_0028-w_0007" text="in" error_score="0.000" />
+      <Word id="l_0028-w_0008" text="denen" error_score="0.000" />
+      <Word id="l_0028-w_0009" text="die" error_score="0.000" />
+      <Word id="l_0028-w_0010" text="Auslegung" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0029" text="des Gesetzes zweifelhaft ist, von größter Wichtigkeit.">
+      <Coords points="196,1759 196,1770 925,1773 927,1773 929,1773 930,1773 930,1772 932,1772 936,1766 1170,1766 1172,1753 1170,1731 1139,1721 1138,1721 1136,1721 1134,1721 1111,1730 1102,1721 1100,1721 1099,1721 1097,1721 1048,1728 1038,1721 1037,1721 1035,1721 956,1721 955,1721 953,1721 924,1731 885,1722 884,1722 882,1722 809,1731 661,1724 659,1724 658,1724 656,1724 647,1733 628,1724 627,1724 625,1724 624,1724 591,1733 582,1724 580,1724 579,1724 518,1724 517,1724 515,1724 514,1724 498,1735 438,1735 284,1725 283,1725 281,1725 260,1735 213,1725 212,1725 210,1725 209,1725 195,1733 196,1759" />
+      <Word id="l_0029-w_0001" text="des" error_score="0.000" />
+      <Word id="l_0029-w_0002" text="Gesetzes" error_score="0.000" />
+      <Word id="l_0029-w_0003" text="zweifelhaft" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="ist," error_score="0.000" />
+      <Word id="l_0029-w_0005" text="von" error_score="0.500" />
+      <Word id="l_0029-w_0006" text="größter" error_score="0.500" />
+      <Word id="l_0029-w_0007" text="Wichtigkeit." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="Gerichtshöfe besonderer Art sind das Reichsgericht und">
+      <Coords points="235,1813 235,1829 1542,1818 1543,1806 1539,1776 1424,1779 1412,1770 1410,1770 1409,1770 1407,1770 1405,1770 1382,1778 1362,1770 1361,1770 1359,1770 1357,1770 1334,1781 1251,1781 1232,1772 1230,1772 1229,1772 1227,1772 1226,1772 1215,1781 1189,1772 1187,1772 1186,1772 1184,1772 1158,1781 1119,1772 1117,1772 1116,1772 1114,1772 1076,1781 1049,1772 1048,1772 1046,1772 1045,1772 1017,1783 1003,1773 1001,1773 1000,1773 998,1773 997,1773 975,1783 946,1773 944,1773 942,1773 894,1783 839,1773 837,1773 836,1773 834,1773 820,1783 706,1775 704,1775 702,1775 701,1775 690,1784 608,1784 585,1775 583,1775 582,1775 580,1775 552,1784 541,1775 540,1775 538,1775 497,1775 495,1775 359,1784 314,1776 312,1776 311,1776 309,1776 295,1787 233,1787 235,1813" />
+      <Word id="l_0030-w_0001" text="Gerichtshöfe" error_score="0.000" />
+      <Word id="l_0030-w_0002" text="besonderer" error_score="0.500" />
+      <Word id="l_0030-w_0003" text="Art" error_score="0.000" />
+      <Word id="l_0030-w_0004" text="sind" error_score="0.000" />
+      <Word id="l_0030-w_0005" text="das" error_score="0.500" />
+      <Word id="l_0030-w_0006" text="Reichsgericht" error_score="0.000" />
+      <Word id="l_0030-w_0007" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0031" text="der Verwaltungsgerichtshof. Das Reichsgericht entscheidet">
+      <Coords points="195,1868 195,1877 616,1883 617,1883 740,1874 854,1880 856,1880 857,1880 859,1880 871,1872 1235,1879 1237,1879 1542,1869 1543,1858 1540,1834 1419,1824 1418,1824 1416,1824 1415,1824 1401,1832 1215,1826 1213,1826 1130,1834 1108,1826 1107,1826 1105,1826 1056,1835 1045,1827 1043,1827 1042,1827 1040,1827 1003,1835 843,1829 842,1829 840,1829 839,1829 828,1837 668,1829 667,1829 622,1838 445,1831 444,1831 442,1831 421,1838 295,1832 294,1832 292,1832 267,1840 212,1832 210,1832 209,1832 207,1832 193,1838 195,1868" />
+      <Word id="l_0031-w_0001" text="der" error_score="0.500" />
+      <Word id="l_0031-w_0002" text="Verwaltungsgerichtshof." error_score="0.000" />
+      <Word id="l_0031-w_0003" text="Das" error_score="0.000" />
+      <Word id="l_0031-w_0004" text="Reichsgericht" error_score="0.000" />
+      <Word id="l_0031-w_0005" text="entscheidet" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0032" text="über Beschwerden wegen Verletzung politischer Rechte, 2. B. des">
+      <Coords points="196,1920 196,1933 1540,1925 1542,1911 1539,1886 1416,1877 1415,1877 1413,1877 1412,1877 1399,1886 1308,1886 1289,1879 1288,1879 1286,1879 1243,1886 1209,1879 1207,1879 1206,1879 1141,1886 1122,1879 1121,1879 1119,1879 1117,1879 1091,1888 1068,1880 1066,1880 1065,1880 867,1889 712,1882 710,1882 630,1891 501,1883 500,1883 250,1892 207,1885 205,1885 204,1885 202,1885 195,1889 196,1920" />
+      <Word id="l_0032-w_0001" text="über" error_score="0.000" />
+      <Word id="l_0032-w_0002" text="Beschwerden" error_score="0.000" />
+      <Word id="l_0032-w_0003" text="wegen" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0004" text="Verletzung" error_score="0.000" />
+      <Word id="l_0032-w_0005" text="politischer" error_score="0.500" />
+      <Word id="l_0032-w_0006" text="Rechte," error_score="0.000" />
+      <Word id="l_0032-w_0007" text="2." error_score="0.000" />
+      <Word id="l_0032-w_0008" text="B." error_score="0.000" />
+      <Word id="l_0032-w_0009" text="des" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0033" text="Wahlrechtes, des Rechtes, Vereine zu bilden u. dgl. Der Ver-">
+      <Coords points="199,1973 199,1984 1094,1985 1096,1985 1158,1978 1302,1984 1303,1984 1305,1984 1322,1976 1543,1976 1545,1964 1542,1940 1455,1930 1453,1930 1452,1930 1450,1930 1436,1940 1388,1940 1353,1930 1351,1930 1350,1930 1348,1930 1317,1940 1291,1931 1289,1931 1288,1931 1286,1931 1266,1940 1254,1931 1252,1931 1251,1931 1249,1931 1248,1931 1246,1931 1232,1942 1124,1942 1097,1931 1096,1931 1094,1931 1037,1933 1035,1933 1034,1933 1018,1944 905,1944 882,1933 881,1933 879,1933 877,1933 853,1944 811,1934 809,1934 740,1944 659,1934 658,1934 656,1934 654,1934 642,1945 611,1936 610,1936 608,1936 565,1945 510,1936 509,1936 507,1936 483,1945 198,1942 199,1973" />
+      <Word id="l_0033-w_0001" text="Wahlrechtes," error_score="0.000" />
+      <Word id="l_0033-w_0002" text="des" error_score="0.000" />
+      <Word id="l_0033-w_0003" text="Rechtes," error_score="0.000" />
+      <Word id="l_0033-w_0004" text="Vereine" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0005" text="zu" error_score="0.000" />
+      <Word id="l_0033-w_0006" text="bilden" error_score="0.500" />
+      <Word id="l_0033-w_0007" text="u." error_score="0.000" />
+      <Word id="l_0033-w_0008" text="dgl." error_score="0.000" />
+      <Word id="l_0033-w_0009" text="Der" error_score="0.500" />
+      <Word id="l_0033-w_0010" text="Ver-" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0034" text="waltungsgerichtshof entscheidet über Beschwerden gegen Ver-">
+      <Coords points="198,2030 198,2036 405,2046 407,2046 600,2035 842,2041 843,2041 884,2033 942,2041 944,2041 946,2041 975,2032 1091,2039 1093,2039 1274,2030 1288,2039 1289,2039 1291,2039 1292,2041 1376,2041 1376,2039 1545,2027 1545,2019 1542,1995 1486,1984 1484,1984 1435,1996 1237,1996 1217,1985 1215,1985 1213,1985 1212,1985 1173,1996 1008,1987 1006,1987 955,1998 919,1988 918,1988 916,1988 915,1988 874,1998 726,1988 724,1988 631,1999 605,1990 603,1990 452,1990 450,1990 449,1990 422,1999 258,1991 257,1991 196,2002 198,2030" />
+      <Word id="l_0034-w_0001" text="waltungsgerichtshof" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="entscheidet" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="über" error_score="0.000" />
+      <Word id="l_0034-w_0004" text="Beschwerden" error_score="0.000" />
+      <Word id="l_0034-w_0005" text="gegen" error_score="0.500" />
+      <Word id="l_0034-w_0006" text="Ver-" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0035" text="fügungen von Verwaltungsbehörden, 2. B. eines Ministeriums, wenn">
+      <Coords points="198,2083 198,2094 1542,2086 1543,2074 1540,2049 1344,2049 1322,2038 1320,2038 1319,2038 1317,2038 1316,2038 1300,2049 1159,2039 1158,2039 1156,2039 1155,2039 1141,2049 1068,2041 1066,2041 1065,2041 1046,2050 1014,2041 1012,2041 1011,2041 1009,2041 973,2050 780,2043 778,2043 777,2043 758,2050 733,2043 732,2043 730,2043 540,2052 483,2044 481,2044 397,2055 209,2046 207,2046 205,2046 204,2046 196,2052 198,2083" />
+      <Word id="l_0035-w_0001" text="fügungen" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="Verwaltungsbehörden," error_score="0.000" />
+      <Word id="l_0035-w_0004" text="2." error_score="0.000" />
+      <Word id="l_0035-w_0005" text="B." error_score="0.000" />
+      <Word id="l_0035-w_0006" text="eines" error_score="1.000" error_type="error" />
+      <Word id="l_0035-w_0007" text="Ministeriums," error_score="0.000" />
+      <Word id="l_0035-w_0008" text="wenn" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0036" text="diese Verfügungen keine politischen Angelegenheiten betreffen;">
+      <Coords points="196,2135 196,2146 1542,2142 1543,2128 1540,2103 1460,2094 1458,2094 1457,2094 1455,2094 1444,2103 1379,2103 1354,2094 1353,2094 1351,2094 1350,2094 1348,2094 1336,2101 1251,2095 1249,2095 1248,2095 1227,2103 1206,2095 1204,2095 1203,2095 1134,2103 1102,2095 1100,2095 1099,2095 1051,2103 1006,2095 1004,2095 1003,2095 1001,2095 990,2104 800,2097 798,2097 730,2106 605,2098 603,2098 602,2098 600,2098 588,2106 320,2100 318,2100 260,2108 216,2100 215,2100 213,2100 195,2108 196,2135" />
+      <Word id="l_0036-w_0001" text="diese" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="Verfügungen" error_score="0.500" />
+      <Word id="l_0036-w_0003" text="keine" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0004" text="politischen" error_score="0.500" />
+      <Word id="l_0036-w_0005" text="Angelegenheiten" error_score="0.500" />
+      <Word id="l_0036-w_0006" text="betreffen;" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="hat die Beschwerde Erfolg, so wird die Verfügung der Verwaltungs-">
+      <Coords points="198,2190 198,2202 659,2197 726,2205 727,2205 786,2196 881,2202 882,2202 967,2194 1155,2202 1156,2202 1198,2194 1255,2200 1257,2200 1258,2200 1260,2200 1272,2193 1520,2199 1522,2199 1523,2199 1543,2190 1543,2179 1540,2154 1438,2154 1415,2143 1413,2143 1412,2143 1344,2154 1280,2145 1278,2145 1277,2145 1243,2154 1221,2145 1220,2145 1218,2145 1153,2156 973,2146 972,2146 970,2146 969,2146 958,2156 918,2148 916,2148 915,2148 913,2148 901,2157 834,2148 833,2148 766,2159 593,2149 591,2149 589,2149 588,2149 576,2157 439,2151 438,2151 436,2151 419,2160 196,2160 198,2190" />
+      <Word id="l_0037-w_0001" text="hat" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0002" text="die" error_score="0.500" />
+      <Word id="l_0037-w_0003" text="Beschwerde" error_score="0.000" />
+      <Word id="l_0037-w_0004" text="Erfolg," error_score="0.000" />
+      <Word id="l_0037-w_0005" text="so" error_score="0.000" />
+      <Word id="l_0037-w_0006" text="wird" error_score="0.500" />
+      <Word id="l_0037-w_0007" text="die" error_score="0.500" />
+      <Word id="l_0037-w_0008" text="Verfügung" error_score="0.000" />
+      <Word id="l_0037-w_0009" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0010" text="Verwaltungs-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="behörde aufgehoben.">
+      <Coords points="199,2242 199,2253 624,2248 624,2238 620,2213 534,2204 532,2204 531,2204 509,2211 489,2204 487,2204 486,2204 484,2204 483,2204 469,2213 430,2205 428,2205 427,2205 410,2214 198,2214 199,2242" />
+      <Word id="l_0038-w_0001" text="behörde" error_score="0.000" />
+      <Word id="l_0038-w_0002" text="aufgehoben." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0039" text="Das Gerichtswesen der ungarischen Länder hat eine">
+      <Coords points="298,2296 298,2306 1543,2298 1545,2286 1542,2262 1480,2252 1478,2252 1477,2252 1475,2252 1458,2262 1392,2262 1371,2252 1370,2252 1368,2252 1367,2252 1365,2252 1365,2253 1353,2262 1187,2253 1186,2253 1184,2253 1162,2264 1076,2255 1074,2255 1073,2255 1046,2264 1014,2255 1012,2255 1011,2255 1009,2255 987,2267 826,2267 789,2258 788,2258 786,2258 785,2258 783,2258 771,2267 498,2259 497,2259 495,2259 473,2267 419,2261 418,2261 416,2261 414,2261 401,2270 306,2261 305,2261 303,2261 301,2261 301,2262 297,2265 298,2296" />
+      <Word id="l_0039-w_0001" text="Das" error_score="0.500" />
+      <Word id="l_0039-w_0002" text="Gerichtswesen" error_score="0.500" />
+      <Word id="l_0039-w_0003" text="der" error_score="0.500" />
+      <Word id="l_0039-w_0004" text="ungarischen" error_score="0.500" />
+      <Word id="l_0039-w_0005" text="Länder" error_score="0.000" />
+      <Word id="l_0039-w_0006" text="hat" error_score="0.500" />
+      <Word id="l_0039-w_0007" text="eine" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0040" text="ähnliche Einrichtung; der oberste ungarische Gerichtshof ist die">
+      <Coords points="199,2351 199,2361 1340,2361 1340,2360 1396,2352 1529,2358 1531,2358 1532,2358 1534,2358 1545,2351 1545,2340 1543,2315 1512,2304 1511,2304 1509,2304 1460,2313 1385,2304 1384,2304 1316,2315 1278,2306 1277,2306 1275,2306 1217,2315 1178,2306 1176,2306 1175,2306 1173,2306 1172,2306 1155,2317 1107,2307 1105,2307 1104,2307 1076,2317 1052,2307 1051,2307 1049,2307 1048,2307 1028,2318 958,2320 814,2320 791,2309 789,2309 788,2309 786,2309 785,2309 768,2320 685,2310 684,2310 682,2310 681,2310 667,2320 399,2312 397,2312 396,2312 394,2312 380,2323 331,2313 329,2313 198,2320 199,2351" />
+      <Word id="l_0040-w_0001" text="ähnliche" error_score="0.000" />
+      <Word id="l_0040-w_0002" text="Einrichtung;" error_score="0.000" />
+      <Word id="l_0040-w_0003" text="der" error_score="0.500" />
+      <Word id="l_0040-w_0004" text="oberste" error_score="0.500" />
+      <Word id="l_0040-w_0005" text="ungarische" error_score="0.000" />
+      <Word id="l_0040-w_0006" text="Gerichtshof" error_score="0.000" />
+      <Word id="l_0040-w_0007" text="ist" error_score="0.500" />
+      <Word id="l_0040-w_0008" text="die" error_score="0.500" />
+    </TextLine>
+    <TextLine id="l_0041" text="königliche Kurie in Budapest. Außerdem gibt es einen eigenen">
+      <Coords points="198,2392 199,2402 199,2411 354,2420 356,2420 551,2411 732,2419 733,2419 831,2409 1543,2409 1543,2394 1540,2371 1412,2360 1410,2360 1409,2360 1387,2371 1319,2371 1285,2360 1283,2360 1282,2360 1280,2360 1278,2360 1263,2371 1122,2361 1121,2361 1065,2371 1006,2361 1004,2361 1003,2361 970,2372 949,2363 947,2363 946,2363 902,2371 884,2363 882,2363 881,2363 879,2363 877,2363 864,2372 636,2365 634,2365 633,2365 631,2365 619,2374 591,2365 589,2365 588,2365 586,2365 549,2374 531,2365 529,2365 467,2365 466,2365 418,2375 371,2366 210,2366 209,2366 207,2366 198,2392" />
+      <Word id="l_0041-w_0001" text="königliche" error_score="0.500" />
+      <Word id="l_0041-w_0002" text="Kurie" error_score="0.500" />
+      <Word id="l_0041-w_0003" text="in" error_score="0.500" />
+      <Word id="l_0041-w_0004" text="Budapest." error_score="0.000" />
+      <Word id="l_0041-w_0005" text="Außerdem" error_score="0.500" />
+      <Word id="l_0041-w_0006" text="gibt" error_score="0.000" />
+      <Word id="l_0041-w_0007" text="es" error_score="0.000" />
+      <Word id="l_0041-w_0008" text="einen" error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0009" text="eigenen" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0042" text="höchsten Gerichtshof für Kroatien und Slavonien.">
+      <Coords points="201,2457 201,2470 1213,2464 1215,2450 1212,2423 1147,2414 1145,2414 1144,2414 1142,2414 1133,2423 1057,2423 1018,2412 1017,2412 1015,2412 1014,2412 1012,2412 1012,2414 1003,2423 984,2414 983,2414 981,2414 980,2414 978,2414 966,2425 868,2425 840,2414 839,2414 837,2414 836,2414 803,2426 769,2426 758,2416 757,2416 755,2416 754,2416 701,2425 616,2416 614,2416 613,2416 591,2426 577,2417 576,2417 574,2417 572,2417 528,2426 518,2419 518,2417 517,2417 515,2417 473,2417 472,2417 470,2417 450,2426 408,2417 407,2417 405,2417 404,2417 404,2419 393,2428 212,2419 210,2419 209,2419 207,2419 207,2420 199,2426 201,2457" />
+      <Word id="l_0042-w_0001" text="höchsten" error_score="0.000" />
+      <Word id="l_0042-w_0002" text="Gerichtshof" error_score="0.000" />
+      <Word id="l_0042-w_0003" text="für" error_score="0.000" />
+      <Word id="l_0042-w_0004" text="Kroatien" error_score="0.000" />
+      <Word id="l_0042-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0042-w_0006" text="Slavonien." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="1469,198 1531,198 1537,252 1458,252 1469,198" />
+    <TextLine id="l_0043" text="151">
+      <Coords points="1523,205 1497,198 1495,198 1494,198 1492,198 1469,204 1458,232 1458,238 1458,249 1534,250 1536,238 1534,235 1523,205" />
+      <Word id="l_0043-w_0001" text="151" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+</Page>

@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740400143_00000128.bin.png" imageHeight="2883" imageWidth="1883" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="456,249 530,256 530,299 461,331 442,299 456,249" />
+    <TextLine id="l_0001" text="122">
+      <Coords points="493,253 477,251 471,249 456,254 447,277 447,288 447,297 524,296 524,285 520,256 504,253 493,253" />
+      <Word id="l_0001-w_0001" text="122" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="456,345 1761,371 1767,2490 1677,2529 455,2516 448,2216 339,2189 346,2114 442,2074 442,1479 346,1452 346,1409 423,1375 435,1305 435,640 415,613 333,594 333,531 429,485 435,365 456,345" />
+    <TextLine id="l_0002" text="Meerbuſen. 2. Die mittlere Ʒone, mit heißen, dürren Sommern und">
+      <Coords points="1741,369 1725,369 1709,369 1693,369 1677,368 1661,368 1645,368 1629,368 1613,368 1597,368 1581,366 1572,366 1536,368 1533,366 1533,366 1517,366 1501,365 1485,365 1482,365 1472,368 1445,365 1437,365 1421,363 1405,363 1389,363 1373,363 1357,363 1352,361 1331,368 1296,361 1293,361 1277,361 1261,360 1245,360 1229,360 1213,360 1201,360 1190,368 1168,358 1165,358 1153,358 1116,368 1019,357 1017,357 1016,357 979,368 926,357 924,357 836,368 799,357 798,357 754,357 753,357 751,357 749,357 735,368 706,357 705,357 703,357 701,357 679,368 599,357 597,357 596,357 573,365 557,357 556,357 554,357 443,363 443,395 443,406 1749,405 1749,395 1749,369 1741,369" />
+      <Word id="l_0002-w_0001" text="Meerbuſen." error_score="0.000" />
+      <Word id="l_0002-w_0002" text="2." error_score="0.000" />
+      <Word id="l_0002-w_0003" text="Die" error_score="0.000" />
+      <Word id="l_0002-w_0004" text="mittlere" error_score="0.000" />
+      <Word id="l_0002-w_0005" text="Ʒone," error_score="0.000" />
+      <Word id="l_0002-w_0006" text="mit" error_score="0.000" />
+      <Word id="l_0002-w_0007" text="heißen," error_score="0.000" />
+      <Word id="l_0002-w_0008" text="dürren" error_score="0.000" />
+      <Word id="l_0002-w_0009" text="Sommern" error_score="0.000" />
+      <Word id="l_0002-w_0010" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0003" text="kalten, ſtürmiſchen Wintern. 3. Die ſüdliche Ʒone, mit heißem, faſt tro⸗">
+      <Coords points="443,448 443,461 1749,461 1749,448 1749,419 1637,410 1636,410 1634,410 1623,416 1613,408 1612,408 1610,408 1608,408 1607,408 1586,418 1491,408 1490,408 1437,418 1411,408 1410,408 1408,408 1407,408 1386,419 1298,419 1275,408 1274,408 1272,408 1270,408 1245,418 1213,408 1211,408 1118,408 1116,408 1115,408 1113,408 1100,418 1075,408 1073,408 1072,408 1022,418 990,408 988,408 987,408 985,408 966,418 871,410 870,410 868,410 850,416 839,408 838,408 836,408 791,408 790,408 788,408 786,408 774,418 727,408 725,408 525,418 458,408 456,408 455,408 453,408 443,414 443,448" />
+      <Word id="l_0003-w_0001" text="kalten," error_score="0.001" />
+      <Word id="l_0003-w_0002" text="ſtürmiſchen" error_score="0.001" />
+      <Word id="l_0003-w_0003" text="Wintern." error_score="0.001" />
+      <Word id="l_0003-w_0004" text="3." error_score="0.001" />
+      <Word id="l_0003-w_0005" text="Die" error_score="0.001" />
+      <Word id="l_0003-w_0006" text="ſüdliche" error_score="0.001" />
+      <Word id="l_0003-w_0007" text="Ʒone," error_score="0.001" />
+      <Word id="l_0003-w_0008" text="mit" error_score="0.001" />
+      <Word id="l_0003-w_0009" text="heißem," error_score="0.001" />
+      <Word id="l_0003-w_0010" text="faſt" error_score="0.001" />
+      <Word id="l_0003-w_0011" text="tro⸗" error_score="0.017" />
+    </TextLine>
+    <TextLine id="l_0004" text="piſchem Klima und reichlicheren Niederſchlägen.">
+      <Coords points="445,499 445,514 1307,510 1307,499 1307,472 1245,472 1211,459 1209,459 1157,459 1155,459 1153,459 1152,459 1134,470 1110,459 1108,459 1107,459 1105,459 1089,467 1043,459 1041,459 1040,459 1038,459 1038,461 1027,472 963,472 943,459 942,459 940,459 847,459 846,459 844,459 842,459 842,461 830,472 793,472 777,459 775,459 774,459 772,459 770,459 769,459 769,461 759,470 682,470 605,459 604,459 602,459 600,459 600,461 589,472 544,472 522,459 520,459 475,459 474,459 472,459 445,470 445,499" />
+      <Word id="l_0004-w_0001" text="piſchem" error_score="0.017" />
+      <Word id="l_0004-w_0002" text="Klima" error_score="0.017" />
+      <Word id="l_0004-w_0003" text="und" error_score="0.017" />
+      <Word id="l_0004-w_0004" text="reichlicheren" error_score="0.017" />
+      <Word id="l_0004-w_0005" text="Niederſchlägen." error_score="0.017" />
+    </TextLine>
+    <TextLine id="l_0005" text="II. u.">
+      <Coords points="360,517 344,525 344,542 342,552 347,557 347,558 349,558 350,558 352,558 445,552 447,546 447,522 360,515 360,517" />
+      <Word id="l_0005-w_0001" text="II." error_score="0.017" />
+      <Word id="l_0005-w_0002" text="u." error_score="0.017" />
+    </TextLine>
+    <TextLine id="l_0006" text="Jn Spanien beſteht ſeit der Maurenʒeit künſtliche Bewäſſerung der">
+      <Coords points="549,552 549,565 1756,565 1756,552 1756,523 1701,514 1700,514 1698,514 1697,514 1684,522 1349,514 1347,514 1346,514 1344,514 1331,522 1286,514 1285,514 1283,514 1282,514 1274,522 1246,514 1245,514 1243,514 1241,514 1240,514 1227,523 1129,523 1073,514 1072,514 1027,522 1009,514 1008,514 1006,514 1004,514 985,522 932,514 931,514 929,514 911,522 879,514 878,514 876,514 874,514 873,514 862,522 799,514 798,514 751,522 727,514 725,514 724,514 679,522 634,514 633,514 592,522 562,514 560,514 559,514 557,514 556,514 549,518 549,552" />
+      <Word id="l_0006-w_0001" text="Jn" error_score="0.017" />
+      <Word id="l_0006-w_0002" text="Spanien" error_score="0.017" />
+      <Word id="l_0006-w_0003" text="beſteht" error_score="0.017" />
+      <Word id="l_0006-w_0004" text="ſeit" error_score="0.023" />
+      <Word id="l_0006-w_0005" text="der" error_score="0.023" />
+      <Word id="l_0006-w_0006" text="Maurenʒeit" error_score="0.023" />
+      <Word id="l_0006-w_0007" text="künſtliche" error_score="0.023" />
+      <Word id="l_0006-w_0008" text="Bewäſſerung" error_score="0.023" />
+      <Word id="l_0006-w_0009" text="der" error_score="0.023" />
+    </TextLine>
+    <TextLine id="l_0007" text="II. Gl. Felder; dieſe haben ein gartenähnliches Ausſehen und werden Huertas">
+      <Coords points="336,587 334,613 432,613 448,624 450,624 451,624 453,626 580,626 580,624 581,624 583,624 596,615 649,624 650,624 652,624 684,615 716,624 717,624 719,624 809,613 822,623 823,623 825,623 826,623 874,618 886,626 887,626 889,626 891,627 1120,627 1120,626 1121,626 1165,615 1245,626 1246,626 1338,615 1533,623 1535,623 1536,623 1557,616 1589,626 1591,626 1592,626 1753,613 1754,605 1753,576 1685,566 1684,566 1604,574 1583,563 1581,563 1580,563 1578,563 1557,574 1499,563 1498,563 1496,563 1474,576 1424,576 1402,563 1400,563 1399,563 1330,574 1286,563 1285,563 1283,563 1219,573 1185,563 1184,563 1182,563 1181,563 1179,563 1163,574 1076,563 1075,563 1073,563 1052,574 1035,563 1033,563 1032,563 1030,563 1028,563 990,574 958,566 956,566 955,566 858,574 842,565 841,565 839,565 838,565 836,565 815,574 749,562 748,562 746,562 745,562 729,571 711,562 709,562 708,562 706,562 676,573 610,562 608,562 607,562 605,562 588,574 536,574 519,562 517,562 516,562 514,562 512,562 490,570 467,562 466,562 336,562 336,587" />
+      <Word id="l_0007-w_0001" text="II." error_score="0.023" />
+      <Word id="l_0007-w_0002" text="Gl." error_score="0.023" />
+      <Word id="l_0007-w_0003" text="Felder;" error_score="0.023" />
+      <Word id="l_0007-w_0004" text="dieſe" error_score="0.023" />
+      <Word id="l_0007-w_0005" text="haben" error_score="0.003" />
+      <Word id="l_0007-w_0006" text="ein" error_score="0.003" />
+      <Word id="l_0007-w_0007" text="gartenähnliches" error_score="0.003" />
+      <Word id="l_0007-w_0008" text="Ausſehen" error_score="0.003" />
+      <Word id="l_0007-w_0009" text="und" error_score="0.003" />
+      <Word id="l_0007-w_0010" text="werden" error_score="0.003" />
+      <Word id="l_0007-w_0011" text="Huertas" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0008" text="genannt. Der Ackerbau deckt den Bedarf des Landes. Ʒur Römerʒeit">
+      <Coords points="445,658 445,672 1754,666 1756,655 1754,629 1730,618 1729,618 1727,618 1725,618 1724,618 1708,627 1594,618 1592,618 1524,627 1495,618 1493,618 1491,618 1490,618 1488,618 1475,629 1435,629 1423,618 1421,618 1419,618 1418,618 1416,618 1395,626 1378,618 1376,618 1374,618 1373,618 1347,627 1314,618 1312,618 1310,618 1309,618 1288,627 1193,618 1192,618 1190,618 1160,627 1147,618 1145,618 1144,618 1100,618 1099,618 1097,618 1075,629 1019,619 1017,619 1016,619 993,629 979,619 977,619 975,619 974,619 932,627 915,619 913,619 911,619 910,619 908,619 894,631 855,631 838,619 836,619 834,619 833,619 831,619 799,627 730,619 729,619 727,619 725,619 713,629 645,619 644,619 597,629 583,619 581,619 580,619 578,619 443,631 445,658" />
+      <Word id="l_0008-w_0001" text="genannt." error_score="0.003" />
+      <Word id="l_0008-w_0002" text="Der" error_score="0.003" />
+      <Word id="l_0008-w_0003" text="Ackerbau" error_score="0.003" />
+      <Word id="l_0008-w_0004" text="deckt" error_score="0.005" />
+      <Word id="l_0008-w_0005" text="den" error_score="0.005" />
+      <Word id="l_0008-w_0006" text="Bedarf" error_score="0.005" />
+      <Word id="l_0008-w_0007" text="des" error_score="0.005" />
+      <Word id="l_0008-w_0008" text="Landes." error_score="0.005" />
+      <Word id="l_0008-w_0009" text="Ʒur" error_score="0.005" />
+      <Word id="l_0008-w_0010" text="Römerʒeit" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0009" text="war Spanien reich bewaldet und ein überaus angenehmer Aufenthalt,">
+      <Coords points="445,709 445,720 540,720 552,728 554,728 556,728 557,728 695,720 772,728 774,728 775,728 809,720 1749,723 1753,709 1753,682 1727,672 1725,672 1724,672 1647,680 1618,672 1616,672 1615,672 1222,680 1169,672 1168,672 1166,672 1137,680 1108,672 1107,672 1105,672 1104,672 1070,680 1052,672 1051,672 1049,672 980,680 969,672 967,672 966,672 964,672 963,672 947,680 915,672 913,672 911,672 910,672 887,680 825,672 823,672 822,672 804,680 754,672 753,672 669,680 642,672 641,672 639,672 596,680 549,672 548,672 546,672 544,672 533,682 445,682 445,709" />
+      <Word id="l_0009-w_0001" text="war" error_score="0.005" />
+      <Word id="l_0009-w_0002" text="Spanien" error_score="0.005" />
+      <Word id="l_0009-w_0003" text="reich" error_score="0.005" />
+      <Word id="l_0009-w_0004" text="bewaldet" error_score="0.006" />
+      <Word id="l_0009-w_0005" text="und" error_score="0.006" />
+      <Word id="l_0009-w_0006" text="ein" error_score="0.006" />
+      <Word id="l_0009-w_0007" text="überaus" error_score="0.006" />
+      <Word id="l_0009-w_0008" text="angenehmer" error_score="0.006" />
+      <Word id="l_0009-w_0009" text="Aufenthalt," error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0010" text="heute gewähren die kahlen Hochflächen von Caſtilien bei Madrid einen">
+      <Coords points="445,762 445,775 1754,773 1754,762 1754,733 1698,733 1685,722 1684,722 1682,722 1681,722 1679,722 1660,731 1624,722 1623,722 1621,722 1620,722 1581,731 1554,722 1552,722 1551,722 1549,722 1548,722 1532,731 1506,722 1504,722 1503,722 1431,730 1415,722 1413,722 1411,722 1410,722 1408,722 1394,731 1341,722 1339,722 1274,730 1243,722 1241,722 1240,722 1238,722 1237,722 1222,733 1113,733 1092,722 1091,722 1008,722 1006,722 1004,722 1003,722 987,731 961,722 959,722 958,722 956,722 932,731 886,722 884,722 841,730 823,722 822,722 820,722 818,722 817,722 806,731 775,722 774,722 772,722 770,722 735,733 679,733 666,722 665,722 663,722 661,722 616,733 533,733 522,723 520,723 519,723 517,723 479,731 467,722 466,722 464,722 463,722 461,722 445,730 445,762" />
+      <Word id="l_0010-w_0001" text="heute" error_score="0.006" />
+      <Word id="l_0010-w_0002" text="gewähren" error_score="0.006" />
+      <Word id="l_0010-w_0003" text="die" error_score="0.006" />
+      <Word id="l_0010-w_0004" text="kahlen" error_score="0.006" />
+      <Word id="l_0010-w_0005" text="Hochflächen" error_score="0.031" />
+      <Word id="l_0010-w_0006" text="von" error_score="0.031" />
+      <Word id="l_0010-w_0007" text="Caſtilien" error_score="0.031" />
+      <Word id="l_0010-w_0008" text="bei" error_score="0.031" />
+      <Word id="l_0010-w_0009" text="Madrid" error_score="0.031" />
+      <Word id="l_0010-w_0010" text="einen" error_score="0.031" />
+    </TextLine>
+    <TextLine id="l_0011" text="traurigen Anblick. Fruchtbar ſind nur die Fluſsthäler. Jn den be⸗">
+      <Coords points="445,813 445,823 549,832 551,832 616,824 649,832 650,832 652,832 782,824 815,832 817,832 818,832 996,824 1014,832 1016,832 1017,832 1089,824 1264,824 1275,832 1277,832 1278,832 1280,832 1525,824 1565,832 1567,832 1605,824 1616,832 1618,832 1620,832 1621,832 1751,823 1751,813 1751,786 1706,775 1705,775 1703,775 1701,775 1677,786 1618,775 1616,775 1615,775 1613,775 1596,786 1552,775 1551,775 1549,775 1548,775 1520,786 1463,786 1448,775 1447,775 1445,775 1350,775 1349,775 1347,775 1346,775 1334,783 1290,775 1288,775 1286,775 1285,775 1270,786 1233,775 1232,775 1230,775 1229,775 1192,788 1092,788 1076,775 1075,775 1073,775 1072,775 1070,775 1068,775 1052,784 1025,775 1024,775 1022,775 1020,775 1019,775 1004,786 947,775 903,775 902,775 900,775 899,775 887,784 836,775 834,775 782,786 767,775 766,775 764,775 762,775 684,783 649,775 647,775 645,775 644,775 642,775 626,788 573,788 546,775 544,775 543,775 541,775 540,775 524,784 458,776 456,776 455,776 453,776 445,781 445,813" />
+      <Word id="l_0011-w_0001" text="traurigen" error_score="0.031" />
+      <Word id="l_0011-w_0002" text="Anblick." error_score="0.031" />
+      <Word id="l_0011-w_0003" text="Fruchtbar" error_score="0.031" />
+      <Word id="l_0011-w_0004" text="ſind" error_score="0.031" />
+      <Word id="l_0011-w_0005" text="nur" error_score="0.126" />
+      <Word id="l_0011-w_0006" text="die" error_score="0.126" />
+      <Word id="l_0011-w_0007" text="Fluſsthäler." error_score="0.126" />
+      <Word id="l_0011-w_0008" text="Jn" error_score="0.126" />
+      <Word id="l_0011-w_0009" text="den" error_score="0.126" />
+      <Word id="l_0011-w_0010" text="be⸗" error_score="0.126" />
+    </TextLine>
+    <TextLine id="l_0012" text="wäſſerten Gegenden des Südens, namentlich bei Valencia und Gra⸗">
+      <Coords points="445,866 445,879 1751,879 1753,866 1751,839 1677,829 1676,829 1674,829 1641,837 1623,829 1621,829 1620,829 1618,829 1589,837 1503,829 1501,829 1434,837 1411,829 1410,829 1408,829 1407,829 1383,837 1344,829 1342,829 1341,829 1339,829 1331,837 1322,829 1320,829 1318,829 1185,829 1184,829 1038,837 1027,829 1025,829 1024,829 1022,829 1020,829 990,837 907,829 905,829 841,837 823,829 822,829 820,829 778,837 745,829 743,829 741,829 682,837 641,829 639,829 588,837 568,829 567,829 565,829 564,829 538,837 488,829 487,829 445,837 445,866" />
+      <Word id="l_0012-w_0001" text="wäſſerten" error_score="0.126" />
+      <Word id="l_0012-w_0002" text="Gegenden" error_score="0.126" />
+      <Word id="l_0012-w_0003" text="des" error_score="0.126" />
+      <Word id="l_0012-w_0004" text="Südens," error_score="0.126" />
+      <Word id="l_0012-w_0005" text="namentlich" error_score="0.126" />
+      <Word id="l_0012-w_0006" text="bei" error_score="0.035" />
+      <Word id="l_0012-w_0007" text="Valencia" error_score="0.035" />
+      <Word id="l_0012-w_0008" text="und" error_score="0.035" />
+      <Word id="l_0012-w_0009" text="Gra⸗" error_score="0.035" />
+    </TextLine>
+    <TextLine id="l_0013" text="nada, gedeihen der Maulbeer⸗ und der Olbaum, der Granatapfel⸗,">
+      <Coords points="447,916 445,927 455,935 456,935 458,935 459,936 576,936 576,935 578,935 580,935 589,927 599,935 600,935 602,935 604,936 748,936 748,935 749,935 751,935 762,927 846,927 858,935 860,935 862,935 863,935 1035,927 1100,935 1102,935 1751,933 1753,919 1753,893 1725,880 1724,880 1722,880 1580,890 1517,880 1516,880 1514,880 1512,880 1498,892 1439,880 1437,880 1435,880 1408,892 1330,892 1306,880 1304,880 1243,880 1241,880 1240,880 1238,880 1224,892 1181,880 1179,880 1177,880 1176,880 1152,892 1129,880 1128,880 1126,880 1032,890 972,879 971,879 923,888 900,879 899,879 897,879 839,890 785,879 783,879 782,879 749,890 685,879 684,879 682,879 681,879 666,888 652,879 650,879 649,879 647,879 645,879 644,879 628,892 535,892 519,879 517,879 516,879 514,879 512,879 511,879 496,890 447,890 447,916" />
+      <Word id="l_0013-w_0001" text="nada," error_score="0.035" />
+      <Word id="l_0013-w_0002" text="gedeihen" error_score="0.035" />
+      <Word id="l_0013-w_0003" text="der" error_score="0.035" />
+      <Word id="l_0013-w_0004" text="Maulbeer⸗" error_score="0.035" />
+      <Word id="l_0013-w_0005" text="und" error_score="0.035" />
+      <Word id="l_0013-w_0006" text="der" error_score="0.035" />
+      <Word id="l_0013-w_0007" text="Olbaum," error_score="0.035" />
+      <Word id="l_0013-w_0008" text="der" error_score="0.042" />
+      <Word id="l_0013-w_0009" text="Granatapfel⸗," error_score="0.042" />
+    </TextLine>
+    <TextLine id="l_0014" text="Feigen⸗, Johannisbrot⸗ und Drangenbaum und an einʒelnen Stellen ſoaar">
+      <Coords points="445,973 445,993 544,985 673,991 674,991 1754,980 1756,969 1753,938 1700,938 1682,924 1681,924 1679,924 1520,924 1519,924 1517,924 1516,924 1496,938 1461,938 1429,924 1427,924 1318,924 1317,924 1249,925 1248,925 1246,925 1229,938 892,925 891,925 889,925 887,925 870,940 748,930 746,930 745,930 743,930 730,941 687,941 673,930 671,930 669,930 621,930 620,930 618,930 597,941 530,941 508,928 506,928 463,928 461,928 459,928 458,928 443,938 445,973" />
+      <Word id="l_0014-w_0001" text="Feigen⸗," error_score="0.042" />
+      <Word id="l_0014-w_0002" text="Johannisbrot⸗" error_score="0.042" />
+      <Word id="l_0014-w_0003" text="und" error_score="0.042" />
+      <Word id="l_0014-w_0004" text="Drangenbaum" error_score="0.042" />
+      <Word id="l_0014-w_0005" text="und" error_score="0.042" />
+      <Word id="l_0014-w_0006" text="an" error_score="0.042" />
+      <Word id="l_0014-w_0007" text="einʒelnen" error_score="0.042" />
+      <Word id="l_0014-w_0008" text="Stellen" error_score="0.042" />
+      <Word id="l_0014-w_0009" text="ſoaar" error_score="0.042" />
+    </TextLine>
+    <TextLine id="l_0015" text="das Ʒuckerrohr und die Dattelpalme. An den Geſtaden des Mittelmeeres">
+      <Coords points="447,1023 447,1036 1756,1033 1758,1020 1754,991 1530,981 1528,981 1527,981 1525,981 1514,991 1394,991 1381,981 1379,981 1378,981 1376,981 1374,981 1354,989 1291,981 1290,981 1225,989 1214,981 1213,981 1211,981 1120,981 1118,981 1116,981 1097,991 972,983 971,983 903,991 876,983 874,983 873,983 871,983 844,991 807,983 806,983 804,983 802,983 791,991 782,983 780,983 778,983 777,983 705,991 682,983 681,983 679,983 620,991 592,983 591,983 589,983 588,983 567,991 538,983 536,983 535,983 475,991 459,983 458,983 456,983 455,983 453,983 445,989 447,1023" />
+      <Word id="l_0015-w_0001" text="das" error_score="0.251" />
+      <Word id="l_0015-w_0002" text="Ʒuckerrohr" error_score="0.251" />
+      <Word id="l_0015-w_0003" text="und" error_score="0.251" />
+      <Word id="l_0015-w_0004" text="die" error_score="0.251" />
+      <Word id="l_0015-w_0005" text="Dattelpalme." error_score="0.251" />
+      <Word id="l_0015-w_0006" text="An" error_score="0.251" />
+      <Word id="l_0015-w_0007" text="den" error_score="0.251" />
+      <Word id="l_0015-w_0008" text="Geſtaden" error_score="0.251" />
+      <Word id="l_0015-w_0009" text="des" error_score="0.251" />
+      <Word id="l_0015-w_0010" text="Mittelmeeres" error_score="0.251" />
+    </TextLine>
+    <TextLine id="l_0016" text="und des atlantiſchen Oceans gedeihen bei Malaga und Jeres vor⸗">
+      <Coords points="448,1074 448,1085 966,1093 967,1093 969,1093 987,1085 996,1093 998,1093 999,1093 1001,1095 1100,1095 1100,1093 1153,1084 1185,1092 1187,1092 1189,1092 1232,1084 1245,1092 1246,1092 1248,1092 1249,1092 1426,1084 1447,1092 1448,1092 1450,1092 1514,1084 1533,1092 1535,1092 1536,1093 1649,1093 1649,1092 1650,1092 1652,1092 1663,1084 1725,1092 1727,1092 1729,1092 1756,1082 1756,1071 1753,1047 1568,1047 1541,1036 1540,1036 1538,1036 1536,1036 1514,1045 1498,1036 1496,1036 1495,1036 1493,1036 1491,1036 1490,1036 1475,1047 1362,1047 1333,1036 1331,1036 1330,1036 1328,1036 1326,1036 1312,1045 1288,1036 1286,1036 1285,1036 1235,1044 1181,1036 1179,1036 1177,1036 1145,1045 1102,1036 1100,1036 1099,1036 1065,1045 1044,1037 1043,1037 1041,1037 1040,1037 1038,1037 1025,1047 964,1039 963,1039 899,1047 879,1037 878,1037 876,1037 874,1037 836,1047 788,1037 786,1037 698,1045 657,1037 655,1037 612,1047 599,1037 597,1037 596,1037 548,1037 546,1037 544,1037 543,1037 527,1047 499,1037 498,1037 496,1037 447,1049 448,1074" />
+      <Word id="l_0016-w_0001" text="und" error_score="0.141" />
+      <Word id="l_0016-w_0002" text="des" error_score="0.141" />
+      <Word id="l_0016-w_0003" text="atlantiſchen" error_score="0.141" />
+      <Word id="l_0016-w_0004" text="Oceans" error_score="0.141" />
+      <Word id="l_0016-w_0005" text="gedeihen" error_score="0.141" />
+      <Word id="l_0016-w_0006" text="bei" error_score="0.141" />
+      <Word id="l_0016-w_0007" text="Malaga" error_score="0.141" />
+      <Word id="l_0016-w_0008" text="und" error_score="0.141" />
+      <Word id="l_0016-w_0009" text="Jeres" error_score="0.141" />
+      <Word id="l_0016-w_0010" text="vor⸗" error_score="0.141" />
+    </TextLine>
+    <TextLine id="l_0017" text="ʒügliche Weine. Die Rinde der Korkeiche wird ʒu Korkplatten und">
+      <Coords points="447,1129 447,1143 769,1138 794,1146 796,1146 798,1146 860,1138 873,1146 874,1146 876,1146 878,1146 1001,1138 1099,1148 1100,1148 1365,1137 1400,1146 1402,1146 1403,1148 1403,1146 1405,1146 1439,1137 1451,1146 1453,1146 1455,1146 1456,1148 1546,1148 1546,1146 1655,1137 1738,1145 1740,1145 1741,1145 1743,1145 1756,1135 1756,1125 1754,1098 1735,1089 1733,1089 1732,1089 1730,1089 1729,1089 1716,1098 1578,1098 1562,1087 1560,1087 1559,1087 1557,1087 1556,1087 1554,1087 1543,1095 1530,1085 1528,1085 1527,1085 1525,1085 1524,1085 1485,1097 1464,1085 1463,1085 1461,1085 1459,1085 1458,1085 1448,1093 1439,1085 1437,1085 1435,1085 1261,1085 1259,1085 1258,1085 1256,1085 1240,1097 1222,1085 1221,1085 1219,1085 1161,1085 1160,1085 1158,1085 1133,1097 1107,1085 1105,1085 1104,1085 1102,1085 1100,1085 1080,1098 1009,1090 1008,1090 959,1098 945,1089 943,1089 942,1089 940,1089 939,1089 924,1097 908,1087 907,1087 905,1087 903,1087 838,1098 817,1087 815,1087 814,1087 705,1098 682,1087 681,1087 616,1087 615,1087 613,1087 588,1098 570,1087 568,1087 567,1087 477,1087 475,1087 474,1087 445,1098 447,1129" />
+      <Word id="l_0017-w_0001" text="ʒügliche" error_score="0.025" />
+      <Word id="l_0017-w_0002" text="Weine." error_score="0.025" />
+      <Word id="l_0017-w_0003" text="Die" error_score="0.025" />
+      <Word id="l_0017-w_0004" text="Rinde" error_score="0.025" />
+      <Word id="l_0017-w_0005" text="der" error_score="0.025" />
+      <Word id="l_0017-w_0006" text="Korkeiche" error_score="0.025" />
+      <Word id="l_0017-w_0007" text="wird" error_score="0.025" />
+      <Word id="l_0017-w_0008" text="ʒu" error_score="0.025" />
+      <Word id="l_0017-w_0009" text="Korkplatten" error_score="0.025" />
+      <Word id="l_0017-w_0010" text="und" error_score="0.025" />
+    </TextLine>
+    <TextLine id="l_0018" text="Stöpſeln, das faſerreiche Espartogras ʒu mancherlei Flechtwaren, ins⸗">
+      <Coords points="450,1178 450,1191 522,1201 524,1202 615,1202 615,1201 616,1201 618,1201 629,1193 717,1193 729,1201 730,1201 732,1201 733,1202 887,1202 887,1201 889,1201 907,1193 972,1201 974,1201 1142,1193 1166,1201 1168,1201 1169,1201 1213,1193 1645,1201 1647,1201 1649,1201 1650,1201 1661,1193 1756,1193 1756,1178 1756,1153 1687,1141 1685,1141 1684,1141 1665,1151 1516,1141 1514,1141 1512,1141 1485,1149 1437,1141 1435,1141 1434,1141 1432,1141 1421,1151 1410,1141 1408,1141 1407,1141 1405,1141 1350,1149 1318,1141 1317,1141 1315,1141 1314,1141 1293,1153 1065,1153 1038,1143 1036,1143 1035,1143 993,1151 958,1141 956,1141 955,1141 953,1141 918,1151 884,1141 883,1141 881,1141 831,1151 782,1141 737,1141 735,1141 733,1141 732,1141 719,1151 698,1143 697,1143 695,1143 693,1143 671,1151 660,1141 658,1141 657,1141 655,1141 653,1141 634,1151 584,1141 463,1141 461,1141 459,1141 458,1141 450,1146 450,1178" />
+      <Word id="l_0018-w_0001" text="Stöpſeln," error_score="0.024" />
+      <Word id="l_0018-w_0002" text="das" error_score="0.024" />
+      <Word id="l_0018-w_0003" text="faſerreiche" error_score="0.024" />
+      <Word id="l_0018-w_0004" text="Espartogras" error_score="0.024" />
+      <Word id="l_0018-w_0005" text="ʒu" error_score="0.024" />
+      <Word id="l_0018-w_0006" text="mancherlei" error_score="0.024" />
+      <Word id="l_0018-w_0007" text="Flechtwaren," error_score="0.024" />
+      <Word id="l_0018-w_0008" text="ins⸗" error_score="0.024" />
+    </TextLine>
+    <TextLine id="l_0019" text="beſondere ʒu Tauen und ʒur Papierfabrication verwendet.">
+      <Coords points="448,1228 447,1239 485,1249 487,1249 697,1242 838,1250 839,1250 1517,1244 1519,1233 1519,1206 1493,1194 1491,1194 1490,1194 1488,1194 1472,1202 1450,1194 1448,1194 1447,1194 1445,1194 1424,1206 1278,1206 1245,1194 1243,1194 1241,1194 1240,1194 1214,1204 1161,1193 1160,1193 1102,1202 1051,1193 1049,1193 806,1202 714,1191 713,1191 711,1191 689,1202 567,1202 552,1193 551,1193 549,1193 548,1193 546,1193 516,1201 499,1191 498,1191 496,1191 495,1191 493,1191 491,1191 480,1201 463,1191 461,1191 459,1191 458,1191 456,1191 448,1196 448,1228" />
+      <Word id="l_0019-w_0001" text="beſondere" error_score="0.024" />
+      <Word id="l_0019-w_0002" text="ʒu" error_score="0.024" />
+      <Word id="l_0019-w_0003" text="Tauen" error_score="0.024" />
+      <Word id="l_0019-w_0004" text="und" error_score="0.025" />
+      <Word id="l_0019-w_0005" text="ʒur" error_score="0.025" />
+      <Word id="l_0019-w_0006" text="Papierfabrication" error_score="0.025" />
+      <Word id="l_0019-w_0007" text="verwendet." error_score="0.025" />
+    </TextLine>
+    <TextLine id="l_0020" text="An Bergbauproducten liefert Spanien hauptſächlich Queckſilber in">
+      <Coords points="552,1281 551,1294 647,1303 649,1303 1759,1297 1761,1284 1761,1255 1730,1247 1729,1247 1727,1247 1725,1247 1703,1255 1658,1247 1591,1247 1589,1247 1588,1247 1586,1247 1576,1255 1533,1247 1532,1247 1530,1247 1496,1255 1480,1247 1479,1247 1477,1247 1320,1255 1195,1247 1193,1247 1192,1247 1165,1255 1133,1246 1131,1246 1129,1246 1089,1254 1070,1246 1068,1246 1067,1246 1065,1246 1044,1254 1032,1246 1030,1246 1028,1246 1027,1246 963,1254 903,1246 902,1246 900,1246 899,1246 887,1254 846,1246 844,1246 842,1246 841,1246 826,1255 748,1255 737,1246 735,1246 733,1246 732,1246 730,1246 703,1254 660,1246 658,1246 552,1250 552,1281" />
+      <Word id="l_0020-w_0001" text="An" error_score="0.025" />
+      <Word id="l_0020-w_0002" text="Bergbauproducten" error_score="0.025" />
+      <Word id="l_0020-w_0003" text="liefert" error_score="0.025" />
+      <Word id="l_0020-w_0004" text="Spanien" error_score="0.025" />
+      <Word id="l_0020-w_0005" text="hauptſächlich" error_score="0.025" />
+      <Word id="l_0020-w_0006" text="Queckſilber" error_score="0.025" />
+      <Word id="l_0020-w_0007" text="in" error_score="0.903" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0021" text="Almaden, Eiſen bei Pamplona und Kupfer bei Palos; viel Erʒ">
+      <Coords points="450,1335 448,1345 459,1353 461,1353 463,1353 464,1355 1759,1355 1761,1338 1761,1308 1724,1298 1722,1298 1721,1298 1682,1306 1629,1298 1628,1298 1626,1298 1604,1308 1516,1298 1514,1298 1512,1298 1477,1308 1464,1298 1463,1298 1461,1298 1459,1298 1421,1306 1371,1298 1370,1298 1368,1298 1366,1298 1350,1308 1312,1298 1310,1298 1309,1298 1262,1306 1233,1298 1232,1298 1230,1298 1229,1298 1227,1298 1216,1308 1190,1298 1189,1298 1187,1298 1185,1298 1184,1298 1168,1308 1049,1308 1022,1297 1020,1297 1019,1297 972,1308 916,1308 903,1297 902,1297 900,1297 899,1297 897,1297 862,1305 806,1297 804,1297 802,1297 801,1297 790,1306 745,1297 700,1297 698,1297 697,1297 695,1297 681,1308 605,1308 591,1297 589,1297 588,1297 586,1297 584,1297 583,1297 565,1308 524,1308 511,1297 509,1297 508,1297 506,1297 450,1302 450,1335" />
+      <Word id="l_0021-w_0001" text="Almaden," error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0002" text="Eiſen" error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0003" text="bei" error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0004" text="Pamplona" error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0005" text="und" error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0006" text="Kupfer" error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0007" text="bei" error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0008" text="Palos;" error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0009" text="viel" error_score="0.903" error_type="error" />
+      <Word id="l_0021-w_0010" text="Erʒ" error_score="0.964" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0022" text="geht unverhüttet ins Ausland.">
+      <Coords points="448,1390 448,1403 1008,1399 1009,1387 1006,1358 881,1358 852,1347 850,1347 849,1347 847,1347 846,1347 834,1358 786,1358 775,1347 774,1347 772,1347 770,1347 769,1347 767,1347 767,1348 758,1358 589,1358 576,1347 576,1345 575,1345 573,1345 572,1345 447,1345 448,1390" />
+      <Word id="l_0022-w_0001" text="geht" error_score="0.964" error_type="error" />
+      <Word id="l_0022-w_0002" text="unverhüttet" error_score="0.964" error_type="error" />
+      <Word id="l_0022-w_0003" text="ins" error_score="0.964" error_type="error" />
+      <Word id="l_0022-w_0004" text="Ausland." error_score="0.964" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0023" text="II. Cl.">
+      <Coords points="346,1407 347,1441 347,1449 469,1447 471,1438 467,1414 411,1403 410,1403 408,1403 386,1414 355,1403 346,1407" />
+      <Word id="l_0023-w_0001" text="II." error_score="0.964" error_type="error" />
+      <Word id="l_0023-w_0002" text="Cl." error_score="0.964" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0024" text="Die ſpaniſche Sprache iſt eine Tochter der lateiniſchen; ſie iſt jedoch vielfach mit">
+      <Coords points="1759,1409 1743,1403 1741,1403 1740,1403 1738,1403 1722,1411 1682,1403 1681,1403 1679,1403 1677,1403 1665,1411 1649,1403 1647,1403 1645,1403 1584,1411 1565,1403 1564,1403 1562,1403 1560,1403 1559,1403 1546,1411 1440,1403 1439,1403 1437,1403 1416,1411 1395,1403 1394,1403 1392,1403 1318,1411 1248,1403 1246,1403 1245,1403 1216,1411 1205,1403 1203,1403 1201,1403 1200,1403 1198,1403 1197,1403 1185,1412 1102,1412 1073,1403 1072,1403 1070,1403 1068,1403 1051,1411 1022,1403 1020,1403 1019,1403 974,1411 963,1403 961,1403 959,1403 958,1403 956,1403 929,1411 902,1403 900,1403 899,1403 897,1403 876,1411 855,1403 854,1403 852,1403 809,1411 774,1403 772,1403 770,1403 769,1403 745,1411 692,1403 690,1403 689,1403 655,1411 634,1403 633,1403 631,1403 629,1403 610,1411 564,1403 562,1403 560,1403 546,1409 546,1436 546,1449 1764,1449 1764,1436 1764,1428 1759,1409" />
+      <Word id="l_0024-w_0001" text="Die" error_score="0.964" error_type="error" />
+      <Word id="l_0024-w_0002" text="ſpaniſche" error_score="0.964" error_type="error" />
+      <Word id="l_0024-w_0003" text="Sprache" error_score="0.964" error_type="error" />
+      <Word id="l_0024-w_0004" text="iſt" error_score="0.020" />
+      <Word id="l_0024-w_0005" text="eine" error_score="0.020" />
+      <Word id="l_0024-w_0006" text="Tochter" error_score="0.020" />
+      <Word id="l_0024-w_0007" text="der" error_score="0.020" />
+      <Word id="l_0024-w_0008" text="lateiniſchen;" error_score="0.020" />
+      <Word id="l_0024-w_0009" text="ſie" error_score="0.020" />
+      <Word id="l_0024-w_0010" text="iſt" error_score="0.020" />
+      <Word id="l_0024-w_0011" text="jedoch" error_score="0.020" />
+      <Word id="l_0024-w_0012" text="vielfach" error_score="0.020" />
+      <Word id="l_0024-w_0013" text="mit" error_score="0.020" />
+    </TextLine>
+    <TextLine id="l_0025" text="arabiſchen und auch mit germaniſchen Wörtern untermiſcht. Herrſchende Religion iſt die">
+      <Coords points="450,1479 450,1494 1762,1494 1762,1479 1762,1457 450,1457 450,1479" />
+      <Word id="l_0025-w_0001" text="arabiſchen" error_score="0.008" />
+      <Word id="l_0025-w_0002" text="und" error_score="0.008" />
+      <Word id="l_0025-w_0003" text="auch" error_score="0.008" />
+      <Word id="l_0025-w_0004" text="mit" error_score="0.008" />
+      <Word id="l_0025-w_0005" text="germaniſchen" error_score="0.008" />
+      <Word id="l_0025-w_0006" text="Wörtern" error_score="0.008" />
+      <Word id="l_0025-w_0007" text="untermiſcht." error_score="0.008" />
+      <Word id="l_0025-w_0008" text="Herrſchende" error_score="0.008" />
+      <Word id="l_0025-w_0009" text="Religion" error_score="0.008" />
+      <Word id="l_0025-w_0010" text="iſt" error_score="0.008" />
+      <Word id="l_0025-w_0011" text="die" error_score="0.114" />
+    </TextLine>
+    <TextLine id="l_0026" text="katholiſche.">
+      <Coords points="450,1523 450,1537 613,1537 613,1523 613,1497 450,1497 450,1523" />
+      <Word id="l_0026-w_0001" text="katholiſche." error_score="0.114" />
+    </TextLine>
+    <TextLine id="l_0027" text="Städte im Jnnern: Mndrid, Haupt⸗ und Reſidenʒſtadt, liegt auf einer">
+      <Coords points="554,1568 554,1579 1086,1587 1088,1587 1089,1587 1112,1579 1131,1587 1133,1587 1134,1587 1214,1577 1355,1585 1357,1587 1504,1587 1504,1585 1506,1585 1508,1585 1517,1577 1533,1585 1535,1585 1536,1585 1600,1577 1663,1585 1665,1585 1666,1585 1668,1585 1681,1577 1746,1585 1748,1585 1749,1585 1751,1585 1764,1576 1764,1564 1761,1542 562,1535 560,1535 559,1535 557,1535 557,1537 552,1540 554,1568" />
+      <Word id="l_0027-w_0001" text="Städte" error_score="0.114" />
+      <Word id="l_0027-w_0002" text="im" error_score="0.114" />
+      <Word id="l_0027-w_0003" text="Jnnern:" error_score="0.114" />
+      <Word id="l_0027-w_0004" text="Mndrid," error_score="0.114" />
+      <Word id="l_0027-w_0005" text="Haupt⸗" error_score="0.114" />
+      <Word id="l_0027-w_0006" text="und" error_score="0.114" />
+      <Word id="l_0027-w_0007" text="Reſidenʒſtadt," error_score="0.114" />
+      <Word id="l_0027-w_0008" text="liegt" error_score="0.114" />
+      <Word id="l_0027-w_0009" text="auf" error_score="0.068" />
+      <Word id="l_0027-w_0010" text="einer" error_score="0.068" />
+    </TextLine>
+    <TextLine id="l_0028" text="dürren Hochebene am Flüſschen Manʒanares, das im Sommer meiſt gänʒlich austrocknet">
+      <Coords points="451,1609 450,1620 1756,1628 1759,1612 1758,1587 451,1582 451,1609" />
+      <Word id="l_0028-w_0001" text="dürren" error_score="0.068" />
+      <Word id="l_0028-w_0002" text="Hochebene" error_score="0.068" />
+      <Word id="l_0028-w_0003" text="am" error_score="0.068" />
+      <Word id="l_0028-w_0004" text="Flüſschen" error_score="0.068" />
+      <Word id="l_0028-w_0005" text="Manʒanares," error_score="0.068" />
+      <Word id="l_0028-w_0006" text="das" error_score="0.068" />
+      <Word id="l_0028-w_0007" text="im" error_score="0.068" />
+      <Word id="l_0028-w_0008" text="Sommer" error_score="0.068" />
+      <Word id="l_0028-w_0009" text="meiſt" error_score="0.116" />
+      <Word id="l_0028-w_0010" text="gänʒlich" error_score="0.116" />
+      <Word id="l_0028-w_0011" text="austrocknet" error_score="0.116" />
+    </TextLine>
+    <TextLine id="l_0029" text="Die Stadt hat eine vorʒügliche Waſſerleitung. — Südlich davon liegen am Tajo das">
+      <Coords points="451,1654 451,1667 1762,1667 1762,1654 1762,1630 451,1630 451,1654" />
+      <Word id="l_0029-w_0001" text="Die" error_score="0.116" />
+      <Word id="l_0029-w_0002" text="Stadt" error_score="0.116" />
+      <Word id="l_0029-w_0003" text="hat" error_score="0.116" />
+      <Word id="l_0029-w_0004" text="eine" error_score="0.116" />
+      <Word id="l_0029-w_0005" text="vorʒügliche" error_score="0.116" />
+      <Word id="l_0029-w_0006" text="Waſſerleitung." error_score="0.116" />
+      <Word id="l_0029-w_0007" text="—" error_score="0.116" />
+      <Word id="l_0029-w_0008" text="Südlich" error_score="0.221" />
+      <Word id="l_0029-w_0009" text="davon" error_score="0.221" />
+      <Word id="l_0029-w_0010" text="liegen" error_score="0.221" />
+      <Word id="l_0029-w_0011" text="am" error_score="0.221" />
+      <Word id="l_0029-w_0012" text="Tajo" error_score="0.221" />
+      <Word id="l_0029-w_0013" text="das" error_score="0.221" />
+    </TextLine>
+    <TextLine id="l_0030" text="königliche Luſtſchloſs Araniueʒ (ſpr. aranchueß) mit prachtvollen Gärten und auf einem">
+      <Coords points="451,1696 450,1707 1759,1710 1762,1699 1762,1675 451,1672 451,1696" />
+      <Word id="l_0030-w_0001" text="königliche" error_score="0.221" />
+      <Word id="l_0030-w_0002" text="Luſtſchloſs" error_score="0.221" />
+      <Word id="l_0030-w_0003" text="Araniueʒ" error_score="0.221" />
+      <Word id="l_0030-w_0004" text="(ſpr." error_score="0.221" />
+      <Word id="l_0030-w_0005" text="aranchueß)" error_score="0.199" />
+      <Word id="l_0030-w_0006" text="mit" error_score="0.199" />
+      <Word id="l_0030-w_0007" text="prachtvollen" error_score="0.199" />
+      <Word id="l_0030-w_0008" text="Gärten" error_score="0.199" />
+      <Word id="l_0030-w_0009" text="und" error_score="0.199" />
+      <Word id="l_0030-w_0010" text="auf" error_score="0.199" />
+      <Word id="l_0030-w_0011" text="einem" error_score="0.199" />
+    </TextLine>
+    <TextLine id="l_0031" text="ſteilen Felſen die ehemalige Reſidenʒ Toleda. . Südlich Almaden, reichſtes Queck⸗">
+      <Coords points="451,1741 451,1757 1761,1755 1762,1744 1762,1718 451,1715 451,1741" />
+      <Word id="l_0031-w_0001" text="ſteilen" error_score="0.199" />
+      <Word id="l_0031-w_0002" text="Felſen" error_score="0.199" />
+      <Word id="l_0031-w_0003" text="die" error_score="0.199" />
+      <Word id="l_0031-w_0004" text="ehemalige" error_score="0.184" />
+      <Word id="l_0031-w_0005" text="Reſidenʒ" error_score="0.184" />
+      <Word id="l_0031-w_0006" text="Toleda." error_score="0.184" />
+      <Word id="l_0031-w_0007" text="." error_score="0.184" />
+      <Word id="l_0031-w_0008" text="Südlich" error_score="0.184" />
+      <Word id="l_0031-w_0009" text="Almaden," error_score="0.184" />
+      <Word id="l_0031-w_0010" text="reichſtes" error_score="0.184" />
+      <Word id="l_0031-w_0011" text="Queck⸗" error_score="0.184" />
+    </TextLine>
+    <TextLine id="l_0032" text="ſilberbergwerk Europas. Granada, ‟) in reichbewäſſerter Ebene am Fuße der Sierra">
+      <Coords points="451,1787 451,1798 1764,1797 1764,1787 1764,1763 451,1763 451,1787" />
+      <Word id="l_0032-w_0001" text="ſilberbergwerk" error_score="0.184" />
+      <Word id="l_0032-w_0002" text="Europas." error_score="0.184" />
+      <Word id="l_0032-w_0003" text="Granada," error_score="0.184" />
+      <Word id="l_0032-w_0004" text="‟)" error_score="0.060" />
+      <Word id="l_0032-w_0005" text="in" error_score="0.060" />
+      <Word id="l_0032-w_0006" text="reichbewäſſerter" error_score="0.060" />
+      <Word id="l_0032-w_0007" text="Ebene" error_score="0.060" />
+      <Word id="l_0032-w_0008" text="am" error_score="0.060" />
+      <Word id="l_0032-w_0009" text="Fuße" error_score="0.060" />
+      <Word id="l_0032-w_0010" text="der" error_score="0.060" />
+      <Word id="l_0032-w_0011" text="Sierra" error_score="0.060" />
+    </TextLine>
+    <TextLine id="l_0033" text="Nevada, mit Spuren ſeiner alten Pracht aus der Maurenʒeit. Ʒaragoʒa‟) (ſpr. ßara⸗">
+      <Coords points="453,1830 453,1843 1762,1843 1762,1830 1762,1806 453,1805 453,1830" />
+      <Word id="l_0033-w_0001" text="Nevada," error_score="0.060" />
+      <Word id="l_0033-w_0002" text="mit" error_score="0.060" />
+      <Word id="l_0033-w_0003" text="Spuren" error_score="0.097" />
+      <Word id="l_0033-w_0004" text="ſeiner" error_score="0.097" />
+      <Word id="l_0033-w_0005" text="alten" error_score="0.097" />
+      <Word id="l_0033-w_0006" text="Pracht" error_score="0.097" />
+      <Word id="l_0033-w_0007" text="aus" error_score="0.097" />
+      <Word id="l_0033-w_0008" text="der" error_score="0.097" />
+      <Word id="l_0033-w_0009" text="Maurenʒeit." error_score="0.097" />
+      <Word id="l_0033-w_0010" text="Ʒaragoʒa‟)" error_score="0.097" />
+      <Word id="l_0033-w_0011" text="(ſpr." error_score="0.097" />
+      <Word id="l_0033-w_0012" text="ßara⸗" error_score="0.097" />
+    </TextLine>
+    <TextLine id="l_0034" text="goßa), Feſtung am Ebro.">
+      <Coords points="453,1873 453,1888 825,1886 826,1870 823,1848 491,1841 490,1841 451,1849 453,1873" />
+      <Word id="l_0034-w_0001" text="goßa)," error_score="0.097" />
+      <Word id="l_0034-w_0002" text="Feſtung" error_score="0.104" />
+      <Word id="l_0034-w_0003" text="am" error_score="0.104" />
+      <Word id="l_0034-w_0004" text="Ebro." error_score="0.104" />
+    </TextLine>
+    <TextLine id="l_0035" text="Städte im Küſtengebiete: Barcelona, wichtigſte Hafenſtadt am mittel⸗">
+      <Coords points="559,1915 557,1925 573,1934 575,1934 576,1934 1764,1928 1766,1918 1766,1893 1745,1885 1743,1885 1741,1885 1658,1893 1298,1885 1296,1885 1214,1893 1096,1883 1094,1883 1092,1883 1072,1891 971,1883 969,1883 921,1891 830,1883 828,1883 775,1891 721,1883 719,1883 717,1883 716,1883 703,1891 642,1883 641,1883 559,1889 559,1915" />
+      <Word id="l_0035-w_0001" text="Städte" error_score="0.104" />
+      <Word id="l_0035-w_0002" text="im" error_score="0.104" />
+      <Word id="l_0035-w_0003" text="Küſtengebiete:" error_score="0.104" />
+      <Word id="l_0035-w_0004" text="Barcelona," error_score="0.104" />
+      <Word id="l_0035-w_0005" text="wichtigſte" error_score="0.104" />
+      <Word id="l_0035-w_0006" text="Hafenſtadt" error_score="0.104" />
+      <Word id="l_0035-w_0007" text="am" error_score="0.104" />
+      <Word id="l_0035-w_0008" text="mittel⸗" error_score="0.951" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0036" text="ländiſchen Meere; Valoncin, in einer paradieſiſchen Ebene; Maluga, am mittelländiſchen">
+      <Coords points="1758,1936 453,1934 453,1958 451,1971 1762,1974 1766,1962 1764,1957 1758,1936" />
+      <Word id="l_0036-w_0001" text="ländiſchen" error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0002" text="Meere;" error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0003" text="Valoncin," error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0004" text="in" error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0005" text="einer" error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0006" text="paradieſiſchen" error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0007" text="Ebene;" error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0008" text="Maluga," error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0009" text="am" error_score="0.951" error_type="error" />
+      <Word id="l_0036-w_0010" text="mittelländiſchen" error_score="0.951" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0037" text="Meere; Cadiʒ (ſpr kadis), Handels⸗ und Kriegshafen am allankiſchen Ocean; Sevilla">
+      <Coords points="455,2003 453,2014 1762,2018 1766,2006 1766,1981 1735,1971 1733,1971 1732,1971 1564,1979 1530,1971 1528,1971 1527,1971 1525,1971 1503,1979 1485,1971 1483,1971 1317,1971 1315,1971 1243,1979 1195,1971 1193,1971 1155,1979 1144,1971 1142,1971 1141,1971 1139,1971 1137,1971 1136,1971 1124,1979 1112,1970 1110,1970 1108,1970 1107,1970 1105,1970 1104,1970 1091,1978 979,1970 977,1970 975,1970 974,1970 961,1978 897,1970 895,1970 894,1970 878,1978 841,1970 839,1970 762,1978 660,1970 658,1970 455,1976 455,2003" />
+      <Word id="l_0037-w_0001" text="Meere;" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0002" text="Cadiʒ" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0003" text="(ſpr" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0004" text="kadis)," error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0005" text="Handels⸗" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0006" text="und" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0007" text="Kriegshafen" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0008" text="am" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0009" text="allankiſchen" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0010" text="Ocean;" error_score="0.998" error_type="error" />
+      <Word id="l_0037-w_0011" text="Sevilla" error_score="0.930" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0038" text="(ſpr. ſevilja) am ſchiffbaren Guadalquivir.">
+      <Coords points="453,2046 451,2059 1076,2062 1080,2050 1078,2026 969,2016 967,2016 966,2016 948,2024 935,2016 934,2016 932,2016 931,2016 929,2016 905,2024 879,2016 878,2016 876,2016 874,2016 873,2016 863,2026 804,2026 767,2014 766,2014 764,2014 703,2024 642,2024 634,2016 634,2014 633,2014 631,2014 629,2014 453,2021 453,2046" />
+      <Word id="l_0038-w_0001" text="(ſpr." error_score="0.930" error_type="error" />
+      <Word id="l_0038-w_0002" text="ſevilja)" error_score="0.930" error_type="error" />
+      <Word id="l_0038-w_0003" text="am" error_score="0.930" error_type="error" />
+      <Word id="l_0038-w_0004" text="ſchiffbaren" error_score="0.930" error_type="error" />
+      <Word id="l_0038-w_0005" text="Guadalquivir." error_score="0.930" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0039" text="II. u.">
+      <Coords points="355,2107 355,2109 354,2109 352,2110 354,2141 354,2147 394,2157 395,2157 472,2144 472,2138 467,2117 395,2117 362,2107 360,2107 358,2107 357,2107 355,2107 355,2107" />
+      <Word id="l_0039-w_0001" text="II." error_score="0.930" error_type="error" />
+      <Word id="l_0039-w_0002" text="u." error_score="0.930" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0040" text="Ʒu Spanien gehören die Lalenren im mittelländiſchen Meere.">
+      <Coords points="560,2093 560,2107 1331,2115 1333,2115 1491,2106 1491,2093 1491,2069 560,2069 560,2093" />
+      <Word id="l_0040-w_0001" text="Ʒu" error_score="0.930" error_type="error" />
+      <Word id="l_0040-w_0002" text="Spanien" error_score="0.930" error_type="error" />
+      <Word id="l_0040-w_0003" text="gehören" error_score="1.000" error_type="error" />
+      <Word id="l_0040-w_0004" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0040-w_0005" text="Lalenren" error_score="1.000" error_type="error" />
+      <Word id="l_0040-w_0006" text="im" error_score="1.000" error_type="error" />
+      <Word id="l_0040-w_0007" text="mittelländiſchen" error_score="1.000" error_type="error" />
+      <Word id="l_0040-w_0008" text="Meere." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0041" text="Auswärtige Beſitʒungen. Jn Afrika: an der nordafrikaniſchen Küſte Ceuta">
+      <Coords points="551,2138 551,2151 1769,2151 1769,2138 1769,2114 1679,2104 1677,2104 1676,2104 1650,2112 1623,2104 1621,2104 1620,2104 1559,2112 1397,2104 1395,2104 1394,2104 1376,2112 1366,2104 1365,2104 1363,2104 1362,2104 1360,2104 1342,2114 1163,2114 1115,2104 1113,2104 905,2112 782,2104 780,2104 778,2104 753,2112 570,2104 568,2104 567,2104 551,2112 551,2138" />
+      <Word id="l_0041-w_0001" text="Auswärtige" error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0002" text="Beſitʒungen." error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0003" text="Jn" error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0004" text="Afrika:" error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0005" text="an" error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0006" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0007" text="nordafrikaniſchen" error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0008" text="Küſte" error_score="1.000" error_type="error" />
+      <Word id="l_0041-w_0009" text="Ceuta" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0042" text="III. Cl. (ſpr. ße⸗uta), gegenüber der den Engländern gehörenden Stadt Gibraltar; ferner die">
+      <Coords points="344,2184 344,2195 1769,2191 1769,2179 1766,2155 1415,2146 1413,2146 1411,2146 1389,2154 1365,2146 1363,2146 1362,2146 1360,2146 1344,2154 1314,2146 1312,2146 1310,2146 1309,2146 1290,2155 1009,2147 1008,2147 1006,2147 985,2155 953,2147 951,2147 950,2147 910,2155 887,2147 886,2147 884,2147 883,2147 866,2155 826,2147 825,2147 823,2147 822,2147 810,2157 778,2149 777,2149 775,2149 650,2157 637,2149 636,2149 634,2149 538,2149 536,2149 535,2149 533,2149 520,2157 418,2149 416,2149 415,2149 397,2157 354,2149 352,2149 350,2149 349,2149 342,2154 344,2184" />
+      <Word id="l_0042-w_0001" text="III." error_score="1.000" error_type="error" />
+      <Word id="l_0042-w_0002" text="Cl." error_score="1.000" error_type="error" />
+      <Word id="l_0042-w_0003" text="(ſpr." error_score="1.000" error_type="error" />
+      <Word id="l_0042-w_0004" text="ße⸗uta)," error_score="1.000" error_type="error" />
+      <Word id="l_0042-w_0005" text="gegenüber" error_score="1.000" error_type="error" />
+      <Word id="l_0042-w_0006" text="der" error_score="0.972" error_type="error" />
+      <Word id="l_0042-w_0007" text="den" error_score="0.972" error_type="error" />
+      <Word id="l_0042-w_0008" text="Engländern" error_score="0.972" error_type="error" />
+      <Word id="l_0042-w_0009" text="gehörenden" error_score="0.972" error_type="error" />
+      <Word id="l_0042-w_0010" text="Stadt" error_score="0.972" error_type="error" />
+      <Word id="l_0042-w_0011" text="Gibraltar;" error_score="0.972" error_type="error" />
+      <Word id="l_0042-w_0012" text="ferner" error_score="0.972" error_type="error" />
+      <Word id="l_0042-w_0013" text="die" error_score="0.972" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0043" text="canariſchen Jnſeln und einige minder wichtige Jnſeln im Guinea⸗Golfe. — Jn">
+      <Coords points="456,2221 455,2234 464,2240 466,2240 467,2240 469,2240 676,2234 788,2242 790,2242 1769,2237 1770,2227 1770,2203 1741,2194 1740,2194 1738,2194 1645,2202 1568,2194 1567,2194 1565,2194 1564,2194 1551,2202 1394,2192 1392,2192 1391,2192 1371,2200 1342,2192 1341,2192 1339,2192 1232,2200 1165,2192 1163,2192 1116,2200 1076,2191 1075,2191 1073,2191 796,2199 780,2189 778,2189 777,2189 775,2189 774,2189 772,2189 762,2197 746,2189 745,2189 743,2189 456,2195 456,2221" />
+      <Word id="l_0043-w_0001" text="canariſchen" error_score="0.972" error_type="error" />
+      <Word id="l_0043-w_0002" text="Jnſeln" error_score="0.972" error_type="error" />
+      <Word id="l_0043-w_0003" text="und" error_score="0.999" error_type="error" />
+      <Word id="l_0043-w_0004" text="einige" error_score="0.999" error_type="error" />
+      <Word id="l_0043-w_0005" text="minder" error_score="0.999" error_type="error" />
+      <Word id="l_0043-w_0006" text="wichtige" error_score="0.999" error_type="error" />
+      <Word id="l_0043-w_0007" text="Jnſeln" error_score="0.999" error_type="error" />
+      <Word id="l_0043-w_0008" text="im" error_score="0.999" error_type="error" />
+      <Word id="l_0043-w_0009" text="Guinea⸗Golfe." error_score="0.999" error_type="error" />
+      <Word id="l_0043-w_0010" text="—" error_score="0.999" error_type="error" />
+      <Word id="l_0043-w_0011" text="Jn" error_score="0.999" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0044" text="Amerika: die beiden Jnſeln Cuba und Portorico. — Jn Aſten: die Philip⸗">
+      <Coords points="456,2266 456,2282 1766,2282 1767,2271 1766,2247 1727,2237 1725,2237 1612,2245 1570,2237 1568,2237 1567,2237 1544,2245 1450,2237 1448,2237 1447,2237 1418,2245 1386,2237 1384,2237 1383,2237 1330,2245 1241,2235 1240,2235 1238,2235 1222,2243 1110,2235 1108,2235 1107,2235 1105,2235 1094,2245 947,2245 919,2235 918,2235 916,2235 915,2235 894,2243 878,2234 876,2234 874,2234 873,2234 796,2242 741,2234 740,2234 687,2242 666,2234 665,2234 663,2234 661,2234 633,2242 568,2234 567,2234 456,2240 456,2266" />
+      <Word id="l_0044-w_0001" text="Amerika:" error_score="0.999" error_type="error" />
+      <Word id="l_0044-w_0002" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0003" text="beiden" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0004" text="Jnſeln" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0005" text="Cuba" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0006" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0007" text="Portorico." error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0008" text="—" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0009" text="Jn" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0010" text="Aſten:" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0011" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0012" text="Philip⸗" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0045" text="pinen. — Jn Auſtralien: die Carolinen⸗, Palau⸗ unb Marianen⸗Juſeln.">
+      <Coords points="456,2311 456,2325 1766,2325 1767,2314 1766,2290 1727,2280 1725,2280 1540,2288 1508,2280 1506,2280 1504,2280 1503,2280 1480,2288 1391,2280 1389,2280 1387,2280 1370,2290 1238,2290 1211,2280 1209,2280 1208,2280 1206,2280 1205,2280 1193,2290 1113,2290 1086,2279 1084,2279 1083,2279 1081,2279 1052,2287 990,2279 988,2279 987,2279 963,2287 937,2279 935,2279 934,2279 932,2279 903,2287 838,2279 836,2279 456,2285 456,2311" />
+      <Word id="l_0045-w_0001" text="pinen." error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0002" text="—" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0003" text="Jn" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0004" text="Auſtralien:" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0005" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0006" text="Carolinen⸗," error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0007" text="Palau⸗" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0008" text="unb" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0009" text="Marianen⸗Juſeln." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0046" text="Die Republik Andorra in den Pyrenäen mit der Hauptſtadt Andorra ſteht">
+      <Coords points="557,2357 557,2370 1769,2370 1769,2357 1769,2333 1562,2333 1548,2324 1546,2324 1544,2324 1543,2324 1541,2324 1512,2332 1455,2324 1453,2324 1399,2332 1374,2324 1373,2324 1371,2324 1370,2324 1350,2332 1261,2324 1259,2324 1258,2324 1256,2324 1243,2333 1107,2333 1089,2324 1088,2324 1086,2324 1084,2324 1062,2332 961,2324 959,2324 958,2324 956,2324 943,2333 863,2333 852,2324 850,2324 849,2324 847,2324 557,2330 557,2357" />
+      <Word id="l_0046-w_0001" text="Die" error_score="1.000" error_type="error" />
+      <Word id="l_0046-w_0002" text="Republik" error_score="0.271" />
+      <Word id="l_0046-w_0003" text="Andorra" error_score="0.271" />
+      <Word id="l_0046-w_0004" text="in" error_score="0.271" />
+      <Word id="l_0046-w_0005" text="den" error_score="0.271" />
+      <Word id="l_0046-w_0006" text="Pyrenäen" error_score="0.271" />
+      <Word id="l_0046-w_0007" text="mit" error_score="0.271" />
+      <Word id="l_0046-w_0008" text="der" error_score="0.271" />
+      <Word id="l_0046-w_0009" text="Hauptſtadt" error_score="0.271" />
+      <Word id="l_0046-w_0010" text="Andorra" error_score="0.271" />
+      <Word id="l_0046-w_0011" text="ſteht" error_score="0.271" />
+    </TextLine>
+    <TextLine id="l_0047" text="unter ſpaniſchem und franʒöſiſchem Schutʒe.">
+      <Coords points="456,2397 455,2408 501,2418 503,2418 778,2413 887,2421 889,2421 1102,2413 1104,2402 1102,2378 987,2368 985,2368 937,2376 887,2367 886,2367 456,2372 456,2397" />
+      <Word id="l_0047-w_0001" text="unter" error_score="0.048" />
+      <Word id="l_0047-w_0002" text="ſpaniſchem" error_score="0.048" />
+      <Word id="l_0047-w_0003" text="und" error_score="0.048" />
+      <Word id="l_0047-w_0004" text="franʒöſiſchem" error_score="0.048" />
+      <Word id="l_0047-w_0005" text="Schutʒe." error_score="0.048" />
+    </TextLine>
+    <TextLine id="l_0048" text="*) Toledo — die hohe Warte, wegen ſeiner hohen Lage. — *) Granada, Stadt">
+      <Coords points="565,2463 565,2477 572,2484 573,2484 575,2484 576,2484 578,2484 597,2476 823,2476 834,2484 836,2484 838,2484 839,2484 897,2476 995,2484 996,2484 998,2484 1017,2476 1062,2484 1064,2484 1120,2476 1131,2484 1133,2484 1134,2484 1136,2484 1219,2476 1243,2484 1245,2484 1246,2484 1325,2476 1366,2484 1368,2484 1415,2476 1650,2484 1652,2484 1653,2484 1677,2476 1740,2484 1741,2484 1743,2484 1769,2474 1769,2463 1769,2439 1740,2431 1738,2431 1737,2431 1735,2431 1733,2431 1721,2439 1705,2431 1703,2431 1701,2431 1700,2431 1673,2439 1618,2431 1616,2431 1615,2431 1613,2431 1600,2439 1540,2431 1538,2431 1536,2431 1516,2439 1496,2431 1495,2431 1493,2431 1491,2431 1466,2440 1370,2440 1355,2431 1354,2431 1352,2431 1350,2431 1349,2431 1326,2439 1285,2431 1283,2431 1230,2439 1171,2431 1169,2431 1126,2439 565,2432 565,2463" />
+      <Word id="l_0048-w_0001" text="*)" error_score="0.048" />
+      <Word id="l_0048-w_0002" text="Toledo" error_score="0.048" />
+      <Word id="l_0048-w_0003" text="—" error_score="0.048" />
+      <Word id="l_0048-w_0004" text="die" error_score="0.048" />
+      <Word id="l_0048-w_0005" text="hohe" error_score="0.048" />
+      <Word id="l_0048-w_0006" text="Warte," error_score="0.447" />
+      <Word id="l_0048-w_0007" text="wegen" error_score="0.447" />
+      <Word id="l_0048-w_0008" text="ſeiner" error_score="0.447" />
+      <Word id="l_0048-w_0009" text="hohen" error_score="0.447" />
+      <Word id="l_0048-w_0010" text="Lage." error_score="0.447" />
+      <Word id="l_0048-w_0011" text="—" error_score="0.447" />
+      <Word id="l_0048-w_0012" text="*)" error_score="0.447" />
+      <Word id="l_0048-w_0013" text="Granada," error_score="0.447" />
+      <Word id="l_0048-w_0014" text="Stadt" error_score="0.447" />
+    </TextLine>
+    <TextLine id="l_0049" text="der Granatbäume. — *) Ʒaragoʒa, aus dem römiſchen Cäſara Auguſia entſtanden.">
+      <Coords points="458,2503 456,2516 902,2527 903,2527 1676,2521 1677,2508 1676,2485 458,2480 458,2503" />
+      <Word id="l_0049-w_0001" text="der" error_score="0.447" />
+      <Word id="l_0049-w_0002" text="Granatbäume." error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0003" text="—" error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0004" text="*)" error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0005" text="Ʒaragoʒa," error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0006" text="aus" error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0007" text="dem" error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0008" text="römiſchen" error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0009" text="Cäſara" error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0010" text="Auguſia" error_score="0.534" error_type="error" />
+      <Word id="l_0049-w_0011" text="entſtanden." error_score="0.534" error_type="error" />
+    </TextLine>
+  </TextRegion>
+</Page>

@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1739047397_00000060.bin.png" imageHeight="2931" imageWidth="1767" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="794,260 1104,260 1110,297 890,324 806,311 794,260" />
+    <TextLine id="l_0001" text="Zweiter Zeitraum.">
+      <Coords points="1099,260 1083,260 1066,260 1050,260 1034,260 1017,260 1001,260 985,260 969,260 952,260 936,260 931,260 929,262 903,260 903,260 887,260 871,260 855,260 838,260 822,260 806,260 804,254 804,254 802,254 801,254 799,254 789,258 791,289 791,302 1104,299 1104,286 1102,276 1099,260" />
+      <Word id="l_0001-w_0001" text="Zweiter" error_score="1.000" error_type="error" />
+      <Word id="l_0001-w_0002" text="Zeitraum." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="327,260 382,286 369,337 416,351 877,332 1604,351 1630,2512 1151,2532 1084,2571 332,2564 306,871 306,280 327,260" />
+    <TextLine id="l_0002" text="44">
+      <Coords points="361,276 348,270 330,265 328,265 327,265 325,265 324,265 312,271 312,299 312,312 364,312 364,299 364,278 361,276" />
+      <Word id="l_0002-w_0001" text="44" error_score="0.665" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0003" text="einheimischem Namen als Slawenen oder Slowenen (— die Reden-">
+      <Coords points="1579,350 1563,350 1547,350 1530,348 1514,348 1498,348 1482,348 1465,346 1449,346 1433,346 1426,345 1133,345 1131,345 1130,345 1107,354 1050,346 1048,346 1047,346 1045,346 1034,356 859,350 858,350 856,350 817,359 775,351 773,351 771,351 770,351 755,361 602,354 600,354 599,354 597,354 586,363 508,356 506,356 504,356 503,356 488,366 415,358 413,358 412,358 410,358 397,368 338,359 337,359 335,359 309,368 311,398 311,413 1594,385 1594,376 1591,350 1579,350" />
+      <Word id="l_0003-w_0001" text="einheimischem" error_score="0.665" error_type="error" />
+      <Word id="l_0003-w_0002" text="Namen" error_score="0.665" error_type="error" />
+      <Word id="l_0003-w_0003" text="als" error_score="0.665" error_type="error" />
+      <Word id="l_0003-w_0004" text="Slawenen" error_score="0.665" error_type="error" />
+      <Word id="l_0003-w_0005" text="oder" error_score="0.665" error_type="error" />
+      <Word id="l_0003-w_0006" text="Slowenen" error_score="0.665" error_type="error" />
+      <Word id="l_0003-w_0007" text="(—" error_score="0.665" error_type="error" />
+      <Word id="l_0003-w_0008" text="die" error_score="0.665" error_type="error" />
+      <Word id="l_0003-w_0009" text="Reden-" error_score="0.665" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0004" text="den) zusammengefaßt — bis in die Zeit Karls des Großen hinein">
+      <Coords points="311,455 311,465 1594,441 1594,431 1591,403 1508,392 1506,392 1504,392 1464,403 1337,395 1335,395 1280,407 1252,397 1250,397 1249,397 1247,397 1245,397 1245,398 1234,408 1200,398 1198,398 1197,398 1195,398 1169,407 1113,400 1112,400 1110,400 1109,400 1099,408 1022,402 1021,402 1019,402 1017,402 1006,411 960,403 959,403 957,403 955,403 942,413 894,405 892,405 890,405 889,405 877,415 824,405 822,405 820,405 819,405 802,416 662,408 661,408 659,408 617,421 405,423 390,415 389,415 387,415 385,415 384,415 359,424 335,415 333,415 332,415 330,415 309,424 311,455" />
+      <Word id="l_0004-w_0001" text="den)" error_score="0.097" />
+      <Word id="l_0004-w_0002" text="zusammengefaßt" error_score="0.097" />
+      <Word id="l_0004-w_0003" text="—" error_score="0.097" />
+      <Word id="l_0004-w_0004" text="bis" error_score="0.097" />
+      <Word id="l_0004-w_0005" text="in" error_score="0.097" />
+      <Word id="l_0004-w_0006" text="die" error_score="0.097" />
+      <Word id="l_0004-w_0007" text="Zeit" error_score="0.097" />
+      <Word id="l_0004-w_0008" text="Karls" error_score="0.097" />
+      <Word id="l_0004-w_0009" text="des" error_score="0.097" />
+      <Word id="l_0004-w_0010" text="Großen" error_score="0.097" />
+      <Word id="l_0004-w_0011" text="hinein" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0005" text="westwärts ausbreiteten. Während die Südslawen durch das Drau-">
+      <Coords points="315,508 315,521 1596,498 1596,486 1592,459 1496,449 1495,449 1493,449 1470,459 1405,451 1403,451 1402,451 1400,451 1389,460 1345,452 1343,452 1172,464 1151,455 1149,455 1148,455 1048,457 1047,457 1021,465 1008,457 1006,457 1004,457 1003,457 900,468 807,460 806,460 804,460 762,470 648,464 646,464 644,464 643,464 630,472 591,465 589,465 509,475 478,467 477,467 475,467 473,467 472,467 460,475 438,467 436,467 434,467 433,467 412,477 395,468 394,468 392,468 314,478 315,508" />
+      <Word id="l_0005-w_0001" text="westwärts" error_score="0.003" />
+      <Word id="l_0005-w_0002" text="ausbreiteten." error_score="0.003" />
+      <Word id="l_0005-w_0003" text="Während" error_score="0.003" />
+      <Word id="l_0005-w_0004" text="die" error_score="0.003" />
+      <Word id="l_0005-w_0005" text="Südslawen" error_score="0.003" />
+      <Word id="l_0005-w_0006" text="durch" error_score="0.003" />
+      <Word id="l_0005-w_0007" text="das" error_score="0.003" />
+      <Word id="l_0005-w_0008" text="Drau-" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0006" text="und Sawetal in die verödeten Alpenländer eindrangen, besetzten die">
+      <Coords points="315,565 315,578 1599,553 1599,542 1596,512 1140,511 1138,511 1136,511 1135,511 1125,519 775,517 773,517 679,527 508,522 506,522 504,522 488,530 408,524 407,524 314,534 315,565" />
+      <Word id="l_0006-w_0001" text="und" error_score="0.003" />
+      <Word id="l_0006-w_0002" text="Sawetal" error_score="0.034" />
+      <Word id="l_0006-w_0003" text="in" error_score="0.034" />
+      <Word id="l_0006-w_0004" text="die" error_score="0.034" />
+      <Word id="l_0006-w_0005" text="verödeten" error_score="0.034" />
+      <Word id="l_0006-w_0006" text="Alpenländer" error_score="0.034" />
+      <Word id="l_0006-w_0007" text="eindrangen," error_score="0.034" />
+      <Word id="l_0006-w_0008" text="besetzten" error_score="0.034" />
+      <Word id="l_0006-w_0009" text="die" error_score="0.034" />
+    </TextLine>
+    <TextLine id="l_0007" text="Nordslawen, von den Deutschen als Wenden oder Winden, d. h. die">
+      <Coords points="315,618 315,630 1599,610 1599,597 1597,569 1574,560 1573,560 1571,560 1400,571 1390,563 1389,563 1387,563 1385,563 1384,563 1354,571 1301,563 1299,563 1297,563 1265,573 1213,565 1211,565 1210,565 1208,565 1197,574 1115,566 1113,566 1112,566 1110,566 1099,576 1014,568 1012,568 1011,568 1009,568 999,578 970,569 969,569 967,569 843,579 819,571 817,571 815,571 814,571 812,571 799,581 741,573 739,573 737,573 705,582 667,574 666,574 664,574 662,574 653,584 509,586 413,578 412,578 410,578 408,578 394,587 325,579 324,579 322,579 320,579 320,581 314,586 315,618" />
+      <Word id="l_0007-w_0001" text="Nordslawen," error_score="0.034" />
+      <Word id="l_0007-w_0002" text="von" error_score="0.034" />
+      <Word id="l_0007-w_0003" text="den" error_score="0.098" />
+      <Word id="l_0007-w_0004" text="Deutschen" error_score="0.098" />
+      <Word id="l_0007-w_0005" text="als" error_score="0.098" />
+      <Word id="l_0007-w_0006" text="Wenden" error_score="0.098" />
+      <Word id="l_0007-w_0007" text="oder" error_score="0.098" />
+      <Word id="l_0007-w_0008" text="Winden," error_score="0.098" />
+      <Word id="l_0007-w_0009" text="d." error_score="0.098" />
+      <Word id="l_0007-w_0010" text="h." error_score="0.098" />
+      <Word id="l_0007-w_0011" text="die" error_score="0.098" />
+    </TextLine>
+    <TextLine id="l_0008" text="Weidenden, bezeichnet, die Länder im Norden der Donau bis zur">
+      <Coords points="317,674 317,688 1597,664 1597,651 1594,623 1455,617 1454,617 1366,626 1322,618 1320,618 1319,618 1299,628 1244,620 1242,620 1240,620 1239,620 1224,630 1157,622 1156,622 1154,622 1125,631 1071,623 1069,623 1068,623 1066,623 1056,631 1008,625 1006,625 1004,625 1003,625 991,633 939,626 938,626 936,626 910,635 864,626 863,626 861,626 840,636 788,628 786,628 784,628 783,628 770,638 739,630 737,630 736,630 734,630 714,638 636,631 635,631 583,641 560,633 558,633 556,633 555,633 553,633 542,643 315,643 317,674" />
+      <Word id="l_0008-w_0001" text="Weidenden," error_score="0.098" />
+      <Word id="l_0008-w_0002" text="bezeichnet," error_score="0.004" />
+      <Word id="l_0008-w_0003" text="die" error_score="0.004" />
+      <Word id="l_0008-w_0004" text="Länder" error_score="0.004" />
+      <Word id="l_0008-w_0005" text="im" error_score="0.004" />
+      <Word id="l_0008-w_0006" text="Norden" error_score="0.004" />
+      <Word id="l_0008-w_0007" text="der" error_score="0.004" />
+      <Word id="l_0008-w_0008" text="Donau" error_score="0.004" />
+      <Word id="l_0008-w_0009" text="bis" error_score="0.004" />
+      <Word id="l_0008-w_0010" text="zur" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0009" text="Elbe und Saale, einschließlich Böhmens. In dem letzteren Lande">
+      <Coords points="315,731 315,744 1600,719 1600,708 1599,679 1565,669 1563,669 1561,669 1508,679 1488,670 1486,670 1485,670 1483,670 1482,670 1464,682 1392,682 1333,672 1332,672 1330,672 1283,683 1213,675 1211,675 1210,675 1172,685 1140,675 1138,675 1136,675 1135,675 1133,675 1133,677 1120,688 1001,688 962,679 960,679 959,679 957,679 915,690 884,680 882,680 881,680 804,690 747,683 745,683 744,683 742,683 729,693 680,683 679,683 677,683 675,683 659,695 592,685 591,685 589,685 587,685 570,696 526,687 524,687 522,687 521,687 511,695 499,687 498,687 496,687 495,687 493,687 491,687 472,698 327,690 325,690 324,690 322,690 314,695 315,731" />
+      <Word id="l_0009-w_0001" text="Elbe" error_score="0.004" />
+      <Word id="l_0009-w_0002" text="und" error_score="0.001" />
+      <Word id="l_0009-w_0003" text="Saale," error_score="0.001" />
+      <Word id="l_0009-w_0004" text="einschließlich" error_score="0.001" />
+      <Word id="l_0009-w_0005" text="Böhmens." error_score="0.001" />
+      <Word id="l_0009-w_0006" text="In" error_score="0.001" />
+      <Word id="l_0009-w_0007" text="dem" error_score="0.001" />
+      <Word id="l_0009-w_0008" text="letzteren" error_score="0.001" />
+      <Word id="l_0009-w_0009" text="Lande" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0010" text="ließen sich nach dem Abzuge der Markomannen zahlreiche kleinere">
+      <Coords points="315,786 315,796 1600,778 1600,765 1597,736 1302,731 1301,731 1299,731 1273,739 908,737 907,737 905,737 887,745 741,740 739,740 737,740 705,749 610,742 609,742 607,742 586,750 467,745 465,745 410,753 324,747 322,747 320,747 319,747 319,749 314,752 315,786" />
+      <Word id="l_0010-w_0001" text="ließen" error_score="0.001" />
+      <Word id="l_0010-w_0002" text="sich" error_score="0.001" />
+      <Word id="l_0010-w_0003" text="nach" error_score="0.001" />
+      <Word id="l_0010-w_0004" text="dem" error_score="0.001" />
+      <Word id="l_0010-w_0005" text="Abzuge" error_score="0.001" />
+      <Word id="l_0010-w_0006" text="der" error_score="0.001" />
+      <Word id="l_0010-w_0007" text="Markomannen" error_score="0.001" />
+      <Word id="l_0010-w_0008" text="zahlreiche" error_score="0.001" />
+      <Word id="l_0010-w_0009" text="kleinere" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0011" text="Völkerschaften nieder, von denen die Tschechen (um Prag) am">
+      <Coords points="319,840 319,851 591,856 592,856 594,856 596,856 596,854 604,848 750,853 752,853 793,845 1045,848 1047,848 1048,848 1050,848 1060,840 1320,843 1322,843 1597,830 1599,817 1596,791 1415,783 1413,783 1411,783 1385,792 1304,786 1302,786 1301,786 1299,786 1288,794 1208,788 1206,788 1205,788 1185,796 1148,788 1146,788 1144,788 1143,788 1130,797 1078,789 1076,789 1074,789 1073,789 1061,797 1009,791 1008,791 944,801 874,792 872,792 871,792 869,792 869,794 859,804 718,804 688,796 687,796 685,796 684,796 682,796 672,806 648,797 646,797 644,797 643,797 620,806 527,799 526,799 524,799 503,809 317,809 319,840" />
+      <Word id="l_0011-w_0001" text="Völkerschaften" error_score="0.001" />
+      <Word id="l_0011-w_0002" text="nieder," error_score="0.001" />
+      <Word id="l_0011-w_0003" text="von" error_score="0.001" />
+      <Word id="l_0011-w_0004" text="denen" error_score="0.012" />
+      <Word id="l_0011-w_0005" text="die" error_score="0.012" />
+      <Word id="l_0011-w_0006" text="Tschechen" error_score="0.012" />
+      <Word id="l_0011-w_0007" text="(um" error_score="0.012" />
+      <Word id="l_0011-w_0008" text="Prag)" error_score="0.012" />
+      <Word id="l_0011-w_0009" text="am" error_score="0.012" />
+    </TextLine>
+    <TextLine id="l_0012" text="wichtigsten geworden sind.">
+      <Coords points="320,895 320,906 835,900 837,887 833,859 423,856 421,856 319,866 320,895" />
+      <Word id="l_0012-w_0001" text="wichtigsten" error_score="0.012" />
+      <Word id="l_0012-w_0002" text="geworden" error_score="0.012" />
+      <Word id="l_0012-w_0003" text="sind." error_score="0.012" />
+    </TextLine>
+    <TextLine id="l_0013" text="6) Karls Kriege mit den Slauen. Karl machte zuerst die Nord-">
+      <Coords points="403,952 403,967 1602,937 1602,928 1600,897 1587,887 1586,887 1584,887 1582,887 1581,887 1542,897 1522,887 1521,887 1519,887 1517,887 1480,898 1444,889 1442,889 1441,889 1439,889 1418,900 1395,890 1394,890 1392,890 1390,890 1354,902 1221,893 1219,893 1218,893 1216,893 1197,906 1141,906 1125,895 1123,895 1122,895 1120,895 1118,895 1117,895 1100,906 1048,897 1047,897 1045,897 1043,897 1029,910 955,910 892,900 890,900 889,900 887,900 887,902 874,911 819,902 817,902 815,902 814,902 799,913 770,903 768,903 767,903 765,903 719,915 654,905 653,905 651,905 633,913 596,906 594,906 592,906 591,906 579,916 482,908 480,908 478,908 477,908 464,918 426,910 425,910 423,910 402,920 403,952" />
+      <Word id="l_0013-w_0001" text="6)" error_score="0.012" />
+      <Word id="l_0013-w_0002" text="Karls" error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0003" text="Kriege" error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0004" text="mit" error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0005" text="den" error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0006" text="Slauen." error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0007" text="Karl" error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0008" text="machte" error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0009" text="zuerst" error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0010" text="die" error_score="0.541" error_type="error" />
+      <Word id="l_0013-w_0011" text="Nord-" error_score="0.541" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0014" text="slauen (Elbslawen) einschließlich der Tschechen tributplichtig;">
+      <Coords points="319,1007 319,1020 1600,1004 1602,990 1600,955 1537,944 1535,944 1534,944 1498,954 1488,946 1486,946 1485,946 1483,946 1418,947 1416,947 1415,947 1402,957 1363,947 1361,947 1359,947 1260,959 1245,949 1244,949 1242,949 1240,949 1239,949 1237,949 1219,960 1182,950 1180,950 1179,950 1177,950 1157,960 1112,952 1110,952 1109,952 1107,952 1094,962 1034,954 1032,954 986,963 970,954 969,954 967,954 965,954 964,954 962,954 952,962 944,955 942,955 941,955 939,955 892,963 872,955 871,955 869,955 814,967 763,959 762,959 760,959 758,959 745,968 695,960 693,960 692,960 690,960 674,972 617,972 596,960 594,960 592,960 591,960 566,972 555,962 553,962 552,962 501,962 499,962 498,962 496,962 477,975 379,975 353,965 351,965 350,965 348,965 317,975 319,1007" />
+      <Word id="l_0014-w_0001" text="slauen" error_score="0.999" error_type="error" />
+      <Word id="l_0014-w_0002" text="(Elbslawen)" error_score="0.999" error_type="error" />
+      <Word id="l_0014-w_0003" text="einschließlich" error_score="0.999" error_type="error" />
+      <Word id="l_0014-w_0004" text="der" error_score="0.999" error_type="error" />
+      <Word id="l_0014-w_0005" text="Tschechen" error_score="0.999" error_type="error" />
+      <Word id="l_0014-w_0006" text="tributplichtig;" error_score="0.999" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0015" text="bald nach dem Awarenkriege brachte er auch die Slouenen zwischen">
+      <Coords points="320,1061 320,1076 1604,1053 1604,1040 1600,1012 1208,1009 1206,1009 1205,1009 1179,1017 1141,1011 1140,1011 1099,1019 622,1019 620,1019 618,1019 617,1019 607,1027 534,1020 532,1020 530,1020 513,1029 488,1022 486,1022 485,1022 319,1030 320,1061" />
+      <Word id="l_0015-w_0001" text="bald" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0002" text="nach" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0003" text="dem" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0004" text="Awarenkriege" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0005" text="brachte" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0006" text="er" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0007" text="auch" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0008" text="die" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0009" text="Slouenen" error_score="0.999" error_type="error" />
+      <Word id="l_0015-w_0010" text="zwischen" error_score="0.999" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0016" text="Drau und Sawe und die Kroaten, die das Gebiet vom Adriatischen">
+      <Coords points="322,1120 322,1131 1605,1104 1605,1094 1602,1064 1444,1056 1442,1056 1398,1066 1379,1058 1377,1058 1376,1058 1374,1058 1372,1058 1358,1068 1218,1061 1216,1061 1214,1061 1179,1071 1151,1063 1149,1063 1148,1063 1146,1063 1120,1073 1071,1064 1069,1064 1068,1064 1040,1074 1021,1066 1019,1066 1017,1066 960,1076 912,1068 910,1068 908,1068 877,1077 815,1069 814,1069 812,1069 811,1069 798,1079 749,1071 747,1071 745,1071 744,1071 734,1079 710,1073 708,1073 706,1073 638,1082 330,1079 328,1079 327,1079 325,1079 325,1081 320,1084 322,1120" />
+      <Word id="l_0016-w_0001" text="Drau" error_score="0.999" error_type="error" />
+      <Word id="l_0016-w_0002" text="und" error_score="0.999" error_type="error" />
+      <Word id="l_0016-w_0003" text="Sawe" error_score="0.999" error_type="error" />
+      <Word id="l_0016-w_0004" text="und" error_score="0.999" error_type="error" />
+      <Word id="l_0016-w_0005" text="die" error_score="0.987" error_type="error" />
+      <Word id="l_0016-w_0006" text="Kroaten," error_score="0.987" error_type="error" />
+      <Word id="l_0016-w_0007" text="die" error_score="0.987" error_type="error" />
+      <Word id="l_0016-w_0008" text="das" error_score="0.987" error_type="error" />
+      <Word id="l_0016-w_0009" text="Gebiet" error_score="0.987" error_type="error" />
+      <Word id="l_0016-w_0010" text="vom" error_score="0.987" error_type="error" />
+      <Word id="l_0016-w_0011" text="Adriatischen" error_score="0.987" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0017" text="Meere bis zum Werbas und zur unteren Cettina besetzt hatten, ) in">
+      <Coords points="324,1170 324,1183 1602,1164 1604,1149 1600,1123 1530,1113 1529,1113 1527,1113 1525,1113 1514,1121 1452,1115 1451,1115 1449,1115 1426,1123 1408,1115 1407,1115 1405,1115 1302,1126 1271,1118 1270,1118 1268,1118 1267,1118 1247,1126 1115,1120 1113,1120 1112,1120 1110,1120 1099,1130 1006,1123 1004,1123 868,1133 848,1125 846,1125 845,1125 843,1125 841,1125 830,1133 706,1128 705,1128 703,1128 682,1136 627,1128 625,1128 623,1128 622,1128 610,1138 462,1131 460,1131 407,1141 333,1133 332,1133 330,1133 328,1133 328,1134 322,1139 324,1170" />
+      <Word id="l_0017-w_0001" text="Meere" error_score="0.987" error_type="error" />
+      <Word id="l_0017-w_0002" text="bis" error_score="0.987" error_type="error" />
+      <Word id="l_0017-w_0003" text="zum" error_score="0.987" error_type="error" />
+      <Word id="l_0017-w_0004" text="Werbas" error_score="0.999" error_type="error" />
+      <Word id="l_0017-w_0005" text="und" error_score="0.999" error_type="error" />
+      <Word id="l_0017-w_0006" text="zur" error_score="0.999" error_type="error" />
+      <Word id="l_0017-w_0007" text="unteren" error_score="0.999" error_type="error" />
+      <Word id="l_0017-w_0008" text="Cettina" error_score="0.999" error_type="error" />
+      <Word id="l_0017-w_0009" text="besetzt" error_score="0.999" error_type="error" />
+      <Word id="l_0017-w_0010" text="hatten," error_score="0.999" error_type="error" />
+      <Word id="l_0017-w_0011" text=")" error_score="0.999" error_type="error" />
+      <Word id="l_0017-w_0012" text="in" error_score="0.999" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0018" text="lose Abhängigkeit vom Frankenreiche.">
+      <Coords points="322,1229 322,1239 1065,1231 1066,1216 1063,1187 982,1178 980,1178 907,1188 884,1180 882,1180 881,1180 833,1190 791,1182 789,1182 788,1182 786,1182 786,1183 784,1183 778,1191 646,1185 644,1185 643,1185 625,1193 607,1185 605,1185 604,1185 545,1195 506,1187 504,1187 503,1187 501,1187 491,1195 433,1188 431,1188 429,1188 410,1198 328,1190 327,1190 325,1190 324,1190 324,1191 320,1193 322,1229" />
+      <Word id="l_0018-w_0001" text="lose" error_score="0.999" error_type="error" />
+      <Word id="l_0018-w_0002" text="Abhängigkeit" error_score="0.820" error_type="error" />
+      <Word id="l_0018-w_0003" text="vom" error_score="0.820" error_type="error" />
+      <Word id="l_0018-w_0004" text="Frankenreiche." error_score="0.820" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0019" text="So machte Karl dem weiteren Vordringen der Slauen nach">
+      <Coords points="412,1283 412,1292 556,1299 558,1299 1055,1281 1284,1284 1286,1284 1327,1276 1364,1283 1366,1283 1496,1273 1596,1278 1597,1278 1599,1278 1600,1278 1600,1276 1607,1270 1607,1258 1605,1229 1589,1221 1587,1221 1586,1221 1584,1221 1582,1221 1565,1232 1418,1234 1368,1224 1366,1224 1364,1224 1332,1235 1291,1226 1289,1226 1288,1226 1286,1226 1284,1226 1284,1227 1271,1239 1183,1239 1161,1229 1159,1229 1157,1229 1104,1239 1048,1231 1047,1231 1045,1231 1017,1242 905,1234 903,1234 851,1245 770,1237 768,1237 767,1237 765,1237 754,1247 732,1237 731,1237 729,1237 727,1237 698,1247 649,1239 648,1239 646,1239 644,1239 630,1250 570,1240 568,1240 566,1240 545,1252 517,1245 516,1245 514,1245 462,1253 423,1244 421,1244 420,1244 418,1244 416,1244 416,1245 410,1250 412,1283" />
+      <Word id="l_0019-w_0001" text="So" error_score="0.820" error_type="error" />
+      <Word id="l_0019-w_0002" text="machte" error_score="0.820" error_type="error" />
+      <Word id="l_0019-w_0003" text="Karl" error_score="0.820" error_type="error" />
+      <Word id="l_0019-w_0004" text="dem" error_score="0.820" error_type="error" />
+      <Word id="l_0019-w_0005" text="weiteren" error_score="0.820" error_type="error" />
+      <Word id="l_0019-w_0006" text="Vordringen" error_score="0.820" error_type="error" />
+      <Word id="l_0019-w_0007" text="der" error_score="0.820" error_type="error" />
+      <Word id="l_0019-w_0008" text="Slauen" error_score="0.018" />
+      <Word id="l_0019-w_0009" text="nach" error_score="0.018" />
+    </TextLine>
+    <TextLine id="l_0020" text="Westen ein Ende und leitete die Wiedereroberung der Elbe- und">
+      <Coords points="325,1335 325,1346 418,1354 420,1354 545,1345 599,1351 600,1351 664,1343 718,1349 719,1349 763,1341 815,1348 817,1348 1607,1330 1607,1314 1600,1276 1578,1288 1413,1279 1411,1279 1410,1279 1408,1279 1408,1281 1395,1291 1341,1281 1340,1281 1281,1292 1177,1284 1175,1284 1102,1294 1076,1286 1074,1286 1073,1286 1071,1286 1069,1286 1056,1294 1014,1286 1012,1286 1011,1286 970,1297 921,1288 920,1288 918,1288 916,1288 916,1289 903,1299 815,1289 814,1289 710,1302 638,1292 636,1292 635,1292 633,1292 622,1302 576,1294 574,1294 573,1294 571,1294 560,1304 514,1296 513,1296 511,1296 509,1296 493,1307 446,1307 423,1296 421,1296 420,1296 418,1296 397,1307 374,1297 372,1297 371,1297 324,1304 325,1335" />
+      <Word id="l_0020-w_0001" text="Westen" error_score="0.018" />
+      <Word id="l_0020-w_0002" text="ein" error_score="0.018" />
+      <Word id="l_0020-w_0003" text="Ende" error_score="0.018" />
+      <Word id="l_0020-w_0004" text="und" error_score="0.018" />
+      <Word id="l_0020-w_0005" text="leitete" error_score="0.018" />
+      <Word id="l_0020-w_0006" text="die" error_score="0.018" />
+      <Word id="l_0020-w_0007" text="Wiedereroberung" error_score="0.018" />
+      <Word id="l_0020-w_0008" text="der" error_score="0.018" />
+      <Word id="l_0020-w_0009" text="Elbe-" error_score="0.026" />
+      <Word id="l_0020-w_0010" text="und" error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0021" text="Odergegenden seitens der Deutschen ein.">
+      <Coords points="324,1392 324,1403 1115,1392 1117,1379 1113,1353 1063,1343 1061,1343 1060,1343 1058,1343 1043,1354 985,1354 960,1345 959,1345 957,1345 955,1345 954,1345 942,1353 918,1345 916,1345 915,1345 913,1345 912,1345 898,1354 838,1346 837,1346 835,1346 798,1358 770,1348 768,1348 767,1348 765,1348 763,1348 763,1349 754,1359 697,1359 656,1349 654,1349 653,1349 651,1349 649,1349 633,1361 573,1361 543,1351 542,1351 540,1351 539,1351 537,1351 537,1353 527,1362 407,1364 392,1354 390,1354 389,1354 338,1354 337,1354 335,1354 333,1354 322,1361 324,1392" />
+      <Word id="l_0021-w_0001" text="Odergegenden" error_score="0.026" />
+      <Word id="l_0021-w_0002" text="seitens" error_score="0.026" />
+      <Word id="l_0021-w_0003" text="der" error_score="0.026" />
+      <Word id="l_0021-w_0004" text="Deutschen" error_score="0.026" />
+      <Word id="l_0021-w_0005" text="ein." error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0022" text="b) Die Kriege mit den Dänen. Die Dänen, ein Zweig der nord-">
+      <Coords points="408,1445 408,1457 661,1462 662,1462 664,1462 687,1454 1216,1454 1216,1452 1356,1442 1415,1449 1416,1449 1418,1449 1420,1449 1420,1447 1428,1441 1574,1445 1576,1445 1578,1445 1610,1436 1610,1424 1609,1397 1591,1387 1589,1387 1587,1387 1514,1397 1442,1388 1441,1388 1439,1388 1438,1388 1421,1398 1381,1390 1379,1390 1267,1400 1254,1392 1252,1392 1250,1392 1249,1392 1247,1392 1245,1392 1245,1393 1236,1401 1083,1395 1081,1395 1079,1395 1078,1395 1068,1403 1001,1397 999,1397 947,1406 871,1398 869,1398 868,1398 840,1408 784,1400 783,1400 781,1400 780,1400 768,1410 731,1401 729,1401 682,1411 428,1406 426,1406 425,1406 407,1415 408,1445" />
+      <Word id="l_0022-w_0001" text="b)" error_score="0.026" />
+      <Word id="l_0022-w_0002" text="Die" error_score="0.026" />
+      <Word id="l_0022-w_0003" text="Kriege" error_score="0.026" />
+      <Word id="l_0022-w_0004" text="mit" error_score="0.002" />
+      <Word id="l_0022-w_0005" text="den" error_score="0.002" />
+      <Word id="l_0022-w_0006" text="Dänen." error_score="0.002" />
+      <Word id="l_0022-w_0007" text="Die" error_score="0.002" />
+      <Word id="l_0022-w_0008" text="Dänen," error_score="0.002" />
+      <Word id="l_0022-w_0009" text="ein" error_score="0.002" />
+      <Word id="l_0022-w_0010" text="Zweig" error_score="0.002" />
+      <Word id="l_0022-w_0011" text="der" error_score="0.002" />
+      <Word id="l_0022-w_0012" text="nord-" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0023" text="germanischen oder skandinavischen Völkerfamilie, hatten von Jütland">
+      <Coords points="324,1504 324,1519 1612,1494 1613,1481 1610,1444 1468,1444 1467,1444 1411,1454 1332,1445 1330,1445 1328,1445 1304,1455 1276,1447 1275,1447 1273,1447 1271,1447 1252,1455 1125,1450 1123,1450 1122,1450 1102,1458 1052,1450 1050,1450 952,1462 879,1454 877,1454 876,1454 855,1463 789,1455 788,1455 786,1455 784,1455 771,1465 708,1457 706,1457 705,1457 680,1467 631,1458 630,1458 628,1458 586,1468 521,1460 519,1460 517,1460 516,1460 506,1468 475,1462 473,1462 472,1462 470,1462 456,1472 322,1472 324,1504" />
+      <Word id="l_0023-w_0001" text="germanischen" error_score="0.002" />
+      <Word id="l_0023-w_0002" text="oder" error_score="0.001" />
+      <Word id="l_0023-w_0003" text="skandinavischen" error_score="0.001" />
+      <Word id="l_0023-w_0004" text="Völkerfamilie," error_score="0.001" />
+      <Word id="l_0023-w_0005" text="hatten" error_score="0.001" />
+      <Word id="l_0023-w_0006" text="von" error_score="0.001" />
+      <Word id="l_0023-w_0007" text="Jütland" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0024" text="aus die Sachsen gegen die Franken unterstützt. Karls gleichnamiger">
+      <Coords points="328,1559 328,1572 1612,1548 1612,1537 1609,1509 1537,1499 1535,1499 1534,1499 1503,1509 1431,1501 1429,1501 1278,1512 1245,1504 1244,1504 1242,1504 1240,1504 1211,1514 1118,1507 1117,1507 962,1519 835,1512 833,1512 832,1512 814,1520 788,1512 786,1512 784,1512 783,1512 762,1524 570,1525 548,1517 547,1517 545,1517 473,1527 426,1519 425,1519 423,1519 421,1519 410,1530 327,1530 328,1559" />
+      <Word id="l_0024-w_0001" text="aus" error_score="0.001" />
+      <Word id="l_0024-w_0002" text="die" error_score="0.001" />
+      <Word id="l_0024-w_0003" text="Sachsen" error_score="0.001" />
+      <Word id="l_0024-w_0004" text="gegen" error_score="0.001" />
+      <Word id="l_0024-w_0005" text="die" error_score="0.009" />
+      <Word id="l_0024-w_0006" text="Franken" error_score="0.009" />
+      <Word id="l_0024-w_0007" text="unterstützt." error_score="0.009" />
+      <Word id="l_0024-w_0008" text="Karls" error_score="0.009" />
+      <Word id="l_0024-w_0009" text="gleichnamiger" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0025" text="Sohn bekämpfte deshalb die Dänen und drang siegreich gegen Nor-">
+      <Coords points="328,1615 328,1628 1612,1603 1612,1592 1609,1564 1524,1555 1522,1555 1521,1555 1519,1555 1508,1566 1381,1566 1335,1558 1333,1558 1332,1558 1312,1568 1244,1559 1242,1559 1240,1559 1221,1569 1109,1563 1107,1563 1105,1563 1089,1571 1069,1563 1068,1563 1066,1563 1065,1563 1063,1563 1052,1574 967,1574 877,1566 876,1566 874,1566 872,1566 859,1576 833,1568 832,1568 830,1568 731,1577 706,1569 705,1569 703,1569 701,1569 700,1569 685,1579 674,1571 672,1571 670,1571 669,1571 563,1581 513,1572 511,1572 405,1584 338,1576 337,1576 335,1576 333,1576 333,1577 327,1582 328,1615" />
+      <Word id="l_0025-w_0001" text="Sohn" error_score="0.009" />
+      <Word id="l_0025-w_0002" text="bekämpfte" error_score="0.009" />
+      <Word id="l_0025-w_0003" text="deshalb" error_score="0.009" />
+      <Word id="l_0025-w_0004" text="die" error_score="0.009" />
+      <Word id="l_0025-w_0005" text="Dänen" error_score="0.009" />
+      <Word id="l_0025-w_0006" text="und" error_score="0.043" />
+      <Word id="l_0025-w_0007" text="drang" error_score="0.043" />
+      <Word id="l_0025-w_0008" text="siegreich" error_score="0.043" />
+      <Word id="l_0025-w_0009" text="gegen" error_score="0.043" />
+      <Word id="l_0025-w_0010" text="Nor-" error_score="0.043" />
+    </TextLine>
+    <TextLine id="l_0026" text="den vor, wodurch die Eider und Schlei als Grenzen des Reiches">
+      <Coords points="328,1669 328,1680 1610,1659 1612,1646 1609,1620 1521,1610 1519,1610 1324,1623 1216,1616 1214,1616 1213,1616 1183,1625 1157,1616 1156,1616 1154,1616 1153,1616 1133,1626 1066,1618 1065,1618 986,1628 973,1620 972,1620 970,1620 969,1620 967,1620 965,1620 947,1631 861,1631 786,1623 784,1623 783,1623 781,1623 768,1633 711,1625 710,1625 708,1625 706,1625 690,1634 653,1626 651,1626 376,1639 348,1631 346,1631 345,1631 343,1631 342,1631 327,1638 328,1669" />
+      <Word id="l_0026-w_0001" text="den" error_score="0.043" />
+      <Word id="l_0026-w_0002" text="vor," error_score="0.043" />
+      <Word id="l_0026-w_0003" text="wodurch" error_score="0.043" />
+      <Word id="l_0026-w_0004" text="die" error_score="0.043" />
+      <Word id="l_0026-w_0005" text="Eider" error_score="0.043" />
+      <Word id="l_0026-w_0006" text="und" error_score="0.039" />
+      <Word id="l_0026-w_0007" text="Schlei" error_score="0.039" />
+      <Word id="l_0026-w_0008" text="als" error_score="0.039" />
+      <Word id="l_0026-w_0009" text="Grenzen" error_score="0.039" />
+      <Word id="l_0026-w_0010" text="des" error_score="0.039" />
+      <Word id="l_0026-w_0011" text="Reiches" error_score="0.039" />
+    </TextLine>
+    <TextLine id="l_0027" text="gesichert wurden.">
+      <Coords points="328,1724 328,1739 672,1732 672,1721 669,1695 600,1685 599,1685 447,1695 395,1686 394,1686 327,1696 328,1724" />
+      <Word id="l_0027-w_0001" text="gesichert" error_score="0.039" />
+      <Word id="l_0027-w_0002" text="wurden." error_score="0.039" />
+    </TextLine>
+    <TextLine id="l_0028" text="c) Die Grenzen des Reiches. Ein solches Reich war seit dem">
+      <Coords points="413,1778 413,1787 496,1796 498,1796 548,1787 773,1791 775,1791 776,1791 802,1783 965,1787 967,1787 969,1787 970,1787 970,1786 978,1779 1053,1786 1055,1786 1056,1786 1058,1786 1058,1784 1066,1778 1240,1783 1242,1783 1615,1768 1615,1756 1612,1730 1548,1719 1547,1719 1545,1719 1521,1730 1509,1721 1508,1721 1506,1721 1504,1721 1338,1734 1324,1724 1322,1724 1320,1724 1245,1724 1244,1724 1242,1724 1240,1724 1221,1737 1175,1737 1153,1726 1151,1726 1149,1726 1058,1739 1034,1729 1032,1729 1030,1729 964,1740 819,1732 817,1732 815,1732 780,1743 758,1734 757,1734 755,1734 754,1734 752,1734 734,1745 654,1745 574,1737 573,1737 571,1737 570,1737 558,1747 449,1739 447,1739 446,1739 412,1750 413,1778" />
+      <Word id="l_0028-w_0001" text="c)" error_score="0.039" />
+      <Word id="l_0028-w_0002" text="Die" error_score="0.039" />
+      <Word id="l_0028-w_0003" text="Grenzen" error_score="0.020" />
+      <Word id="l_0028-w_0004" text="des" error_score="0.020" />
+      <Word id="l_0028-w_0005" text="Reiches." error_score="0.020" />
+      <Word id="l_0028-w_0006" text="Ein" error_score="0.020" />
+      <Word id="l_0028-w_0007" text="solches" error_score="0.020" />
+      <Word id="l_0028-w_0008" text="Reich" error_score="0.020" />
+      <Word id="l_0028-w_0009" text="war" error_score="0.020" />
+      <Word id="l_0028-w_0010" text="seit" error_score="0.020" />
+      <Word id="l_0028-w_0011" text="dem" error_score="0.020" />
+    </TextLine>
+    <TextLine id="l_0029" text="Untergange des römischen in keines Herrschers Hand gewesen; denn">
+      <Coords points="328,1836 328,1849 1615,1828 1617,1815 1613,1784 1131,1784 1130,1784 1128,1784 1126,1784 1113,1792 1019,1786 1017,1786 1016,1786 996,1794 926,1787 925,1787 923,1787 921,1787 908,1796 838,1789 837,1789 835,1789 809,1797 721,1791 719,1791 718,1791 698,1799 659,1792 657,1792 327,1804 328,1836" />
+      <Word id="l_0029-w_0001" text="Untergange" error_score="0.020" />
+      <Word id="l_0029-w_0002" text="des" error_score="0.023" />
+      <Word id="l_0029-w_0003" text="römischen" error_score="0.023" />
+      <Word id="l_0029-w_0004" text="in" error_score="0.023" />
+      <Word id="l_0029-w_0005" text="keines" error_score="0.023" />
+      <Word id="l_0029-w_0006" text="Herrschers" error_score="0.023" />
+      <Word id="l_0029-w_0007" text="Hand" error_score="0.023" />
+      <Word id="l_0029-w_0008" text="gewesen;" error_score="0.023" />
+      <Word id="l_0029-w_0009" text="denn" error_score="0.023" />
+    </TextLine>
+    <TextLine id="l_0030" text="es erstreckte sich vom Ebro und dem Atlantischen Ozean, der Nord-">
+      <Coords points="330,1888 330,1903 1615,1883 1617,1869 1615,1841 1604,1833 1602,1833 1600,1833 1509,1833 1508,1833 1506,1833 1504,1833 1488,1843 1438,1835 1436,1835 1434,1835 1398,1844 1294,1836 1293,1836 1291,1836 1289,1836 1273,1846 1200,1838 1198,1838 1197,1838 1195,1838 1180,1848 1079,1840 1078,1840 1076,1840 1034,1849 915,1843 913,1843 825,1853 758,1844 757,1844 755,1844 754,1844 737,1854 596,1848 594,1848 475,1857 449,1849 447,1849 446,1849 444,1849 423,1861 328,1861 330,1888" />
+      <Word id="l_0030-w_0001" text="es" error_score="0.023" />
+      <Word id="l_0030-w_0002" text="erstreckte" error_score="0.023" />
+      <Word id="l_0030-w_0003" text="sich" error_score="0.006" />
+      <Word id="l_0030-w_0004" text="vom" error_score="0.006" />
+      <Word id="l_0030-w_0005" text="Ebro" error_score="0.006" />
+      <Word id="l_0030-w_0006" text="und" error_score="0.006" />
+      <Word id="l_0030-w_0007" text="dem" error_score="0.006" />
+      <Word id="l_0030-w_0008" text="Atlantischen" error_score="0.006" />
+      <Word id="l_0030-w_0009" text="Ozean," error_score="0.006" />
+      <Word id="l_0030-w_0010" text="der" error_score="0.006" />
+      <Word id="l_0030-w_0011" text="Nord-" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0031" text="und Ostsee und (nahezu) der Odermündung über die Nordgrenze">
+      <Coords points="332,1945 332,1957 680,1960 682,1960 1617,1936 1617,1923 1613,1895 1247,1892 1245,1892 1154,1901 973,1897 972,1897 330,1916 332,1945" />
+      <Word id="l_0031-w_0001" text="und" error_score="0.006" />
+      <Word id="l_0031-w_0002" text="Ostsee" error_score="0.002" />
+      <Word id="l_0031-w_0003" text="und" error_score="0.002" />
+      <Word id="l_0031-w_0004" text="(nahezu)" error_score="0.002" />
+      <Word id="l_0031-w_0005" text="der" error_score="0.002" />
+      <Word id="l_0031-w_0006" text="Odermündung" error_score="0.002" />
+      <Word id="l_0031-w_0007" text="über" error_score="0.002" />
+      <Word id="l_0031-w_0008" text="die" error_score="0.002" />
+      <Word id="l_0031-w_0009" text="Nordgrenze" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0032" text="Böhmens bis an die Quelle der Weichsel, sodann zum meridionalen">
+      <Coords points="335,1999 335,2014 1617,1991 1617,1978 1613,1952 1553,1942 1552,1942 1550,1942 1509,1952 1442,1944 1441,1944 1439,1944 1410,1955 1208,1957 1180,1949 1179,1949 1177,1949 1175,1949 1174,1949 1161,1957 1086,1950 1084,1950 1083,1950 1048,1958 1029,1950 1027,1950 1026,1950 931,1952 929,1952 928,1952 916,1962 871,1954 869,1954 868,1954 866,1954 855,1962 732,1955 731,1955 729,1955 727,1955 716,1965 666,1957 664,1957 613,1967 530,1958 529,1958 527,1958 526,1958 509,1970 333,1970 335,1999" />
+      <Word id="l_0032-w_0001" text="Böhmens" error_score="0.002" />
+      <Word id="l_0032-w_0002" text="bis" error_score="0.002" />
+      <Word id="l_0032-w_0003" text="an" error_score="0.015" />
+      <Word id="l_0032-w_0004" text="die" error_score="0.015" />
+      <Word id="l_0032-w_0005" text="Quelle" error_score="0.015" />
+      <Word id="l_0032-w_0006" text="der" error_score="0.015" />
+      <Word id="l_0032-w_0007" text="Weichsel," error_score="0.015" />
+      <Word id="l_0032-w_0008" text="sodann" error_score="0.015" />
+      <Word id="l_0032-w_0009" text="zum" error_score="0.015" />
+      <Word id="l_0032-w_0010" text="meridionalen" error_score="0.015" />
+    </TextLine>
+    <TextLine id="l_0033" text="Stücke des Donaulaufes, die Sawe aufwärts bis zur Mündung des">
+      <Coords points="335,2058 335,2067 1617,2048 1618,2037 1615,2007 1565,1997 1563,1997 1561,1997 1560,1997 1548,2006 1449,1999 1447,1999 1446,1999 1444,1999 1433,2007 1353,2001 1351,2001 1350,2001 1348,2001 1337,2010 1245,2010 1224,2002 1223,2002 1221,2002 1219,2002 1182,2012 1151,2004 1149,2004 1148,2004 1086,2014 1065,2006 1063,2006 1061,2006 1016,2015 837,2009 835,2009 833,2009 832,2009 820,2019 747,2010 745,2010 744,2010 718,2020 695,2012 693,2012 692,2012 620,2022 558,2014 556,2014 555,2014 553,2014 543,2022 421,2017 420,2017 418,2017 416,2017 403,2025 345,2017 343,2017 342,2017 340,2017 340,2019 333,2024 335,2058" />
+      <Word id="l_0033-w_0001" text="Stücke" error_score="0.015" />
+      <Word id="l_0033-w_0002" text="des" error_score="0.015" />
+      <Word id="l_0033-w_0003" text="Donaulaufes," error_score="0.051" />
+      <Word id="l_0033-w_0004" text="die" error_score="0.051" />
+      <Word id="l_0033-w_0005" text="Sawe" error_score="0.051" />
+      <Word id="l_0033-w_0006" text="aufwärts" error_score="0.051" />
+      <Word id="l_0033-w_0007" text="bis" error_score="0.051" />
+      <Word id="l_0033-w_0008" text="zur" error_score="0.051" />
+      <Word id="l_0033-w_0009" text="Mündung" error_score="0.051" />
+      <Word id="l_0033-w_0010" text="des" error_score="0.051" />
+    </TextLine>
+    <TextLine id="l_0034" text="Werbas, zur Cettina und ans Meer, in Italien bis zum Garigliano.">
+      <Coords points="337,2111 337,2124 1613,2108 1615,2092 1612,2064 1509,2054 1508,2054 1455,2064 1405,2056 1403,2056 1402,2056 1400,2056 1400,2058 1390,2066 1232,2059 1231,2059 1229,2059 1227,2059 1218,2067 1097,2061 1096,2061 1094,2061 1092,2061 1078,2071 1045,2063 1043,2063 1042,2063 967,2072 918,2064 916,2064 855,2074 802,2066 801,2066 754,2076 656,2067 654,2067 543,2079 335,2079 337,2111" />
+      <Word id="l_0034-w_0001" text="Werbas," error_score="0.051" />
+      <Word id="l_0034-w_0002" text="zur" error_score="0.051" />
+      <Word id="l_0034-w_0003" text="Cettina" error_score="0.114" />
+      <Word id="l_0034-w_0004" text="und" error_score="0.114" />
+      <Word id="l_0034-w_0005" text="ans" error_score="0.114" />
+      <Word id="l_0034-w_0006" text="Meer," error_score="0.114" />
+      <Word id="l_0034-w_0007" text="in" error_score="0.114" />
+      <Word id="l_0034-w_0008" text="Italien" error_score="0.114" />
+      <Word id="l_0034-w_0009" text="bis" error_score="0.114" />
+      <Word id="l_0034-w_0010" text="zum" error_score="0.114" />
+      <Word id="l_0034-w_0011" text="Garigliano." error_score="0.114" />
+    </TextLine>
+    <TextLine id="l_0035" text="Innerhalb dieser Grenzen kamen nur einige Inseln und Küsten-">
+      <Coords points="335,2168 335,2180 1618,2157 1618,2147 1615,2118 1517,2110 1516,2110 1385,2121 1320,2113 1319,2113 1317,2113 1293,2123 1234,2115 1232,2115 1231,2115 1229,2115 1216,2124 1122,2116 1120,2116 1118,2116 1097,2128 897,2129 864,2121 863,2121 861,2121 859,2121 817,2131 688,2124 687,2124 685,2124 684,2124 674,2133 560,2126 558,2126 556,2126 527,2136 514,2128 513,2128 511,2128 509,2128 333,2134 335,2168" />
+      <Word id="l_0035-w_0001" text="Innerhalb" error_score="0.114" />
+      <Word id="l_0035-w_0002" text="dieser" error_score="0.218" />
+      <Word id="l_0035-w_0003" text="Grenzen" error_score="0.218" />
+      <Word id="l_0035-w_0004" text="kamen" error_score="0.218" />
+      <Word id="l_0035-w_0005" text="nur" error_score="0.218" />
+      <Word id="l_0035-w_0006" text="einige" error_score="0.218" />
+      <Word id="l_0035-w_0007" text="Inseln" error_score="0.218" />
+      <Word id="l_0035-w_0008" text="und" error_score="0.218" />
+      <Word id="l_0035-w_0009" text="Küsten-" error_score="0.218" />
+    </TextLine>
+    <TextLine id="l_0036" text="gebiete Istriens infolge eines Vertrages an das Oströmische Reich.">
+      <Coords points="337,2224 337,2238 1618,2216 1618,2201 1617,2173 1589,2164 1587,2164 1586,2164 1504,2165 1503,2165 1501,2165 1491,2173 1436,2165 1434,2165 1433,2165 1431,2165 1418,2175 1341,2167 1340,2167 1338,2167 1337,2167 1325,2175 1258,2168 1257,2168 1255,2168 1254,2168 1242,2178 1177,2170 1175,2170 1174,2170 1172,2170 1156,2180 965,2175 964,2175 962,2175 939,2183 892,2175 890,2175 846,2185 819,2177 817,2177 815,2177 814,2177 789,2186 701,2178 700,2178 607,2190 566,2181 565,2181 490,2183 488,2183 486,2183 477,2191 382,2185 381,2185 335,2194 337,2224" />
+      <Word id="l_0036-w_0001" text="gebiete" error_score="0.218" />
+      <Word id="l_0036-w_0002" text="Istriens" error_score="0.218" />
+      <Word id="l_0036-w_0003" text="infolge" error_score="0.045" />
+      <Word id="l_0036-w_0004" text="eines" error_score="0.045" />
+      <Word id="l_0036-w_0005" text="Vertrages" error_score="0.045" />
+      <Word id="l_0036-w_0006" text="an" error_score="0.045" />
+      <Word id="l_0036-w_0007" text="das" error_score="0.045" />
+      <Word id="l_0036-w_0008" text="Oströmische" error_score="0.045" />
+      <Word id="l_0036-w_0009" text="Reich." error_score="0.045" />
+    </TextLine>
+    <TextLine id="l_0037" text="Das Ansehen Karls verbreitete sich auch nach dem Orient; der">
+      <Coords points="423,2278 423,2291 1622,2268 1622,2256 1618,2227 1569,2219 1568,2219 1486,2229 1460,2221 1459,2221 1457,2221 1301,2232 1278,2224 1276,2224 1275,2224 1197,2234 1175,2225 1174,2225 1172,2225 1170,2225 1169,2225 1154,2237 1096,2237 1073,2227 1071,2227 1069,2227 1022,2237 884,2230 882,2230 881,2230 855,2240 700,2234 698,2234 697,2234 695,2234 684,2243 613,2235 612,2235 610,2235 609,2235 596,2245 534,2237 532,2237 530,2237 511,2247 429,2238 428,2238 426,2238 425,2238 425,2240 423,2240 421,2240 423,2278" />
+      <Word id="l_0037-w_0001" text="Das" error_score="0.045" />
+      <Word id="l_0037-w_0002" text="Ansehen" error_score="0.045" />
+      <Word id="l_0037-w_0003" text="Karls" error_score="0.045" />
+      <Word id="l_0037-w_0004" text="verbreitete" error_score="0.005" />
+      <Word id="l_0037-w_0005" text="sich" error_score="0.005" />
+      <Word id="l_0037-w_0006" text="auch" error_score="0.005" />
+      <Word id="l_0037-w_0007" text="nach" error_score="0.005" />
+      <Word id="l_0037-w_0008" text="dem" error_score="0.005" />
+      <Word id="l_0037-w_0009" text="Orient;" error_score="0.005" />
+      <Word id="l_0037-w_0010" text="der" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0038" text="Patriarch von Jerusalem schickte ihm die Schlüssel zum Heiligen">
+      <Coords points="337,2331 337,2346 1620,2326 1622,2312 1618,2282 1516,2274 1514,2274 1394,2286 1327,2278 1325,2278 1324,2278 1289,2287 1213,2279 1211,2279 1161,2289 1107,2281 1105,2281 1104,2281 1081,2291 877,2284 876,2284 874,2284 872,2284 859,2294 640,2289 638,2289 636,2289 635,2289 623,2299 519,2299 503,2291 501,2291 499,2291 389,2300 350,2292 348,2292 346,2292 345,2292 335,2297 337,2331" />
+      <Word id="l_0038-w_0001" text="Patriarch" error_score="0.005" />
+      <Word id="l_0038-w_0002" text="von" error_score="0.005" />
+      <Word id="l_0038-w_0003" text="Jerusalem" error_score="0.005" />
+      <Word id="l_0038-w_0004" text="schickte" error_score="0.002" />
+      <Word id="l_0038-w_0005" text="ihm" error_score="0.002" />
+      <Word id="l_0038-w_0006" text="die" error_score="0.002" />
+      <Word id="l_0038-w_0007" text="Schlüssel" error_score="0.002" />
+      <Word id="l_0038-w_0008" text="zum" error_score="0.002" />
+      <Word id="l_0038-w_0009" text="Heiligen" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0039" text="Grabe und der Kalif Harun al Raschid unterhielt mit ihm freund-">
+      <Coords points="335,2390 335,2401 1623,2380 1623,2369 1620,2338 1045,2338 1043,2338 1042,2338 1009,2348 925,2339 923,2339 921,2339 920,2339 905,2351 814,2351 716,2343 714,2343 713,2343 687,2352 644,2344 643,2344 641,2344 615,2354 539,2346 537,2346 535,2346 514,2356 421,2348 420,2348 418,2348 416,2348 402,2357 353,2349 351,2349 350,2349 333,2356 335,2390" />
+      <Word id="l_0039-w_0001" text="Grabe" error_score="0.002" />
+      <Word id="l_0039-w_0002" text="und" error_score="0.002" />
+      <Word id="l_0039-w_0003" text="der" error_score="0.002" />
+      <Word id="l_0039-w_0004" text="Kalif" error_score="0.002" />
+      <Word id="l_0039-w_0005" text="Harun" error_score="0.003" />
+      <Word id="l_0039-w_0006" text="al" error_score="0.003" />
+      <Word id="l_0039-w_0007" text="Raschid" error_score="0.003" />
+      <Word id="l_0039-w_0008" text="unterhielt" error_score="0.003" />
+      <Word id="l_0039-w_0009" text="mit" error_score="0.003" />
+      <Word id="l_0039-w_0010" text="ihm" error_score="0.003" />
+      <Word id="l_0039-w_0011" text="freund-" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0040" text="schaftliche Beziehungen.">
+      <Coords points="340,2444 340,2455 815,2450 815,2439 812,2411 680,2411 659,2401 657,2401 656,2401 522,2411 501,2403 499,2403 498,2403 496,2403 495,2403 495,2405 486,2411 433,2405 431,2405 429,2405 403,2413 384,2405 382,2405 381,2405 379,2405 338,2414 340,2444" />
+      <Word id="l_0040-w_0001" text="schaftliche" error_score="0.003" />
+      <Word id="l_0040-w_0002" text="Beziehungen." error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0041" text="* Gleichzeitig mit den Kroaten hatten sich die nahe verwandten Serben">
+      <Coords points="433,2506 433,2520 1625,2507 1625,2491 1620,2466 431,2476 433,2506" />
+      <Word id="l_0041-w_0001" text="*" error_score="0.003" />
+      <Word id="l_0041-w_0002" text="Gleichzeitig" error_score="0.003" />
+      <Word id="l_0041-w_0003" text="mit" error_score="0.003" />
+      <Word id="l_0041-w_0004" text="den" error_score="0.003" />
+      <Word id="l_0041-w_0005" text="Kroaten" error_score="0.003" />
+      <Word id="l_0041-w_0006" text="hatten" error_score="0.003" />
+      <Word id="l_0041-w_0007" text="sich" error_score="0.003" />
+      <Word id="l_0041-w_0008" text="die" error_score="0.003" />
+      <Word id="l_0041-w_0009" text="nahe" error_score="0.003" />
+      <Word id="l_0041-w_0010" text="verwandten" error_score="0.003" />
+      <Word id="l_0041-w_0011" text="Serben" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0042" text="östlich und südlich von ihnen niedergelassen.">
+      <Coords points="338,2559 338,2571 1110,2561 1110,2546 1105,2520 337,2532 338,2559" />
+      <Word id="l_0042-w_0001" text="östlich" error_score="0.002" />
+      <Word id="l_0042-w_0002" text="und" error_score="0.002" />
+      <Word id="l_0042-w_0003" text="südlich" error_score="0.002" />
+      <Word id="l_0042-w_0004" text="von" error_score="0.002" />
+      <Word id="l_0042-w_0005" text="ihnen" error_score="0.002" />
+      <Word id="l_0042-w_0006" text="niedergelassen." error_score="0.002" />
+    </TextLine>
+  </TextRegion>
+</Page>

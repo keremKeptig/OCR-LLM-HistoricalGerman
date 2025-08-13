@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="173739250X_00000062.bin.png" imageHeight="2920" imageWidth="1614" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="344,324 1503,337 1536,356 1511,415 1601,428 1588,2529 318,2516 311,1745 175,1737 149,1704 155,1622 311,1607 318,1395 149,1374 129,1336 175,1291 303,1291 318,1263 324,506 175,491 155,421 329,402 344,324" />
+    <TextLine id="l_0001" text="Condizioni">
+      <Coords points="194,416 178,418 162,420 162,438 162,452 308,452 308,438 308,415 211,415 194,416" />
+      <Word id="l_0001-w_0001" text="Condizioni" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0002" text="monetarie.">
+      <Coords points="160,472 160,489 303,489 303,472 303,450 160,450 160,472" />
+      <Word id="l_0002-w_0001" text="monetarie." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0003" text="Mezzi di">
+      <Coords points="162,1301 163,1323 163,1335 290,1330 290,1318 285,1296 162,1299 162,1301" />
+      <Word id="l_0003-w_0001" text="Mezzi" error_score="0.001" />
+      <Word id="l_0003-w_0002" text="di" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0004" text="comunicazione.">
+      <Coords points="131,1346 133,1357 133,1374 323,1375 326,1354 321,1335 134,1336 131,1346" />
+      <Word id="l_0004-w_0001" text="comunicazione." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0005" text="Commercio">
+      <Coords points="151,1638 151,1644 149,1657 300,1661 303,1648 302,1625 163,1622 151,1638" />
+      <Word id="l_0005-w_0001" text="Commercio" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0006" text="interno ed">
+      <Coords points="151,1679 149,1693 289,1696 292,1682 292,1661 151,1657 151,1679" />
+      <Word id="l_0006-w_0001" text="interno" error_score="0.001" />
+      <Word id="l_0006-w_0002" text="ed" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0007" text="esterno.">
+      <Coords points="167,1716 167,1732 284,1732 284,1716 284,1696 167,1696 167,1716" />
+      <Word id="l_0007-w_0001" text="esterno." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0008" text="54 Sezione seconda. L'età continentale del mondo antico (Medio-evo).">
+      <Coords points="1519,347 1505,339 1501,335 1492,335 1477,343 1393,335 1391,335 1290,342 1273,334 1271,334 1269,334 1268,334 1245,343 1186,343 1177,334 1175,334 1173,334 1172,334 1083,340 1073,332 1071,332 1070,332 1068,332 910,339 891,330 889,330 888,330 798,339 725,329 724,329 722,329 693,337 639,329 638,329 530,337 349,327 334,356 334,360 332,371 1518,381 1521,369 1521,348 1519,347" />
+      <Word id="l_0008-w_0001" text="54" error_score="0.001" />
+      <Word id="l_0008-w_0002" text="Sezione" error_score="0.004" />
+      <Word id="l_0008-w_0003" text="seconda." error_score="0.004" />
+      <Word id="l_0008-w_0004" text="L'età" error_score="0.004" />
+      <Word id="l_0008-w_0005" text="continentale" error_score="0.004" />
+      <Word id="l_0008-w_0006" text="del" error_score="0.004" />
+      <Word id="l_0008-w_0007" text="mondo" error_score="0.004" />
+      <Word id="l_0008-w_0008" text="antico" error_score="0.004" />
+      <Word id="l_0008-w_0009" text="(Medio-evo)." error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0009" text="I tentativi di Pipino il Piecolo e di Carlo Magno, diretti">
+      <Coords points="440,450 438,462 1399,480 1401,480 1588,472 1589,460 1588,429 440,416 440,450" />
+      <Word id="l_0009-w_0001" text="I" error_score="0.004" />
+      <Word id="l_0009-w_0002" text="tentativi" error_score="0.004" />
+      <Word id="l_0009-w_0003" text="di" error_score="0.035" />
+      <Word id="l_0009-w_0004" text="Pipino" error_score="0.035" />
+      <Word id="l_0009-w_0005" text="il" error_score="0.035" />
+      <Word id="l_0009-w_0006" text="Piecolo" error_score="0.035" />
+      <Word id="l_0009-w_0007" text="e" error_score="0.035" />
+      <Word id="l_0009-w_0008" text="di" error_score="0.035" />
+      <Word id="l_0009-w_0009" text="Carlo" error_score="0.035" />
+      <Word id="l_0009-w_0010" text="Magno," error_score="0.035" />
+      <Word id="l_0009-w_0011" text="diretti" error_score="0.035" />
+    </TextLine>
+    <TextLine id="l_0010" text="a migliorare le condizioni monetarie, indicano che le cose pren-">
+      <Coords points="334,501 332,514 1584,525 1588,512 1588,488 1373,486 1355,476 1354,476 1352,476 1230,485 1162,475 1160,475 1053,483 1039,473 1037,473 1035,473 1034,473 1032,473 1001,481 979,473 977,473 975,473 865,480 854,472 852,472 850,472 849,472 810,480 794,472 792,472 790,472 694,480 485,468 483,468 334,475 334,501" />
+      <Word id="l_0010-w_0001" text="a" error_score="0.035" />
+      <Word id="l_0010-w_0002" text="migliorare" error_score="0.084" />
+      <Word id="l_0010-w_0003" text="le" error_score="0.084" />
+      <Word id="l_0010-w_0004" text="condizioni" error_score="0.084" />
+      <Word id="l_0010-w_0005" text="monetarie," error_score="0.084" />
+      <Word id="l_0010-w_0006" text="indicano" error_score="0.084" />
+      <Word id="l_0010-w_0007" text="che" error_score="0.084" />
+      <Word id="l_0010-w_0008" text="le" error_score="0.084" />
+      <Word id="l_0010-w_0009" text="cose" error_score="0.084" />
+      <Word id="l_0010-w_0010" text="pren-" error_score="0.084" />
+    </TextLine>
+    <TextLine id="l_0011" text="devano una piega migliore. Sotto gli ultimi Merovingi di rado">
+      <Coords points="334,554 332,566 750,579 751,579 1216,575 1234,584 1235,584 1237,584 1323,577 1407,585 1409,585 1584,577 1586,566 1584,540 1448,530 1446,530 1445,530 1428,538 1409,528 1407,528 1406,528 1404,528 1385,536 1342,528 1341,528 1276,536 1229,527 1227,527 1172,535 1113,527 1112,527 1110,527 1079,535 1050,525 1048,525 1047,525 1045,525 1026,535 941,535 927,525 925,525 923,525 922,525 826,532 810,523 808,523 807,523 725,532 621,522 620,522 579,530 391,530 366,520 365,520 363,520 362,520 334,527 334,554" />
+      <Word id="l_0011-w_0001" text="devano" error_score="0.084" />
+      <Word id="l_0011-w_0002" text="una" error_score="0.491" />
+      <Word id="l_0011-w_0003" text="piega" error_score="0.491" />
+      <Word id="l_0011-w_0004" text="migliore." error_score="0.491" />
+      <Word id="l_0011-w_0005" text="Sotto" error_score="0.491" />
+      <Word id="l_0011-w_0006" text="gli" error_score="0.491" />
+      <Word id="l_0011-w_0007" text="ultimi" error_score="0.491" />
+      <Word id="l_0011-w_0008" text="Merovingi" error_score="0.491" />
+      <Word id="l_0011-w_0009" text="di" error_score="0.491" />
+      <Word id="l_0011-w_0010" text="rado" error_score="0.491" />
+    </TextLine>
+    <TextLine id="l_0012" text="si coniarono monete, sebbene questo diritto fosse quasi illimi-">
+      <Coords points="332,608 331,619 813,632 815,632 943,626 956,634 958,634 959,634 961,634 1337,629 1373,637 1375,637 1376,637 1583,629 1584,618 1584,590 1571,582 1570,582 1568,582 1566,582 1273,588 1261,580 1260,580 1258,580 1256,580 1198,588 1164,579 1162,579 1160,579 1089,587 1044,579 1042,579 1040,579 1039,579 1027,587 863,587 852,577 850,577 849,577 847,577 751,585 709,575 707,575 706,575 704,575 677,584 474,574 472,574 332,580 332,608" />
+      <Word id="l_0012-w_0001" text="si" error_score="0.491" />
+      <Word id="l_0012-w_0002" text="coniarono" error_score="0.224" />
+      <Word id="l_0012-w_0003" text="monete," error_score="0.224" />
+      <Word id="l_0012-w_0004" text="sebbene" error_score="0.224" />
+      <Word id="l_0012-w_0005" text="questo" error_score="0.224" />
+      <Word id="l_0012-w_0006" text="diritto" error_score="0.224" />
+      <Word id="l_0012-w_0007" text="fosse" error_score="0.224" />
+      <Word id="l_0012-w_0008" text="quasi" error_score="0.224" />
+      <Word id="l_0012-w_0009" text="illimi-" error_score="0.224" />
+    </TextLine>
+    <TextLine id="l_0013" text="tato. I Carolingi, che volevano conformare le monete alla va-">
+      <Coords points="332,660 331,669 1169,686 1170,686 1584,679 1586,669 1584,645 1498,645 1477,634 1475,634 1474,634 1409,644 1386,635 1385,635 1383,635 1251,642 1235,632 1234,632 1232,632 1230,632 1229,632 1196,642 1089,640 1078,631 1076,631 1074,631 1073,631 1026,640 873,639 858,629 857,629 855,629 854,629 776,639 746,627 745,627 743,627 742,627 711,637 680,627 678,627 677,627 675,627 641,637 617,627 615,627 613,627 568,635 534,626 532,626 453,626 451,626 449,626 448,626 436,635 388,626 386,626 332,631 332,660" />
+      <Word id="l_0013-w_0001" text="tato." error_score="0.224" />
+      <Word id="l_0013-w_0002" text="I" error_score="0.224" />
+      <Word id="l_0013-w_0003" text="Carolingi," error_score="0.008" />
+      <Word id="l_0013-w_0004" text="che" error_score="0.008" />
+      <Word id="l_0013-w_0005" text="volevano" error_score="0.008" />
+      <Word id="l_0013-w_0006" text="conformare" error_score="0.008" />
+      <Word id="l_0013-w_0007" text="le" error_score="0.008" />
+      <Word id="l_0013-w_0008" text="monete" error_score="0.008" />
+      <Word id="l_0013-w_0009" text="alla" error_score="0.008" />
+      <Word id="l_0013-w_0010" text="va-" error_score="0.008" />
+    </TextLine>
+    <TextLine id="l_0014" text="luta in oro dei Bizantini, trovarono fin da principio difficoltà">
+      <Coords points="331,712 329,723 823,736 824,736 925,730 980,738 982,738 1584,733 1586,721 1586,694 1571,684 1570,684 1568,684 1566,684 1503,694 1488,684 1487,684 1485,684 1425,684 1424,684 1422,684 1383,694 1370,684 1370,682 1368,682 1367,682 1365,682 1363,682 1362,682 1349,692 1334,682 1333,682 1331,682 1329,682 1328,682 1292,692 1273,682 1271,682 1269,682 1268,682 1266,682 1253,694 1198,694 1180,682 1178,682 1177,682 1175,682 1126,691 1104,681 1102,681 1100,681 1099,681 1074,692 964,692 878,681 876,681 837,689 826,679 824,679 823,679 821,679 733,687 698,678 696,678 582,678 581,678 579,678 548,687 469,687 451,676 449,676 448,676 446,676 444,676 415,686 386,676 384,676 383,676 331,678 331,712" />
+      <Word id="l_0014-w_0001" text="luta" error_score="0.008" />
+      <Word id="l_0014-w_0002" text="in" error_score="0.008" />
+      <Word id="l_0014-w_0003" text="oro" error_score="0.002" />
+      <Word id="l_0014-w_0004" text="dei" error_score="0.002" />
+      <Word id="l_0014-w_0005" text="Bizantini," error_score="0.002" />
+      <Word id="l_0014-w_0006" text="trovarono" error_score="0.002" />
+      <Word id="l_0014-w_0007" text="fin" error_score="0.002" />
+      <Word id="l_0014-w_0008" text="da" error_score="0.002" />
+      <Word id="l_0014-w_0009" text="principio" error_score="0.002" />
+      <Word id="l_0014-w_0010" text="difficoltà" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0015" text="tali che dovettero rinunziare. Essi fondarono il predominio">
+      <Coords points="331,764 329,773 868,788 870,788 1583,785 1584,775 1584,749 1555,738 1553,738 1552,738 1550,738 1523,746 1500,738 1498,738 1497,738 1495,738 1475,747 1422,738 1420,738 1320,746 1307,736 1305,736 1303,736 1302,736 1300,736 1261,746 1162,746 1144,734 1143,734 1141,734 1139,734 1092,744 1070,734 1068,734 1066,734 1065,734 1063,734 1048,744 1032,733 1031,733 1029,733 1027,733 1026,733 1005,742 988,733 987,733 985,733 983,733 862,741 845,731 844,731 842,731 841,731 839,731 808,741 730,731 729,731 727,731 690,741 623,730 621,730 467,738 438,728 436,728 435,728 433,728 415,738 404,728 402,728 401,728 344,728 342,728 340,728 339,728 331,733 331,764" />
+      <Word id="l_0015-w_0001" text="tali" error_score="0.002" />
+      <Word id="l_0015-w_0002" text="che" error_score="0.002" />
+      <Word id="l_0015-w_0003" text="dovettero" error_score="0.006" />
+      <Word id="l_0015-w_0004" text="rinunziare." error_score="0.006" />
+      <Word id="l_0015-w_0005" text="Essi" error_score="0.006" />
+      <Word id="l_0015-w_0006" text="fondarono" error_score="0.006" />
+      <Word id="l_0015-w_0007" text="il" error_score="0.006" />
+      <Word id="l_0015-w_0008" text="predominio" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0016" text="dell'argento in Occidente, mentre in Oriente restò in circo-">
+      <Coords points="331,814 329,825 488,837 490,837 625,830 964,841 966,841 1583,838 1584,827 1583,803 1498,791 1497,791 1450,801 1428,790 1427,790 1425,790 1424,790 1402,799 1363,790 1362,790 1360,790 1359,790 1357,790 1339,801 1281,801 1255,788 1253,788 1251,788 1250,788 1222,798 1206,788 1204,788 1203,788 1201,788 1199,788 1177,796 1152,788 1151,788 1149,788 1147,788 1117,798 1100,786 1099,786 1097,786 1096,786 1094,786 1070,796 1008,788 1006,788 873,794 849,786 847,786 845,786 844,786 815,794 798,783 797,783 795,783 794,783 742,793 699,783 698,783 696,783 694,783 665,793 644,781 643,781 641,781 639,781 617,791 579,781 578,781 576,781 574,781 535,791 431,780 344,780 342,780 340,780 339,780 331,785 331,814" />
+      <Word id="l_0016-w_0001" text="dell'argento" error_score="0.006" />
+      <Word id="l_0016-w_0002" text="in" error_score="0.006" />
+      <Word id="l_0016-w_0003" text="Occidente," error_score="0.006" />
+      <Word id="l_0016-w_0004" text="mentre" error_score="0.006" />
+      <Word id="l_0016-w_0005" text="in" error_score="0.679" error_type="error" />
+      <Word id="l_0016-w_0006" text="Oriente" error_score="0.679" error_type="error" />
+      <Word id="l_0016-w_0007" text="restò" error_score="0.679" error_type="error" />
+      <Word id="l_0016-w_0008" text="in" error_score="0.679" error_type="error" />
+      <Word id="l_0016-w_0009" text="circo-" error_score="0.679" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0017" text="lazione l'oro, il quale servi di nuovo al grande commercio">
+      <Coords points="329,877 542,888 543,888 545,888 569,882 589,890 591,890 592,890 681,884 691,892 693,892 694,892 696,892 794,884 863,893 865,893 1000,887 1016,895 1018,895 1019,895 1081,887 1334,898 1336,898 1337,898 1339,898 1352,890 1432,898 1433,898 1584,890 1586,879 1586,853 1565,845 1563,845 1562,845 1511,853 1344,853 1326,843 1324,843 1323,843 1198,850 1188,841 1186,841 1185,841 1183,841 1182,841 1154,850 992,850 961,838 959,838 958,838 956,838 936,846 897,838 896,838 803,846 776,837 774,837 772,837 677,845 646,835 644,835 643,835 591,843 391,833 389,833 388,833 368,841 332,832 331,866 329,877" />
+      <Word id="l_0017-w_0001" text="lazione" error_score="0.679" error_type="error" />
+      <Word id="l_0017-w_0002" text="l'oro," error_score="0.679" error_type="error" />
+      <Word id="l_0017-w_0003" text="il" error_score="0.679" error_type="error" />
+      <Word id="l_0017-w_0004" text="quale" error_score="0.679" error_type="error" />
+      <Word id="l_0017-w_0005" text="servi" error_score="0.679" error_type="error" />
+      <Word id="l_0017-w_0006" text="di" error_score="0.217" />
+      <Word id="l_0017-w_0007" text="nuovo" error_score="0.217" />
+      <Word id="l_0017-w_0008" text="al" error_score="0.217" />
+      <Word id="l_0017-w_0009" text="grande" error_score="0.217" />
+      <Word id="l_0017-w_0010" text="commercio" error_score="0.217" />
+    </TextLine>
+    <TextLine id="l_0018" text="europeo negli ultimi secoli del Medio-evo.">
+      <Coords points="329,919 327,931 342,939 344,939 345,939 875,937 884,945 886,945 888,945 889,945 1167,939 1169,929 1167,903 1070,903 1029,890 1027,890 1026,890 1024,890 1022,890 1011,900 1000,890 998,890 996,890 958,890 956,890 954,890 953,890 953,892 945,900 925,890 923,890 922,890 920,890 919,890 909,898 889,888 888,888 886,888 884,888 883,888 883,890 873,898 831,888 829,888 828,888 826,888 813,900 751,900 737,887 735,887 733,887 732,887 730,887 704,895 643,887 641,887 639,887 613,897 605,887 604,887 604,885 602,885 600,885 599,885 550,895 329,893 329,919" />
+      <Word id="l_0018-w_0001" text="europeo" error_score="0.217" />
+      <Word id="l_0018-w_0002" text="negli" error_score="0.217" />
+      <Word id="l_0018-w_0003" text="ultimi" error_score="0.217" />
+      <Word id="l_0018-w_0004" text="secoli" error_score="0.217" />
+      <Word id="l_0018-w_0005" text="del" error_score="0.217" />
+      <Word id="l_0018-w_0006" text="Medio-evo." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0019" text="Una libbra d'argento, coniata secondo la valuta carolingica, dava">
+      <Coords points="433,994 431,1005 1583,1022 1586,1007 1586,983 433,963 433,994" />
+      <Word id="l_0019-w_0001" text="Una" error_score="0.001" />
+      <Word id="l_0019-w_0002" text="libbra" error_score="0.001" />
+      <Word id="l_0019-w_0003" text="d'argento," error_score="0.001" />
+      <Word id="l_0019-w_0004" text="coniata" error_score="0.001" />
+      <Word id="l_0019-w_0005" text="secondo" error_score="0.001" />
+      <Word id="l_0019-w_0006" text="la" error_score="0.001" />
+      <Word id="l_0019-w_0007" text="valuta" error_score="0.001" />
+      <Word id="l_0019-w_0008" text="carolingica," error_score="0.001" />
+      <Word id="l_0019-w_0009" text="dava" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0020" text="240 denari (a 17ꝰ). I calcoli poi si facevano in libbre (livres) o in solidi">
+      <Coords points="327,1038 326,1049 1375,1067 1376,1067 1583,1059 1584,1047 1583,1022 1000,1022 988,1012 987,1012 985,1012 983,1012 982,1012 964,1020 951,1012 949,1012 948,1012 946,1012 854,1018 842,1010 841,1010 839,1010 837,1010 836,1010 802,1018 725,1009 724,1009 573,1017 552,1009 550,1009 548,1009 547,1009 545,1009 537,1015 529,1009 529,1007 527,1007 526,1007 524,1007 522,1007 491,1015 425,1007 423,1007 327,1013 327,1038" />
+      <Word id="l_0020-w_0001" text="240" error_score="0.006" />
+      <Word id="l_0020-w_0002" text="denari" error_score="0.006" />
+      <Word id="l_0020-w_0003" text="(a" error_score="0.006" />
+      <Word id="l_0020-w_0004" text="17ꝰ)." error_score="0.006" />
+      <Word id="l_0020-w_0005" text="I" error_score="0.006" />
+      <Word id="l_0020-w_0006" text="calcoli" error_score="0.006" />
+      <Word id="l_0020-w_0007" text="poi" error_score="0.006" />
+      <Word id="l_0020-w_0008" text="si" error_score="0.006" />
+      <Word id="l_0020-w_0009" text="facevano" error_score="0.006" />
+      <Word id="l_0020-w_0010" text="in" error_score="0.006" />
+      <Word id="l_0020-w_0011" text="libbre" error_score="0.401" />
+      <Word id="l_0020-w_0012" text="(livres)" error_score="0.401" />
+      <Word id="l_0020-w_0013" text="o" error_score="0.401" />
+      <Word id="l_0020-w_0014" text="in" error_score="0.401" />
+      <Word id="l_0020-w_0015" text="solidi" error_score="0.401" />
+    </TextLine>
+    <TextLine id="l_0021" text="(sous — 12 denari). Carlo Magno tentô di far delle monete un monopolio,">
+      <Coords points="327,1082 326,1093 332,1099 332,1101 334,1101 336,1101 337,1101 482,1095 870,1106 871,1107 1584,1107 1586,1093 1586,1070 1549,1060 1547,1060 1545,1060 1544,1060 1511,1069 1232,1069 1178,1057 1177,1057 1087,1065 1037,1056 1035,1056 873,1064 784,1054 782,1054 781,1054 779,1054 768,1062 686,1052 685,1052 683,1052 681,1052 673,1060 647,1052 646,1052 644,1052 527,1059 508,1051 506,1051 504,1051 503,1051 474,1059 349,1051 347,1051 345,1051 327,1057 327,1082" />
+      <Word id="l_0021-w_0001" text="(sous" error_score="0.401" />
+      <Word id="l_0021-w_0002" text="—" error_score="0.401" />
+      <Word id="l_0021-w_0003" text="12" error_score="0.401" />
+      <Word id="l_0021-w_0004" text="denari)." error_score="0.401" />
+      <Word id="l_0021-w_0005" text="Carlo" error_score="0.401" />
+      <Word id="l_0021-w_0006" text="Magno" error_score="0.922" error_type="error" />
+      <Word id="l_0021-w_0007" text="tentô" error_score="0.922" error_type="error" />
+      <Word id="l_0021-w_0008" text="di" error_score="0.922" error_type="error" />
+      <Word id="l_0021-w_0009" text="far" error_score="0.922" error_type="error" />
+      <Word id="l_0021-w_0010" text="delle" error_score="0.922" error_type="error" />
+      <Word id="l_0021-w_0011" text="monete" error_score="0.922" error_type="error" />
+      <Word id="l_0021-w_0012" text="un" error_score="0.922" error_type="error" />
+      <Word id="l_0021-w_0013" text="monopolio," error_score="0.922" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0022" text="e di uniformare i pesi e le misure. Si riscontrano anche disposizioni che">
+      <Coords points="329,1125 327,1137 1583,1148 1586,1137 1584,1112 329,1101 329,1125" />
+      <Word id="l_0022-w_0001" text="e" error_score="0.922" error_type="error" />
+      <Word id="l_0022-w_0002" text="di" error_score="0.922" error_type="error" />
+      <Word id="l_0022-w_0003" text="uniformare" error_score="0.157" />
+      <Word id="l_0022-w_0004" text="i" error_score="0.157" />
+      <Word id="l_0022-w_0005" text="pesi" error_score="0.157" />
+      <Word id="l_0022-w_0006" text="e" error_score="0.157" />
+      <Word id="l_0022-w_0007" text="le" error_score="0.157" />
+      <Word id="l_0022-w_0008" text="misure." error_score="0.157" />
+      <Word id="l_0022-w_0009" text="Si" error_score="0.157" />
+      <Word id="l_0022-w_0010" text="riscontrano" error_score="0.157" />
+      <Word id="l_0022-w_0011" text="anche" error_score="0.157" />
+      <Word id="l_0022-w_0012" text="disposizioni" error_score="0.157" />
+      <Word id="l_0022-w_0013" text="che" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0023" text="fissavano i prezzi delle merci di prima necessità; dovevano restare">
+      <Coords points="327,1168 326,1179 394,1189 396,1189 930,1187 980,1195 982,1195 1584,1192 1586,1180 1584,1158 327,1145 327,1168" />
+      <Word id="l_0023-w_0001" text="fissavano" error_score="0.002" />
+      <Word id="l_0023-w_0002" text="i" error_score="0.002" />
+      <Word id="l_0023-w_0003" text="prezzi" error_score="0.002" />
+      <Word id="l_0023-w_0004" text="delle" error_score="0.002" />
+      <Word id="l_0023-w_0005" text="merci" error_score="0.002" />
+      <Word id="l_0023-w_0006" text="di" error_score="0.002" />
+      <Word id="l_0023-w_0007" text="prima" error_score="0.002" />
+      <Word id="l_0023-w_0008" text="necessità;" error_score="0.002" />
+      <Word id="l_0023-w_0009" text="dovevano" error_score="0.002" />
+      <Word id="l_0023-w_0010" text="restare" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0024" text="inalterati anche in tempi di carestia. Eran proibite la speculazione e l'usura,">
+      <Coords points="326,1211 324,1226 1581,1239 1584,1224 1583,1202 326,1189 326,1211" />
+      <Word id="l_0024-w_0001" text="inalterati" error_score="0.001" />
+      <Word id="l_0024-w_0002" text="anche" error_score="0.001" />
+      <Word id="l_0024-w_0003" text="in" error_score="0.001" />
+      <Word id="l_0024-w_0004" text="tempi" error_score="0.001" />
+      <Word id="l_0024-w_0005" text="di" error_score="0.001" />
+      <Word id="l_0024-w_0006" text="carestia." error_score="0.001" />
+      <Word id="l_0024-w_0007" text="Eran" error_score="0.001" />
+      <Word id="l_0024-w_0008" text="proibite" error_score="0.001" />
+      <Word id="l_0024-w_0009" text="la" error_score="0.001" />
+      <Word id="l_0024-w_0010" text="speculazione" error_score="0.001" />
+      <Word id="l_0024-w_0011" text="e" error_score="0.001" />
+      <Word id="l_0024-w_0012" text="l'usura," error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0025" text="compresa l'usura di qualsiasi affare d'interessi.">
+      <Coords points="327,1257 326,1270 1131,1276 1134,1263 1133,1241 327,1234 327,1257" />
+      <Word id="l_0025-w_0001" text="compresa" error_score="0.001" />
+      <Word id="l_0025-w_0002" text="l'usura" error_score="0.001" />
+      <Word id="l_0025-w_0003" text="di" error_score="0.001" />
+      <Word id="l_0025-w_0004" text="qualsiasi" error_score="0.001" />
+      <Word id="l_0025-w_0005" text="affare" error_score="0.001" />
+      <Word id="l_0025-w_0006" text="d'interessi." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0026" text="Nell' epoca carolingica lo Stato prese di nuovo sotto la">
+      <Coords points="431,1336 430,1346 795,1359 797,1359 961,1351 1053,1361 1055,1361 1057,1361 1058,1361 1068,1352 1084,1361 1086,1361 1087,1361 1584,1352 1586,1343 1586,1317 1557,1305 1555,1305 1553,1305 1552,1305 1529,1315 1493,1305 1492,1305 1490,1305 1488,1305 1448,1317 1310,1317 1264,1304 1263,1304 1261,1304 1260,1304 1219,1315 1052,1315 1042,1305 1040,1305 1039,1305 1037,1305 1035,1305 1013,1312 1003,1304 1003,1302 1001,1302 1000,1302 998,1302 857,1312 829,1302 828,1302 826,1302 824,1302 795,1312 751,1302 750,1302 748,1302 746,1302 730,1312 431,1301 431,1336" />
+      <Word id="l_0026-w_0001" text="Nell'" error_score="0.001" />
+      <Word id="l_0026-w_0002" text="epoca" error_score="0.005" />
+      <Word id="l_0026-w_0003" text="carolingica" error_score="0.005" />
+      <Word id="l_0026-w_0004" text="lo" error_score="0.005" />
+      <Word id="l_0026-w_0005" text="Stato" error_score="0.005" />
+      <Word id="l_0026-w_0006" text="prese" error_score="0.005" />
+      <Word id="l_0026-w_0007" text="di" error_score="0.005" />
+      <Word id="l_0026-w_0008" text="nuovo" error_score="0.005" />
+      <Word id="l_0026-w_0009" text="sotto" error_score="0.005" />
+      <Word id="l_0026-w_0010" text="la" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0027" text="sua tutela le comunicazioni. Si costruirono strade e ponti,">
+      <Coords points="329,1387 327,1396 526,1408 527,1408 613,1401 698,1409 1581,1412 1584,1398 1584,1369 1575,1362 1573,1362 1571,1362 1570,1362 1411,1372 1391,1361 1389,1361 1388,1361 1313,1361 1311,1361 1245,1370 1186,1359 1185,1359 1048,1369 1035,1359 1035,1357 1034,1357 1032,1357 1031,1357 893,1367 868,1356 867,1356 865,1356 863,1356 828,1365 764,1356 763,1356 699,1365 589,1365 556,1354 555,1354 553,1354 552,1354 530,1364 509,1352 508,1352 425,1352 423,1352 422,1352 394,1362 329,1351 329,1387" />
+      <Word id="l_0027-w_0001" text="sua" error_score="0.005" />
+      <Word id="l_0027-w_0002" text="tutela" error_score="0.005" />
+      <Word id="l_0027-w_0003" text="le" error_score="0.005" />
+      <Word id="l_0027-w_0004" text="comunicazioni." error_score="0.005" />
+      <Word id="l_0027-w_0005" text="Si" error_score="0.005" />
+      <Word id="l_0027-w_0006" text="costruirono" error_score="0.005" />
+      <Word id="l_0027-w_0007" text="strade" error_score="0.005" />
+      <Word id="l_0027-w_0008" text="e" error_score="0.005" />
+      <Word id="l_0027-w_0009" text="ponti," error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0028" text="si restaurarono i vecchi. Il tentativo di Carlo Magno di unire">
+      <Coords points="329,1438 327,1450 748,1463 750,1463 1584,1460 1586,1448 1584,1422 1540,1412 1539,1412 1537,1412 1501,1421 1456,1412 1454,1412 1326,1419 1315,1411 1313,1411 1311,1411 1310,1411 1195,1419 1167,1409 1165,1409 1164,1409 1162,1409 1144,1417 1131,1409 1130,1409 1128,1409 1126,1409 1086,1417 1022,1409 1021,1409 922,1416 910,1408 909,1408 907,1408 906,1408 904,1408 902,1408 894,1416 878,1408 876,1408 875,1408 837,1416 803,1408 802,1408 800,1408 673,1414 662,1406 660,1406 659,1406 657,1406 655,1406 634,1414 474,1414 453,1404 451,1404 449,1404 329,1411 329,1438" />
+      <Word id="l_0028-w_0001" text="si" error_score="0.005" />
+      <Word id="l_0028-w_0002" text="restaurarono" error_score="0.005" />
+      <Word id="l_0028-w_0003" text="i" error_score="0.003" />
+      <Word id="l_0028-w_0004" text="vecchi." error_score="0.003" />
+      <Word id="l_0028-w_0005" text="Il" error_score="0.003" />
+      <Word id="l_0028-w_0006" text="tentativo" error_score="0.003" />
+      <Word id="l_0028-w_0007" text="di" error_score="0.003" />
+      <Word id="l_0028-w_0008" text="Carlo" error_score="0.003" />
+      <Word id="l_0028-w_0009" text="Magno" error_score="0.003" />
+      <Word id="l_0028-w_0010" text="di" error_score="0.003" />
+      <Word id="l_0028-w_0011" text="unire" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0029" text="il Danubio e il Reno mediante un canale Altmühl-Regnitz">
+      <Coords points="327,1490 326,1502 537,1513 539,1513 1584,1511 1586,1500 1586,1476 1553,1464 1552,1464 1550,1464 1475,1474 1454,1464 1453,1464 1451,1464 1450,1464 1415,1472 1376,1463 1375,1463 1373,1463 1372,1463 1337,1472 1261,1463 1260,1463 1211,1472 1196,1463 1195,1463 1193,1463 1191,1463 1190,1463 1165,1472 972,1472 907,1460 906,1460 758,1469 714,1458 712,1458 711,1458 709,1458 675,1468 659,1458 657,1458 655,1458 654,1458 652,1458 620,1469 547,1469 529,1456 527,1456 526,1456 524,1456 427,1464 391,1456 389,1456 388,1456 386,1456 384,1456 375,1464 363,1456 362,1456 360,1456 358,1456 327,1458 327,1490" />
+      <Word id="l_0029-w_0001" text="il" error_score="0.003" />
+      <Word id="l_0029-w_0002" text="Danubio" error_score="0.009" />
+      <Word id="l_0029-w_0003" text="e" error_score="0.009" />
+      <Word id="l_0029-w_0004" text="il" error_score="0.009" />
+      <Word id="l_0029-w_0005" text="Reno" error_score="0.009" />
+      <Word id="l_0029-w_0006" text="mediante" error_score="0.009" />
+      <Word id="l_0029-w_0007" text="un" error_score="0.009" />
+      <Word id="l_0029-w_0008" text="canale" error_score="0.009" />
+      <Word id="l_0029-w_0009" text="Altmühl-Regnitz" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0030" text="falli per l'ignoranza tecnica del tempo. Il servizio per mezzo">
+      <Coords points="326,1544 324,1557 578,1568 579,1568 1584,1565 1586,1552 1584,1529 1334,1529 1305,1516 1303,1516 1302,1516 1211,1526 1191,1516 1190,1516 1188,1516 1186,1516 1144,1526 1000,1515 998,1515 996,1515 995,1515 982,1524 969,1515 967,1515 966,1515 922,1515 920,1515 919,1515 917,1515 904,1524 790,1524 768,1513 766,1513 764,1513 763,1513 761,1513 746,1524 610,1524 565,1511 563,1511 561,1511 326,1516 326,1544" />
+      <Word id="l_0030-w_0001" text="falli" error_score="0.009" />
+      <Word id="l_0030-w_0002" text="per" error_score="0.009" />
+      <Word id="l_0030-w_0003" text="l'ignoranza" error_score="0.006" />
+      <Word id="l_0030-w_0004" text="tecnica" error_score="0.006" />
+      <Word id="l_0030-w_0005" text="del" error_score="0.006" />
+      <Word id="l_0030-w_0006" text="tempo." error_score="0.006" />
+      <Word id="l_0030-w_0007" text="Il" error_score="0.006" />
+      <Word id="l_0030-w_0008" text="servizio" error_score="0.006" />
+      <Word id="l_0030-w_0009" text="per" error_score="0.006" />
+      <Word id="l_0030-w_0010" text="mezzo" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0031" text="di pedoni e il trasporto ebbero la forma di un ufficio pubblico.">
+      <Coords points="327,1596 326,1609 383,1618 384,1618 534,1612 547,1620 548,1620 550,1620 552,1620 1584,1618 1586,1606 1584,1581 1453,1570 1451,1570 1380,1580 1363,1568 1362,1568 1360,1568 1359,1568 1251,1578 1165,1567 1164,1567 1162,1567 1160,1567 1147,1576 1050,1567 1048,1567 1047,1567 1022,1576 985,1567 983,1567 982,1567 980,1567 958,1576 894,1576 881,1565 880,1565 878,1565 876,1565 831,1575 774,1567 772,1567 771,1567 769,1567 758,1575 639,1567 638,1567 636,1567 618,1573 607,1563 605,1563 604,1563 602,1563 539,1573 521,1562 519,1562 517,1562 516,1562 514,1562 482,1571 461,1562 459,1562 457,1562 386,1571 340,1562 339,1562 337,1562 336,1562 327,1567 327,1596" />
+      <Word id="l_0031-w_0001" text="di" error_score="0.006" />
+      <Word id="l_0031-w_0002" text="pedoni" error_score="0.006" />
+      <Word id="l_0031-w_0003" text="e" error_score="0.002" />
+      <Word id="l_0031-w_0004" text="il" error_score="0.002" />
+      <Word id="l_0031-w_0005" text="trasporto" error_score="0.002" />
+      <Word id="l_0031-w_0006" text="ebbero" error_score="0.002" />
+      <Word id="l_0031-w_0007" text="la" error_score="0.002" />
+      <Word id="l_0031-w_0008" text="forma" error_score="0.002" />
+      <Word id="l_0031-w_0009" text="di" error_score="0.002" />
+      <Word id="l_0031-w_0010" text="un" error_score="0.002" />
+      <Word id="l_0031-w_0011" text="ufficio" error_score="0.002" />
+      <Word id="l_0031-w_0012" text="pubblico." error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0032" text="Il commercio interno nel regno dei Franchi non">
+      <Coords points="428,1662 427,1670 659,1682 660,1682 1583,1679 1584,1670 1583,1644 1501,1644 1490,1633 1488,1633 1487,1633 1485,1633 1365,1643 1344,1631 1342,1631 1341,1631 1159,1641 1047,1641 1035,1630 1034,1630 1032,1630 1031,1630 1029,1630 998,1641 909,1641 845,1640 832,1628 831,1628 829,1628 828,1628 826,1628 824,1628 811,1636 774,1628 772,1628 771,1628 769,1628 758,1638 720,1628 719,1628 717,1628 716,1628 681,1638 428,1630 428,1662" />
+      <Word id="l_0032-w_0001" text="Il" error_score="0.002" />
+      <Word id="l_0032-w_0002" text="commercio" error_score="0.002" />
+      <Word id="l_0032-w_0003" text="interno" error_score="0.002" />
+      <Word id="l_0032-w_0004" text="nel" error_score="0.002" />
+      <Word id="l_0032-w_0005" text="regno" error_score="0.002" />
+      <Word id="l_0032-w_0006" text="dei" error_score="0.002" />
+      <Word id="l_0032-w_0007" text="Franchi" error_score="0.002" />
+      <Word id="l_0032-w_0008" text="non" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0033" text="si può dire insignificante. Uno scambio rilevante aveva luogo">
+      <Coords points="324,1713 323,1724 375,1734 376,1734 561,1727 602,1735 604,1735 972,1730 1084,1739 1086,1739 1583,1732 1584,1721 1583,1696 1471,1685 1469,1685 1467,1685 1466,1685 1453,1696 1334,1696 1297,1683 1295,1683 1294,1683 1216,1691 1173,1683 1172,1683 1170,1683 1128,1693 1079,1682 1078,1682 933,1691 876,1682 875,1682 829,1691 802,1683 800,1683 798,1683 743,1690 720,1680 719,1680 717,1680 654,1690 628,1680 626,1680 625,1680 623,1680 602,1690 576,1679 574,1679 573,1679 571,1679 569,1679 556,1688 480,1679 479,1679 477,1679 475,1679 459,1688 438,1679 436,1679 435,1679 379,1688 324,1677 324,1713" />
+      <Word id="l_0033-w_0001" text="si" error_score="0.002" />
+      <Word id="l_0033-w_0002" text="può" error_score="0.002" />
+      <Word id="l_0033-w_0003" text="dire" error_score="0.014" />
+      <Word id="l_0033-w_0004" text="insignificante." error_score="0.014" />
+      <Word id="l_0033-w_0005" text="Uno" error_score="0.014" />
+      <Word id="l_0033-w_0006" text="scambio" error_score="0.014" />
+      <Word id="l_0033-w_0007" text="rilevante" error_score="0.014" />
+      <Word id="l_0033-w_0008" text="aveva" error_score="0.014" />
+      <Word id="l_0033-w_0009" text="luogo" error_score="0.014" />
+    </TextLine>
+    <TextLine id="l_0034" text="presso i palatini del re e nei grandi possessi feudali,">
+      <Coords points="323,1769 323,1786 935,1781 1120,1792 1122,1792 1214,1790 1216,1790 1217,1790 1229,1782 1276,1792 1277,1792 1427,1782 1579,1790 1583,1773 1583,1745 1568,1737 1566,1737 1565,1737 1501,1737 1500,1737 1498,1737 1497,1737 1488,1745 1458,1737 1456,1737 1454,1737 1453,1737 1427,1745 1401,1737 1399,1737 1398,1737 1354,1747 1230,1747 1219,1737 1217,1737 1216,1737 1214,1737 1154,1747 1070,1747 1058,1737 1057,1737 1055,1737 1053,1737 1052,1737 1024,1745 845,1745 836,1735 834,1735 832,1735 831,1735 769,1743 742,1735 740,1735 738,1735 323,1742 323,1769" />
+      <Word id="l_0034-w_0001" text="presso" error_score="0.014" />
+      <Word id="l_0034-w_0002" text="i" error_score="0.014" />
+      <Word id="l_0034-w_0003" text="palatini" error_score="0.014" />
+      <Word id="l_0034-w_0004" text="del" error_score="0.012" />
+      <Word id="l_0034-w_0005" text="re" error_score="0.012" />
+      <Word id="l_0034-w_0006" text="e" error_score="0.012" />
+      <Word id="l_0034-w_0007" text="nei" error_score="0.012" />
+      <Word id="l_0034-w_0008" text="grandi" error_score="0.012" />
+      <Word id="l_0034-w_0009" text="possessi" error_score="0.012" />
+      <Word id="l_0034-w_0010" text="feudali," error_score="0.012" />
+    </TextLine>
+    <TextLine id="l_0035" text="come pure nelle residenze vescovili e nei conventi, nelle città">
+      <Coords points="323,1820 321,1829 643,1841 644,1841 1583,1836 1584,1826 1584,1800 1573,1792 1571,1792 1570,1792 1568,1792 1493,1800 1451,1792 1450,1792 1404,1800 1350,1792 1349,1792 1061,1799 1050,1790 1048,1790 1047,1790 1045,1790 961,1799 876,1799 865,1789 863,1789 862,1789 860,1789 657,1797 641,1787 639,1787 638,1787 636,1787 591,1795 323,1795 323,1820" />
+      <Word id="l_0035-w_0001" text="come" error_score="0.012" />
+      <Word id="l_0035-w_0002" text="pure" error_score="0.012" />
+      <Word id="l_0035-w_0003" text="nelle" error_score="0.012" />
+      <Word id="l_0035-w_0004" text="residenze" error_score="0.003" />
+      <Word id="l_0035-w_0005" text="vescovili" error_score="0.003" />
+      <Word id="l_0035-w_0006" text="e" error_score="0.003" />
+      <Word id="l_0035-w_0007" text="nei" error_score="0.003" />
+      <Word id="l_0035-w_0008" text="conventi," error_score="0.003" />
+      <Word id="l_0035-w_0009" text="nelle" error_score="0.003" />
+      <Word id="l_0035-w_0010" text="città" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0036" text="antiche e in quelle che sorgevano nuove. Poca importanza">
+      <Coords points="321,1872 319,1881 352,1891 353,1891 355,1891 602,1885 636,1894 638,1894 639,1894 730,1886 764,1894 766,1894 768,1894 826,1886 1032,1896 1034,1896 1035,1896 1037,1896 1047,1888 1096,1896 1097,1896 1264,1888 1273,1894 1273,1896 1274,1896 1276,1896 1277,1896 1354,1889 1398,1898 1399,1898 1583,1888 1584,1878 1583,1854 1290,1854 1269,1844 1268,1844 1266,1844 321,1846 321,1872" />
+      <Word id="l_0036-w_0001" text="antiche" error_score="0.003" />
+      <Word id="l_0036-w_0002" text="e" error_score="0.003" />
+      <Word id="l_0036-w_0003" text="in" error_score="0.003" />
+      <Word id="l_0036-w_0004" text="quelle" error_score="0.011" />
+      <Word id="l_0036-w_0005" text="che" error_score="0.011" />
+      <Word id="l_0036-w_0006" text="sorgevano" error_score="0.011" />
+      <Word id="l_0036-w_0007" text="nuove." error_score="0.011" />
+      <Word id="l_0036-w_0008" text="Poca" error_score="0.011" />
+      <Word id="l_0036-w_0009" text="importanza" error_score="0.011" />
+    </TextLine>
+    <TextLine id="l_0037" text="aveva il commercio coll'estero. Meritano considerazione però">
+      <Coords points="321,1925 319,1936 1581,1941 1584,1930 1584,1904 1575,1896 1573,1896 1571,1896 1570,1896 1531,1904 1274,1896 1273,1896 1173,1904 1099,1894 998,1894 996,1894 995,1894 993,1894 982,1904 891,1904 880,1894 878,1894 876,1894 875,1894 873,1894 845,1902 816,1894 815,1894 813,1894 755,1902 501,1902 490,1893 488,1893 487,1893 485,1893 321,1899 321,1925" />
+      <Word id="l_0037-w_0001" text="aveva" error_score="0.011" />
+      <Word id="l_0037-w_0002" text="il" error_score="0.011" />
+      <Word id="l_0037-w_0003" text="commercio" error_score="0.011" />
+      <Word id="l_0037-w_0004" text="coll'estero." error_score="0.011" />
+      <Word id="l_0037-w_0005" text="Meritano" error_score="0.059" />
+      <Word id="l_0037-w_0006" text="considerazione" error_score="0.059" />
+      <Word id="l_0037-w_0007" text="però" error_score="0.059" />
+    </TextLine>
+    <TextLine id="l_0038" text="le fiere che si tenevano ai confini, dove si facevano">
+      <Coords points="321,1979 319,1988 326,1995 326,1996 327,1996 329,1996 331,1996 711,1990 740,1998 742,1998 743,1998 1581,1992 1583,1983 1581,1959 1445,1959 1414,1948 1412,1948 1411,1948 1409,1948 1407,1948 1391,1958 1365,1948 1363,1948 1362,1948 1315,1958 1232,1948 1230,1948 1182,1958 1141,1946 1139,1946 1138,1946 1047,1956 975,1946 974,1946 972,1946 949,1958 755,1958 725,1945 724,1945 722,1945 720,1945 719,1945 706,1954 683,1945 681,1945 680,1945 678,1945 644,1954 558,1945 556,1945 555,1945 553,1945 535,1956 454,1956 402,1945 401,1945 399,1945 365,1954 321,1945 321,1979" />
+      <Word id="l_0038-w_0001" text="le" error_score="0.059" />
+      <Word id="l_0038-w_0002" text="fiere" error_score="0.059" />
+      <Word id="l_0038-w_0003" text="che" error_score="0.059" />
+      <Word id="l_0038-w_0004" text="si" error_score="0.059" />
+      <Word id="l_0038-w_0005" text="tenevano" error_score="0.059" />
+      <Word id="l_0038-w_0006" text="ai" error_score="0.059" />
+      <Word id="l_0038-w_0007" text="confini," error_score="0.059" />
+      <Word id="l_0038-w_0008" text="dove" error_score="0.013" />
+      <Word id="l_0038-w_0009" text="si" error_score="0.013" />
+      <Word id="l_0038-w_0010" text="facevano" error_score="0.013" />
+    </TextLine>
+    <TextLine id="l_0039" text="affari con Danesi, Slavi, Avari. Di queste piazze di confine">
+      <Coords points="321,2031 319,2042 331,2050 332,2050 334,2050 336,2050 535,2044 638,2052 639,2052 1581,2047 1583,2037 1581,2011 1510,2000 1508,2000 1432,2009 1393,2000 1391,2000 1389,2000 1388,2000 1386,2000 1372,2011 1298,2011 1268,1998 1266,1998 1264,1998 1263,1998 1235,2008 1186,1998 1185,1998 1076,2008 1063,1998 1061,1998 1060,1998 1011,1998 1009,1998 1008,1998 974,2008 953,1996 951,1996 949,1996 948,1996 927,2006 863,1996 862,1996 860,1996 824,2006 802,1996 800,1996 798,1996 797,1996 769,2006 722,1996 720,1996 719,1996 686,2006 667,1996 665,1996 664,1996 662,1996 638,2006 573,1995 571,1995 569,1995 529,2006 441,2006 428,1995 427,1995 425,1995 423,1995 422,1995 396,2005 384,1995 383,1995 381,1995 379,1995 321,2003 321,2031" />
+      <Word id="l_0039-w_0001" text="affari" error_score="0.013" />
+      <Word id="l_0039-w_0002" text="con" error_score="0.013" />
+      <Word id="l_0039-w_0003" text="Danesi," error_score="0.013" />
+      <Word id="l_0039-w_0004" text="Slavi," error_score="0.013" />
+      <Word id="l_0039-w_0005" text="Avari." error_score="0.013" />
+      <Word id="l_0039-w_0006" text="Di" error_score="0.013" />
+      <Word id="l_0039-w_0007" text="queste" error_score="0.013" />
+      <Word id="l_0039-w_0008" text="piazze" error_score="0.001" />
+      <Word id="l_0039-w_0009" text="di" error_score="0.001" />
+      <Word id="l_0039-w_0010" text="confine" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0040" text="vanno ricordate Bardewich, Magdeburgo, Erfurt, Forchheim,">
+      <Coords points="323,2081 321,2094 1579,2102 1583,2089 1581,2063 1355,2053 1354,2053 1352,2053 1329,2061 1303,2052 1302,2052 1300,2052 1298,2052 1277,2060 1186,2052 1185,2052 1183,2052 1182,2052 1170,2061 1100,2061 1047,2050 1045,2050 858,2058 819,2048 818,2048 816,2048 815,2048 792,2056 662,2048 660,2048 586,2056 574,2047 573,2047 571,2047 569,2047 568,2047 548,2055 491,2047 490,2047 488,2047 467,2055 323,2055 323,2081" />
+      <Word id="l_0040-w_0001" text="vanno" error_score="0.001" />
+      <Word id="l_0040-w_0002" text="ricordate" error_score="0.001" />
+      <Word id="l_0040-w_0003" text="Bardewich," error_score="0.001" />
+      <Word id="l_0040-w_0004" text="Magdeburgo," error_score="0.001" />
+      <Word id="l_0040-w_0005" text="Erfurt," error_score="0.001" />
+      <Word id="l_0040-w_0006" text="Forchheim," error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0041" text="Ratisbona, Lorch (allo sbocco dell' Enns nel Danubio). I passi">
+      <Coords points="321,2136 319,2147 758,2159 759,2159 1579,2152 1581,2141 1578,2108 1475,2113 1443,2104 1441,2104 1440,2104 1438,2104 1401,2113 1389,2104 1388,2104 1386,2104 1324,2104 1323,2104 1274,2113 1188,2104 1186,2104 1185,2104 1183,2104 1167,2113 949,2102 948,2102 946,2102 945,2102 932,2113 837,2113 815,2102 813,2102 811,2102 810,2102 769,2112 742,2100 740,2100 738,2100 589,2110 556,2100 555,2100 553,2100 552,2100 550,2100 537,2112 454,2112 441,2100 440,2100 438,2100 436,2100 375,2108 321,2102 321,2136" />
+      <Word id="l_0041-w_0001" text="Ratisbona," error_score="0.001" />
+      <Word id="l_0041-w_0002" text="Lorch" error_score="0.010" />
+      <Word id="l_0041-w_0003" text="(allo" error_score="0.010" />
+      <Word id="l_0041-w_0004" text="sbocco" error_score="0.010" />
+      <Word id="l_0041-w_0005" text="dell'" error_score="0.010" />
+      <Word id="l_0041-w_0006" text="Enns" error_score="0.010" />
+      <Word id="l_0041-w_0007" text="nel" error_score="0.010" />
+      <Word id="l_0041-w_0008" text="Danubio)." error_score="0.010" />
+      <Word id="l_0041-w_0009" text="I" error_score="0.010" />
+      <Word id="l_0041-w_0010" text="passi" error_score="0.010" />
+    </TextLine>
+    <TextLine id="l_0042" text="alpini rendevano possibile un commercio coll'Italia. Col-">
+      <Coords points="319,2188 318,2196 349,2209 350,2209 352,2209 469,2199 639,2211 641,2211 643,2211 680,2201 701,2211 703,2211 704,2211 914,2201 1419,2214 1420,2214 1422,2214 1454,2204 1532,2214 1534,2214 1536,2214 1578,2202 1579,2194 1579,2170 1558,2159 1557,2159 1501,2159 1500,2159 1498,2159 1497,2159 1482,2170 1435,2170 1419,2159 1417,2159 1415,2159 1414,2159 1211,2167 1195,2157 1193,2157 1191,2157 1190,2157 1006,2167 876,2167 860,2155 858,2155 857,2155 794,2155 792,2155 790,2155 789,2155 776,2165 584,2165 563,2154 561,2154 560,2154 514,2165 453,2165 440,2154 438,2154 436,2154 435,2154 319,2162 319,2188" />
+      <Word id="l_0042-w_0001" text="alpini" error_score="0.010" />
+      <Word id="l_0042-w_0002" text="rendevano" error_score="0.064" />
+      <Word id="l_0042-w_0003" text="possibile" error_score="0.064" />
+      <Word id="l_0042-w_0004" text="un" error_score="0.064" />
+      <Word id="l_0042-w_0005" text="commercio" error_score="0.064" />
+      <Word id="l_0042-w_0006" text="coll'Italia." error_score="0.064" />
+      <Word id="l_0042-w_0007" text="Col-" error_score="0.064" />
+    </TextLine>
+    <TextLine id="l_0043" text="l'Inghilterra e colla Scandinavia si trafficava per mare. L'idea">
+      <Coords points="319,2241 318,2253 396,2263 397,2263 737,2256 1230,2266 1232,2266 1578,2258 1579,2246 1578,2220 1527,2211 1526,2211 1177,2219 1141,2209 1139,2209 1138,2209 889,2217 844,2209 842,2209 785,2217 701,2207 699,2207 657,2215 319,2209 319,2241" />
+      <Word id="l_0043-w_0001" text="l'Inghilterra" error_score="0.064" />
+      <Word id="l_0043-w_0002" text="e" error_score="0.064" />
+      <Word id="l_0043-w_0003" text="colla" error_score="0.064" />
+      <Word id="l_0043-w_0004" text="Scandinavia" error_score="0.064" />
+      <Word id="l_0043-w_0005" text="si" error_score="0.005" />
+      <Word id="l_0043-w_0006" text="trafficava" error_score="0.005" />
+      <Word id="l_0043-w_0007" text="per" error_score="0.005" />
+      <Word id="l_0043-w_0008" text="mare." error_score="0.005" />
+      <Word id="l_0043-w_0009" text="L'idea" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0044" text="di Carlo Magno, di riprendere il commercio col Levante, non">
+      <Coords points="321,2295 319,2305 636,2316 638,2316 1579,2311 1581,2301 1579,2275 1464,2275 1438,2264 1437,2264 1435,2264 1433,2264 1401,2274 1329,2264 1328,2264 1214,2272 1198,2263 1196,2263 1195,2263 1193,2263 1032,2272 987,2263 985,2263 894,2269 878,2261 876,2261 875,2261 826,2271 768,2261 766,2261 764,2261 735,2271 714,2261 712,2261 711,2261 709,2261 670,2271 565,2271 552,2259 550,2259 548,2259 547,2259 493,2269 464,2259 462,2259 461,2259 459,2259 433,2269 417,2259 415,2259 414,2259 412,2259 321,2267 321,2295" />
+      <Word id="l_0044-w_0001" text="di" error_score="0.005" />
+      <Word id="l_0044-w_0002" text="Carlo" error_score="0.005" />
+      <Word id="l_0044-w_0003" text="Magno," error_score="0.005" />
+      <Word id="l_0044-w_0004" text="di" error_score="0.005" />
+      <Word id="l_0044-w_0005" text="riprendere" error_score="0.005" />
+      <Word id="l_0044-w_0006" text="il" error_score="0.001" />
+      <Word id="l_0044-w_0007" text="commercio" error_score="0.001" />
+      <Word id="l_0044-w_0008" text="col" error_score="0.001" />
+      <Word id="l_0044-w_0009" text="Levante," error_score="0.001" />
+      <Word id="l_0044-w_0010" text="non" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0045" text="diede alcun risultato duraturo, sebbene quell'imperatore, per">
+      <Coords points="319,2347 318,2358 634,2370 636,2370 1578,2365 1579,2353 1578,2329 1414,2329 1396,2319 1394,2319 1393,2319 1328,2327 1263,2316 1261,2316 1144,2326 998,2316 996,2316 949,2326 852,2314 850,2314 789,2323 768,2314 766,2314 764,2314 763,2314 761,2314 750,2324 701,2314 699,2314 698,2314 696,2314 685,2323 665,2314 664,2314 662,2314 617,2321 605,2313 604,2313 602,2313 600,2313 599,2313 566,2323 482,2313 480,2313 479,2313 449,2323 409,2313 407,2313 405,2313 319,2319 319,2347" />
+      <Word id="l_0045-w_0001" text="diede" error_score="0.001" />
+      <Word id="l_0045-w_0002" text="alcun" error_score="0.001" />
+      <Word id="l_0045-w_0003" text="risultato" error_score="0.001" />
+      <Word id="l_0045-w_0004" text="duraturo," error_score="0.001" />
+      <Word id="l_0045-w_0005" text="sebbene" error_score="0.001" />
+      <Word id="l_0045-w_0006" text="quell'imperatore," error_score="0.001" />
+      <Word id="l_0045-w_0007" text="per" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0046" text="raggiungere questo scopo, avesse intavolate delle trattative">
+      <Coords points="319,2399 318,2409 358,2420 360,2420 362,2420 568,2412 582,2421 584,2421 586,2421 587,2423 698,2423 698,2421 699,2421 701,2421 714,2413 839,2423 841,2423 842,2423 875,2415 1336,2425 1337,2425 1386,2418 1438,2426 1440,2426 1578,2417 1579,2407 1578,2383 1394,2373 1393,2373 1391,2373 1360,2381 1328,2371 1326,2371 1324,2371 1260,2379 1065,2370 1063,2370 1061,2370 1029,2378 694,2378 683,2368 681,2368 680,2368 678,2368 677,2368 655,2376 430,2366 428,2366 319,2373 319,2399" />
+      <Word id="l_0046-w_0001" text="raggiungere" error_score="0.001" />
+      <Word id="l_0046-w_0002" text="questo" error_score="0.001" />
+      <Word id="l_0046-w_0003" text="scopo," error_score="0.001" />
+      <Word id="l_0046-w_0004" text="avesse" error_score="0.001" />
+      <Word id="l_0046-w_0005" text="intavolate" error_score="0.001" />
+      <Word id="l_0046-w_0006" text="delle" error_score="0.001" />
+      <Word id="l_0046-w_0007" text="trattative" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0047" text="colle corti di Bizanzio e di Bagdad. Verano però fin dal tempo">
+      <Coords points="319,2451 318,2462 696,2475 698,2475 816,2467 949,2477 951,2477 1100,2469 1557,2478 1558,2478 1560,2478 1576,2469 1578,2457 1576,2433 1487,2433 1461,2421 1459,2421 1458,2421 1414,2430 1391,2421 1389,2421 1388,2421 1386,2421 1385,2421 1373,2431 1339,2421 1337,2421 1336,2421 1263,2431 1104,2430 1094,2420 1092,2420 1091,2420 1048,2420 1047,2420 1045,2420 1044,2420 1032,2430 1018,2420 1016,2420 1014,2420 1013,2420 919,2428 899,2418 897,2418 896,2418 660,2428 634,2417 633,2417 553,2417 552,2417 550,2417 548,2417 537,2426 526,2417 524,2417 522,2417 521,2417 457,2426 392,2417 391,2417 319,2425 319,2451" />
+      <Word id="l_0047-w_0001" text="colle" error_score="0.001" />
+      <Word id="l_0047-w_0002" text="corti" error_score="0.011" />
+      <Word id="l_0047-w_0003" text="di" error_score="0.011" />
+      <Word id="l_0047-w_0004" text="Bizanzio" error_score="0.011" />
+      <Word id="l_0047-w_0005" text="e" error_score="0.011" />
+      <Word id="l_0047-w_0006" text="di" error_score="0.011" />
+      <Word id="l_0047-w_0007" text="Bagdad." error_score="0.011" />
+      <Word id="l_0047-w_0008" text="Verano" error_score="0.011" />
+      <Word id="l_0047-w_0009" text="però" error_score="0.011" />
+      <Word id="l_0047-w_0010" text="fin" error_score="0.011" />
+      <Word id="l_0047-w_0011" text="dal" error_score="0.011" />
+      <Word id="l_0047-w_0012" text="tempo" error_score="0.166" />
+    </TextLine>
+    <TextLine id="l_0048" text="dei Carolingi Ebrei viaggiatori, che, dalla Spagna e dal regno">
+      <Coords points="321,2503 319,2516 948,2532 949,2532 951,2532 970,2524 1037,2532 1039,2532 1175,2525 1196,2533 1198,2533 1199,2533 1477,2527 1490,2535 1492,2535 1493,2535 1495,2535 1575,2525 1576,2512 1575,2486 1453,2486 1443,2477 1441,2477 1440,2477 1438,2477 1227,2483 1211,2475 1209,2475 1208,2475 1164,2483 1152,2473 1151,2473 1149,2473 1147,2473 958,2482 946,2472 945,2472 943,2472 941,2472 940,2472 920,2480 845,2472 844,2472 784,2480 763,2472 761,2472 759,2472 758,2472 756,2472 746,2480 716,2470 714,2470 712,2470 711,2470 691,2478 563,2470 561,2470 560,2470 530,2478 516,2469 514,2469 513,2469 511,2469 321,2475 321,2503" />
+      <Word id="l_0048-w_0001" text="dei" error_score="0.166" />
+      <Word id="l_0048-w_0002" text="Carolingi" error_score="0.166" />
+      <Word id="l_0048-w_0003" text="Ebrei" error_score="0.166" />
+      <Word id="l_0048-w_0004" text="viaggiatori," error_score="0.166" />
+      <Word id="l_0048-w_0005" text="che," error_score="0.166" />
+      <Word id="l_0048-w_0006" text="dalla" error_score="0.166" />
+      <Word id="l_0048-w_0007" text="Spagna" error_score="0.166" />
+      <Word id="l_0048-w_0008" text="e" error_score="0.166" />
+      <Word id="l_0048-w_0009" text="dal" error_score="0.166" />
+      <Word id="l_0048-w_0010" text="regno" error_score="0.523" error_type="error" />
+    </TextLine>
+  </TextRegion>
+</Page>

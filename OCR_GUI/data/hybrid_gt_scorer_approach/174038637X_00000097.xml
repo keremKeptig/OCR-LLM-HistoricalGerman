@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="174038637X_00000097.bin.png" imageHeight="2789" imageWidth="1788" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="755,278 877,291 873,347 1007,359 1046,390 1138,371 1200,402 1397,409 1409,433 1422,1746 1378,1771 1077,1802 945,1870 1020,1890 1052,1952 1113,1958 1158,2001 1415,2026 1422,2390 161,2403 161,2094 260,2032 432,2008 440,1977 521,1944 527,1890 589,1865 562,1839 167,1832 148,1808 142,483 221,458 248,415 457,409 545,359 654,353 668,297 755,278" />
+    <TextLine id="l_0001" text="— 85 —">
+      <Coords points="683,316 683,328 735,320 744,328 744,330 745,330 747,330 749,331 787,331 787,330 789,330 817,320 854,330 859,314 856,295 747,285 745,285 744,285 742,285 742,286 733,295 682,295 683,316" />
+      <Word id="l_0001-w_0001" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0002" text="85" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0003" text="—" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0002" text="Die Färöer Inseln und lsland.">
+      <Coords points="983,356 973,354 966,362 925,354 924,354 811,365 727,357 725,357 724,357 722,357 722,359 721,359 714,367 629,359 628,359 626,359 600,368 547,361 545,361 544,361 542,361 533,367 535,396 535,405 1003,398 1003,388 1001,364 984,356 983,356" />
+      <Word id="l_0002-w_0001" text="Die" error_score="0.038" />
+      <Word id="l_0002-w_0002" text="Färöer" error_score="0.038" />
+      <Word id="l_0002-w_0003" text="Inseln" error_score="0.038" />
+      <Word id="l_0002-w_0004" text="und" error_score="0.038" />
+      <Word id="l_0002-w_0005" text="lsland." error_score="0.038" />
+    </TextLine>
+    <TextLine id="l_0003" text="Die aus Basalt aufgebauten Färöer Inseln haben ent-">
+      <Coords points="1364,407 1363,407 1246,415 1234,405 1232,405 1231,405 1229,405 1228,405 1203,413 1184,405 1183,405 1181,405 1180,405 1178,405 1163,418 1104,407 1102,407 1101,407 1074,419 1001,409 1000,409 998,409 972,421 869,410 868,410 823,412 821,412 820,412 806,422 742,415 741,415 694,422 673,413 671,413 669,413 668,413 666,413 654,424 628,415 626,415 624,415 556,427 531,416 530,416 528,416 527,416 502,427 465,416 463,416 462,416 460,416 421,430 316,430 294,419 293,419 291,419 245,426 246,457 246,466 1391,449 1392,440 1391,416 1366,407 1364,407" />
+      <Word id="l_0003-w_0001" text="Die" error_score="0.209" />
+      <Word id="l_0003-w_0002" text="aus" error_score="0.209" />
+      <Word id="l_0003-w_0003" text="Basalt" error_score="0.209" />
+      <Word id="l_0003-w_0004" text="aufgebauten" error_score="0.209" />
+      <Word id="l_0003-w_0005" text="Färöer" error_score="0.209" />
+      <Word id="l_0003-w_0006" text="Inseln" error_score="0.209" />
+      <Word id="l_0003-w_0007" text="haben" error_score="0.209" />
+      <Word id="l_0003-w_0008" text="ent-" error_score="0.209" />
+    </TextLine>
+    <TextLine id="l_0004" text="sprechend ihrer Lage inmitten des Ozeans zwar ein ozeanisch">
+      <Coords points="144,508 144,517 251,525 252,525 339,515 389,523 390,523 452,514 516,522 517,522 572,512 640,520 642,520 770,509 863,509 876,517 877,517 879,517 880,517 1394,503 1395,492 1394,467 1381,460 1380,460 1378,460 1377,460 1243,469 1155,461 1153,461 1152,461 1150,461 1138,471 869,466 868,466 866,466 832,474 784,466 783,466 781,466 780,466 766,475 665,467 663,467 662,467 632,477 607,469 606,469 604,469 603,469 586,477 482,471 480,471 479,471 477,471 466,478 364,472 362,472 361,472 359,472 350,480 317,472 316,472 314,472 142,483 144,508" />
+      <Word id="l_0004-w_0001" text="sprechend" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="ihrer" error_score="0.000" />
+      <Word id="l_0004-w_0003" text="Lage" error_score="0.000" />
+      <Word id="l_0004-w_0004" text="inmitten" error_score="0.000" />
+      <Word id="l_0004-w_0005" text="des" error_score="0.000" />
+      <Word id="l_0004-w_0006" text="Ozeans" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="zwar" error_score="0.000" />
+      <Word id="l_0004-w_0008" text="ein" error_score="0.000" />
+      <Word id="l_0004-w_0009" text="ozeanisch" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0005" text="mildes Klima, des nassen, kühlen Sommers und des felsigen Bodens">
+      <Coords points="145,562 145,574 1394,554 1395,542 1392,519 1322,508 1321,508 1319,508 1318,508 1305,517 1284,509 1282,509 1280,509 1279,509 1248,519 1118,511 1116,511 1114,511 1113,511 1113,512 1101,522 1045,512 1043,512 1042,512 1040,512 1026,522 1012,512 1011,512 1009,512 1007,512 1006,512 1004,512 987,523 815,526 793,517 792,517 790,517 789,517 762,526 640,519 638,519 637,519 635,519 621,531 462,531 434,522 432,522 431,522 429,522 428,522 428,523 415,533 336,523 334,523 280,525 279,525 277,525 265,534 182,526 181,526 179,526 144,537 145,562" />
+      <Word id="l_0005-w_0001" text="mildes" error_score="0.000" />
+      <Word id="l_0005-w_0002" text="Klima," error_score="0.000" />
+      <Word id="l_0005-w_0003" text="des" error_score="0.000" />
+      <Word id="l_0005-w_0004" text="nassen," error_score="0.000" />
+      <Word id="l_0005-w_0005" text="kühlen" error_score="0.000" />
+      <Word id="l_0005-w_0006" text="Sommers" error_score="0.000" />
+      <Word id="l_0005-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0005-w_0008" text="des" error_score="0.000" />
+      <Word id="l_0005-w_0009" text="felsigen" error_score="0.000" />
+      <Word id="l_0005-w_0010" text="Bodens" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0006" text="wegen kann aber auf ihnen kein Ackerbau getrieben werden. Nur">
+      <Coords points="147,612 147,624 1394,607 1395,594 1392,573 1350,563 1349,563 1159,574 1054,567 1052,567 930,577 832,570 831,570 829,570 828,570 817,579 807,571 806,571 804,571 803,571 801,571 786,579 731,571 730,571 728,571 711,579 538,574 536,574 482,584 410,576 409,576 407,576 370,585 283,577 282,577 280,577 279,577 268,587 145,588 147,612" />
+      <Word id="l_0006-w_0001" text="wegen" error_score="0.000" />
+      <Word id="l_0006-w_0002" text="kann" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="aber" error_score="0.000" />
+      <Word id="l_0006-w_0004" text="auf" error_score="0.000" />
+      <Word id="l_0006-w_0005" text="ihnen" error_score="0.000" />
+      <Word id="l_0006-w_0006" text="kein" error_score="0.000" />
+      <Word id="l_0006-w_0007" text="Ackerbau" error_score="0.000" />
+      <Word id="l_0006-w_0008" text="getrieben" error_score="0.000" />
+      <Word id="l_0006-w_0009" text="werden." error_score="0.000" />
+      <Word id="l_0006-w_0010" text="Nur" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0007" text="die Schafzucht blüht. Die Bewohner finden auch durch Fischerei und">
+      <Coords points="145,663 145,675 1395,660 1395,647 1391,618 1319,622 1299,615 1297,615 1296,615 1243,624 1234,616 1232,616 1231,616 1149,616 1147,616 1145,616 1144,616 1135,625 1114,618 1113,618 1111,618 1066,625 1045,618 1043,618 1042,618 983,627 874,621 873,621 871,621 869,621 860,629 821,621 820,621 762,630 621,624 620,624 618,624 617,624 606,632 542,624 541,624 539,624 516,633 421,625 420,625 418,625 389,635 305,627 303,627 302,627 300,627 289,635 221,629 220,629 218,629 201,636 159,629 158,629 156,629 155,629 144,635 145,663" />
+      <Word id="l_0007-w_0001" text="die" error_score="0.001" />
+      <Word id="l_0007-w_0002" text="Schafzucht" error_score="0.001" />
+      <Word id="l_0007-w_0003" text="blüht." error_score="0.001" />
+      <Word id="l_0007-w_0004" text="Die" error_score="0.001" />
+      <Word id="l_0007-w_0005" text="Bewohner" error_score="0.001" />
+      <Word id="l_0007-w_0006" text="finden" error_score="0.001" />
+      <Word id="l_0007-w_0007" text="auch" error_score="0.001" />
+      <Word id="l_0007-w_0008" text="durch" error_score="0.001" />
+      <Word id="l_0007-w_0009" text="Fischerei" error_score="0.001" />
+      <Word id="l_0007-w_0010" text="und" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0008" text="das Sammeln von Eiderdunen ihren Unterhalt.">
+      <Coords points="147,715 147,726 1025,717 1025,706 1023,683 1004,674 1003,674 1001,674 966,681 956,674 955,674 953,674 952,674 950,674 924,681 840,675 838,675 837,675 835,675 835,677 828,683 731,675 730,675 728,675 727,675 727,677 725,677 719,684 606,677 604,677 603,677 579,686 502,678 500,678 499,678 497,678 497,680 490,687 376,687 356,680 355,680 353,680 352,680 350,680 339,687 234,681 232,681 192,689 162,681 161,681 159,681 158,681 156,681 145,687 147,715" />
+      <Word id="l_0008-w_0001" text="das" error_score="0.011" />
+      <Word id="l_0008-w_0002" text="Sammeln" error_score="0.011" />
+      <Word id="l_0008-w_0003" text="von" error_score="0.011" />
+      <Word id="l_0008-w_0004" text="Eiderdunen" error_score="0.011" />
+      <Word id="l_0008-w_0005" text="ihren" error_score="0.011" />
+      <Word id="l_0008-w_0006" text="Unterhalt." error_score="0.011" />
+    </TextLine>
+    <TextLine id="l_0009" text="Die ebenfalls zu Dänemark gehörende Insel Island liegt">
+      <Coords points="248,766 248,777 308,785 310,785 311,785 341,777 352,785 353,785 355,785 356,785 358,785 359,785 359,784 367,777 431,784 432,784 503,774 562,782 564,782 566,782 592,773 607,780 609,780 610,782 707,782 707,780 786,771 818,779 820,779 821,779 1397,763 1398,751 1395,725 1315,717 1313,717 1311,717 1310,717 1299,726 1262,718 1260,718 1215,728 1178,718 1177,718 1175,718 1118,729 1094,720 1093,720 1091,720 990,731 964,722 963,722 961,722 904,732 857,723 856,723 854,723 852,723 837,734 778,734 762,725 761,725 759,725 758,725 704,735 598,726 597,726 595,726 593,726 593,728 581,739 499,739 479,728 477,728 476,728 387,739 365,729 364,729 362,729 361,729 359,729 345,740 257,731 255,731 254,731 252,731 252,732 246,737 248,766" />
+      <Word id="l_0009-w_0001" text="Die" error_score="0.103" />
+      <Word id="l_0009-w_0002" text="ebenfalls" error_score="0.103" />
+      <Word id="l_0009-w_0003" text="zu" error_score="0.103" />
+      <Word id="l_0009-w_0004" text="Dänemark" error_score="0.103" />
+      <Word id="l_0009-w_0005" text="gehörende" error_score="0.103" />
+      <Word id="l_0009-w_0006" text="Insel" error_score="0.103" />
+      <Word id="l_0009-w_0007" text="Island" error_score="0.103" />
+      <Word id="l_0009-w_0008" text="liegt" error_score="0.103" />
+    </TextLine>
+    <TextLine id="l_0010" text="fast unter dem nördlichen Polarkreis und ist ein wildes, bergiges">
+      <Coords points="147,819 147,830 372,836 373,836 652,825 826,830 828,830 829,830 856,822 927,828 928,828 930,828 947,821 1361,822 1363,822 1400,813 1400,802 1397,779 1322,771 1321,771 1211,780 1169,773 1167,773 1116,782 961,776 959,776 913,785 829,777 828,777 826,777 804,787 716,779 714,779 655,788 527,782 525,782 457,791 373,784 372,784 370,784 369,784 355,793 291,785 289,785 235,794 212,787 210,787 209,787 145,791 147,819" />
+      <Word id="l_0010-w_0001" text="fast" error_score="0.000" />
+      <Word id="l_0010-w_0002" text="unter" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="dem" error_score="0.000" />
+      <Word id="l_0010-w_0004" text="nördlichen" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="Polarkreis" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="und" error_score="0.000" />
+      <Word id="l_0010-w_0007" text="ist" error_score="0.000" />
+      <Word id="l_0010-w_0008" text="ein" error_score="0.000" />
+      <Word id="l_0010-w_0009" text="wildes," error_score="0.000" />
+      <Word id="l_0010-w_0010" text="bergiges" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0011" text="Land. Entsprechend seiner geographischen Lage kann sein Boden">
+      <Coords points="148,873 148,886 1397,867 1398,855 1395,832 1293,822 1291,822 1290,822 1266,832 1225,824 1223,824 1221,824 1186,833 1085,825 1083,825 1082,825 1080,825 1068,835 981,827 980,827 978,827 956,836 885,828 883,828 882,828 880,828 868,838 817,830 815,830 766,841 618,841 587,833 586,833 584,833 583,833 550,842 517,835 516,835 514,835 428,844 147,844 148,873" />
+      <Word id="l_0011-w_0001" text="Land." error_score="0.000" />
+      <Word id="l_0011-w_0002" text="Entsprechend" error_score="0.000" />
+      <Word id="l_0011-w_0003" text="seiner" error_score="0.000" />
+      <Word id="l_0011-w_0004" text="geographischen" error_score="0.000" />
+      <Word id="l_0011-w_0005" text="Lage" error_score="0.000" />
+      <Word id="l_0011-w_0006" text="kann" error_score="0.000" />
+      <Word id="l_0011-w_0007" text="sein" error_score="0.000" />
+      <Word id="l_0011-w_0008" text="Boden" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0012" text="landwirtschaftlich nicht ausgenützt werden. Kaum für die Zucht">
+      <Coords points="150,923 150,934 511,938 513,938 1401,920 1403,907 1401,883 1391,875 1389,875 1387,875 1386,875 1338,883 1290,875 1288,875 1287,875 1285,875 1274,884 1153,876 1152,876 1150,876 1127,886 1029,878 1028,878 1026,878 1000,887 916,880 914,880 913,880 911,880 899,890 601,892 531,884 530,884 528,884 510,894 409,886 407,886 406,886 365,895 277,887 276,887 148,895 150,923" />
+      <Word id="l_0012-w_0001" text="landwirtschaftlich" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="nicht" error_score="0.000" />
+      <Word id="l_0012-w_0003" text="ausgenützt" error_score="0.000" />
+      <Word id="l_0012-w_0004" text="werden." error_score="0.000" />
+      <Word id="l_0012-w_0005" text="Kaum" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="für" error_score="0.000" />
+      <Word id="l_0012-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0012-w_0008" text="Zucht" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="von Schafen und kleinen Pferden findet sich genügendes Futter.">
+      <Coords points="151,976 151,986 773,988 775,988 776,988 795,980 1011,985 1012,985 1014,985 1015,985 1028,977 1149,983 1150,983 1401,971 1401,960 1398,937 1276,928 1274,928 1273,928 1271,928 1260,937 1215,929 1214,929 1025,940 1004,932 1003,932 1001,932 952,940 911,934 910,934 908,934 907,934 896,942 826,934 824,934 770,943 652,935 651,935 649,935 648,935 637,946 587,946 527,937 525,937 524,937 491,946 474,938 472,938 471,938 398,948 282,940 280,940 150,951 151,976" />
+      <Word id="l_0013-w_0001" text="von" error_score="0.000" />
+      <Word id="l_0013-w_0002" text="Schafen" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="kleinen" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="Pferden" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="findet" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="sich" error_score="0.000" />
+      <Word id="l_0013-w_0008" text="genügendes" error_score="0.000" />
+      <Word id="l_0013-w_0009" text="Futter." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="Bäume fehlen ganz oder treten nur in verkümmerten Formen auf.">
+      <Coords points="151,1028 151,1041 1398,1025 1400,1011 1395,985 150,999 151,1028" />
+      <Word id="l_0014-w_0001" text="Bäume" error_score="0.000" />
+      <Word id="l_0014-w_0002" text="fehlen" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="ganz" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="oder" error_score="0.000" />
+      <Word id="l_0014-w_0005" text="treten" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="nur" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="in" error_score="0.000" />
+      <Word id="l_0014-w_0008" text="verkümmerten" error_score="0.000" />
+      <Word id="l_0014-w_0009" text="Formen" error_score="0.000" />
+      <Word id="l_0014-w_0010" text="auf." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="Der Boden Islands ist vulkanischen Ursprungs. Noch heute trägt">
+      <Coords points="151,1079 153,1100 186,1092 535,1095 536,1095 579,1087 817,1092 818,1092 820,1092 848,1084 1383,1086 1384,1086 1386,1086 1404,1076 1404,1066 1400,1039 150,1048 151,1079" />
+      <Word id="l_0015-w_0001" text="Der" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="Boden" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="Islands" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="ist" error_score="0.000" />
+      <Word id="l_0015-w_0005" text="vulkanischen" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="Ursprungs." error_score="0.000" />
+      <Word id="l_0015-w_0007" text="Noch" error_score="0.000" />
+      <Word id="l_0015-w_0008" text="heute" error_score="0.000" />
+      <Word id="l_0015-w_0009" text="trägt" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="die Insel tätige Vulkane, unter denen der Hekla, nahe der Süd-">
+      <Coords points="150,1132 150,1145 1400,1129 1401,1117 1398,1092 1315,1084 1313,1084 1311,1084 1310,1084 1299,1092 1248,1086 1246,1086 1198,1093 1177,1086 1175,1086 1173,1086 1077,1095 1026,1087 1025,1087 1023,1087 1021,1087 1011,1097 964,1089 963,1089 918,1097 900,1089 899,1089 897,1089 896,1089 894,1089 877,1100 792,1100 775,1090 773,1090 772,1090 770,1090 769,1090 753,1100 690,1093 688,1093 645,1101 522,1093 521,1093 333,1104 302,1097 300,1097 299,1097 297,1097 266,1106 165,1098 164,1098 162,1098 148,1104 150,1132" />
+      <Word id="l_0016-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0016-w_0002" text="Insel" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="tätige" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="Vulkane," error_score="0.000" />
+      <Word id="l_0016-w_0005" text="unter" error_score="0.000" />
+      <Word id="l_0016-w_0006" text="denen" error_score="0.000" />
+      <Word id="l_0016-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0016-w_0008" text="Hekla," error_score="0.000" />
+      <Word id="l_0016-w_0009" text="nahe" error_score="0.000" />
+      <Word id="l_0016-w_0010" text="der" error_score="0.000" />
+      <Word id="l_0016-w_0011" text="Süd-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="küste der Insel, der grösste ist. Von der vulkanischen Natur">
+      <Coords points="151,1185 151,1196 474,1200 476,1200 477,1200 479,1200 494,1191 533,1199 535,1199 536,1199 570,1191 606,1199 607,1199 707,1197 708,1197 710,1197 722,1188 749,1196 750,1196 752,1196 837,1186 994,1193 995,1193 997,1193 998,1193 1011,1185 1175,1191 1177,1191 1268,1182 1392,1188 1394,1188 1395,1188 1397,1188 1406,1179 1406,1168 1403,1146 1290,1137 1288,1137 1287,1137 1285,1137 1274,1146 1198,1138 1197,1138 1132,1148 1079,1140 1077,1140 1076,1140 1056,1149 953,1141 952,1141 950,1141 949,1141 938,1151 845,1143 843,1143 842,1143 840,1143 829,1152 747,1145 745,1145 744,1145 719,1154 632,1146 631,1146 629,1146 590,1155 511,1148 510,1148 508,1148 507,1148 491,1157 462,1149 460,1149 379,1149 378,1149 376,1149 356,1158 310,1151 308,1151 262,1160 232,1152 231,1152 229,1152 150,1155 151,1185" />
+      <Word id="l_0017-w_0001" text="küste" error_score="0.000" />
+      <Word id="l_0017-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0017-w_0003" text="Insel," error_score="0.000" />
+      <Word id="l_0017-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0017-w_0005" text="grösste" error_score="0.000" />
+      <Word id="l_0017-w_0006" text="ist." error_score="0.000" />
+      <Word id="l_0017-w_0007" text="Von" error_score="0.000" />
+      <Word id="l_0017-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0017-w_0009" text="vulkanischen" error_score="0.000" />
+      <Word id="l_0017-w_0010" text="Natur" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0018" text="des Landes legen auch die heissen Springquellen oder Geysir">
+      <Coords points="151,1236 151,1247 353,1255 355,1255 410,1245 468,1255 469,1255 527,1244 603,1253 604,1253 606,1253 628,1244 769,1250 770,1250 887,1241 907,1248 908,1248 910,1250 1026,1250 1026,1248 1133,1245 1135,1245 1153,1236 1221,1244 1223,1244 1284,1234 1342,1244 1344,1244 1404,1231 1404,1220 1401,1197 1287,1189 1285,1189 1284,1189 1282,1189 1271,1199 1195,1191 1194,1191 1150,1200 1070,1193 1068,1193 1066,1193 1065,1193 1052,1200 953,1194 952,1194 950,1194 933,1202 904,1194 902,1194 900,1194 899,1194 879,1205 804,1205 780,1196 778,1196 776,1196 775,1196 773,1196 759,1205 739,1197 738,1197 736,1197 735,1197 700,1205 663,1197 662,1197 660,1197 659,1197 648,1207 598,1199 597,1199 524,1208 414,1200 412,1200 410,1200 409,1200 396,1210 277,1202 276,1202 274,1202 234,1211 169,1203 167,1203 165,1203 164,1203 150,1210 151,1236" />
+      <Word id="l_0018-w_0001" text="des" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="Landes" error_score="0.000" />
+      <Word id="l_0018-w_0003" text="legen" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="auch" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0018-w_0006" text="heissen" error_score="0.000" />
+      <Word id="l_0018-w_0007" text="Springquellen" error_score="0.000" />
+      <Word id="l_0018-w_0008" text="oder" error_score="0.000" />
+      <Word id="l_0018-w_0009" text="Geysir" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Zeugnis ab.">
+      <Coords points="151,1289 151,1299 223,1309 224,1309 379,1299 379,1289 379,1264 355,1255 353,1255 352,1255 350,1255 321,1264 285,1255 283,1255 282,1255 224,1264 161,1255 159,1255 158,1255 156,1255 156,1256 151,1261 151,1289" />
+      <Word id="l_0019-w_0001" text="Zeugnis" error_score="0.000" />
+      <Word id="l_0019-w_0002" text="ab." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0020" text="Eigentümlich berühren sich auf Island die Gegensätze. Neben">
+      <Coords points="258,1341 258,1352 1403,1338 1404,1327 1401,1301 1285,1292 1284,1292 1282,1292 1280,1292 1280,1293 1271,1301 1190,1293 1189,1293 1144,1303 1063,1295 1062,1295 987,1304 896,1296 894,1296 852,1306 834,1298 832,1298 831,1298 766,1307 716,1299 714,1299 713,1299 711,1299 702,1309 621,1309 603,1301 601,1301 600,1301 542,1309 524,1301 522,1301 521,1301 519,1301 517,1301 507,1310 437,1303 435,1303 434,1303 432,1303 421,1312 257,1312 258,1341" />
+      <Word id="l_0020-w_0001" text="Eigentümlich" error_score="0.045" />
+      <Word id="l_0020-w_0002" text="berühren" error_score="0.045" />
+      <Word id="l_0020-w_0003" text="sich" error_score="0.045" />
+      <Word id="l_0020-w_0004" text="auf" error_score="0.045" />
+      <Word id="l_0020-w_0005" text="Island" error_score="0.045" />
+      <Word id="l_0020-w_0006" text="die" error_score="0.045" />
+      <Word id="l_0020-w_0007" text="Gegensätze." error_score="0.045" />
+      <Word id="l_0020-w_0008" text="Neben" error_score="0.045" />
+    </TextLine>
+    <TextLine id="l_0021" text="den mächtigen Feuerherden bedecken gewaltige Gletscher und">
+      <Coords points="153,1394 153,1405 378,1411 379,1411 446,1402 604,1408 606,1408 722,1397 803,1405 804,1405 899,1396 947,1403 949,1403 950,1403 972,1396 1060,1402 1062,1402 1063,1402 1099,1392 1136,1400 1138,1400 1403,1391 1404,1377 1401,1349 1018,1349 1017,1349 931,1358 834,1351 832,1351 831,1351 829,1351 814,1360 733,1352 731,1352 730,1352 728,1352 717,1361 638,1354 637,1354 635,1354 600,1363 584,1355 583,1355 581,1355 513,1363 496,1355 494,1355 493,1355 491,1355 460,1365 297,1358 296,1358 294,1358 257,1368 167,1360 165,1360 164,1360 162,1360 151,1366 153,1394" />
+      <Word id="l_0021-w_0001" text="den" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="mächtigen" error_score="0.000" />
+      <Word id="l_0021-w_0003" text="Feuerherden" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="bedecken" error_score="0.000" />
+      <Word id="l_0021-w_0005" text="gewaltige" error_score="0.000" />
+      <Word id="l_0021-w_0006" text="Gletscher" error_score="0.000" />
+      <Word id="l_0021-w_0007" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="ewiger Schnee ausgedehnte Flächen und die Nordküste umhüllt">
+      <Coords points="155,1445 155,1464 280,1456 403,1462 404,1462 406,1462 435,1454 654,1459 655,1459 657,1459 677,1451 877,1456 879,1456 939,1448 1009,1454 1011,1454 1012,1454 1031,1447 1370,1450 1372,1450 1373,1450 1408,1440 1408,1430 1404,1406 1318,1397 1316,1397 1315,1397 1279,1406 1170,1399 1169,1399 1101,1408 1048,1400 1046,1400 1045,1400 1043,1400 1028,1409 922,1402 921,1402 919,1402 918,1402 907,1411 798,1411 783,1403 781,1403 780,1403 778,1403 776,1403 764,1411 704,1405 702,1405 637,1414 567,1406 566,1406 564,1406 524,1416 311,1409 310,1409 246,1419 212,1411 210,1411 209,1411 153,1420 155,1445" />
+      <Word id="l_0022-w_0001" text="ewiger" error_score="0.000" />
+      <Word id="l_0022-w_0002" text="Schnee" error_score="0.000" />
+      <Word id="l_0022-w_0003" text="ausgedehnte" error_score="0.000" />
+      <Word id="l_0022-w_0004" text="Flächen" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0022-w_0006" text="die" error_score="0.000" />
+      <Word id="l_0022-w_0007" text="Nordküste" error_score="0.000" />
+      <Word id="l_0022-w_0008" text="umhüllt" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="monatelang ein undurchdringlicher Mantel von Packeis.">
+      <Coords points="156,1499 156,1509 500,1513 502,1513 801,1502 924,1507 925,1507 967,1499 1177,1504 1178,1504 1180,1504 1198,1495 1198,1485 1195,1461 1114,1451 1113,1451 1111,1451 1110,1451 1099,1459 1052,1453 1051,1453 1049,1453 1048,1453 1048,1454 1040,1462 953,1462 905,1454 904,1454 902,1454 874,1462 851,1454 849,1454 848,1454 846,1454 814,1464 623,1458 621,1458 620,1458 618,1458 618,1459 610,1465 601,1459 600,1459 598,1459 597,1459 541,1467 522,1459 521,1459 519,1459 517,1459 494,1468 409,1461 407,1461 406,1461 383,1470 269,1462 268,1462 266,1462 245,1473 155,1473 156,1499" />
+      <Word id="l_0023-w_0001" text="monatelang" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="ein" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="undurchdringlicher" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="Mantel" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0023-w_0006" text="Packeis." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="Die spärliche Bevölkerung Islands lebt in Einzelgehöften">
+      <Coords points="258,1549 258,1560 483,1566 485,1566 486,1566 522,1557 590,1564 592,1564 593,1564 595,1564 604,1557 683,1563 685,1563 778,1561 780,1561 781,1561 790,1554 928,1558 930,1558 931,1558 949,1550 1404,1550 1406,1533 1403,1510 1294,1499 1293,1499 1291,1499 1290,1499 1274,1510 1245,1501 1243,1501 1242,1501 1240,1501 1201,1510 1178,1501 1177,1501 1175,1501 1127,1512 1076,1502 1074,1502 1073,1502 1071,1502 1056,1513 972,1504 970,1504 969,1504 942,1515 911,1506 910,1506 908,1506 907,1506 873,1515 848,1506 846,1506 845,1506 843,1506 800,1518 673,1518 642,1509 640,1509 638,1509 637,1509 597,1520 559,1510 558,1510 556,1510 555,1510 553,1510 542,1520 440,1512 438,1512 437,1512 435,1512 428,1520 418,1512 417,1512 415,1512 414,1512 364,1523 268,1513 266,1513 265,1513 263,1513 263,1515 257,1520 258,1549" />
+      <Word id="l_0024-w_0001" text="Die" error_score="0.262" />
+      <Word id="l_0024-w_0002" text="spärliche" error_score="0.262" />
+      <Word id="l_0024-w_0003" text="Bevölkerung" error_score="0.262" />
+      <Word id="l_0024-w_0004" text="Islands" error_score="0.262" />
+      <Word id="l_0024-w_0005" text="lebt" error_score="0.262" />
+      <Word id="l_0024-w_0006" text="in" error_score="0.262" />
+      <Word id="l_0024-w_0007" text="Einzelgehöften" error_score="0.262" />
+    </TextLine>
+    <TextLine id="l_0025" text="hauptsächlich von Viehzucht und Fischerei. An der Südküste liegt">
+      <Coords points="156,1605 156,1616 1406,1599 1408,1586 1404,1560 1330,1550 1328,1550 1265,1561 1198,1552 1197,1552 1144,1554 1142,1554 1141,1554 1128,1563 1077,1555 1076,1555 1074,1555 1073,1555 1060,1564 1004,1555 1003,1555 1001,1555 1000,1555 986,1566 947,1557 945,1557 944,1557 942,1557 907,1566 874,1558 873,1558 871,1558 869,1558 868,1558 854,1568 797,1558 795,1558 793,1558 752,1569 652,1561 651,1561 649,1561 648,1561 634,1572 592,1572 576,1561 575,1561 573,1561 572,1561 570,1561 569,1561 569,1563 561,1569 517,1563 516,1563 460,1575 404,1575 390,1564 389,1564 387,1564 386,1564 305,1572 258,1566 257,1566 255,1566 226,1577 155,1572 156,1605" />
+      <Word id="l_0025-w_0001" text="hauptsächlich" error_score="0.000" />
+      <Word id="l_0025-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0025-w_0003" text="Viehzucht" error_score="0.000" />
+      <Word id="l_0025-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0025-w_0005" text="Fischerei." error_score="0.000" />
+      <Word id="l_0025-w_0006" text="An" error_score="0.000" />
+      <Word id="l_0025-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0025-w_0008" text="Südküste" error_score="0.000" />
+      <Word id="l_0025-w_0009" text="liegt" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0026" text="Reykjavik, der Hauptort des Landes, welches während des kurzen">
+      <Coords points="156,1657 156,1670 1406,1651 1408,1637 1403,1612 1302,1612 1284,1605 1282,1605 1280,1605 1279,1605 1246,1612 1221,1605 1220,1605 1218,1605 1217,1605 1215,1605 1206,1614 1186,1606 1184,1606 1183,1606 1114,1616 1071,1608 1070,1608 1015,1617 942,1609 941,1609 897,1619 829,1611 828,1611 826,1611 824,1611 809,1620 744,1612 742,1612 741,1612 716,1622 654,1614 652,1614 651,1614 629,1623 443,1617 441,1617 440,1617 438,1617 423,1626 359,1619 358,1619 356,1619 338,1628 297,1620 296,1620 155,1626 156,1657" />
+      <Word id="l_0026-w_0001" text="Reykjavik," error_score="0.000" />
+      <Word id="l_0026-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0026-w_0003" text="Hauptort" error_score="0.000" />
+      <Word id="l_0026-w_0004" text="des" error_score="0.000" />
+      <Word id="l_0026-w_0005" text="Landes," error_score="0.000" />
+      <Word id="l_0026-w_0006" text="welches" error_score="0.000" />
+      <Word id="l_0026-w_0007" text="während" error_score="0.000" />
+      <Word id="l_0026-w_0008" text="des" error_score="0.000" />
+      <Word id="l_0026-w_0009" text="kurzen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="Sommers mit Dänemark in Dampferverbindung steht. Auf Island">
+      <Coords points="156,1709 156,1719 781,1719 781,1718 1408,1701 1409,1690 1406,1661 1220,1657 1218,1657 1164,1667 1102,1659 1101,1659 1099,1659 1079,1668 983,1662 981,1662 980,1662 978,1662 967,1670 913,1662 911,1662 910,1662 880,1671 814,1664 812,1664 753,1673 707,1665 705,1665 704,1665 674,1674 590,1667 589,1667 587,1667 564,1676 469,1668 468,1668 240,1681 164,1673 162,1673 161,1673 159,1673 159,1674 155,1678 156,1709" />
+      <Word id="l_0027-w_0001" text="Sommers" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="mit" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="Dänemark" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="in" error_score="0.000" />
+      <Word id="l_0027-w_0005" text="Dampferverbindung" error_score="0.000" />
+      <Word id="l_0027-w_0006" text="steht." error_score="0.000" />
+      <Word id="l_0027-w_0007" text="Auf" error_score="0.000" />
+      <Word id="l_0027-w_0008" text="Island" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="und den Färöer Inseln hat sich infolge der Abgeschiedenheit die">
+      <Coords points="158,1760 158,1772 1406,1755 1406,1741 1403,1716 1302,1707 1301,1707 1299,1707 1297,1707 1284,1716 1200,1709 1198,1709 1197,1709 1195,1709 1186,1718 1170,1710 1169,1710 1167,1710 1087,1719 1026,1712 1025,1712 1023,1712 1021,1712 1011,1719 947,1713 945,1713 883,1722 871,1715 869,1715 868,1715 793,1715 792,1715 790,1715 789,1715 778,1724 750,1716 749,1716 747,1716 643,1726 631,1718 629,1718 628,1718 626,1718 624,1718 603,1726 556,1719 555,1719 553,1719 552,1719 539,1727 480,1719 479,1719 477,1719 476,1719 465,1729 365,1721 364,1721 362,1721 330,1730 269,1722 268,1722 266,1722 265,1722 254,1732 223,1724 221,1724 220,1724 156,1733 158,1760" />
+      <Word id="l_0028-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0028-w_0002" text="den" error_score="0.000" />
+      <Word id="l_0028-w_0003" text="Färöer" error_score="0.000" />
+      <Word id="l_0028-w_0004" text="Inseln" error_score="0.000" />
+      <Word id="l_0028-w_0005" text="hat" error_score="0.000" />
+      <Word id="l_0028-w_0006" text="sich" error_score="0.000" />
+      <Word id="l_0028-w_0007" text="infolge" error_score="0.000" />
+      <Word id="l_0028-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0028-w_0009" text="Abgeschiedenheit" error_score="0.000" />
+      <Word id="l_0028-w_0010" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0029" text="altnordische Sprache der Normannen erhalten.">
+      <Coords points="159,1812 159,1823 1023,1811 1025,1798 1021,1775 942,1764 941,1764 939,1764 938,1764 924,1775 902,1766 900,1766 899,1766 897,1766 896,1766 880,1777 686,1778 638,1769 637,1769 635,1769 634,1769 634,1771 623,1780 579,1771 578,1771 576,1771 556,1780 499,1772 497,1772 445,1783 424,1774 423,1774 421,1774 420,1774 392,1783 339,1775 338,1775 336,1775 334,1775 322,1784 280,1775 279,1775 277,1775 237,1786 182,1777 181,1777 179,1777 158,1786 159,1812" />
+      <Word id="l_0029-w_0001" text="altnordische" error_score="0.000" />
+      <Word id="l_0029-w_0002" text="Sprache" error_score="0.000" />
+      <Word id="l_0029-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="Normannen" error_score="0.000" />
+      <Word id="l_0029-w_0005" text="erhalten." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="IX. Skandinavien.">
+      <Coords points="564,1944 564,1952 1011,1943 1011,1935 1007,1899 922,1884 921,1884 919,1884 918,1884 918,1885 900,1899 809,1885 807,1885 806,1885 804,1885 804,1887 790,1901 766,1902 714,1887 713,1887 711,1887 686,1888 685,1888 683,1888 683,1890 668,1905 645,1905 629,1891 629,1890 628,1890 626,1890 573,1890 572,1890 570,1890 569,1890 569,1891 567,1891 562,1896 564,1944" />
+      <Word id="l_0030-w_0001" text="IX." error_score="0.062" />
+      <Word id="l_0030-w_0002" text="Skandinavien." error_score="0.062" />
+    </TextLine>
+    <TextLine id="l_0031" text="(76ꝰ 33ꝰ km‟ mit 7 380. 000 Einwohnern. )">
+      <Coords points="460,2003 460,2012 786,2015 787,2015 893,2006 1105,2009 1107,2009 1108,2009 1110,2009 1110,2008 1116,2001 1116,1991 1113,1966 787,1963 786,1963 702,1972 486,1969 485,1969 483,1969 459,1977 460,2003" />
+      <Word id="l_0031-w_0001" text="(76ꝰ" error_score="0.142" />
+      <Word id="l_0031-w_0002" text="33ꝰ" error_score="0.142" />
+      <Word id="l_0031-w_0003" text="km‟" error_score="0.142" />
+      <Word id="l_0031-w_0004" text="mit" error_score="0.142" />
+      <Word id="l_0031-w_0005" text="7" error_score="0.142" />
+      <Word id="l_0031-w_0006" text="380." error_score="0.142" />
+      <Word id="l_0031-w_0007" text="000" error_score="0.142" />
+      <Word id="l_0031-w_0008" text="Einwohnern." error_score="0.142" />
+      <Word id="l_0031-w_0009" text=")" error_score="0.142" />
+    </TextLine>
+    <TextLine id="l_0032" text="Lage, Gliederung und politische Verhältnisse. Skandinavien,">
+      <Coords points="263,2076 263,2087 1411,2073 1411,2057 1408,2028 1333,2018 1332,2018 1330,2018 1328,2018 1318,2029 1259,2029 1245,2018 1243,2018 1242,2018 1240,2018 1239,2018 1211,2031 1159,2031 1147,2020 1145,2020 1144,2020 1142,2020 1141,2020 1099,2031 969,2023 967,2023 911,2032 882,2025 880,2025 879,2025 877,2025 849,2035 824,2026 823,2026 821,2026 820,2026 795,2035 721,2028 719,2028 717,2028 716,2028 700,2039 646,2029 645,2029 593,2042 490,2042 465,2032 463,2032 462,2032 460,2032 459,2032 449,2040 395,2034 393,2034 392,2034 390,2034 378,2045 314,2045 276,2035 274,2035 272,2035 271,2035 269,2035 269,2037 262,2043 263,2076" />
+      <Word id="l_0032-w_0001" text="Lage," error_score="1.000" error_type="merge" />
+      <Word id="l_0032-w_0002" text="Gliederung" error_score="1.000" error_type="merge" />
+      <Word id="l_0032-w_0003" text="und" error_score="1.000" error_type="merge" />
+      <Word id="l_0032-w_0004" text="politische" error_score="1.000" error_type="merge" />
+      <Word id="l_0032-w_0005" text="Verhältnisse." error_score="1.000" error_type="merge" />
+      <Word id="l_0032-w_0006" text="Skandinavien," error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0033" text="die grösste Halbinsel Europas, ist durch die Landbrücke von">
+      <Coords points="164,2127 164,2138 1409,2122 1411,2107 1408,2084 1235,2074 1234,2074 1232,2074 1212,2084 1203,2076 1201,2076 1200,2076 1198,2076 1197,2076 1164,2084 1099,2077 1097,2077 1096,2077 1062,2087 1028,2077 1026,2077 1025,2077 1023,2077 1001,2088 950,2079 949,2079 947,2079 916,2088 800,2082 798,2082 736,2093 610,2085 609,2085 607,2085 586,2094 564,2085 562,2085 561,2085 559,2085 528,2096 463,2087 462,2087 409,2088 407,2088 406,2088 393,2097 296,2091 294,2091 220,2101 179,2091 178,2091 176,2091 175,2091 173,2091 162,2099 164,2127" />
+      <Word id="l_0033-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0033-w_0002" text="grösste" error_score="0.000" />
+      <Word id="l_0033-w_0003" text="Halbinsel" error_score="0.000" />
+      <Word id="l_0033-w_0004" text="Europas," error_score="0.000" />
+      <Word id="l_0033-w_0005" text="ist" error_score="0.000" />
+      <Word id="l_0033-w_0006" text="durch" error_score="0.000" />
+      <Word id="l_0033-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0033-w_0008" text="Landbrücke" error_score="0.000" />
+      <Word id="l_0033-w_0009" text="von" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="dem Bottnischen Meerbusen bis zum Weissen Meere">
+      <Coords points="162,2181 162,2195 1412,2169 1412,2159 1409,2136 1056,2130 1054,2130 1052,2130 1028,2141 997,2135 995,2135 910,2142 880,2133 879,2133 877,2133 776,2145 697,2136 696,2136 694,2136 671,2147 607,2138 606,2138 508,2150 486,2141 485,2141 483,2141 482,2141 452,2150 345,2142 344,2142 342,2142 341,2142 341,2144 328,2153 277,2144 276,2144 274,2144 248,2155 178,2145 176,2145 175,2145 173,2145 161,2153 162,2181" />
+      <Word id="l_0034-w_0001" text="dem" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="Bottnischen" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="Meerbusen" error_score="0.000" />
+      <Word id="l_0034-w_0004" text="bis" error_score="0.000" />
+      <Word id="l_0034-w_0005" text="zum" error_score="0.000" />
+      <Word id="l_0034-w_0006" text="Weissen" error_score="0.000" />
+      <Word id="l_0034-w_0007" text="Meere" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="mit dem Festlandsrumpfe verbunden. Es hing in frühern Erd-">
+      <Coords points="164,2234 164,2243 1412,2223 1414,2214 1412,2189 1389,2178 1387,2178 1386,2178 1384,2178 1366,2186 1325,2178 1324,2178 1322,2178 1321,2178 1321,2180 1308,2190 1245,2190 1223,2180 1221,2180 1220,2180 1135,2190 1104,2183 1102,2183 1101,2183 1099,2183 1097,2183 1085,2192 1028,2183 1026,2183 1025,2183 981,2194 931,2184 930,2184 928,2184 904,2195 744,2187 742,2187 741,2187 710,2198 631,2190 629,2190 530,2201 507,2192 505,2192 503,2192 409,2203 373,2194 372,2194 370,2194 369,2194 367,2194 350,2206 300,2206 272,2195 271,2195 269,2195 268,2195 266,2195 266,2197 254,2206 206,2197 204,2197 203,2197 162,2207 164,2234" />
+      <Word id="l_0035-w_0001" text="mit" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="dem" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="Festlandsrumpfe" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="verbunden." error_score="0.000" />
+      <Word id="l_0035-w_0005" text="Es" error_score="0.000" />
+      <Word id="l_0035-w_0006" text="hing" error_score="0.000" />
+      <Word id="l_0035-w_0007" text="in" error_score="0.000" />
+      <Word id="l_0035-w_0008" text="frühern" error_score="0.000" />
+      <Word id="l_0035-w_0009" text="Erd-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="zeitaltern mit der Halbinsel Jütland zusammen. Im Osten und">
+      <Coords points="164,2286 164,2300 1414,2277 1414,2265 1409,2235 1282,2240 1262,2232 1260,2232 1259,2232 1177,2242 1145,2234 1144,2234 1142,2234 1141,2234 1116,2245 900,2246 789,2240 787,2240 722,2249 700,2242 699,2242 697,2242 696,2242 677,2251 538,2245 536,2245 535,2245 516,2254 465,2246 463,2246 462,2246 460,2246 449,2254 404,2248 403,2248 339,2257 252,2249 251,2249 162,2260 164,2286" />
+      <Word id="l_0036-w_0001" text="zeitaltern" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="mit" error_score="0.000" />
+      <Word id="l_0036-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0036-w_0004" text="Halbinsel" error_score="0.000" />
+      <Word id="l_0036-w_0005" text="Jütland" error_score="0.000" />
+      <Word id="l_0036-w_0006" text="zusammen." error_score="0.000" />
+      <Word id="l_0036-w_0007" text="Im" error_score="0.000" />
+      <Word id="l_0036-w_0008" text="Osten" error_score="0.000" />
+      <Word id="l_0036-w_0009" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="Süden bespült seine Küste die Ostsee, deren nördlicher Teil,">
+      <Coords points="165,2339 165,2347 677,2348 679,2348 680,2348 682,2348 693,2339 761,2345 762,2345 905,2336 1065,2342 1066,2342 1068,2342 1104,2333 1279,2339 1280,2339 1282,2339 1311,2330 1412,2338 1415,2321 1414,2294 1397,2283 1395,2283 1394,2283 1333,2283 1332,2283 1330,2283 1307,2296 1206,2285 1204,2285 1099,2299 1009,2288 1007,2288 1006,2288 1004,2288 989,2302 883,2302 869,2293 868,2293 866,2293 865,2293 863,2293 862,2293 851,2302 803,2291 801,2291 800,2291 798,2291 784,2304 747,2293 745,2293 744,2293 742,2293 710,2304 584,2294 583,2294 581,2294 579,2294 564,2307 507,2296 505,2296 503,2296 466,2308 415,2297 414,2297 412,2297 370,2310 333,2310 317,2300 316,2300 314,2300 313,2300 262,2311 235,2300 234,2300 178,2300 176,2300 175,2300 173,2300 173,2302 164,2308 165,2339" />
+      <Word id="l_0037-w_0001" text="Süden" error_score="0.000" />
+      <Word id="l_0037-w_0002" text="bespült" error_score="0.000" />
+      <Word id="l_0037-w_0003" text="seine" error_score="0.000" />
+      <Word id="l_0037-w_0004" text="Küste" error_score="0.000" />
+      <Word id="l_0037-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0037-w_0006" text="Ostsee," error_score="0.000" />
+      <Word id="l_0037-w_0007" text="deren" error_score="0.000" />
+      <Word id="l_0037-w_0008" text="nördlicher" error_score="0.000" />
+      <Word id="l_0037-w_0009" text="Teil," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="der Bottnische Meerbusen, es von Finnland trennt. Von den">
+      <Coords points="165,2390 165,2400 266,2407 268,2407 477,2396 570,2403 572,2403 702,2393 752,2400 753,2400 790,2390 1417,2387 1417,2372 1414,2348 1366,2338 1364,2338 1308,2348 1239,2339 1237,2339 1235,2339 1206,2350 1192,2341 1190,2341 1189,2341 1187,2341 1118,2348 1096,2342 1094,2342 1093,2342 1091,2342 1090,2342 1079,2352 1056,2342 1054,2342 1052,2342 953,2350 897,2344 896,2344 894,2344 893,2344 879,2356 676,2358 583,2348 581,2348 579,2348 558,2359 490,2350 488,2350 486,2350 485,2350 485,2352 472,2361 414,2352 412,2352 410,2352 409,2352 393,2361 375,2352 373,2352 372,2352 370,2352 352,2361 269,2353 268,2353 266,2353 265,2353 265,2355 252,2364 181,2355 179,2355 178,2355 176,2355 164,2362 165,2390" />
+      <Word id="l_0038-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0038-w_0002" text="Bottnische" error_score="0.000" />
+      <Word id="l_0038-w_0003" text="Meerbusen," error_score="0.000" />
+      <Word id="l_0038-w_0004" text="es" error_score="0.000" />
+      <Word id="l_0038-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0038-w_0006" text="Finnland" error_score="0.000" />
+      <Word id="l_0038-w_0007" text="trennt." error_score="0.000" />
+      <Word id="l_0038-w_0008" text="Von" error_score="0.000" />
+      <Word id="l_0038-w_0009" text="den" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

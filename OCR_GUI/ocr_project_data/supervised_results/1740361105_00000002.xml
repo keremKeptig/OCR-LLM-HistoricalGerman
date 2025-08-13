@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740361105_00000002.bin.png" imageHeight="3033" imageWidth="1993" orientation="0.0" overwritePageError="0.8658655671026788">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="952,1610 1055,1610 1062,1737 1116,1738 1136,1919 1102,2141 923,2175 870,1637 952,1610" />
+    <TextLine id="l_0001" text="">
+      <Coords points="929,1931 902,1932 917,2052 939,2052 961,2047 954,1927 929,1931" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1944,2891 1986,2891 1986,2903 1933,2909 1944,2891" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="1977,134 1986,134 1986,139 1974,139 1977,134" />
+  </TextRegion>
+</Page>

@@ -1,0 +1,7 @@
+Here are the incorrect bounding boxes identified on the page:
+
+    "45" (top right corner) – This is the page number, so it should be marginalia (blue), but it is incorrectly marked as a paragraph (red).
+
+    "Fig. 14. Ein mittelalterliches Stadttor." – This is a figure caption, which should be considered marginalia (blue), but it is marked as a paragraph (red).
+
+    Footnote at the bottom starting with "*) In Fig. 15 sind fast alle..." – This is a footnote, which should be marginalia (blue), but it is incorrectly marked as a paragraph (red).

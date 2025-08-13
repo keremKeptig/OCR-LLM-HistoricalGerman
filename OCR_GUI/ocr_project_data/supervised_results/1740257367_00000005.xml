@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740257367_00000005.bin.png" imageHeight="3353" imageWidth="2049" orientation="0.0" overwritePageError="0.8064627476797209">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="0,3189 1,3189 1,3190 0,3190 0,3189" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="229,491 274,491 244,571 223,549 229,491" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="199,2712 275,2779 490,2807 231,2837 288,2859 178,2881 156,2801 199,2712" />
+    <TextLine id="l_0001" text="1">
+      <Coords points="175,2756 180,2853 180,2872 225,2872 225,2851 220,2747 203,2738 201,2738 199,2738 197,2738 195,2738 193,2738 178,2747 175,2756" />
+      <Word id="l_0001-w_0001" text="1" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="385,491 400,491 393,542 380,542 385,491" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="833,2645 1012,2645 1073,2704 1161,2727 1154,2799 1004,2809 1116,2861 1019,2905 1086,2928 1079,3120 1049,3149 872,3149 840,3090 753,3060 760,2898 693,2859 730,2823 663,2794 715,2777 693,2719 730,2660 833,2645" />
+    <TextLine id="l_0002" text="MIEN.">
+      <Coords points="1023,2658 1019,2654 837,2650 837,2691 837,2710 1042,2710 1042,2691 1036,2669 1023,2658" />
+      <Word id="l_0002-w_0001" text="MIEN." />
+    </TextLine>
+    <TextLine id="l_0003" text="EDUARD HOLZEL">
+      <Coords points="1144,2723 1126,2717 1124,2715 715,2714 715,2745 714,2760 1154,2764 1157,2749 1155,2721 1144,2723" />
+      <Word id="l_0003-w_0001" text="EDUARD" />
+      <Word id="l_0003-w_0002" text="HOLZEL" />
+    </TextLine>
+    <TextLine id="l_0004" text="1888.">
+      <Coords points="885,2799 885,2814 973,2814 975,2796 969,2769 881,2771 885,2799" />
+      <Word id="l_0004-w_0001" text="1888." />
+    </TextLine>
+    <TextLine id="l_0005" text="G tn">
+      <Coords points="1101,2853 1083,2846 1064,2837 1062,2835 747,2833 747,2859 745,2870 753,2877 753,2879 755,2879 756,2879 758,2879 852,2868 1073,2879 1075,2879 1077,2879 1101,2868 1103,2861 1101,2853 1101,2853" />
+      <Word id="l_0005-w_0001" text="G" />
+      <Word id="l_0005-w_0002" text="tn" />
+    </TextLine>
+    <TextLine id="l_0006" text="Sed">
+      <Coords points="758,3043 758,3056 1073,3053 1073,3038 1068,3015 756,3019 758,3043" />
+      <Word id="l_0006-w_0001" text="Sed" />
+    </TextLine>
+    <TextLine id="l_0007" text="ꝰJu">
+      <Coords points="870,3120 868,3133 926,3149 928,3149 930,3149 999,3142 1040,3151 1045,3125 1045,3075 930,3056 885,3056 883,3056 881,3056 880,3056 870,3062 870,3120" />
+      <Word id="l_0007-w_0001" text="ꝰJu" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="691,484 1258,491 1288,506 1305,618 1579,655 1579,787 1461,825 1400,929 1325,953 1357,1028 1467,1043 1489,1115 1320,1145 1265,1259 1280,1309 1109,1369 1273,1393 1349,1445 1504,1452 1521,1497 1638,1527 1638,1838 1623,1868 1526,1900 1504,2019 1594,2056 1601,2144 1564,2188 1452,2198 1594,2242 1549,2434 1638,2466 1653,2501 1608,2524 1297,2524 1236,2553 990,2568 246,2531 275,1408 639,1400 745,1384 693,1341 775,1339 641,1316 641,1207 594,1123 432,1100 447,1020 497,1020 589,961 522,929 536,886 497,825 350,787 343,640 380,558 542,603 641,499 691,484" />
+    <TextLine id="l_0008" text="B. KOZENNS">
+      <Coords points="673,551 671,558 740,571 742,571 743,571 745,571 758,562 805,571 807,571 934,562 967,573 969,573 971,573 973,573 991,564 999,571 999,573 1001,573 1003,573 1004,575 1113,575 1113,573 1114,573 1116,573 1116,571 1124,566 1133,573 1135,573 1137,573 1139,573 1193,564 1237,573 1239,573 1241,573 1243,573 1252,562 1254,555 1252,508 1141,493 1139,493 1058,506 1049,499 1049,497 1047,497 1045,497 1044,497 995,504 956,493 954,493 952,493 950,493 928,504 911,491 909,491 907,491 906,491 904,491 872,504 855,489 853,489 852,489 850,489 740,504 697,489 695,489 693,489 691,489 689,489 673,501 673,551" />
+      <Word id="l_0008-w_0001" text="B." />
+      <Word id="l_0008-w_0002" text="KOZENNS" />
+    </TextLine>
+    <TextLine id="l_0009" text="GEOGRAPHISCHER">
+      <Coords points="745,624 743,638 1191,646 1195,631 1195,597 745,590 745,624" />
+      <Word id="l_0009-w_0001" text="GEOGRAPHISCHER" />
+    </TextLine>
+    <TextLine id="l_0010" text="SOHUL-ATLAS">
+      <Coords points="356,745 354,761 356,763 357,763 357,765 359,765 361,765 363,765 430,756 481,756 495,767 497,767 499,767 501,767 503,767 544,758 678,769 680,769 751,760 768,771 770,771 771,771 773,771 775,771 811,761 909,771 911,771 1027,763 1075,774 1077,774 1079,774 1159,765 1172,776 1174,776 1176,776 1178,776 1262,767 1271,774 1271,776 1273,776 1275,776 1277,776 1366,771 1431,780 1433,782 1553,782 1553,780 1554,780 1556,780 1566,769 1567,761 1567,666 1513,653 1512,653 1510,653 1508,653 1508,655 1478,683 1463,683 1433,653 1433,651 1431,651 1430,651 1428,651 1426,651 1424,651 1424,653 1392,681 1359,681 1329,655 1329,653 1327,653 1325,653 1275,650 1273,650 1271,650 1269,650 1256,661 1178,648 1176,648 1174,648 1172,648 1129,676 1100,650 1100,648 1098,648 1096,648 1094,648 1092,648 1090,648 1090,650 1058,676 950,676 921,648 921,646 919,646 917,646 870,642 868,642 866,642 865,642 865,644 850,657 831,642 831,640 829,640 827,640 779,638 777,638 732,640 730,640 728,640 714,653 697,640 697,638 695,638 693,638 591,638 589,638 587,638 585,638 568,653 555,642 555,640 553,640 551,640 507,638 505,638 503,638 501,638 456,666 426,638 426,637 425,637 423,637 378,637 376,637 374,637 372,637 372,638 356,653 356,745" />
+      <Word id="l_0010-w_0001" text="SOHUL-ATLAS" />
+    </TextLine>
+    <TextLine id="l_0011" text="Gymnasien, Real- und Handelssehulen.">
+      <Coords points="536,849 535,866 548,873 550,873 551,873 553,873 945,871 1275,884 1277,884 1398,875 1400,862 1400,828 1314,815 1312,815 1310,815 1308,815 1293,827 1277,814 1275,814 1273,814 1271,814 1269,814 1243,825 1198,812 1196,812 1195,812 1193,812 1174,821 1155,810 1154,810 1152,810 1150,810 1148,810 1107,821 1055,810 1053,810 1051,810 1049,810 1049,812 1040,821 1029,810 1029,808 1027,808 1025,808 1023,808 943,823 917,823 904,808 904,806 902,806 900,806 898,806 896,806 861,817 811,806 809,806 807,806 783,819 728,804 727,804 725,804 723,804 689,817 585,817 553,802 551,802 550,802 548,802 546,802 536,810 536,849" />
+      <Word id="l_0011-w_0001" text="Gymnasien," />
+      <Word id="l_0011-w_0002" text="Real-" />
+      <Word id="l_0011-w_0003" text="und" />
+      <Word id="l_0011-w_0004" text="Handelssehulen." />
+    </TextLine>
+    <TextLine id="l_0012" text="Vollständig neu bearbeitet von">
+      <Coords points="773,914 771,927 1157,935 1161,922 1161,895 773,888 773,914" />
+      <Word id="l_0012-w_0001" text="Vollständig" />
+      <Word id="l_0012-w_0002" text="neu" />
+      <Word id="l_0012-w_0003" text="bearbeitet" />
+      <Word id="l_0012-w_0004" text="von" />
+    </TextLine>
+    <TextLine id="l_0013" text="VINZENZ VON HAARDT">
+      <Coords points="646,977 645,990 691,1002 693,1002 948,998 1182,1011 1183,1011 1288,1002 1290,989 1288,955 646,944 646,977" />
+      <Word id="l_0013-w_0001" text="VINZENZ" />
+      <Word id="l_0013-w_0002" text="VON" />
+      <Word id="l_0013-w_0003" text="HAARDT" />
+    </TextLine>
+    <TextLine id="l_0014" text="PROFESSOR DE FRIEDRICH UMLAUFT.">
+      <Coords points="1471,1063 639,1043 637,1043 443,1048 438,1067 438,1084 436,1097 1478,1117 1482,1100 1480,1084 1471,1063" />
+      <Word id="l_0014-w_0001" text="PROFESSOR" />
+      <Word id="l_0014-w_0002" text="DE" />
+      <Word id="l_0014-w_0003" text="FRIEDRICH" />
+      <Word id="l_0014-w_0004" text="UMLAUFT." />
+    </TextLine>
+    <TextLine id="l_0015" text="Ausqabe II in 5ꝰ Rarten.">
+      <Coords points="622,1166 620,1177 635,1188 637,1188 639,1188 732,1192 734,1192 818,1190 820,1190 822,1190 835,1179 859,1192 861,1192 863,1192 865,1192 907,1181 1047,1194 1049,1194 1051,1194 1053,1194 1064,1184 1105,1195 1107,1195 1109,1195 1284,1192 1286,1177 1286,1149 1226,1149 1210,1134 1208,1134 1206,1134 1204,1134 1202,1134 1178,1147 1159,1128 1159,1126 1157,1126 1155,1126 1109,1126 1107,1126 1105,1126 1103,1126 1081,1143 1062,1126 1062,1125 1060,1125 1058,1125 1027,1125 1025,1125 1023,1125 1021,1125 1021,1126 1003,1145 967,1145 950,1130 950,1128 948,1128 947,1128 945,1128 943,1128 919,1141 902,1125 902,1123 900,1123 898,1123 896,1123 827,1140 807,1123 807,1121 805,1121 803,1121 801,1121 799,1121 762,1140 702,1140 684,1121 684,1119 682,1119 680,1119 643,1119 641,1119 639,1119 637,1119 637,1121 622,1134 622,1166" />
+      <Word id="l_0015-w_0001" text="Ausqabe" />
+      <Word id="l_0015-w_0002" text="II" />
+      <Word id="l_0015-w_0003" text="in" />
+      <Word id="l_0015-w_0004" text="5ꝰ" />
+      <Word id="l_0015-w_0005" text="Rarten." />
+    </TextLine>
+    <TextLine id="l_0016" text="Preis in Leinwand gebunden fl. 3. 50.">
+      <Coords points="654,1296 652,1311 1252,1322 1256,1307 1254,1281 654,1270 654,1296" />
+      <Word id="l_0016-w_0001" text="Preis" />
+      <Word id="l_0016-w_0002" text="in" />
+      <Word id="l_0016-w_0003" text="Leinwand" />
+      <Word id="l_0016-w_0004" text="gebunden" />
+      <Word id="l_0016-w_0005" text="fl." />
+      <Word id="l_0016-w_0006" text="3." />
+      <Word id="l_0016-w_0007" text="50." />
+    </TextLine>
+    <TextLine id="l_0017" text="5. Erdkarte in Meroators Proiection.">
+      <Coords points="287,1564 285,1579 838,1588 842,1575 842,1549 287,1538 287,1564" />
+      <Word id="l_0017-w_0001" text="5." />
+      <Word id="l_0017-w_0002" text="Erdkarte" />
+      <Word id="l_0017-w_0003" text="in" />
+      <Word id="l_0017-w_0004" text="Meroators" />
+      <Word id="l_0017-w_0005" text="Proiection." />
+    </TextLine>
+    <TextLine id="l_0018" text="5a. Colonial- und Weltverkehrs-Karte.">
+      <Coords points="287,1600 285,1615 844,1624 848,1607 846,1583 287,1575 287,1600" />
+      <Word id="l_0018-w_0001" text="5a." />
+      <Word id="l_0018-w_0002" text="Colonial-" />
+      <Word id="l_0018-w_0003" text="und" />
+      <Word id="l_0018-w_0004" text="Weltverkehrs-Karte." />
+    </TextLine>
+    <TextLine id="l_0019" text="8. Mittol-Europa (Berg- und Fluskarte).">
+      <Coords points="288,1708 287,1724 844,1730 848,1715 848,1689 288,1680 288,1708" />
+      <Word id="l_0019-w_0001" text="8." />
+      <Word id="l_0019-w_0002" text="Mittol-Europa" />
+      <Word id="l_0019-w_0003" text="(Berg-" />
+      <Word id="l_0019-w_0004" text="und" />
+      <Word id="l_0019-w_0005" text="Fluskarte)." />
+    </TextLine>
+    <TextLine id="l_0020" text=")Lnder des Mittelmeer-Beoxens.">
+      <Coords points="296,1777 279,1777 279,1808 277,1818 807,1814 809,1801 807,1777 356,1764 354,1764 300,1769 296,1777" />
+      <Word id="l_0020-w_0001" text=")Lnder" />
+      <Word id="l_0020-w_0002" text="des" />
+      <Word id="l_0020-w_0003" text="Mittelmeer-Beoxens." />
+    </TextLine>
+    <TextLine id="l_0021" text="Die Alpen (Berg- und Fluskarte).">
+      <Coords points="322,1866 320,1885 790,1885 792,1870 790,1846 322,1834 322,1866" />
+      <Word id="l_0021-w_0001" text="Die" />
+      <Word id="l_0021-w_0002" text="Alpen" />
+      <Word id="l_0021-w_0003" text="(Berg-" />
+      <Word id="l_0021-w_0004" text="und" />
+      <Word id="l_0021-w_0005" text="Fluskarte)." />
+    </TextLine>
+    <TextLine id="l_0022" text="14. Dentsohland (Berg- und Fluſtarte).">
+      <Coords points="268,1913 266,1931 818,1939 822,1922 820,1898 268,1888 268,1913" />
+      <Word id="l_0022-w_0001" text="14." />
+      <Word id="l_0022-w_0002" text="Dentsohland" />
+      <Word id="l_0022-w_0003" text="(Berg-" />
+      <Word id="l_0022-w_0004" text="und" />
+      <Word id="l_0022-w_0005" text="Fluſtarte)." />
+    </TextLine>
+    <TextLine id="l_0023" text="15. Deutschland (politisch).">
+      <Coords points="266,1950 264,1965 654,1976 658,1957 656,1933 266,1926 266,1950" />
+      <Word id="l_0023-w_0001" text="15." />
+      <Word id="l_0023-w_0002" text="Deutschland" />
+      <Word id="l_0023-w_0003" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0024" text="16. Sud-Dentsohland.">
+      <Coords points="266,1987 264,2000 594,2004 598,1991 596,1967 266,1963 266,1987" />
+      <Word id="l_0024-w_0001" text="16." />
+      <Word id="l_0024-w_0002" text="Sud-Dentsohland." />
+    </TextLine>
+    <TextLine id="l_0025" text="17.">
+      <Coords points="268,2024 268,2036 311,2034 311,2022 305,1998 266,1998 268,2024" />
+      <Word id="l_0025-w_0001" text="17." />
+    </TextLine>
+    <TextLine id="l_0026" text="Nordwest- und Mittel-Deutschland.">
+      <Coords points="318,2024 316,2037 853,2043 857,2030 857,2004 318,1998 318,2024" />
+      <Word id="l_0026-w_0001" text="Nordwest-" />
+      <Word id="l_0026-w_0002" text="und" />
+      <Word id="l_0026-w_0003" text="Mittel-Deutschland." />
+    </TextLine>
+    <TextLine id="l_0027" text="18. Bolglen und Mederlande.">
+      <Coords points="266,2056 264,2071 702,2076 706,2062 704,2037 266,2032 266,2056" />
+      <Word id="l_0027-w_0001" text="18." />
+      <Word id="l_0027-w_0002" text="Bolglen" />
+      <Word id="l_0027-w_0003" text="und" />
+      <Word id="l_0027-w_0004" text="Mederlande." />
+    </TextLine>
+    <TextLine id="l_0028" text="1ꝰ. Sohwels (Berg- und Flußkarte).">
+      <Coords points="264,2091 262,2106 756,2110 760,2099 758,2075 264,2067 264,2091" />
+      <Word id="l_0028-w_0001" text="1ꝰ." />
+      <Word id="l_0028-w_0002" text="Sohwels" />
+      <Word id="l_0028-w_0003" text="(Berg-" />
+      <Word id="l_0028-w_0004" text="und" />
+      <Word id="l_0028-w_0005" text="Flußkarte)." />
+    </TextLine>
+    <TextLine id="l_0029" text="20.">
+      <Coords points="264,2129 264,2142 309,2140 309,2127 303,2103 262,2103 264,2129" />
+      <Word id="l_0029-w_0001" text="20." />
+    </TextLine>
+    <TextLine id="l_0030" text="revidiert von">
+      <Coords points="866,1037 866,1050 1057,1050 1057,1037 1057,1015 866,1015 866,1037" />
+      <Word id="l_0030-w_0001" text="revidiert" />
+      <Word id="l_0030-w_0002" text="von" />
+    </TextLine>
+    <TextLine id="l_0031" text="IN H ALT.">
+      <Coords points="820,1397 820,1413 1092,1413 1092,1397 1092,1372 820,1372 820,1397" />
+      <Word id="l_0031-w_0001" text="IN" />
+      <Word id="l_0031-w_0002" text="H" />
+      <Word id="l_0031-w_0003" text="ALT." />
+    </TextLine>
+    <TextLine id="l_0032" text="3. Figuren zur mathem. Geographie.">
+      <Coords points="288,1495 287,1508 838,1516 842,1503 840,1479 288,1471 288,1495" />
+      <Word id="l_0032-w_0001" text="3." />
+      <Word id="l_0032-w_0002" text="Figuren" />
+      <Word id="l_0032-w_0003" text="zur" />
+      <Word id="l_0032-w_0004" text="mathem." />
+      <Word id="l_0032-w_0005" text="Geographie." />
+    </TextLine>
+    <TextLine id="l_0033" text="Europa (Berg- und Fluſkarte).">
+      <Coords points="328,1635 326,1648 749,1656 753,1642 751,1618 328,1611 328,1635" />
+      <Word id="l_0033-w_0001" text="Europa" />
+      <Word id="l_0033-w_0002" text="(Berg-" />
+      <Word id="l_0033-w_0003" text="und" />
+      <Word id="l_0033-w_0004" text="Fluſkarte)." />
+    </TextLine>
+    <TextLine id="l_0034" text="Europa (politisch).">
+      <Coords points="331,1670 331,1689 589,1691 591,1670 591,1648 331,1648 331,1670" />
+      <Word id="l_0034-w_0001" text="Europa" />
+      <Word id="l_0034-w_0002" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0035" text="ꝰ. Mittol-Europa (politisch).">
+      <Coords points="283,1741 281,1754 678,1760 682,1747 682,1721 283,1715 283,1741" />
+      <Word id="l_0035-w_0001" text="ꝰ." />
+      <Word id="l_0035-w_0002" text="Mittol-Europa" />
+      <Word id="l_0035-w_0003" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0036" text="10.">
+      <Coords points="277,1775 277,1797 307,1797 307,1775 307,1751 277,1749 277,1775" />
+      <Word id="l_0036-w_0001" text="10." />
+    </TextLine>
+    <TextLine id="l_0037" text="12">
+      <Coords points="275,1846 275,1862 300,1862 300,1844 294,1818 272,1818 275,1846" />
+      <Word id="l_0037-w_0001" text="12" />
+    </TextLine>
+    <TextLine id="l_0038" text="18">
+      <Coords points="274,1879 275,1900 300,1900 298,1875 290,1851 268,1853 274,1879" />
+      <Word id="l_0038-w_0001" text="18" />
+    </TextLine>
+    <TextLine id="l_0039" text="Sohwols (politisch).">
+      <Coords points="316,2127 315,2140 589,2145 592,2132 591,2106 316,2101 316,2127" />
+      <Word id="l_0039-w_0001" text="Sohwols" />
+      <Word id="l_0039-w_0002" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0040" text="21. Sohweden, Norwegen und Danemark.">
+      <Coords points="266,2164 264,2179 874,2185 878,2171 878,2144 266,2136 266,2164" />
+      <Word id="l_0040-w_0001" text="21." />
+      <Word id="l_0040-w_0002" text="Sohweden," />
+      <Word id="l_0040-w_0003" text="Norwegen" />
+      <Word id="l_0040-w_0004" text="und" />
+      <Word id="l_0040-w_0005" text="Danemark." />
+    </TextLine>
+    <TextLine id="l_0041" text="22. Großbritannien und Irland.">
+      <Coords points="262,2199 261,2212 728,2216 732,2203 730,2177 262,2173 262,2199" />
+      <Word id="l_0041-w_0001" text="22." />
+      <Word id="l_0041-w_0002" text="Großbritannien" />
+      <Word id="l_0041-w_0003" text="und" />
+      <Word id="l_0041-w_0004" text="Irland." />
+    </TextLine>
+    <TextLine id="l_0042" text="23.">
+      <Coords points="262,2235 262,2252 307,2250 307,2235 307,2211 262,2211 262,2235" />
+      <Word id="l_0042-w_0001" text="23." />
+    </TextLine>
+    <TextLine id="l_0043" text="Frankreloh.">
+      <Coords points="316,2235 315,2248 499,2250 503,2237 501,2211 316,2209 316,2235" />
+      <Word id="l_0043-w_0001" text="Frankreloh." />
+    </TextLine>
+    <TextLine id="l_0044" text="24. Spanlen und Portugal.">
+      <Coords points="264,2272 262,2289 669,2289 671,2276 669,2250 264,2242 264,2272" />
+      <Word id="l_0044-w_0001" text="24." />
+      <Word id="l_0044-w_0002" text="Spanlen" />
+      <Word id="l_0044-w_0003" text="und" />
+      <Word id="l_0044-w_0004" text="Portugal." />
+    </TextLine>
+    <TextLine id="l_0045" text="25. Italien.">
+      <Coords points="262,2304 261,2319 428,2322 432,2307 430,2283 262,2280 262,2304" />
+      <Word id="l_0045-w_0001" text="25." />
+      <Word id="l_0045-w_0002" text="Italien." />
+    </TextLine>
+    <TextLine id="l_0046" text="fur">
+      <Coords points="945,791 945,810 978,808 978,791 978,765 945,765 945,791" />
+      <Word id="l_0046-w_0001" text="fur" />
+    </TextLine>
+    <TextLine id="l_0047" text="31. Auflage. 1887.">
+      <Coords points="809,1240 807,1253 1107,1257 1111,1244 1109,1216 809,1212 809,1240" />
+      <Word id="l_0047-w_0001" text="31." />
+      <Word id="l_0047-w_0002" text="Auflage." />
+      <Word id="l_0047-w_0003" text="1887." />
+    </TextLine>
+    <TextLine id="l_0048" text="Grunabegrie der Terrainlenre.">
+      <Coords points="298,1449 300,1473 335,1464 473,1471 475,1471 811,1460 812,1445 809,1423 296,1411 298,1449" />
+      <Word id="l_0048-w_0001" text="Grunabegrie" />
+      <Word id="l_0048-w_0002" text="der" />
+      <Word id="l_0048-w_0003" text="Terrainlenre." />
+    </TextLine>
+    <TextLine id="l_0049" text="4. Erd-Ansſohten.">
+      <Coords points="288,1529 287,1544 555,1549 559,1536 557,1512 288,1505 288,1529" />
+      <Word id="l_0049-w_0001" text="4." />
+      <Word id="l_0049-w_0002" text="Erd-Ansſohten." />
+    </TextLine>
+    <TextLine id="l_0050" text="6.">
+      <Coords points="288,1637 288,1650 311,1650 311,1635 305,1609 285,1609 288,1637" />
+      <Word id="l_0050-w_0001" text="6." />
+    </TextLine>
+    <TextLine id="l_0051" text="7.">
+      <Coords points="288,1669 285,1685 300,1691 307,1672 309,1648 292,1644 288,1669" />
+      <Word id="l_0051-w_0001" text="7." />
+    </TextLine>
+    <TextLine id="l_0052" text="26. Balkan-Haldinsel.">
+      <Coords points="261,2339 259,2354 591,2360 594,2347 594,2321 261,2313 261,2339" />
+      <Word id="l_0052-w_0001" text="26." />
+      <Word id="l_0052-w_0002" text="Balkan-Haldinsel." />
+    </TextLine>
+    <TextLine id="l_0053" text="27. Russland.">
+      <Coords points="264,2376 262,2391 481,2391 482,2378 481,2354 264,2348 264,2376" />
+      <Word id="l_0053-w_0001" text="27." />
+      <Word id="l_0053-w_0002" text="Russland." />
+    </TextLine>
+    <TextLine id="l_0054" text="28. Aslen (Berg- und Flußkarte).">
+      <Coords points="259,2410 257,2425 723,2430 727,2416 725,2391 259,2386 259,2410" />
+      <Word id="l_0054-w_0001" text="28." />
+      <Word id="l_0054-w_0002" text="Aslen" />
+      <Word id="l_0054-w_0003" text="(Berg-" />
+      <Word id="l_0054-w_0004" text="und" />
+      <Word id="l_0054-w_0005" text="Flußkarte)." />
+    </TextLine>
+    <TextLine id="l_0055" text="2ꝰ. Aslen (politisch).">
+      <Coords points="261,2445 259,2460 551,2464 555,2451 553,2427 261,2421 261,2445" />
+      <Word id="l_0055-w_0001" text="2ꝰ." />
+      <Word id="l_0055-w_0002" text="Aslen" />
+      <Word id="l_0055-w_0003" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0056" text="30. Vorder- und Hinter-Indien.">
+      <Coords points="259,2483 257,2494 734,2499 738,2488 738,2462 259,2457 259,2483" />
+      <Word id="l_0056-w_0001" text="30." />
+      <Word id="l_0056-w_0002" text="Vorder-" />
+      <Word id="l_0056-w_0003" text="und" />
+      <Word id="l_0056-w_0004" text="Hinter-Indien." />
+    </TextLine>
+    <TextLine id="l_0057" text="31. Afrika (Berg- und Flußkarte).">
+      <Coords points="255,2518 253,2533 732,2538 736,2524 736,2501 255,2496 255,2518" />
+      <Word id="l_0057-w_0001" text="31." />
+      <Word id="l_0057-w_0002" text="Afrika" />
+      <Word id="l_0057-w_0003" text="(Berg-" />
+      <Word id="l_0057-w_0004" text="und" />
+      <Word id="l_0057-w_0005" text="Flußkarte)." />
+    </TextLine>
+    <TextLine id="l_0058" text="32. Afrika (politisch).">
+      <Coords points="1001,1438 999,1451 1299,1456 1303,1441 1303,1415 1001,1411 1001,1438" />
+      <Word id="l_0058-w_0001" text="32." />
+      <Word id="l_0058-w_0002" text="Afrika" />
+      <Word id="l_0058-w_0003" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0059" text="33. Amerika (Berg- und Flußkarte).">
+      <Coords points="1001,1471 999,1484 1497,1495 1500,1482 1498,1458 1001,1447 1001,1471" />
+      <Word id="l_0059-w_0001" text="33." />
+      <Word id="l_0059-w_0002" text="Amerika" />
+      <Word id="l_0059-w_0003" text="(Berg-" />
+      <Word id="l_0059-w_0004" text="und" />
+      <Word id="l_0059-w_0005" text="Flußkarte)." />
+    </TextLine>
+    <TextLine id="l_0060" text="84. Amerixa (politisch).">
+      <Coords points="1003,1508 1001,1521 1329,1529 1333,1514 1331,1490 1003,1482 1003,1508" />
+      <Word id="l_0060-w_0001" text="84." />
+      <Word id="l_0060-w_0002" text="Amerixa" />
+      <Word id="l_0060-w_0003" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0061" text="35. Vereinigte Staaten, Mexiko und Cen-">
+      <Coords points="997,1542 995,1555 1178,1570 1180,1570 1631,1568 1633,1555 1631,1531 997,1518 997,1542" />
+      <Word id="l_0061-w_0001" text="35." />
+      <Word id="l_0061-w_0002" text="Vereinigte" />
+      <Word id="l_0061-w_0003" text="Staaten," />
+      <Word id="l_0061-w_0004" text="Mexiko" />
+      <Word id="l_0061-w_0005" text="und" />
+      <Word id="l_0061-w_0006" text="Cen-" />
+    </TextLine>
+    <TextLine id="l_0062" text="tral-Amerika.">
+      <Coords points="1060,1579 1058,1594 1260,1598 1264,1583 1262,1559 1060,1555 1060,1579" />
+      <Word id="l_0062-w_0001" text="tral-Amerika." />
+    </TextLine>
+    <TextLine id="l_0063" text="36. Sud-Amerika.">
+      <Coords points="995,1611 993,1624 1262,1631 1265,1618 1265,1594 995,1587 995,1611" />
+      <Word id="l_0063-w_0001" text="36." />
+      <Word id="l_0063-w_0002" text="Sud-Amerika." />
+    </TextLine>
+    <TextLine id="l_0064" text="37. Australlen und Polynesien (Berg- und">
+      <Coords points="995,1648 993,1661 1530,1682 1532,1682 1631,1672 1633,1659 1633,1635 995,1624 995,1648" />
+      <Word id="l_0064-w_0001" text="37." />
+      <Word id="l_0064-w_0002" text="Australlen" />
+      <Word id="l_0064-w_0003" text="und" />
+      <Word id="l_0064-w_0004" text="Polynesien" />
+      <Word id="l_0064-w_0005" text="(Berg-" />
+      <Word id="l_0064-w_0006" text="und" />
+    </TextLine>
+    <TextLine id="l_0065" text="38.">
+      <Coords points="993,1719 993,1734 1040,1734 1040,1719 1040,1695 993,1695 993,1719" />
+      <Word id="l_0065-w_0001" text="38." />
+    </TextLine>
+    <TextLine id="l_0066" text="Fluſkarte).">
+      <Coords points="1058,1685 1058,1700 1204,1706 1206,1685 1206,1661 1058,1659 1058,1685" />
+      <Word id="l_0066-w_0001" text="Fluſkarte)." />
+    </TextLine>
+    <TextLine id="l_0067" text="Australien und Polynesien (politisch).">
+      <Coords points="1049,1719 1047,1734 1605,1745 1608,1730 1608,1706 1049,1695 1049,1719" />
+      <Word id="l_0067-w_0001" text="Australien" />
+      <Word id="l_0067-w_0002" text="und" />
+      <Word id="l_0067-w_0003" text="Polynesien" />
+      <Word id="l_0067-w_0004" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0068" text="3ꝰ. österreichisen-ungarische Monarohie">
+      <Coords points="993,1751 991,1765 1625,1782 1629,1767 1627,1743 993,1726 993,1751" />
+      <Word id="l_0068-w_0001" text="3ꝰ." />
+      <Word id="l_0068-w_0002" text="österreichisen-ungarische" />
+      <Word id="l_0068-w_0003" text="Monarohie" />
+    </TextLine>
+    <TextLine id="l_0069" text="(Berg- und Flußkarte).">
+      <Coords points="1057,1790 1055,1803 1355,1810 1359,1795 1357,1771 1057,1765 1057,1790" />
+      <Word id="l_0069-w_0001" text="(Berg-" />
+      <Word id="l_0069-w_0002" text="und" />
+      <Word id="l_0069-w_0003" text="Flußkarte)." />
+    </TextLine>
+    <TextLine id="l_0070" text="40. Osterreichisch-ungariscne Monarohie">
+      <Coords points="991,1821 990,1834 1273,1853 1275,1853 1625,1851 1627,1838 1627,1814 991,1797 991,1821" />
+      <Word id="l_0070-w_0001" text="40." />
+      <Word id="l_0070-w_0002" text="Osterreichisch-ungariscne" />
+      <Word id="l_0070-w_0003" text="Monarohie" />
+    </TextLine>
+    <TextLine id="l_0071" text="(politisch).">
+      <Coords points="1053,1860 1051,1873 1187,1879 1191,1864 1189,1840 1053,1836 1053,1860" />
+      <Word id="l_0071-w_0001" text="(politisch)." />
+    </TextLine>
+    <TextLine id="l_0072" text="41. Nieder-österrelon.">
+      <Coords points="993,1896 991,1909 1321,1914 1325,1901 1325,1877 993,1872 993,1896" />
+      <Word id="l_0072-w_0001" text="41." />
+      <Word id="l_0072-w_0002" text="Nieder-österrelon." />
+    </TextLine>
+    <TextLine id="l_0073" text="42. Ober-österreich und Salzburg.">
+      <Coords points="993,1933 991,1946 1510,1957 1513,1944 1512,1918 993,1907 993,1933" />
+      <Word id="l_0073-w_0001" text="42." />
+      <Word id="l_0073-w_0002" text="Ober-österreich" />
+      <Word id="l_0073-w_0003" text="und" />
+      <Word id="l_0073-w_0004" text="Salzburg." />
+    </TextLine>
+    <TextLine id="l_0074" text="43. Steiermark und Kärnten.">
+      <Coords points="993,1967 991,1981 1430,1991 1433,1976 1431,1952 993,1942 993,1967" />
+      <Word id="l_0074-w_0001" text="43." />
+      <Word id="l_0074-w_0002" text="Steiermark" />
+      <Word id="l_0074-w_0003" text="und" />
+      <Word id="l_0074-w_0004" text="Kärnten." />
+    </TextLine>
+    <TextLine id="l_0075" text="44. Tlrol und Vorarlberg.">
+      <Coords points="991,2002 990,2017 1383,2026 1387,2013 1385,1989 991,1978 991,2002" />
+      <Word id="l_0075-w_0001" text="44." />
+      <Word id="l_0075-w_0002" text="Tlrol" />
+      <Word id="l_0075-w_0003" text="und" />
+      <Word id="l_0075-w_0004" text="Vorarlberg." />
+    </TextLine>
+    <TextLine id="l_0076" text="45. Krain und Küstenland.">
+      <Coords points="991,2039 990,2052 1400,2058 1403,2045 1402,2021 991,2015 991,2039" />
+      <Word id="l_0076-w_0001" text="45." />
+      <Word id="l_0076-w_0002" text="Krain" />
+      <Word id="l_0076-w_0003" text="und" />
+      <Word id="l_0076-w_0004" text="Küstenland." />
+    </TextLine>
+    <TextLine id="l_0077" text="46. Dalmatien und Occupations-Gebiet.">
+      <Coords points="991,2073 990,2088 1581,2099 1584,2084 1582,2060 991,2049 991,2073" />
+      <Word id="l_0077-w_0001" text="46." />
+      <Word id="l_0077-w_0002" text="Dalmatien" />
+      <Word id="l_0077-w_0003" text="und" />
+      <Word id="l_0077-w_0004" text="Occupations-Gebiet." />
+    </TextLine>
+    <TextLine id="l_0078" text="47. Sudeten-LAnder (Berg- und Flußkarte).">
+      <Coords points="991,2108 990,2123 1588,2136 1592,2121 1592,2097 991,2084 991,2108" />
+      <Word id="l_0078-w_0001" text="47." />
+      <Word id="l_0078-w_0002" text="Sudeten-LAnder" />
+      <Word id="l_0078-w_0003" text="(Berg-" />
+      <Word id="l_0078-w_0004" text="und" />
+      <Word id="l_0078-w_0005" text="Flußkarte)." />
+    </TextLine>
+    <TextLine id="l_0079" text="48. Böhmen.">
+      <Coords points="991,2145 990,2158 1178,2162 1182,2149 1180,2125 991,2121 991,2145" />
+      <Word id="l_0079-w_0001" text="48." />
+      <Word id="l_0079-w_0002" text="Böhmen." />
+    </TextLine>
+    <TextLine id="l_0080" text="4ꝰ. Mabren und Sohlesien.">
+      <Coords points="988,2179 986,2194 1390,2201 1394,2186 1394,2162 988,2155 988,2179" />
+      <Word id="l_0080-w_0001" text="4ꝰ." />
+      <Word id="l_0080-w_0002" text="Mabren" />
+      <Word id="l_0080-w_0003" text="und" />
+      <Word id="l_0080-w_0004" text="Sohlesien." />
+    </TextLine>
+    <TextLine id="l_0081" text="50. Galizien.">
+      <Coords points="986,2216 984,2227 1178,2233 1182,2222 1180,2196 986,2190 986,2216" />
+      <Word id="l_0081-w_0001" text="50." />
+      <Word id="l_0081-w_0002" text="Galizien." />
+    </TextLine>
+    <TextLine id="l_0082" text="5">
+      <Coords points="997,2250 993,2268 1006,2270 1012,2252 1012,2224 999,2224 997,2250" />
+      <Word id="l_0082-w_0001" text="5" />
+    </TextLine>
+    <TextLine id="l_0083" text=") Karpatenlander (Berg- u. Flustarte).">
+      <Coords points="1586,2270 1577,2252 1144,2242 1142,2242 1008,2250 1008,2252 1006,2250 991,2250 991,2287 990,2296 1049,2289 1286,2289 1295,2298 1295,2300 1297,2300 1299,2300 1301,2300 1586,2291 1588,2278 1586,2265 1586,2270" />
+      <Word id="l_0083-w_0001" text=")" />
+      <Word id="l_0083-w_0002" text="Karpatenlander" />
+      <Word id="l_0083-w_0003" text="(Berg-" />
+      <Word id="l_0083-w_0004" text="u." />
+      <Word id="l_0083-w_0005" text="Flustarte)." />
+    </TextLine>
+    <TextLine id="l_0084" text="5">
+      <Coords points="995,2332 995,2354 1012,2354 1012,2332 1012,2307 995,2304 995,2332" />
+      <Word id="l_0084-w_0001" text="5" />
+    </TextLine>
+    <TextLine id="l_0085" text=") Lander der ungarisohen Erone.">
+      <Coords points="1003,2334 999,2317 986,2315 986,2367 984,2375 1517,2369 1519,2358 1517,2334 1176,2321 1174,2321 1101,2328 1006,2317 1003,2334" />
+      <Word id="l_0085-w_0001" text=")" />
+      <Word id="l_0085-w_0002" text="Lander" />
+      <Word id="l_0085-w_0003" text="der" />
+      <Word id="l_0085-w_0004" text="ungarisohen" />
+      <Word id="l_0085-w_0005" text="Erone." />
+    </TextLine>
+    <TextLine id="l_0086" text="55. 1 Eisenbahnkarte von österreich-">
+      <Coords points="980,2412 978,2427 1521,2432 1525,2417 1523,2395 980,2389 980,2412" />
+      <Word id="l_0086-w_0001" text="55." />
+      <Word id="l_0086-w_0002" text="1" />
+      <Word id="l_0086-w_0003" text="Eisenbahnkarte" />
+      <Word id="l_0086-w_0004" text="von" />
+      <Word id="l_0086-w_0005" text="österreich-" />
+    </TextLine>
+    <TextLine id="l_0087" text="56. Ungarn.">
+      <Coords points="982,2449 980,2460 1165,2464 1168,2453 1167,2427 982,2423 982,2449" />
+      <Word id="l_0087-w_0001" text="56." />
+      <Word id="l_0087-w_0002" text="Ungarn." />
+    </TextLine>
+    <TextLine id="l_0088" text="57. ) Völker. und Sprachenkarte von öster-">
+      <Coords points="982,2490 980,2507 1616,2516 1620,2499 1620,2477 982,2468 982,2490" />
+      <Word id="l_0088-w_0001" text="57." />
+      <Word id="l_0088-w_0002" text=")" />
+      <Word id="l_0088-w_0003" text="Völker." />
+      <Word id="l_0088-w_0004" text="und" />
+      <Word id="l_0088-w_0005" text="Sprachenkarte" />
+      <Word id="l_0088-w_0006" text="von" />
+      <Word id="l_0088-w_0007" text="öster-" />
+    </TextLine>
+    <TextLine id="l_0089" text="38) roieh-Ungarn.">
+      <Coords points="982,2525 980,2542 1241,2550 1245,2533 1243,2509 982,2501 982,2525" />
+      <Word id="l_0089-w_0001" text="38)" />
+      <Word id="l_0089-w_0002" text="roieh-Ungarn." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="952,2585 952,2591 947,2591 947,2585 952,2585" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="1633,2816 1646,2816 1646,2822 1625,2822 1633,2816" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="1661,2796 1661,2807 1655,2807 1655,2794 1661,2796" />
+  </TextRegion>
+</Page>

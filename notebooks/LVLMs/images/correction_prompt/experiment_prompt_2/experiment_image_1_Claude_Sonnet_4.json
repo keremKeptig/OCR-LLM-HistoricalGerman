@@ -1,0 +1,15 @@
+{
+  "error_score": 65,
+  "errors": [
+    {
+      "bbox": [0.02, 0.25, 0.15, 0.45],
+      "class": "B",
+      "description": "Left marginal notes 'Lage und Bedeutung der Stadt' incorrectly merged or not properly separated from main text"
+    },
+    {
+      "bbox": [0.02, 0.75, 0.12, 0.85],
+      "class": "B",
+      "description": "Left marginal note 'Verfassung' not properly boxed separately from main text"
+    }
+  ]
+}

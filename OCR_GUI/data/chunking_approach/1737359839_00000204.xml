@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1737359839_00000204.bin.png" imageHeight="2821" imageWidth="1855" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="359,219 424,231 406,293 344,299 332,238 359,219" />
+    <TextLine id="l_0001" text="1ꝰ4">
+      <Coords points="402,231 355,224 354,224 352,224 338,230 338,231 338,263 338,274 418,274 418,263 415,252 402,231" />
+      <Word id="l_0001-w_0001" text="1ꝰ4" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="360,319 1691,344 1685,2480 332,2480 326,363 360,319" />
+    <TextLine id="l_0002" text="ganz Europa, auf welcher die durch Napoleon in Verwirrung ge-">
+      <Coords points="1668,343 1652,343 1637,343 1621,343 1605,343 1590,341 1574,341 1558,341 1542,341 1527,341 1484,341 1481,340 1480,340 1464,340 1448,340 1433,338 1417,338 1415,338 1404,340 1395,338 1386,338 1370,338 1354,336 1339,336 1329,340 1318,336 1307,336 1292,336 1284,336 1279,341 1224,341 1207,335 1197,335 1182,333 1174,333 1141,340 1097,332 1088,332 1081,332 1069,340 1052,332 1041,332 1036,332 1005,340 972,332 970,332 969,332 967,332 965,332 953,341 918,332 917,332 915,332 914,332 873,341 675,332 674,332 595,341 451,332 450,332 337,343 335,347 337,369 337,383 1085,377 1165,385 1166,385 1356,377 1368,385 1370,385 1372,385 1373,387 1655,387 1655,385 1657,385 1680,376 1680,366 1677,343 1668,343" />
+      <Word id="l_0002-w_0001" text="ganz" error_score="0.244" />
+      <Word id="l_0002-w_0002" text="Europa," error_score="0.244" />
+      <Word id="l_0002-w_0003" text="auf" error_score="0.244" />
+      <Word id="l_0002-w_0004" text="welcher" error_score="0.244" />
+      <Word id="l_0002-w_0005" text="die" error_score="0.244" />
+      <Word id="l_0002-w_0006" text="durch" error_score="0.244" />
+      <Word id="l_0002-w_0007" text="Napoleon" error_score="0.244" />
+      <Word id="l_0002-w_0008" text="in" error_score="0.244" />
+      <Word id="l_0002-w_0009" text="Verwirrung" error_score="0.244" />
+      <Word id="l_0002-w_0010" text="ge-" error_score="0.244" />
+    </TextLine>
+    <TextLine id="l_0003" text="brachten staatlichen Verhältnisse neu geordnet wurden. Die Ober-">
+      <Coords points="338,420 338,432 1684,432 1684,420 1684,396 1624,396 1610,385 1608,385 1607,385 1605,385 1558,394 1503,385 1502,385 1500,385 1466,394 1400,385 1398,385 1397,385 1362,396 1251,396 1227,385 1226,385 1224,385 1223,385 1183,394 965,394 947,385 945,385 835,385 834,385 832,385 816,393 758,385 757,385 755,385 754,385 741,394 683,385 682,385 586,394 561,387 559,387 558,387 556,387 531,394 439,385 437,385 435,385 407,394 338,390 338,420" />
+      <Word id="l_0003-w_0001" text="brachten" error_score="0.957" error_type="error" />
+      <Word id="l_0003-w_0002" text="staatlichen" error_score="0.957" error_type="error" />
+      <Word id="l_0003-w_0003" text="Verhältnisse" error_score="0.957" error_type="error" />
+      <Word id="l_0003-w_0004" text="neu" error_score="0.957" error_type="error" />
+      <Word id="l_0003-w_0005" text="geordnet" error_score="0.957" error_type="error" />
+      <Word id="l_0003-w_0006" text="wurden." error_score="0.957" error_type="error" />
+      <Word id="l_0003-w_0007" text="Die" error_score="0.957" error_type="error" />
+      <Word id="l_0003-w_0008" text="Ober-" error_score="0.957" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0004" text="leitung hatte bei diesen Verhandlungen der einflußreichste Staats-">
+      <Coords points="335,474 335,485 1682,482 1684,471 1680,446 1564,437 1563,437 1561,437 1538,445 1456,437 1455,437 1453,437 1452,437 1442,445 1426,437 1425,437 1423,437 1422,437 1420,437 1408,445 1372,437 1370,437 1368,437 1351,445 1332,437 1331,437 1329,437 1328,437 1304,445 1285,437 1284,437 1282,437 1281,437 1259,445 1190,437 1188,437 1187,437 1165,445 1027,437 1025,437 1023,437 987,446 931,438 929,438 928,438 901,446 885,438 884,438 882,438 827,446 744,438 743,438 704,446 680,438 678,438 677,438 602,446 555,438 553,438 333,443 335,474" />
+      <Word id="l_0004-w_0001" text="leitung" error_score="0.957" error_type="error" />
+      <Word id="l_0004-w_0002" text="hatte" error_score="0.957" error_type="error" />
+      <Word id="l_0004-w_0003" text="bei" error_score="0.880" error_type="error" />
+      <Word id="l_0004-w_0004" text="diesen" error_score="0.880" error_type="error" />
+      <Word id="l_0004-w_0005" text="Verhandlungen" error_score="0.880" error_type="error" />
+      <Word id="l_0004-w_0006" text="der" error_score="0.880" error_type="error" />
+      <Word id="l_0004-w_0007" text="einflußreichste" error_score="0.880" error_type="error" />
+      <Word id="l_0004-w_0008" text="Staats-" error_score="0.880" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0005" text="mann, den Europa damals besaß, der österreichische Minister">
+      <Coords points="335,528 335,537 1680,534 1682,525 1679,501 1597,490 1596,490 1594,490 1577,498 1521,490 1519,490 1517,490 1516,490 1502,499 1433,492 1431,492 1430,492 1403,499 1384,490 1383,490 1381,490 1345,498 1326,490 1325,490 1323,490 1260,499 1190,490 1188,490 1187,490 1157,499 1100,490 1099,490 1097,490 1063,499 1033,490 1031,490 1030,490 1028,490 1003,501 950,492 948,492 947,492 922,501 889,492 887,492 885,492 735,501 591,492 589,492 588,492 561,501 501,492 500,492 498,492 497,492 482,503 333,503 335,528" />
+      <Word id="l_0005-w_0001" text="mann," error_score="0.880" error_type="error" />
+      <Word id="l_0005-w_0002" text="den" error_score="0.880" error_type="error" />
+      <Word id="l_0005-w_0003" text="Europa" error_score="0.880" error_type="error" />
+      <Word id="l_0005-w_0004" text="damals" error_score="0.880" error_type="error" />
+      <Word id="l_0005-w_0005" text="besaß," error_score="0.006" />
+      <Word id="l_0005-w_0006" text="der" error_score="0.006" />
+      <Word id="l_0005-w_0007" text="österreichische" error_score="0.006" />
+      <Word id="l_0005-w_0008" text="Minister" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0006" text="Metternich, der kurz zuvor zur Belohnung für seine Verdienste">
+      <Coords points="337,576 335,587 1194,597 1196,597 1680,589 1682,579 1680,554 1574,545 1572,545 1519,553 1503,545 1502,545 1500,545 1447,553 1387,545 1386,545 1384,545 1354,553 1282,545 1281,545 1243,553 1119,545 1118,545 337,545 337,576" />
+      <Word id="l_0006-w_0001" text="Metternich," error_score="0.006" />
+      <Word id="l_0006-w_0002" text="der" error_score="0.006" />
+      <Word id="l_0006-w_0003" text="kurz" error_score="0.006" />
+      <Word id="l_0006-w_0004" text="zuvor" error_score="0.006" />
+      <Word id="l_0006-w_0005" text="zur" error_score="0.006" />
+      <Word id="l_0006-w_0006" text="Belohnung" error_score="0.006" />
+      <Word id="l_0006-w_0007" text="für" error_score="0.001" />
+      <Word id="l_0006-w_0008" text="seine" error_score="0.001" />
+      <Word id="l_0006-w_0009" text="Verdienste" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0007" text="um die Machtstellung Osterreichs in den Fürstenstand erhoben">
+      <Coords points="335,633 335,644 1682,644 1682,633 1682,608 1629,608 1615,597 1613,597 1611,597 1610,597 1608,597 1586,606 1566,597 1564,597 1563,597 1561,597 1541,608 1499,608 1484,597 1483,597 1481,597 1480,597 1478,597 1477,597 1462,608 1357,608 1237,597 1235,597 1183,606 1154,597 1152,597 1150,597 1108,606 1075,597 1074,597 1072,597 1070,597 1042,606 1014,597 1012,597 1011,597 909,604 820,597 818,597 768,606 721,597 598,597 597,597 595,597 594,597 580,606 520,597 519,597 517,597 487,606 448,597 446,597 445,597 443,597 442,597 428,608 335,608 335,633" />
+      <Word id="l_0007-w_0001" text="um" error_score="0.001" />
+      <Word id="l_0007-w_0002" text="die" error_score="0.001" />
+      <Word id="l_0007-w_0003" text="Machtstellung" error_score="0.001" />
+      <Word id="l_0007-w_0004" text="Osterreichs" error_score="0.001" />
+      <Word id="l_0007-w_0005" text="in" error_score="0.001" />
+      <Word id="l_0007-w_0006" text="den" error_score="0.001" />
+      <Word id="l_0007-w_0007" text="Fürstenstand" error_score="0.001" />
+      <Word id="l_0007-w_0008" text="erhoben" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0008" text="worden war. Osterreich erhielt durch den Wiener Kongreß im">
+      <Coords points="338,681 337,692 346,698 348,698 349,698 351,698 1679,695 1680,686 1679,661 1635,650 1633,650 1632,650 1613,659 1600,650 1599,650 1597,650 1596,650 1484,659 1431,650 1430,650 1428,650 1426,650 1412,661 1332,661 1312,650 1310,650 1251,650 1249,650 1248,650 1246,650 1234,659 1183,648 1182,648 1180,648 1152,658 1110,648 1108,648 989,658 967,648 965,648 896,648 895,648 829,658 787,647 785,647 784,647 782,647 752,655 625,647 624,647 622,647 620,647 606,658 453,658 437,647 435,647 434,647 432,647 431,647 429,647 415,656 338,656 338,681" />
+      <Word id="l_0008-w_0001" text="worden" error_score="0.002" />
+      <Word id="l_0008-w_0002" text="war." error_score="0.002" />
+      <Word id="l_0008-w_0003" text="Osterreich" error_score="0.002" />
+      <Word id="l_0008-w_0004" text="erhielt" error_score="0.002" />
+      <Word id="l_0008-w_0005" text="durch" error_score="0.002" />
+      <Word id="l_0008-w_0006" text="den" error_score="0.002" />
+      <Word id="l_0008-w_0007" text="Wiener" error_score="0.002" />
+      <Word id="l_0008-w_0008" text="Kongreß" error_score="0.002" />
+      <Word id="l_0008-w_0009" text="im" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0009" text="wesentlichen den Umfang, den es heute noch besitzt; von den">
+      <Coords points="337,738 337,747 1682,747 1682,738 1682,713 1626,702 1624,702 1622,702 1600,711 1439,711 1419,702 1417,702 1415,702 1414,702 1392,711 1356,702 1354,702 1353,702 1351,702 1332,711 1301,702 1299,702 1298,702 1296,702 1271,711 1166,703 1165,703 1114,709 1089,702 1088,702 1086,702 1085,702 1083,702 1069,713 989,713 929,702 928,702 884,711 718,702 716,702 715,702 691,711 631,702 630,702 628,702 591,711 468,702 467,702 337,711 337,738" />
+      <Word id="l_0009-w_0001" text="wesentlichen" error_score="0.002" />
+      <Word id="l_0009-w_0002" text="den" error_score="0.002" />
+      <Word id="l_0009-w_0003" text="Umfang," error_score="0.002" />
+      <Word id="l_0009-w_0004" text="den" error_score="0.002" />
+      <Word id="l_0009-w_0005" text="es" error_score="0.002" />
+      <Word id="l_0009-w_0006" text="heute" error_score="0.002" />
+      <Word id="l_0009-w_0007" text="noch" error_score="0.002" />
+      <Word id="l_0009-w_0008" text="besitzt;" error_score="0.002" />
+      <Word id="l_0009-w_0009" text="von" error_score="0.002" />
+      <Word id="l_0009-w_0010" text="den" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0010" text="Erwerbungen, die es zur Zeit Napoleons gemacht hatte, blieben ihm">
+      <Coords points="335,788 333,797 1139,808 1141,808 1679,800 1680,791 1679,764 1624,755 1622,755 1621,755 1586,763 1530,755 1447,755 1445,755 1444,755 1442,755 1430,764 1354,764 1342,755 1340,755 1339,755 1337,755 1335,755 1315,763 1284,755 1282,755 1281,755 1279,755 1254,764 1067,764 1033,755 1031,755 1030,755 1028,755 1008,763 973,753 972,753 970,753 760,761 671,753 669,753 631,761 335,758 335,788" />
+      <Word id="l_0010-w_0001" text="Erwerbungen," error_score="0.008" />
+      <Word id="l_0010-w_0002" text="die" error_score="0.008" />
+      <Word id="l_0010-w_0003" text="es" error_score="0.008" />
+      <Word id="l_0010-w_0004" text="zur" error_score="0.008" />
+      <Word id="l_0010-w_0005" text="Zeit" error_score="0.008" />
+      <Word id="l_0010-w_0006" text="Napoleons" error_score="0.008" />
+      <Word id="l_0010-w_0007" text="gemacht" error_score="0.008" />
+      <Word id="l_0010-w_0008" text="hatte," error_score="0.008" />
+      <Word id="l_0010-w_0009" text="blieben" error_score="0.008" />
+      <Word id="l_0010-w_0010" text="ihm" error_score="0.008" />
+    </TextLine>
+    <TextLine id="l_0011" text="insbesondere Salzburg und Venezien, wodurch die Monarchie,">
+      <Coords points="337,841 335,851 1679,858 1682,844 1680,818 1643,808 1641,808 1569,816 1503,808 1502,808 1450,816 1409,808 1408,808 1370,816 1329,808 1328,808 1326,808 1303,816 1257,808 1256,808 1254,808 1234,816 1080,808 1078,808 1023,816 975,807 973,807 834,814 724,807 616,807 614,807 613,807 611,807 600,814 531,807 530,807 528,807 504,814 337,811 337,841" />
+      <Word id="l_0011-w_0001" text="insbesondere" error_score="0.009" />
+      <Word id="l_0011-w_0002" text="Salzburg" error_score="0.009" />
+      <Word id="l_0011-w_0003" text="und" error_score="0.009" />
+      <Word id="l_0011-w_0004" text="Venezien," error_score="0.009" />
+      <Word id="l_0011-w_0005" text="wodurch" error_score="0.009" />
+      <Word id="l_0011-w_0006" text="die" error_score="0.009" />
+      <Word id="l_0011-w_0007" text="Monarchie," error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0012" text="da auch die Lombardei österreichisch war, in zweckmäßiger Weise">
+      <Coords points="335,896 335,907 1682,907 1682,896 1682,869 1630,860 1629,860 1627,860 1626,860 1615,868 1602,860 1600,860 1599,860 1597,860 1538,868 1417,860 1415,860 1373,868 1354,860 1353,860 1351,860 1350,860 1348,860 1337,869 1226,869 1208,860 1207,860 1205,860 1204,860 1202,860 1191,869 1086,869 1066,860 1064,860 1063,860 1061,860 1038,868 954,860 953,860 878,868 757,860 755,860 754,860 724,868 680,860 678,860 627,868 592,860 591,860 589,860 588,860 586,860 573,868 531,860 530,860 528,860 503,868 479,860 478,860 476,860 384,868 360,860 359,860 357,860 355,860 335,868 335,896" />
+      <Word id="l_0012-w_0001" text="da" error_score="0.009" />
+      <Word id="l_0012-w_0002" text="auch" error_score="0.009" />
+      <Word id="l_0012-w_0003" text="die" error_score="0.009" />
+      <Word id="l_0012-w_0004" text="Lombardei" error_score="0.003" />
+      <Word id="l_0012-w_0005" text="österreichisch" error_score="0.003" />
+      <Word id="l_0012-w_0006" text="war," error_score="0.003" />
+      <Word id="l_0012-w_0007" text="in" error_score="0.003" />
+      <Word id="l_0012-w_0008" text="zweckmäßiger" error_score="0.003" />
+      <Word id="l_0012-w_0009" text="Weise" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0013" text="abgerundet (arrondiert) wurde. Im deutschen Bunde, der an die">
+      <Coords points="337,946 335,957 343,963 344,963 346,963 348,963 572,957 785,965 787,965 1679,959 1680,951 1680,924 1652,915 1651,915 1649,915 1648,915 1613,923 1458,915 1456,915 1404,923 1376,915 1375,915 1373,915 1372,915 1337,923 1284,915 1282,915 1281,915 1248,923 1197,913 1196,913 1194,913 1166,921 1141,913 1139,913 1138,913 945,921 914,913 912,913 911,913 813,921 740,912 738,912 677,919 605,912 603,912 602,912 572,919 523,912 522,912 520,912 500,921 388,921 377,912 376,912 374,912 373,912 337,918 337,946" />
+      <Word id="l_0013-w_0001" text="abgerundet" error_score="0.003" />
+      <Word id="l_0013-w_0002" text="(arrondiert)" error_score="0.003" />
+      <Word id="l_0013-w_0003" text="wurde." error_score="0.003" />
+      <Word id="l_0013-w_0004" text="Im" error_score="0.003" />
+      <Word id="l_0013-w_0005" text="deutschen" error_score="0.005" />
+      <Word id="l_0013-w_0006" text="Bunde," error_score="0.005" />
+      <Word id="l_0013-w_0007" text="der" error_score="0.005" />
+      <Word id="l_0013-w_0008" text="an" error_score="0.005" />
+      <Word id="l_0013-w_0009" text="die" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0014" text="Stelle des deutschen Reiches trat, führte Osterreich den Vorsitz.">
+      <Coords points="335,1001 333,1009 1674,1015 1677,1004 1676,976 1627,966 1626,966 1624,966 1604,974 1560,966 1558,966 1511,974 1458,966 1456,966 1455,966 1433,974 1401,966 1400,966 1398,966 1339,974 1249,966 1248,966 1199,974 1127,966 1125,966 917,973 906,965 904,965 903,965 901,965 840,973 827,965 826,965 824,965 823,965 780,973 710,965 708,965 707,965 677,973 598,965 597,965 595,965 575,973 504,965 503,965 501,965 482,973 428,965 426,965 335,971 335,1001" />
+      <Word id="l_0014-w_0001" text="Stelle" error_score="0.005" />
+      <Word id="l_0014-w_0002" text="des" error_score="0.005" />
+      <Word id="l_0014-w_0003" text="deutschen" error_score="0.005" />
+      <Word id="l_0014-w_0004" text="Reiches" error_score="0.005" />
+      <Word id="l_0014-w_0005" text="trat," error_score="0.005" />
+      <Word id="l_0014-w_0006" text="führte" error_score="0.003" />
+      <Word id="l_0014-w_0007" text="Osterreich" error_score="0.003" />
+      <Word id="l_0014-w_0008" text="den" error_score="0.003" />
+      <Word id="l_0014-w_0009" text="Vorsitz." error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0015" text="Zu Ehren der in Wien versammelten Monarchen und Würdenträger">
+      <Coords points="439,1064 439,1075 1680,1075 1680,1064 1680,1040 1433,1031 1431,1031 1430,1031 1428,1031 1420,1039 1401,1031 1400,1031 1398,1031 1397,1031 1395,1031 1384,1040 1290,1040 1270,1031 1268,1031 1266,1031 1193,1039 1146,1031 1144,1031 1083,1039 1058,1031 1056,1031 1055,1031 1053,1031 1052,1031 1039,1040 868,1040 777,1031 776,1031 774,1031 757,1039 729,1031 727,1031 726,1031 724,1031 704,1039 653,1031 652,1031 614,1039 512,1031 511,1031 509,1031 490,1039 450,1031 448,1031 446,1031 445,1031 439,1035 439,1064" />
+      <Word id="l_0015-w_0001" text="Zu" error_score="0.003" />
+      <Word id="l_0015-w_0002" text="Ehren" error_score="0.003" />
+      <Word id="l_0015-w_0003" text="der" error_score="0.003" />
+      <Word id="l_0015-w_0004" text="in" error_score="0.003" />
+      <Word id="l_0015-w_0005" text="Wien" error_score="0.003" />
+      <Word id="l_0015-w_0006" text="versammelten" error_score="0.003" />
+      <Word id="l_0015-w_0007" text="Monarchen" error_score="0.002" />
+      <Word id="l_0015-w_0008" text="und" error_score="0.002" />
+      <Word id="l_0015-w_0009" text="Würdenträger" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0016" text="fanden rauschende, glanzvolle Festlichkeiten statt, die lange im Gedächt-">
+      <Coords points="335,1106 333,1117 1676,1120 1679,1109 1677,1086 1525,1076 1524,1076 1522,1076 1492,1084 1462,1076 1461,1076 1459,1076 1458,1076 1456,1076 1444,1086 1372,1086 1346,1076 1345,1076 1343,1076 1342,1076 1318,1084 1282,1076 1281,1076 1279,1076 1277,1076 1265,1086 1110,1086 1086,1076 1085,1076 1083,1076 1081,1076 1064,1084 1001,1075 1000,1075 953,1082 936,1075 934,1075 932,1075 892,1082 871,1075 870,1075 868,1075 335,1081 335,1106" />
+      <Word id="l_0016-w_0001" text="fanden" error_score="0.002" />
+      <Word id="l_0016-w_0002" text="rauschende," error_score="0.002" />
+      <Word id="l_0016-w_0003" text="glanzvolle" error_score="0.002" />
+      <Word id="l_0016-w_0004" text="Festlichkeiten" error_score="0.002" />
+      <Word id="l_0016-w_0005" text="statt," error_score="0.002" />
+      <Word id="l_0016-w_0006" text="die" error_score="0.002" />
+      <Word id="l_0016-w_0007" text="lange" error_score="0.002" />
+      <Word id="l_0016-w_0008" text="im" error_score="0.006" />
+      <Word id="l_0016-w_0009" text="Gedächt-" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0017" text="nisse der Zeitgenossen fortlebten. Viele derselben wurden in Laxenburg">
+      <Coords points="335,1151 333,1161 1676,1172 1679,1156 1677,1131 335,1126 335,1151" />
+      <Word id="l_0017-w_0001" text="nisse" error_score="0.006" />
+      <Word id="l_0017-w_0002" text="der" error_score="0.006" />
+      <Word id="l_0017-w_0003" text="Zeitgenossen" error_score="0.006" />
+      <Word id="l_0017-w_0004" text="fortlebten." error_score="0.006" />
+      <Word id="l_0017-w_0005" text="Viele" error_score="0.006" />
+      <Word id="l_0017-w_0006" text="derselben" error_score="0.006" />
+      <Word id="l_0017-w_0007" text="wurden" error_score="0.006" />
+      <Word id="l_0017-w_0008" text="in" error_score="0.006" />
+      <Word id="l_0017-w_0009" text="Laxenburg" error_score="0.057" />
+    </TextLine>
+    <TextLine id="l_0018" text="gefeiert, dem Lieblingssitze des Kaisers Franz, der sich daselbst in ge-">
+      <Coords points="337,1200 337,1216 1679,1208 1679,1200 1679,1176 1591,1176 1571,1166 1569,1166 1568,1166 1566,1166 1564,1166 1552,1175 1499,1166 1497,1166 1495,1166 1464,1175 1340,1166 1339,1166 1281,1175 1254,1166 1252,1166 1251,1166 1249,1166 1248,1166 1234,1176 1163,1176 1105,1166 1103,1166 1102,1166 1075,1175 948,1166 947,1166 945,1166 943,1166 929,1175 879,1166 878,1166 876,1166 840,1175 790,1166 788,1166 726,1173 605,1166 603,1166 602,1166 573,1175 512,1166 511,1166 509,1166 478,1175 390,1166 388,1166 337,1175 337,1200" />
+      <Word id="l_0018-w_0001" text="gefeiert," error_score="0.057" />
+      <Word id="l_0018-w_0002" text="dem" error_score="0.057" />
+      <Word id="l_0018-w_0003" text="Lieblingssitze" error_score="0.057" />
+      <Word id="l_0018-w_0004" text="des" error_score="0.057" />
+      <Word id="l_0018-w_0005" text="Kaisers" error_score="0.057" />
+      <Word id="l_0018-w_0006" text="Franz," error_score="0.057" />
+      <Word id="l_0018-w_0007" text="der" error_score="0.057" />
+      <Word id="l_0018-w_0008" text="sich" error_score="0.057" />
+      <Word id="l_0018-w_0009" text="daselbst" error_score="0.057" />
+      <Word id="l_0018-w_0010" text="in" error_score="0.873" error_type="error" />
+      <Word id="l_0018-w_0011" text="ge-" error_score="0.873" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0019" text="treuer Nachbildung mittelalterlicher Burgen die , Franzensburg ‟ hatte erbauen">
+      <Coords points="337,1239 335,1250 1677,1255 1680,1244 1679,1220 1417,1211 1415,1211 1372,1219 1332,1211 1331,1211 1238,1219 1205,1209 1204,1209 1202,1209 1165,1217 1102,1209 1100,1209 1099,1209 1097,1209 1085,1219 995,1219 964,1209 962,1209 961,1209 917,1217 856,1209 854,1209 853,1209 820,1217 777,1208 776,1208 337,1214 337,1239" />
+      <Word id="l_0019-w_0001" text="treuer" error_score="0.873" error_type="error" />
+      <Word id="l_0019-w_0002" text="Nachbildung" error_score="0.873" error_type="error" />
+      <Word id="l_0019-w_0003" text="mittelalterlicher" error_score="0.873" error_type="error" />
+      <Word id="l_0019-w_0004" text="Burgen" error_score="0.873" error_type="error" />
+      <Word id="l_0019-w_0005" text="die" error_score="0.873" error_type="error" />
+      <Word id="l_0019-w_0006" text="," error_score="0.873" error_type="error" />
+      <Word id="l_0019-w_0007" text="Franzensburg" error_score="0.873" error_type="error" />
+      <Word id="l_0019-w_0008" text="‟" error_score="0.873" error_type="error" />
+      <Word id="l_0019-w_0009" text="hatte" error_score="0.449" />
+      <Word id="l_0019-w_0010" text="erbauen" error_score="0.449" />
+    </TextLine>
+    <TextLine id="l_0020" text="lassen (s. die Abbildung Fig. 5ꝰ). Eines dieser Feste verherrlichte auch">
+      <Coords points="335,1286 333,1296 1677,1299 1680,1289 1680,1264 1662,1255 1660,1255 1658,1255 1657,1255 1640,1263 1483,1255 1481,1255 1433,1263 1412,1255 1411,1255 1409,1255 1408,1255 1406,1255 1392,1264 1285,1264 1240,1255 1238,1255 1168,1263 1130,1255 1128,1255 1063,1263 1006,1253 1005,1253 1003,1253 1001,1253 989,1261 953,1253 951,1253 885,1261 846,1253 845,1253 793,1261 727,1253 625,1253 624,1253 622,1253 620,1253 611,1261 572,1253 570,1253 569,1253 539,1261 335,1255 335,1286" />
+      <Word id="l_0020-w_0001" text="lassen" error_score="0.449" />
+      <Word id="l_0020-w_0002" text="(s." error_score="0.449" />
+      <Word id="l_0020-w_0003" text="die" error_score="0.449" />
+      <Word id="l_0020-w_0004" text="Abbildung" error_score="0.449" />
+      <Word id="l_0020-w_0005" text="Fig." error_score="0.449" />
+      <Word id="l_0020-w_0006" text="5ꝰ)." error_score="0.449" />
+      <Word id="l_0020-w_0007" text="Eines" error_score="0.449" />
+      <Word id="l_0020-w_0008" text="dieser" error_score="0.449" />
+      <Word id="l_0020-w_0009" text="Feste" error_score="0.003" />
+      <Word id="l_0020-w_0010" text="verherrlichte" error_score="0.003" />
+      <Word id="l_0020-w_0011" text="auch" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0021" text="der größte Meister der Töne, den die Welt damals besaß, Ludwig van">
+      <Coords points="337,1332 335,1341 348,1349 349,1349 351,1349 352,1349 1679,1343 1680,1335 1679,1310 1488,1300 1486,1300 1448,1308 1419,1300 1417,1300 1415,1300 1414,1300 1398,1308 1372,1300 1370,1300 1368,1300 1317,1308 1293,1300 1292,1300 1290,1300 1288,1300 1268,1308 1245,1300 1243,1300 1241,1300 1191,1308 1166,1300 1165,1300 1163,1300 1161,1300 1136,1308 1049,1300 1047,1300 1045,1300 1028,1308 1009,1299 1008,1299 1006,1299 1005,1299 970,1307 918,1299 917,1299 915,1299 890,1307 824,1299 823,1299 763,1307 724,1299 722,1299 721,1299 693,1307 614,1299 613,1299 337,1305 337,1332" />
+      <Word id="l_0021-w_0001" text="der" error_score="0.003" />
+      <Word id="l_0021-w_0002" text="größte" error_score="0.003" />
+      <Word id="l_0021-w_0003" text="Meister" error_score="0.003" />
+      <Word id="l_0021-w_0004" text="der" error_score="0.003" />
+      <Word id="l_0021-w_0005" text="Töne," error_score="0.003" />
+      <Word id="l_0021-w_0006" text="den" error_score="0.003" />
+      <Word id="l_0021-w_0007" text="die" error_score="0.003" />
+      <Word id="l_0021-w_0008" text="Welt" error_score="0.006" />
+      <Word id="l_0021-w_0009" text="damals" error_score="0.006" />
+      <Word id="l_0021-w_0010" text="besaß," error_score="0.006" />
+      <Word id="l_0021-w_0011" text="Ludwig" error_score="0.006" />
+      <Word id="l_0021-w_0012" text="van" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0022" text="Beethoven, durch die Aufführung eines seiner Tonwerke, der , Schlacht">
+      <Coords points="335,1379 335,1390 1669,1394 1671,1394 1673,1394 1674,1394 1682,1386 1682,1376 1679,1352 1538,1343 1536,1343 1535,1343 1533,1343 1522,1352 1459,1352 1447,1343 1445,1343 1444,1343 1442,1343 1368,1350 1357,1343 1356,1343 1354,1343 1353,1343 1351,1343 1350,1343 1337,1352 1256,1352 1218,1343 1216,1343 1157,1350 1133,1343 1132,1343 1130,1343 1038,1350 1009,1343 1008,1343 1006,1343 1005,1343 1003,1343 987,1352 881,1344 879,1344 333,1350 335,1379" />
+      <Word id="l_0022-w_0001" text="Beethoven," error_score="0.006" />
+      <Word id="l_0022-w_0002" text="durch" error_score="0.006" />
+      <Word id="l_0022-w_0003" text="die" error_score="0.006" />
+      <Word id="l_0022-w_0004" text="Aufführung" error_score="0.006" />
+      <Word id="l_0022-w_0005" text="eines" error_score="0.006" />
+      <Word id="l_0022-w_0006" text="seiner" error_score="0.082" />
+      <Word id="l_0022-w_0007" text="Tonwerke," error_score="0.082" />
+      <Word id="l_0022-w_0008" text="der" error_score="0.082" />
+      <Word id="l_0022-w_0009" text="," error_score="0.082" />
+      <Word id="l_0022-w_0010" text="Schlacht" error_score="0.082" />
+    </TextLine>
+    <TextLine id="l_0023" text="bei Vittoria‟. (Bei Vittoria in Spanien hatte der englische Feldherr">
+      <Coords points="335,1419 333,1430 341,1437 343,1437 344,1437 346,1437 958,1430 1011,1438 1012,1438 1679,1430 1680,1423 1679,1399 1610,1388 1530,1388 1528,1388 1527,1388 1525,1388 1513,1397 1464,1388 1462,1388 1461,1388 1439,1397 1419,1388 1417,1388 1415,1388 1414,1388 1378,1399 1288,1399 1268,1388 1266,1388 1265,1388 1263,1388 1243,1397 1152,1397 1135,1388 1133,1388 1132,1388 1130,1388 1092,1397 1050,1388 1049,1388 1047,1388 1023,1397 986,1386 984,1386 983,1386 981,1386 950,1396 904,1386 903,1386 901,1386 900,1386 884,1396 842,1386 840,1386 796,1394 732,1386 730,1386 729,1386 727,1386 715,1396 694,1386 693,1386 638,1386 636,1386 635,1386 633,1386 619,1396 580,1386 578,1386 577,1386 514,1396 456,1386 454,1386 453,1386 417,1396 390,1386 388,1386 387,1386 385,1386 368,1396 352,1386 351,1386 349,1386 348,1386 346,1386 335,1391 335,1419" />
+      <Word id="l_0023-w_0001" text="bei" error_score="0.082" />
+      <Word id="l_0023-w_0002" text="Vittoria‟." error_score="0.082" />
+      <Word id="l_0023-w_0003" text="(Bei" error_score="0.082" />
+      <Word id="l_0023-w_0004" text="Vittoria" error_score="0.082" />
+      <Word id="l_0023-w_0005" text="in" error_score="0.082" />
+      <Word id="l_0023-w_0006" text="Spanien" error_score="0.019" />
+      <Word id="l_0023-w_0007" text="hatte" error_score="0.019" />
+      <Word id="l_0023-w_0008" text="der" error_score="0.019" />
+      <Word id="l_0023-w_0009" text="englische" error_score="0.019" />
+      <Word id="l_0023-w_0010" text="Feldherr" error_score="0.019" />
+    </TextLine>
+    <TextLine id="l_0024" text="Wellington, welcher ebenfalls dem Kongresse beiwohnte, 1812 einen">
+      <Coords points="338,1463 337,1473 351,1482 352,1482 354,1482 355,1484 542,1484 542,1482 544,1482 545,1482 555,1474 588,1482 589,1482 591,1482 932,1474 1099,1484 1100,1484 1679,1476 1680,1466 1679,1443 1610,1432 1608,1432 1607,1432 1586,1441 1547,1432 1546,1432 1461,1432 1459,1432 1458,1432 1456,1432 1442,1441 1353,1432 1351,1432 1350,1432 1326,1441 1292,1432 1290,1432 1288,1432 1287,1432 1268,1441 1256,1432 1254,1432 1252,1432 1251,1432 1249,1432 1229,1443 1083,1443 1036,1432 1034,1432 1033,1432 1009,1441 962,1430 961,1430 959,1430 925,1440 887,1430 885,1430 884,1430 796,1438 771,1430 769,1430 768,1430 766,1430 765,1430 749,1440 664,1430 663,1430 611,1440 338,1435 338,1463" />
+      <Word id="l_0024-w_0001" text="Wellington," error_score="0.019" />
+      <Word id="l_0024-w_0002" text="welcher" error_score="0.019" />
+      <Word id="l_0024-w_0003" text="ebenfalls" error_score="0.019" />
+      <Word id="l_0024-w_0004" text="dem" error_score="0.019" />
+      <Word id="l_0024-w_0005" text="Kongresse" error_score="0.019" />
+      <Word id="l_0024-w_0006" text="beiwohnte," error_score="0.007" />
+      <Word id="l_0024-w_0007" text="1812" error_score="0.007" />
+      <Word id="l_0024-w_0008" text="einen" error_score="0.007" />
+    </TextLine>
+    <TextLine id="l_0025" text="glänzenden Sieg über die Franzosen erfochten. )">
+      <Coords points="337,1512 337,1526 1202,1521 1204,1507 1202,1484 1191,1476 1190,1476 1188,1476 1187,1476 1185,1476 1183,1476 1172,1484 1055,1476 1053,1476 1052,1476 1034,1485 903,1485 757,1477 755,1477 754,1477 752,1477 752,1479 744,1487 691,1487 653,1477 652,1477 608,1487 589,1479 588,1479 586,1479 413,1487 362,1479 360,1479 359,1479 335,1487 337,1512" />
+      <Word id="l_0025-w_0001" text="glänzenden" error_score="0.007" />
+      <Word id="l_0025-w_0002" text="Sieg" error_score="0.007" />
+      <Word id="l_0025-w_0003" text="über" error_score="0.007" />
+      <Word id="l_0025-w_0004" text="die" error_score="0.007" />
+      <Word id="l_0025-w_0005" text="Franzosen" error_score="0.007" />
+      <Word id="l_0025-w_0006" text="erfochten." error_score="0.007" />
+      <Word id="l_0025-w_0007" text=")" error_score="0.007" />
+    </TextLine>
+    <TextLine id="l_0026" text="Unter der väterlichen Regierung des ,guten Kaisers Franz‟">
+      <Coords points="440,1564 440,1576 895,1576 987,1584 989,1584 1111,1582 1113,1582 1114,1582 1125,1575 1511,1582 1513,1582 1514,1582 1530,1575 1539,1582 1541,1582 1542,1582 1544,1584 1644,1584 1644,1582 1646,1582 1674,1573 1674,1560 1669,1529 439,1532 440,1564" />
+      <Word id="l_0026-w_0001" text="Unter" error_score="0.105" />
+      <Word id="l_0026-w_0002" text="der" error_score="0.105" />
+      <Word id="l_0026-w_0003" text="väterlichen" error_score="0.105" />
+      <Word id="l_0026-w_0004" text="Regierung" error_score="0.105" />
+      <Word id="l_0026-w_0005" text="des" error_score="0.105" />
+      <Word id="l_0026-w_0006" text=",guten" error_score="0.105" />
+      <Word id="l_0026-w_0007" text="Kaisers" error_score="0.105" />
+      <Word id="l_0026-w_0008" text="Franz‟" error_score="0.105" />
+    </TextLine>
+    <TextLine id="l_0027" text="erholte sich Osterreich rasch von den Wunden, welche ihm die">
+      <Coords points="335,1617 335,1629 1679,1626 1680,1614 1679,1592 1648,1581 1646,1581 1644,1581 1643,1581 1611,1592 1558,1592 1544,1581 1542,1581 1541,1581 1539,1581 1473,1590 1461,1581 1459,1581 1458,1581 1456,1581 1455,1581 1453,1581 1441,1589 1426,1581 1425,1581 1423,1581 1422,1581 1420,1581 1406,1592 1301,1592 1281,1581 1279,1581 1277,1581 1276,1581 1240,1590 1169,1581 1168,1581 1119,1590 1092,1581 1091,1581 1089,1581 1088,1581 1086,1581 1072,1592 1000,1593 947,1593 932,1582 931,1582 929,1582 928,1582 926,1582 898,1592 606,1582 605,1582 603,1582 586,1592 573,1582 572,1582 570,1582 523,1582 522,1582 476,1592 381,1582 379,1582 377,1582 333,1593 335,1617" />
+      <Word id="l_0027-w_0001" text="erholte" error_score="0.105" />
+      <Word id="l_0027-w_0002" text="sich" error_score="0.105" />
+      <Word id="l_0027-w_0003" text="Osterreich" error_score="0.031" />
+      <Word id="l_0027-w_0004" text="rasch" error_score="0.031" />
+      <Word id="l_0027-w_0005" text="von" error_score="0.031" />
+      <Word id="l_0027-w_0006" text="den" error_score="0.031" />
+      <Word id="l_0027-w_0007" text="Wunden," error_score="0.031" />
+      <Word id="l_0027-w_0008" text="welche" error_score="0.031" />
+      <Word id="l_0027-w_0009" text="ihm" error_score="0.031" />
+      <Word id="l_0027-w_0010" text="die" error_score="0.031" />
+    </TextLine>
+    <TextLine id="l_0028" text="Napoleonischen Kriege geschlagen. Ackerbau und Viehzucht,">
+      <Coords points="333,1673 333,1684 1677,1687 1680,1669 1677,1644 1633,1634 1632,1634 1630,1634 1608,1645 1564,1645 1550,1634 1549,1634 1547,1634 1546,1634 1544,1634 1528,1642 1470,1634 1469,1634 1467,1634 1444,1644 1423,1634 1422,1634 1420,1634 1419,1634 1417,1634 1403,1645 1274,1645 1254,1634 1252,1634 1251,1634 1249,1634 1216,1645 1201,1636 1199,1636 1197,1636 1196,1636 1194,1636 1171,1645 1157,1636 1155,1636 1154,1636 1152,1636 1150,1636 1128,1647 1012,1647 997,1636 995,1636 994,1636 992,1636 870,1645 686,1637 685,1637 683,1637 682,1637 667,1647 591,1637 589,1637 588,1637 558,1645 542,1637 540,1637 539,1637 479,1645 461,1637 459,1637 457,1637 456,1637 421,1645 332,1640 333,1673" />
+      <Word id="l_0028-w_0001" text="Napoleonischen" error_score="0.031" />
+      <Word id="l_0028-w_0002" text="Kriege" error_score="0.031" />
+      <Word id="l_0028-w_0003" text="geschlagen." error_score="0.001" />
+      <Word id="l_0028-w_0004" text="Ackerbau" error_score="0.001" />
+      <Word id="l_0028-w_0005" text="und" error_score="0.001" />
+      <Word id="l_0028-w_0006" text="Viehzucht," error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0029" text="Handel und Gewerbe, Wissenschaft und Kunst gelangten zu">
+      <Coords points="337,1725 337,1738 1679,1738 1680,1725 1679,1702 1539,1692 1538,1692 1480,1700 1464,1691 1462,1691 1461,1691 1459,1691 1403,1700 1351,1692 1350,1692 1304,1700 1281,1691 1279,1691 1277,1691 1227,1700 1204,1691 1202,1691 1201,1691 1199,1691 1179,1702 1108,1702 1094,1691 1092,1691 1091,1691 1089,1691 1049,1698 1027,1691 1025,1691 1023,1691 1022,1691 1020,1691 1005,1702 925,1702 907,1691 906,1691 904,1691 842,1691 840,1691 838,1691 837,1691 824,1700 763,1691 762,1691 715,1698 630,1691 628,1691 627,1691 625,1691 613,1700 591,1691 589,1691 588,1691 512,1700 486,1691 484,1691 482,1691 401,1700 385,1691 384,1691 382,1691 381,1691 337,1691 337,1725" />
+      <Word id="l_0029-w_0001" text="Handel" error_score="0.001" />
+      <Word id="l_0029-w_0002" text="und" error_score="0.001" />
+      <Word id="l_0029-w_0003" text="Gewerbe," error_score="0.001" />
+      <Word id="l_0029-w_0004" text="Wissenschaft" error_score="0.001" />
+      <Word id="l_0029-w_0005" text="und" error_score="0.001" />
+      <Word id="l_0029-w_0006" text="Kunst" error_score="0.001" />
+      <Word id="l_0029-w_0007" text="gelangten" error_score="0.001" />
+      <Word id="l_0029-w_0008" text="zu" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0030" text="neuer Blüte.">
+      <Coords points="335,1778 335,1791 595,1791 595,1778 595,1755 471,1744 470,1744 468,1744 467,1744 467,1745 457,1755 335,1755 335,1778" />
+      <Word id="l_0030-w_0001" text="neuer" error_score="0.001" />
+      <Word id="l_0030-w_0002" text="Blüte." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0031" text="Für die Landwirtschaft war besonders die Gründung von land-">
+      <Coords points="439,1841 439,1852 1677,1847 1679,1836 1677,1814 1655,1805 1654,1805 1652,1805 1651,1805 1633,1813 1594,1805 1593,1805 1591,1805 1572,1814 1434,1814 1423,1805 1422,1805 1420,1805 1419,1805 1288,1813 1266,1805 1265,1805 1263,1805 1262,1805 1235,1816 1177,1816 1168,1807 1166,1807 1165,1807 1163,1807 1161,1807 1135,1814 1061,1807 1060,1807 1058,1807 1031,1816 936,1816 925,1807 923,1807 922,1807 920,1807 876,1814 853,1807 851,1807 849,1807 848,1807 846,1807 832,1816 769,1808 768,1808 694,1816 636,1808 635,1808 633,1808 603,1816 573,1808 572,1808 570,1808 531,1816 437,1813 439,1841" />
+      <Word id="l_0031-w_0001" text="Für" error_score="0.001" />
+      <Word id="l_0031-w_0002" text="die" error_score="0.001" />
+      <Word id="l_0031-w_0003" text="Landwirtschaft" error_score="0.001" />
+      <Word id="l_0031-w_0004" text="war" error_score="0.001" />
+      <Word id="l_0031-w_0005" text="besonders" error_score="0.001" />
+      <Word id="l_0031-w_0006" text="die" error_score="0.001" />
+      <Word id="l_0031-w_0007" text="Gründung" error_score="0.004" />
+      <Word id="l_0031-w_0008" text="von" error_score="0.004" />
+      <Word id="l_0031-w_0009" text="land-" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0032" text="wirtschaftlichen Schulen, dann von Ackerbaugesellschaften und landwirt-">
+      <Coords points="335,1886 335,1897 1679,1893 1680,1882 1677,1860 1622,1850 1621,1850 1619,1850 1618,1850 1605,1858 1484,1850 1483,1850 1481,1850 1480,1850 1469,1860 1403,1860 1243,1850 1241,1850 1240,1850 1238,1850 1224,1860 1119,1852 1118,1852 1116,1852 1091,1860 1019,1852 1017,1852 1016,1852 1014,1852 1001,1861 846,1861 823,1852 821,1852 820,1852 818,1852 779,1861 732,1854 730,1854 589,1861 566,1854 564,1854 368,1854 366,1854 365,1854 333,1863 335,1886" />
+      <Word id="l_0032-w_0001" text="wirtschaftlichen" error_score="0.004" />
+      <Word id="l_0032-w_0002" text="Schulen," error_score="0.004" />
+      <Word id="l_0032-w_0003" text="dann" error_score="0.004" />
+      <Word id="l_0032-w_0004" text="von" error_score="0.004" />
+      <Word id="l_0032-w_0005" text="Ackerbaugesellschaften" error_score="0.004" />
+      <Word id="l_0032-w_0006" text="und" error_score="0.004" />
+      <Word id="l_0032-w_0007" text="landwirt-" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0033" text="schaftlichen Vereinen, für das Gewerbe die Errichtung der technischen">
+      <Coords points="335,1929 335,1941 1679,1938 1680,1926 1677,1905 1622,1896 1621,1896 1619,1896 1599,1904 1577,1896 1575,1896 1574,1896 1572,1896 1550,1904 1539,1896 1538,1896 1536,1896 1535,1896 1437,1904 1412,1896 1411,1896 1409,1896 1335,1904 1194,1896 1193,1896 1191,1896 1168,1904 1132,1896 1130,1896 1072,1904 1052,1896 1050,1896 1049,1896 1003,1905 961,1897 959,1897 958,1897 929,1905 773,1897 771,1897 769,1897 768,1897 755,1907 674,1907 655,1897 653,1897 652,1897 614,1905 569,1897 567,1897 566,1897 539,1905 373,1897 371,1897 370,1897 333,1907 335,1929" />
+      <Word id="l_0033-w_0001" text="schaftlichen" error_score="0.005" />
+      <Word id="l_0033-w_0002" text="Vereinen," error_score="0.005" />
+      <Word id="l_0033-w_0003" text="für" error_score="0.005" />
+      <Word id="l_0033-w_0004" text="das" error_score="0.005" />
+      <Word id="l_0033-w_0005" text="Gewerbe" error_score="0.005" />
+      <Word id="l_0033-w_0006" text="die" error_score="0.005" />
+      <Word id="l_0033-w_0007" text="Errichtung" error_score="0.005" />
+      <Word id="l_0033-w_0008" text="der" error_score="0.005" />
+      <Word id="l_0033-w_0009" text="technischen" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0034" text="Institute in Wien, Prag, Graz u. s. w. und die Veranstaltung von Gewerbe-">
+      <Coords points="335,1974 335,1987 1677,1984 1679,1971 1676,1951 1627,1941 1626,1941 1624,1941 1599,1949 1527,1941 1525,1941 1524,1941 1494,1951 1354,1951 1335,1941 1334,1941 1332,1941 1271,1949 1202,1941 1201,1941 1003,1952 821,1952 801,1943 799,1943 798,1943 796,1943 766,1951 686,1943 685,1943 683,1943 652,1951 598,1943 597,1943 333,1946 335,1974" />
+      <Word id="l_0034-w_0001" text="Institute" error_score="0.005" />
+      <Word id="l_0034-w_0002" text="in" error_score="0.002" />
+      <Word id="l_0034-w_0003" text="Wien," error_score="0.002" />
+      <Word id="l_0034-w_0004" text="Prag," error_score="0.002" />
+      <Word id="l_0034-w_0005" text="Graz" error_score="0.002" />
+      <Word id="l_0034-w_0006" text="u." error_score="0.002" />
+      <Word id="l_0034-w_0007" text="s." error_score="0.002" />
+      <Word id="l_0034-w_0008" text="w." error_score="0.002" />
+      <Word id="l_0034-w_0009" text="und" error_score="0.002" />
+      <Word id="l_0034-w_0010" text="die" error_score="0.002" />
+      <Word id="l_0034-w_0011" text="Veranstaltung" error_score="0.002" />
+      <Word id="l_0034-w_0012" text="von" error_score="0.001" />
+      <Word id="l_0034-w_0013" text="Gewerbe-" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0035" text="ausstellungen wichtig. Erzherzog Johann, der Bruder des Kaisers,">
+      <Coords points="335,2020 335,2029 418,2038 420,2038 573,2031 636,2038 638,2040 732,2040 732,2038 733,2038 735,2038 744,2031 776,2038 777,2038 779,2038 1680,2032 1680,2020 1680,1998 1292,1988 1290,1988 1288,1988 1262,1996 1212,1988 1210,1988 1208,1988 1207,1988 1194,1998 1092,1998 1027,1988 1025,1988 1023,1988 1022,1988 1011,1998 870,1998 851,1988 849,1988 848,1988 846,1988 821,1996 774,1988 773,1988 715,1996 635,1988 633,1988 487,1996 442,1988 440,1988 335,1996 335,2020" />
+      <Word id="l_0035-w_0001" text="ausstellungen" error_score="0.001" />
+      <Word id="l_0035-w_0002" text="wichtig." error_score="0.001" />
+      <Word id="l_0035-w_0003" text="Erzherzog" error_score="0.001" />
+      <Word id="l_0035-w_0004" text="Johann," error_score="0.001" />
+      <Word id="l_0035-w_0005" text="der" error_score="0.001" />
+      <Word id="l_0035-w_0006" text="Bruder" error_score="0.001" />
+      <Word id="l_0035-w_0007" text="des" error_score="0.001" />
+      <Word id="l_0035-w_0008" text="Kaisers," error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0036" text="selbst Eigentümer mehrerer Eisenwerke in Steiermark, bewog die Besitzer">
+      <Coords points="333,2067 333,2079 1679,2075 1680,2062 1677,2038 371,2034 370,2034 332,2042 333,2067" />
+      <Word id="l_0036-w_0001" text="selbst" error_score="0.009" />
+      <Word id="l_0036-w_0002" text="Eigentümer" error_score="0.009" />
+      <Word id="l_0036-w_0003" text="mehrerer" error_score="0.009" />
+      <Word id="l_0036-w_0004" text="Eisenwerke" error_score="0.009" />
+      <Word id="l_0036-w_0005" text="in" error_score="0.009" />
+      <Word id="l_0036-w_0006" text="Steiermark," error_score="0.009" />
+      <Word id="l_0036-w_0007" text="bewog" error_score="0.009" />
+      <Word id="l_0036-w_0008" text="die" error_score="0.009" />
+      <Word id="l_0036-w_0009" text="Besitzer" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0037" text="der Eisenwerke, welche die unerschöpflichen Spateisensteinlager des stei-">
+      <Coords points="335,2111 335,2123 1676,2117 1677,2104 1674,2082 348,2079 346,2079 344,2079 343,2079 333,2084 335,2111" />
+      <Word id="l_0037-w_0001" text="der" error_score="0.009" />
+      <Word id="l_0037-w_0002" text="Eisenwerke," error_score="0.068" />
+      <Word id="l_0037-w_0003" text="welche" error_score="0.068" />
+      <Word id="l_0037-w_0004" text="die" error_score="0.068" />
+      <Word id="l_0037-w_0005" text="unerschöpflichen" error_score="0.068" />
+      <Word id="l_0037-w_0006" text="Spateisensteinlager" error_score="0.068" />
+      <Word id="l_0037-w_0007" text="des" error_score="0.068" />
+      <Word id="l_0037-w_0008" text="stei-" error_score="0.068" />
+    </TextLine>
+    <TextLine id="l_0038" text="rischen Erzberges ausbeuteten, die noch bestehende Vordernberger">
+      <Coords points="333,2156 333,2167 1679,2162 1680,2151 1677,2129 1287,2120 1285,2120 1187,2129 1157,2122 1155,2122 1154,2122 1152,2122 1132,2129 1016,2122 1014,2122 1012,2122 1011,2122 997,2131 854,2131 813,2122 812,2122 810,2122 776,2131 413,2123 412,2123 410,2123 395,2131 362,2123 360,2123 359,2123 357,2123 332,2131 333,2156" />
+      <Word id="l_0038-w_0001" text="rischen" error_score="0.068" />
+      <Word id="l_0038-w_0002" text="Erzberges" error_score="0.068" />
+      <Word id="l_0038-w_0003" text="ausbeuteten," error_score="0.068" />
+      <Word id="l_0038-w_0004" text="die" error_score="0.074" />
+      <Word id="l_0038-w_0005" text="noch" error_score="0.074" />
+      <Word id="l_0038-w_0006" text="bestehende" error_score="0.074" />
+      <Word id="l_0038-w_0007" text="Vordernberger" error_score="0.074" />
+    </TextLine>
+    <TextLine id="l_0039" text="Eisenwerksgesellschaft zu gründen, so daß nun die Gewinnung und Ver-">
+      <Coords points="333,2198 333,2211 1679,2206 1680,2194 1677,2173 332,2173 333,2198" />
+      <Word id="l_0039-w_0001" text="Eisenwerksgesellschaft" error_score="0.074" />
+      <Word id="l_0039-w_0002" text="zu" error_score="0.074" />
+      <Word id="l_0039-w_0003" text="gründen," error_score="0.074" />
+      <Word id="l_0039-w_0004" text="so" error_score="0.074" />
+      <Word id="l_0039-w_0005" text="daß" error_score="0.074" />
+      <Word id="l_0039-w_0006" text="nun" error_score="0.074" />
+      <Word id="l_0039-w_0007" text="die" error_score="0.041" />
+      <Word id="l_0039-w_0008" text="Gewinnung" error_score="0.041" />
+      <Word id="l_0039-w_0009" text="und" error_score="0.041" />
+      <Word id="l_0039-w_0010" text="Ver-" error_score="0.041" />
+    </TextLine>
+    <TextLine id="l_0040" text="sendung des Eisens im großen betrieben werden konnte. Der Kohlen-">
+      <Coords points="333,2244 333,2255 1679,2252 1680,2241 1677,2220 1618,2211 1616,2211 1083,2219 1016,2211 1014,2211 929,2220 583,2212 581,2212 580,2212 578,2212 566,2220 515,2212 514,2212 434,2220 404,2212 402,2212 401,2212 332,2222 333,2244" />
+      <Word id="l_0040-w_0001" text="sendung" error_score="0.041" />
+      <Word id="l_0040-w_0002" text="des" error_score="0.041" />
+      <Word id="l_0040-w_0003" text="Eisens" error_score="0.041" />
+      <Word id="l_0040-w_0004" text="im" error_score="0.041" />
+      <Word id="l_0040-w_0005" text="großen" error_score="0.041" />
+      <Word id="l_0040-w_0006" text="betrieben" error_score="0.041" />
+      <Word id="l_0040-w_0007" text="werden" error_score="0.005" />
+      <Word id="l_0040-w_0008" text="konnte." error_score="0.005" />
+      <Word id="l_0040-w_0009" text="Der" error_score="0.005" />
+      <Word id="l_0040-w_0010" text="Kohlen-" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0041" text="bergbau, im Zusammenhang damit das Maschinen- und Eisenbahnwesen">
+      <Coords points="335,2289 335,2300 1679,2297 1680,2286 1677,2264 333,2261 335,2289" />
+      <Word id="l_0041-w_0001" text="bergbau," error_score="0.005" />
+      <Word id="l_0041-w_0002" text="im" error_score="0.005" />
+      <Word id="l_0041-w_0003" text="Zusammenhang" error_score="0.005" />
+      <Word id="l_0041-w_0004" text="damit" error_score="0.005" />
+      <Word id="l_0041-w_0005" text="das" error_score="0.005" />
+      <Word id="l_0041-w_0006" text="Maschinen-" error_score="0.005" />
+      <Word id="l_0041-w_0007" text="und" error_score="0.001" />
+      <Word id="l_0041-w_0008" text="Eisenbahnwesen" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0042" text="begannen sich in dieser Zeit zu entwickeln. Die erste Eisenbahn">
+      <Coords points="335,2335 335,2344 1679,2341 1680,2332 1677,2310 1635,2300 1633,2300 1632,2300 1604,2308 1594,2300 1593,2300 1591,2300 1590,2300 1588,2300 1553,2308 1505,2300 1503,2300 1450,2310 1296,2310 1279,2300 1277,2300 1276,2300 1003,2311 903,2311 885,2302 884,2302 882,2302 824,2310 732,2302 730,2302 729,2302 697,2310 647,2302 646,2302 644,2302 625,2310 594,2302 592,2302 591,2302 533,2310 333,2306 335,2335" />
+      <Word id="l_0042-w_0001" text="begannen" error_score="0.001" />
+      <Word id="l_0042-w_0002" text="sich" error_score="0.001" />
+      <Word id="l_0042-w_0003" text="in" error_score="0.001" />
+      <Word id="l_0042-w_0004" text="dieser" error_score="0.001" />
+      <Word id="l_0042-w_0005" text="Zeit" error_score="0.001" />
+      <Word id="l_0042-w_0006" text="zu" error_score="0.001" />
+      <Word id="l_0042-w_0007" text="entwickeln." error_score="0.001" />
+      <Word id="l_0042-w_0008" text="Die" error_score="0.001" />
+      <Word id="l_0042-w_0009" text="erste" error_score="0.000" />
+      <Word id="l_0042-w_0010" text="Eisenbahn" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0043" text="in Osterreich war die von Budweis nach Linz (1825), welche aber anfangs">
+      <Coords points="333,2380 333,2390 1665,2394 1666,2394 1668,2394 1669,2394 1680,2386 1680,2375 1677,2353 1615,2353 1594,2342 1593,2342 1591,2342 1590,2342 1569,2353 1497,2353 1475,2342 1473,2342 1472,2342 1420,2352 1370,2342 1368,2342 1367,2342 1365,2342 1350,2353 1307,2353 1293,2342 1292,2342 1290,2342 1232,2342 1230,2342 1171,2353 1121,2344 1119,2344 975,2353 954,2344 953,2344 951,2344 950,2344 929,2353 837,2344 835,2344 834,2344 832,2344 818,2355 729,2355 689,2346 688,2346 686,2346 685,2346 683,2346 669,2357 572,2357 522,2346 520,2346 453,2353 396,2346 395,2346 393,2346 370,2355 344,2346 343,2346 341,2346 340,2346 338,2346 332,2349 333,2380" />
+      <Word id="l_0043-w_0001" text="in" error_score="0.000" />
+      <Word id="l_0043-w_0002" text="Osterreich" error_score="0.000" />
+      <Word id="l_0043-w_0003" text="war" error_score="0.000" />
+      <Word id="l_0043-w_0004" text="die" error_score="0.000" />
+      <Word id="l_0043-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0043-w_0006" text="Budweis" error_score="0.000" />
+      <Word id="l_0043-w_0007" text="nach" error_score="0.000" />
+      <Word id="l_0043-w_0008" text="Linz" error_score="0.000" />
+      <Word id="l_0043-w_0009" text="(1825)," error_score="0.001" />
+      <Word id="l_0043-w_0010" text="welche" error_score="0.001" />
+      <Word id="l_0043-w_0011" text="aber" error_score="0.001" />
+      <Word id="l_0043-w_0012" text="anfangs" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0044" text="nur eine Pferdebahn war. Auch die großartigen Kunststraßen über den">
+      <Coords points="333,2426 333,2435 1000,2441 1001,2441 1003,2441 1005,2441 1014,2433 1666,2438 1668,2438 1669,2438 1671,2438 1679,2430 1679,2419 1676,2397 1622,2388 1621,2388 1549,2396 1528,2388 1527,2388 1525,2388 1455,2396 1422,2388 1420,2388 1419,2388 1337,2397 1099,2390 1097,2390 715,2399 672,2391 671,2391 332,2402 333,2426" />
+      <Word id="l_0044-w_0001" text="nur" error_score="0.001" />
+      <Word id="l_0044-w_0002" text="eine" error_score="0.001" />
+      <Word id="l_0044-w_0003" text="Pferdebahn" error_score="0.001" />
+      <Word id="l_0044-w_0004" text="war." error_score="0.001" />
+      <Word id="l_0044-w_0005" text="Auch" error_score="0.001" />
+      <Word id="l_0044-w_0006" text="die" error_score="0.001" />
+      <Word id="l_0044-w_0007" text="großartigen" error_score="0.003" />
+      <Word id="l_0044-w_0008" text="Kunststraßen" error_score="0.003" />
+      <Word id="l_0044-w_0009" text="über" error_score="0.003" />
+      <Word id="l_0044-w_0010" text="den" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0045" text="Loibl-Paß und das Stilfser Joch entstanden in dieser Zeit. Kaiser">
+      <Coords points="333,2468 333,2479 766,2487 768,2487 906,2479 1207,2485 1208,2485 1210,2485 1240,2477 1658,2484 1660,2484 1662,2484 1663,2484 1676,2476 1676,2463 1673,2443 1618,2433 1616,2433 1549,2441 1497,2433 1495,2433 1210,2443 1191,2435 1190,2435 1188,2435 1187,2435 1168,2444 1023,2444 1012,2435 1011,2435 1009,2435 1008,2435 1006,2435 980,2443 953,2435 951,2435 950,2435 948,2435 920,2443 843,2435 842,2435 751,2437 749,2437 747,2437 736,2444 685,2437 683,2437 682,2437 658,2444 635,2437 633,2437 631,2437 594,2444 542,2437 540,2437 332,2440 333,2468" />
+      <Word id="l_0045-w_0001" text="Loibl-Paß" error_score="0.003" />
+      <Word id="l_0045-w_0002" text="und" error_score="0.003" />
+      <Word id="l_0045-w_0003" text="das" error_score="0.003" />
+      <Word id="l_0045-w_0004" text="Stilfser" error_score="0.003" />
+      <Word id="l_0045-w_0005" text="Joch" error_score="0.003" />
+      <Word id="l_0045-w_0006" text="entstanden" error_score="0.003" />
+      <Word id="l_0045-w_0007" text="in" error_score="0.009" />
+      <Word id="l_0045-w_0008" text="dieser" error_score="0.009" />
+      <Word id="l_0045-w_0009" text="Zeit." error_score="0.009" />
+      <Word id="l_0045-w_0010" text="Kaiser" error_score="0.009" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="1840,2752 1853,2813 1831,2819 1831,2764 1840,2752" />
+  </TextRegion>
+</Page>

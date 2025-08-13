@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1741698316_00000016.bin.png" imageHeight="3564" imageWidth="2189" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="13,1393 29,1526 7,1605 0,1473 13,1393" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="13,1617 21,1623 21,1787 7,1787 13,1617" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="23,934 37,1233 7,1376 0,1005 23,934" />
+    <TextLine id="l_0001" text="">
+      <Coords points="11,1186 11,1160 11,1197 11,1223" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="820,71 851,71 851,77 814,77 820,71" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="1059,902 1089,932 1043,995 1043,910 1059,902" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="1588,316 1776,316 1800,370 1557,378 1557,332 1588,316" />
+    <TextLine id="l_0002" text="Planigloben.">
+      <Coords points="1780,332 1776,328 1563,326 1563,362 1561,380 1778,386 1782,366 1780,332 1780,332" />
+      <Word id="l_0002-w_0001" text="Planigloben." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="1887,316 1943,332 1943,386 1858,378 1887,316" />
+    <TextLine id="l_0003" text="4">
+      <Coords points="1911,322 1891,318 1887,366 1883,386 1917,392 1921,370 1925,326 1911,322" />
+      <Word id="l_0003-w_0001" text="4" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="15,1995 21,1995 21,2033 7,2009 15,1995" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="55,3381 116,3381 116,3387 47,3387 55,3381" />
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="101,3162 101,3181 87,3189 87,3175 101,3162" />
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="108,2861 124,2882 124,2968 95,2952 108,2861" />
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="156,2932 156,2944 150,2944 150,2930 156,2932" />
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="1895,3249 1895,3261 1889,3261 1889,3247 1895,3249" />
+  </TextRegion>
+</Page>

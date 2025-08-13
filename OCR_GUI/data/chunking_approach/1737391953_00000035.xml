@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1737391953_00000035.bin.png" imageHeight="2241" imageWidth="1443" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="1,1 1,2 0,2 0,1 1,1" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1,358 1,359 0,359 0,358 1,358" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="63,215 68,222 39,222 39,219 63,215" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="63,489 63,491 59,491 59,488 63,489" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="64,418 73,422 59,432 54,423 64,418" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="68,578 68,591 59,591 59,582 68,578" />
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="64,463 73,466 59,471 59,463 64,463" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="68,1335 73,1343 64,1348 59,1339 68,1335" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="69,1374 83,1388 54,1393 64,1374 69,1374" />
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="1,2216 1,2217 0,2217 0,2216 1,2216" />
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="1,2226 1,2227 0,2227 0,2226 1,2226" />
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="23,1978 23,1985 19,1985 19,1977 23,1978" />
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="23,1993 23,1995 19,1995 19,1992 23,1993" />
+  </TextRegion>
+  <TextRegion id="r_0014" type="paragraph">
+    <Coords points="64,1399 88,1414 73,1437 0,1413 64,1399" />
+  </TextRegion>
+  <TextRegion id="r_0015" type="paragraph">
+    <Coords points="64,1623 73,1623 73,1627 59,1627 64,1623" />
+  </TextRegion>
+  <TextRegion id="r_0016" type="paragraph">
+    <Coords points="61,2071 98,2071 98,2080 69,2090 61,2071" />
+  </TextRegion>
+  <TextRegion id="r_0017" type="paragraph">
+    <Coords points="262,2148 258,2150 258,2146 262,2146 262,2148" />
+  </TextRegion>
+</Page>

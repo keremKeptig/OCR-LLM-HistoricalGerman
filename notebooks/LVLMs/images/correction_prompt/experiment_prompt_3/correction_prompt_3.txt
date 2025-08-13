@@ -1,0 +1,11 @@
+I provided a page from an old article with bounding boxes.
+The bounding boxes might not always be right.
+They might miss marginalia, footnotes, descriptions, page descriptors etc. (We will call all that marginalia)
+Your job is to point out the incorrect bounding boxes. Reading the text might help you find stuff that does not make sense and thus belongs into it's own box.
+
+If you see layout error write a list that may look like this:
+1. Page number "176" belongs in it's own box
+2. "Fig 5. Prinz Eugen von Savoyen" belongs into it's own box
+3. There are boxes without text in them on the left side
+4. "Commercio interno ed" is a sidenode (marginalia) and should have it's own box
+5. "1858 - 1852" is a footnote and should have it's own box

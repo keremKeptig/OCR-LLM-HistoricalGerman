@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1739047397_00000291.bin.png" imageHeight="2931" imageWidth="1768" orientation="0.0" overwritePageError="0.11475409836065574">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="156,423 161,423 167,434 149,434 156,423" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="193,379 193,382 189,382 189,377 193,379" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="185,389 182,389 182,384 187,384 185,389" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="45,612 415,612 454,618 467,656 39,662 26,625 45,612" />
+    <TextLine id="l_0001" text="Abb. 18. Tonnengewölbe.">
+      <Coords points="452,625 443,618 43,613 29,636 30,646 30,656 462,654 462,643 461,639 452,625" />
+      <Word id="l_0001-w_0001" text="Abb." />
+      <Word id="l_0001-w_0002" text="18." />
+      <Word id="l_0001-w_0003" text="Tonnengewölbe." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="158,455 376,475 382,571 136,565 158,455" />
+    <TextLine id="l_0002" text="A">
+      <Coords points="184,552 182,566 231,569 234,553 234,525 184,525 184,552" />
+      <Word id="l_0002-w_0001" text="A" />
+    </TextLine>
+    <TextLine id="l_0003" text="eM">
+      <Coords points="374,516 340,519 338,519 337,519 337,521 325,532 273,532 273,561 273,581 378,581 378,561 376,534 374,516" />
+      <Word id="l_0003-w_0001" text="eM" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="321,794 382,794 391,820 422,807 441,949 526,983 526,1027 428,1022 435,1190 506,1165 506,1268 488,1268 487,1209 436,1203 415,1288 338,1288 317,1248 267,1288 162,1177 162,963 293,897 280,833 321,794" />
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="350,1304 389,1302 389,1320 338,1320 350,1304" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="356,1545 558,1550 584,1594 558,1633 395,1639 195,1633 169,1600 182,1550 356,1545" />
+    <TextLine id="l_0004" text="Abb. 21. Grundrißs einer">
+      <Coords points="563,1564 550,1551 498,1548 498,1548 495,1546 474,1546 466,1546 449,1546 436,1546 384,1555 351,1546 350,1546 348,1546 347,1546 345,1546 329,1556 268,1550 267,1550 265,1550 239,1558 187,1550 172,1577 174,1584 174,1595 576,1589 578,1576 575,1553 562,1551 563,1564" />
+      <Word id="l_0004-w_0001" text="Abb." />
+      <Word id="l_0004-w_0002" text="21." />
+      <Word id="l_0004-w_0003" text="Grundrißs" />
+      <Word id="l_0004-w_0004" text="einer" />
+    </TextLine>
+    <TextLine id="l_0005" text="romanischen Basilika.">
+      <Coords points="198,1621 198,1633 555,1629 557,1616 554,1594 435,1585 433,1585 431,1585 410,1594 342,1587 340,1587 197,1597 198,1621" />
+      <Word id="l_0005-w_0001" text="romanischen" />
+      <Word id="l_0005-w_0002" text="Basilika." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="604,612 961,612 987,649 591,656 604,612" />
+    <TextLine id="l_0006" text="Abb. 1ꝰ. Würfelkapitell.">
+      <Coords points="961,617 946,612 922,612 912,612 896,612 879,612 863,612 847,612 831,612 814,612 798,612 782,612 765,612 749,612 733,612 730,612 728,613 695,612 684,612 668,612 651,612 635,612 619,612 602,612 601,607 601,607 599,607 598,607 596,607 586,612 588,641 588,652 977,652 979,636 977,635 961,617" />
+      <Word id="l_0006-w_0001" text="Abb." />
+      <Word id="l_0006-w_0002" text="1ꝰ." />
+      <Word id="l_0006-w_0003" text="Würfelkapitell." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="1147,605 1494,605 1520,643 1112,649 1112,618 1147,605" />
+    <TextLine id="l_0007" text="Abb. 20. Blätterkapitell.">
+      <Coords points="1507,630 1492,608 1430,605 1425,605 1409,605 1393,605 1376,605 1373,605 1368,610 1147,605 1132,608 1116,615 1117,639 1117,651 1512,651 1513,635 1510,630 1507,630" />
+      <Word id="l_0007-w_0001" text="Abb." />
+      <Word id="l_0007-w_0002" text="20." />
+      <Word id="l_0007-w_0003" text="Blätterkapitell." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="1328,1276 1370,1276 1370,1281 1332,1294 1328,1276" />
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="1404,149 1448,156 1442,206 1391,200 1404,149" />
+    <TextLine id="l_0008" text="11">
+      <Coords points="1443,166 1437,161 1404,161 1394,182 1394,188 1394,201 1446,201 1446,188 1446,166 1443,166" />
+      <Word id="l_0008-w_0001" text="11" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="148,1936 148,1952 143,1952 143,1934 148,1936" />
+  </TextRegion>
+  <TextRegion id="r_0014" type="paragraph">
+    <Coords points="169,2025 350,2058 350,2193 162,2193 149,2051 169,2025" />
+    <TextLine id="l_0009" text="5">
+      <Coords points="164,2092 169,2193 233,2170 229,2089 226,2059 208,2053 206,2053 205,2053 162,2063 164,2092" />
+      <Word id="l_0009-w_0001" text="5" />
+    </TextLine>
+    <TextLine id="l_0010" text="A">
+      <Coords points="281,2181 281,2204 334,2204 334,2181 334,2115 281,2110 281,2181" />
+      <Word id="l_0010-w_0001" text="A" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0015" type="paragraph">
+    <Coords points="210,2221 324,2227 345,2273 441,2273 441,2343 422,2369 332,2369 317,2388 78,2362 58,2279 174,2266 210,2221" />
+    <TextLine id="l_0011" text="Abb. 23.">
+      <Coords points="198,2232 182,2250 184,2253 184,2265 321,2263 321,2250 317,2227 213,2221 198,2232" />
+      <Word id="l_0011-w_0001" text="Abb." />
+      <Word id="l_0011-w_0002" text="23." />
+    </TextLine>
+    <TextLine id="l_0012" text="Frühgotisches Kapitell.">
+      <Coords points="423,2273 407,2273 391,2273 374,2273 358,2273 350,2271 127,2269 114,2273 97,2274 81,2276 65,2278 65,2297 65,2312 443,2312 443,2297 443,2273 423,2271 423,2273" />
+      <Word id="l_0012-w_0001" text="Frühgotisches" />
+      <Word id="l_0012-w_0002" text="Kapitell." />
+    </TextLine>
+    <TextLine id="l_0013" text="Naturgetreue Darstellung">
+      <Coords points="83,2348 83,2361 422,2359 423,2344 420,2325 87,2318 86,2318 84,2318 83,2318 83,2320 81,2320 83,2348" />
+      <Word id="l_0013-w_0001" text="Naturgetreue" />
+      <Word id="l_0013-w_0002" text="Darstellung" />
+    </TextLine>
+    <TextLine id="l_0014" text="von Efeu.">
+      <Coords points="198,2372 182,2370 182,2374 182,2387 314,2388 316,2374 316,2354 210,2354 198,2372" />
+      <Word id="l_0014-w_0001" text="von" />
+      <Word id="l_0014-w_0002" text="Efeu." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0016" type="paragraph">
+    <Coords points="664,2253 700,2260 700,2284 624,2284 664,2253" />
+    <TextLine id="l_0015" text="uilili.">
+      <Coords points="690,2258 674,2255 658,2256 642,2268 625,2274 627,2278 627,2291 695,2287 695,2273 692,2258 690,2258" />
+      <Word id="l_0015-w_0001" text="uilili." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0017" type="paragraph">
+    <Coords points="637,2312 980,2318 1000,2362 567,2362 573,2325 637,2312" />
+    <TextLine id="l_0016" text="Abb. 24. Knospenkapitell.">
+      <Coords points="979,2323 977,2322 594,2318 588,2320 571,2325 573,2351 573,2362 842,2369 844,2369 997,2359 997,2346 993,2323 979,2322 979,2323" />
+      <Word id="l_0016-w_0001" text="Abb." />
+      <Word id="l_0016-w_0002" text="24." />
+      <Word id="l_0016-w_0003" text="Knospenkapitell." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0018" type="paragraph">
+    <Coords points="301,2449 1396,2449 1429,2455 1435,2486 1358,2506 1331,2545 1200,2551 136,2532 143,2507 233,2501 247,2455 301,2449" />
+    <TextLine id="l_0017" text="25. Spätootisches Kapitell. An Stelle der frühgotischen Kelch- ist hier">
+      <Coords points="1419,2453 1417,2452 1321,2449 1321,2449 1305,2449 1288,2449 1272,2449 1256,2449 1240,2449 1223,2449 1207,2449 1191,2449 1174,2449 1158,2449 1156,2449 1116,2452 1109,2449 1093,2449 1083,2449 1077,2452 1068,2449 1060,2449 1044,2449 1039,2449 1026,2453 1005,2449 995,2449 979,2449 963,2449 946,2449 930,2449 927,2449 837,2453 787,2449 783,2449 767,2449 751,2449 741,2449 726,2453 707,2449 702,2449 686,2449 677,2449 658,2453 648,2449 637,2449 620,2449 614,2449 580,2453 549,2449 539,2449 531,2449 524,2455 389,2449 376,2449 360,2449 348,2449 340,2455 327,2449 311,2449 309,2449 246,2457 247,2479 247,2492 1416,2496 1417,2496 1419,2496 1420,2496 1420,2494 1427,2488 1427,2475 1424,2458 1419,2453" />
+      <Word id="l_0017-w_0001" text="25." />
+      <Word id="l_0017-w_0002" text="Spätootisches" />
+      <Word id="l_0017-w_0003" text="Kapitell." />
+      <Word id="l_0017-w_0004" text="An" />
+      <Word id="l_0017-w_0005" text="Stelle" />
+      <Word id="l_0017-w_0006" text="der" />
+      <Word id="l_0017-w_0007" text="frühgotischen" />
+      <Word id="l_0017-w_0008" text="Kelch-" />
+      <Word id="l_0017-w_0009" text="ist" />
+      <Word id="l_0017-w_0010" text="hier" />
+    </TextLine>
+    <TextLine id="l_0018" text="eine ungefähr birnförmige Gestalt mit stilisierter Blätterbildung getreten.">
+      <Coords points="190,2502 174,2504 158,2506 141,2510 141,2525 141,2541 1328,2541 1329,2525 1328,2502 206,2502 190,2502" />
+      <Word id="l_0018-w_0001" text="eine" />
+      <Word id="l_0018-w_0002" text="ungefähr" />
+      <Word id="l_0018-w_0003" text="birnförmige" />
+      <Word id="l_0018-w_0004" text="Gestalt" />
+      <Word id="l_0018-w_0005" text="mit" />
+      <Word id="l_0018-w_0006" text="stilisierter" />
+      <Word id="l_0018-w_0007" text="Blätterbildung" />
+      <Word id="l_0018-w_0008" text="getreten." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0019" type="paragraph">
+    <Coords points="821,2247 974,2253 987,2284 819,2284 800,2266 821,2247" />
+    <TextLine id="l_0019" text="">
+      <Coords points="873,2248 857,2247 840,2247 839,2247 822,2248 806,2268 806,2273 804,2286 879,2297 883,2279 883,2248 873,2248" />
+    </TextLine>
+    <TextLine id="l_0020" text="e">
+      <Coords points="953,2251 936,2251 936,2276 936,2297 966,2289 967,2278 966,2251 953,2251" />
+      <Word id="l_0020-w_0001" text="e" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0020" type="paragraph">
+    <Coords points="819,1589 1416,1589 1435,1626 832,1633 800,1620 819,1589" />
+    <TextLine id="l_0021" text="Abb. 22. Schema eines Kreuzgewölbes.">
+      <Coords points="1409,1589 1272,1589 1262,1589 1246,1589 1230,1589 1213,1589 1197,1589 1181,1589 1165,1589 1148,1589 1132,1589 1116,1589 1099,1589 1083,1589 1067,1589 1051,1589 1034,1589 1018,1589 1002,1589 985,1589 969,1589 953,1589 936,1589 920,1589 904,1589 888,1589 871,1589 855,1589 839,1589 822,1589 806,1605 808,1615 808,1626 1427,1625 1427,1612 1425,1608 1409,1589" />
+      <Word id="l_0021-w_0001" text="Abb." />
+      <Word id="l_0021-w_0002" text="22." />
+      <Word id="l_0021-w_0003" text="Schema" />
+      <Word id="l_0021-w_0004" text="eines" />
+      <Word id="l_0021-w_0005" text="Kreuzgewölbes." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0021" type="paragraph">
+    <Coords points="1256,2273 1396,2279 1411,2312 1494,2318 1507,2349 1494,2369 1119,2362 1119,2325 1220,2318 1256,2273" />
+    <TextLine id="l_0022" text="Abb. 25.">
+      <Coords points="1293,2274 1277,2273 1261,2273 1244,2286 1244,2305 1244,2317 1383,2318 1385,2305 1385,2281 1303,2274 1293,2274" />
+      <Word id="l_0022-w_0001" text="Abb." />
+      <Word id="l_0022-w_0002" text="25." />
+    </TextLine>
+    <TextLine id="l_0023" text="Spätgotisches Kapitell.">
+      <Coords points="1490,2323 1365,2315 1363,2315 1362,2315 1360,2315 1350,2325 1127,2325 1129,2351 1129,2367 1497,2367 1499,2348 1495,2333 1490,2323" />
+      <Word id="l_0023-w_0001" text="Spätgotisches" />
+      <Word id="l_0023-w_0002" text="Kapitell." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0022" type="paragraph">
+    <Coords points="1249,2175 1416,2181 1455,2238 1248,2265 1222,2245 1222,2194 1249,2175" />
+    <TextLine id="l_0024" text="A">
+      <Coords points="1427,2203 1419,2193 1407,2201 1345,2198 1323,2178 1321,2178 1319,2178 1261,2177 1259,2177 1257,2177 1231,2190 1231,2225 1230,2240 1235,2245 1236,2245 1236,2247 1238,2247 1240,2247 1241,2247 1243,2247 1284,2235 1342,2250 1344,2250 1345,2250 1420,2240 1437,2251 1443,2232 1442,2222 1427,2203" />
+      <Word id="l_0024-w_0001" text="A" />
+    </TextLine>
+  </TextRegion>
+</Page>

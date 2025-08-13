@@ -1,0 +1,590 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740403088_00000076.bin.png" imageHeight="2960" imageWidth="1845" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="967,223 1030,223 1050,248 1023,281 887,268 967,223" />
+    <TextLine id="l_0001" text="- 56">
+      <Coords points="924,245 924,261 924,266 975,276 977,276 1031,266 1031,261 1031,236 1022,226 1022,225 1020,225 1018,225 979,225 977,225 975,225 974,225 974,226 961,240 934,240 924,245" />
+      <Word id="l_0001-w_0001" text="-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0002" text="56" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="982,309 1713,335 1700,2543 289,2596 269,2379 276,348 289,322 982,309" />
+    <TextLine id="l_0002" text="deutendſten Goldgruben liegen nordweſtlich von Karlsburg (Fl. ?) in Sieben⸗">
+      <Coords points="1686,333 1670,333 1654,332 1637,332 1621,332 1604,330 1588,330 1571,328 1555,328 1538,328 1522,327 1505,327 1489,327 1473,325 1456,325 1440,325 1423,323 1407,323 1392,322 1356,328 1313,320 1308,320 1293,319 1092,327 1012,319 1010,319 1008,319 1007,319 994,327 956,317 954,317 952,317 951,317 928,327 808,327 786,317 785,317 783,317 709,325 691,317 689,317 687,317 643,325 584,315 582,315 580,315 551,323 529,317 518,317 511,317 485,323 450,319 436,319 419,319 403,319 386,319 370,320 353,320 342,320 288,322 288,323 288,355 286,365 302,374 304,374 306,374 1308,371 1352,379 1354,379 1700,371 1701,361 1700,333 1686,333" />
+      <Word id="l_0002-w_0001" text="deutendſten" error_score="0.000" />
+      <Word id="l_0002-w_0002" text="Goldgruben" error_score="0.000" />
+      <Word id="l_0002-w_0003" text="liegen" error_score="0.000" />
+      <Word id="l_0002-w_0004" text="nordweſtlich" error_score="0.000" />
+      <Word id="l_0002-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0002-w_0006" text="Karlsburg" error_score="0.000" />
+      <Word id="l_0002-w_0007" text="(Fl." error_score="0.000" />
+      <Word id="l_0002-w_0008" text="?)" error_score="0.000" />
+      <Word id="l_0002-w_0009" text="in" error_score="0.000" />
+      <Word id="l_0002-w_0010" text="Sieben⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0003" text="bürgen. Kohlenlager ſind bei Fünfkirchen, woher die Kohlen nach der">
+      <Coords points="288,407 286,416 345,427 347,427 427,419 687,427 689,427 742,419 757,429 758,429 760,429 762,429 824,420 1153,429 1155,429 1157,429 1188,420 1240,430 1242,430 1293,422 1380,422 1392,430 1394,430 1395,430 1397,430 1514,422 1611,430 1612,430 1614,430 1639,422 1686,430 1688,430 1690,430 1691,430 1701,420 1703,412 1701,384 1652,373 1650,373 1649,373 1647,373 1632,383 1604,373 1603,373 1601,373 1599,373 1566,383 1476,373 1474,373 1428,381 1403,373 1402,373 1400,373 1398,373 1397,373 1384,383 1347,373 1346,373 1344,373 1291,383 1254,373 1252,373 1250,373 1148,381 1097,371 1003,371 1002,371 1000,371 999,371 987,379 926,371 924,371 923,371 921,371 910,381 896,371 895,371 893,371 892,371 824,381 758,370 757,370 755,370 753,370 738,381 656,381 633,370 632,370 630,370 585,379 564,370 562,370 561,370 513,378 487,370 485,370 483,370 482,370 452,379 311,370 309,370 307,370 288,376 288,407" />
+      <Word id="l_0003-w_0001" text="bürgen." error_score="0.000" />
+      <Word id="l_0003-w_0002" text="Kohlenlager" error_score="0.000" />
+      <Word id="l_0003-w_0003" text="ſind" error_score="0.000" />
+      <Word id="l_0003-w_0004" text="bei" error_score="0.000" />
+      <Word id="l_0003-w_0005" text="Fünfkirchen," error_score="0.000" />
+      <Word id="l_0003-w_0006" text="woher" error_score="0.000" />
+      <Word id="l_0003-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0003-w_0008" text="Kohlen" error_score="0.000" />
+      <Word id="l_0003-w_0009" text="nach" error_score="0.000" />
+      <Word id="l_0003-w_0010" text="der" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0004" text="Station Mohacs*) gebracht werden, um auf den Donaudampfern verwendet">
+      <Coords points="289,458 288,468 304,478 306,478 307,478 572,471 643,480 645,480 1700,475 1701,465 1700,437 1655,427 1654,427 1372,435 1361,427 1359,427 1357,427 1356,427 1308,434 1259,425 1257,425 1041,434 905,424 903,424 656,432 645,422 643,422 641,422 640,422 594,430 562,422 561,422 559,422 289,429 289,458" />
+      <Word id="l_0004-w_0001" text="Station" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="Mohacs*)" error_score="0.000" />
+      <Word id="l_0004-w_0003" text="gebracht" error_score="0.000" />
+      <Word id="l_0004-w_0004" text="werden," error_score="0.000" />
+      <Word id="l_0004-w_0005" text="um" error_score="0.000" />
+      <Word id="l_0004-w_0006" text="auf" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="den" error_score="0.000" />
+      <Word id="l_0004-w_0008" text="Donaudampfern" error_score="0.000" />
+      <Word id="l_0004-w_0009" text="verwendet" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0005" text="ʒu werden. — An Mineralquellen ʒählt man über 400, von denen die Thermen">
+      <Coords points="288,511 288,529 1700,526 1701,516 1700,490 1491,478 1489,478 1487,478 1486,478 1471,490 1430,490 1380,478 1379,478 1377,478 1375,478 1361,490 1272,490 1231,476 1229,476 1227,476 1226,476 1189,486 1142,476 1140,476 997,486 982,476 980,476 979,476 929,476 928,476 926,476 892,486 859,476 857,476 855,476 794,485 692,475 640,475 638,475 636,475 635,475 622,485 599,475 597,475 595,475 549,485 437,485 424,475 422,475 421,475 419,475 418,475 385,485 288,485 288,511" />
+      <Word id="l_0005-w_0001" text="ʒu" error_score="0.000" />
+      <Word id="l_0005-w_0002" text="werden." error_score="0.000" />
+      <Word id="l_0005-w_0003" text="—" error_score="0.000" />
+      <Word id="l_0005-w_0004" text="An" error_score="0.000" />
+      <Word id="l_0005-w_0005" text="Mineralquellen" error_score="0.000" />
+      <Word id="l_0005-w_0006" text="ʒählt" error_score="0.000" />
+      <Word id="l_0005-w_0007" text="man" error_score="0.000" />
+      <Word id="l_0005-w_0008" text="über" error_score="0.000" />
+      <Word id="l_0005-w_0009" text="400," error_score="0.000" />
+      <Word id="l_0005-w_0010" text="von" error_score="0.000" />
+      <Word id="l_0005-w_0011" text="denen" error_score="0.000" />
+      <Word id="l_0005-w_0012" text="die" error_score="0.000" />
+      <Word id="l_0005-w_0013" text="Thermen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0006" text="von Trentſchin (Fl. ?) und Mehadia an der Tſcherna erwähnt ſeien.">
+      <Coords points="288,562 286,573 319,583 320,583 322,583 589,577 597,583 597,585 599,585 600,585 602,585 1535,580 1537,568 1535,541 1484,529 1482,529 1402,537 1382,529 1380,529 1379,529 1252,539 1194,527 1193,527 972,537 887,526 804,526 803,526 801,526 799,526 790,536 775,526 773,526 771,526 770,526 768,526 747,537 704,537 692,526 691,526 689,526 687,526 562,534 551,524 549,524 548,524 546,524 288,532 288,562" />
+      <Word id="l_0006-w_0001" text="von" error_score="0.000" />
+      <Word id="l_0006-w_0002" text="Trentſchin" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="(Fl." error_score="0.000" />
+      <Word id="l_0006-w_0004" text="?)" error_score="0.000" />
+      <Word id="l_0006-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0006-w_0006" text="Mehadia" error_score="0.000" />
+      <Word id="l_0006-w_0007" text="an" error_score="0.000" />
+      <Word id="l_0006-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0006-w_0009" text="Tſcherna" error_score="0.000" />
+      <Word id="l_0006-w_0010" text="erwähnt" error_score="0.000" />
+      <Word id="l_0006-w_0011" text="ſeien." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0007" text="Ungarn hat neben ausgedehnten unfruchtbaren Sumpf⸗, Heide⸗ und Berg⸗">
+      <Coords points="388,623 386,634 441,646 442,646 714,638 785,647 786,647 964,639 1071,649 1073,649 1379,642 1390,651 1392,651 1394,651 1395,651 1484,642 1682,651 1683,651 1685,651 1686,651 1698,641 1700,629 1698,603 1629,592 1627,592 1626,592 1584,601 1571,592 1570,592 1568,592 1566,592 1565,592 1533,601 1402,592 1400,592 1398,592 1370,601 1339,590 1338,590 1224,590 1222,590 1221,590 1219,590 1206,601 1142,601 1120,590 1119,590 1117,590 1051,598 1027,588 1025,588 1023,588 967,598 903,588 901,588 845,596 827,588 826,588 824,588 822,588 821,588 809,598 781,590 780,590 778,590 717,598 671,587 669,587 668,587 666,587 636,596 559,587 557,587 556,587 531,596 388,593 388,623" />
+      <Word id="l_0007-w_0001" text="Ungarn" error_score="1.000" error_type="merge" />
+      <Word id="l_0007-w_0002" text="hat" error_score="1.000" error_type="merge" />
+      <Word id="l_0007-w_0003" text="neben" error_score="1.000" error_type="merge" />
+      <Word id="l_0007-w_0004" text="ausgedehnten" error_score="1.000" error_type="merge" />
+      <Word id="l_0007-w_0005" text="unfruchtbaren" error_score="1.000" error_type="merge" />
+      <Word id="l_0007-w_0006" text="Sumpf⸗," error_score="1.000" error_type="merge" />
+      <Word id="l_0007-w_0007" text="Heide⸗" error_score="1.000" error_type="merge" />
+      <Word id="l_0007-w_0008" text="und" error_score="1.000" error_type="merge" />
+      <Word id="l_0007-w_0009" text="Berg⸗" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0008" text="regionen Gebiete, die durch Fruchtbarkeit reich geſegnet ſind, ſo daß in der Regel">
+      <Coords points="286,677 284,687 317,698 319,698 320,698 439,690 579,698 580,698 582,698 600,690 735,700 737,700 1339,695 1349,703 1351,703 1352,703 1354,703 1356,703 1380,695 1440,703 1441,703 1443,703 1473,695 1668,703 1670,703 1672,703 1698,693 1700,684 1696,646 286,646 286,677" />
+      <Word id="l_0008-w_0001" text="regionen" error_score="0.000" />
+      <Word id="l_0008-w_0002" text="Gebiete," error_score="0.000" />
+      <Word id="l_0008-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0008-w_0004" text="durch" error_score="0.000" />
+      <Word id="l_0008-w_0005" text="Fruchtbarkeit" error_score="0.000" />
+      <Word id="l_0008-w_0006" text="reich" error_score="0.000" />
+      <Word id="l_0008-w_0007" text="geſegnet" error_score="0.000" />
+      <Word id="l_0008-w_0008" text="ſind," error_score="0.000" />
+      <Word id="l_0008-w_0009" text="ſo" error_score="0.000" />
+      <Word id="l_0008-w_0010" text="daß" error_score="0.000" />
+      <Word id="l_0008-w_0011" text="in" error_score="0.000" />
+      <Word id="l_0008-w_0012" text="der" error_score="0.000" />
+      <Word id="l_0008-w_0013" text="Regel" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="ein Uberſchuß an Getreide (Weiʒen, Mais) erʒeugt wird. Außerſt fruchtbarer">
+      <Coords points="286,730 284,741 296,749 297,749 299,749 301,749 623,743 771,743 785,753 786,753 788,753 790,754 1053,754 1053,753 1054,753 1056,753 1069,744 1189,753 1191,753 1193,753 1224,744 1593,754 1594,754 1700,744 1701,735 1700,707 1645,707 1624,695 1622,695 1621,695 1543,703 1522,695 1520,695 1519,695 1517,695 1515,695 1502,705 1479,695 1477,695 1476,695 1474,695 1449,705 1425,695 1423,695 1357,695 1356,695 1354,695 1352,695 1339,705 1291,695 1290,695 1064,703 1050,693 1048,693 1046,693 1045,693 880,703 865,693 864,693 862,693 796,693 794,693 793,693 758,703 734,692 732,692 730,692 729,692 701,702 655,692 653,692 651,692 613,703 541,703 526,692 525,692 523,692 521,692 520,692 495,700 482,692 480,692 478,692 477,692 424,700 362,692 360,692 358,692 332,702 319,692 317,692 316,692 314,692 312,692 286,700 286,730" />
+      <Word id="l_0009-w_0001" text="ein" error_score="0.000" />
+      <Word id="l_0009-w_0002" text="Uberſchuß" error_score="0.000" />
+      <Word id="l_0009-w_0003" text="an" error_score="0.000" />
+      <Word id="l_0009-w_0004" text="Getreide" error_score="0.000" />
+      <Word id="l_0009-w_0005" text="(Weiʒen," error_score="0.000" />
+      <Word id="l_0009-w_0006" text="Mais)" error_score="0.000" />
+      <Word id="l_0009-w_0007" text="erʒeugt" error_score="0.000" />
+      <Word id="l_0009-w_0008" text="wird." error_score="0.000" />
+      <Word id="l_0009-w_0009" text="Außerſt" error_score="0.000" />
+      <Word id="l_0009-w_0010" text="fruchtbarer" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0010" text="Weiʒenboden findet ſich in der Bacska (batſchka), dem Lande ʒwiſchen der">
+      <Coords points="286,781 284,790 306,802 307,802 309,802 636,794 651,804 653,804 655,804 656,804 724,795 752,804 753,804 755,804 757,804 781,795 997,804 999,804 1045,797 1056,805 1058,805 1059,805 1061,805 1459,799 1473,807 1474,807 1476,807 1477,807 1698,797 1700,787 1698,759 1652,749 1650,749 1649,749 1629,758 1570,749 1568,749 1509,758 1265,748 1264,748 1262,748 1240,756 1069,748 1068,748 1027,756 994,746 992,746 990,746 989,746 961,754 933,746 931,746 929,746 867,754 811,746 809,746 808,746 790,754 748,746 747,746 745,746 743,746 730,754 706,746 704,746 702,746 607,753 595,744 594,744 592,744 590,744 526,753 457,744 455,744 454,744 434,753 421,744 419,744 418,744 416,744 414,744 413,744 399,753 355,744 353,744 286,749 286,781" />
+      <Word id="l_0010-w_0001" text="Weiʒenboden" error_score="0.000" />
+      <Word id="l_0010-w_0002" text="findet" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="ſich" error_score="0.000" />
+      <Word id="l_0010-w_0004" text="in" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="Bacska" error_score="0.000" />
+      <Word id="l_0010-w_0007" text="(batſchka)," error_score="0.000" />
+      <Word id="l_0010-w_0008" text="dem" error_score="0.000" />
+      <Word id="l_0010-w_0009" text="Lande" error_score="0.000" />
+      <Word id="l_0010-w_0010" text="ʒwiſchen" error_score="0.000" />
+      <Word id="l_0010-w_0011" text="der" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0011" text="unteren Theiß und der Donau, wo Maria⸗Thereſiopel?) einen wichtigen Getreide⸗">
+      <Coords points="286,833 284,846 1695,851 1698,838 1696,810 1655,800 1654,800 1494,809 1417,800 1415,800 1333,809 1308,800 1306,800 1305,800 1303,800 1272,809 1226,799 1224,799 1222,799 1221,799 1211,807 1160,799 1158,799 1119,807 1028,799 1027,799 1025,799 1008,807 980,799 979,799 977,799 975,799 949,807 888,799 887,799 885,799 883,799 870,809 758,809 702,797 701,797 699,797 668,805 622,797 620,797 618,797 602,805 592,797 590,797 589,797 587,797 585,797 559,805 518,797 516,797 286,804 286,833" />
+      <Word id="l_0011-w_0001" text="unteren" error_score="0.000" />
+      <Word id="l_0011-w_0002" text="Theiß" error_score="0.000" />
+      <Word id="l_0011-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0011-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0011-w_0005" text="Donau," error_score="0.000" />
+      <Word id="l_0011-w_0006" text="wo" error_score="0.000" />
+      <Word id="l_0011-w_0007" text="Maria⸗Thereſiopel?)" error_score="0.000" />
+      <Word id="l_0011-w_0008" text="einen" error_score="0.000" />
+      <Word id="l_0011-w_0009" text="wichtigen" error_score="0.000" />
+      <Word id="l_0011-w_0010" text="Getreide⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0012" text="und Viehmarkt hat, und in dem Banat ʒwiſchen der Donau, der Theiß und der">
+      <Coords points="284,886 283,897 1696,904 1700,892 1698,864 1652,855 1650,855 1649,855 1631,863 1612,855 1611,855 1609,855 1556,863 1540,855 1538,855 1377,855 1375,855 1374,855 1346,863 1252,853 1250,853 1249,853 1212,861 1165,853 1163,853 1161,853 1145,861 1094,853 1092,853 893,860 882,851 880,851 878,851 877,851 640,860 571,850 569,850 567,850 544,858 531,850 529,850 528,850 526,850 525,850 492,858 439,850 437,850 284,856 284,886" />
+      <Word id="l_0012-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="Viehmarkt" error_score="0.000" />
+      <Word id="l_0012-w_0003" text="hat," error_score="0.000" />
+      <Word id="l_0012-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0012-w_0005" text="in" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="dem" error_score="0.000" />
+      <Word id="l_0012-w_0007" text="Banat" error_score="0.000" />
+      <Word id="l_0012-w_0008" text="ʒwiſchen" error_score="0.000" />
+      <Word id="l_0012-w_0009" text="der" error_score="0.000" />
+      <Word id="l_0012-w_0010" text="Donau," error_score="0.000" />
+      <Word id="l_0012-w_0011" text="der" error_score="0.000" />
+      <Word id="l_0012-w_0012" text="Theiß" error_score="0.000" />
+      <Word id="l_0012-w_0013" text="und" error_score="0.000" />
+      <Word id="l_0012-w_0014" text="der" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="Maros mit dem Hauptorte Temesvär (Fl. ?, die Bevölkerung iſt ʒur Hälfte">
+      <Coords points="284,938 283,953 291,960 292,960 294,960 296,960 1698,955 1700,943 1700,915 1672,906 1670,906 1599,906 1598,906 1596,906 1594,906 1583,915 1501,915 1487,906 1486,906 1484,906 1482,906 1481,906 1445,915 1346,915 1334,906 1333,906 1331,906 1329,906 1262,912 1229,904 1227,904 1226,904 1224,904 1206,912 1185,904 1183,904 1181,904 1140,912 1114,904 1112,904 1110,904 1109,904 1086,912 1074,904 1073,904 1071,904 1069,904 1010,912 967,904 966,904 901,912 836,904 834,904 663,911 643,902 641,902 640,902 638,902 610,911 531,902 529,902 528,902 508,911 477,902 475,902 474,902 472,902 455,911 284,909 284,938" />
+      <Word id="l_0013-w_0001" text="Maros" error_score="0.000" />
+      <Word id="l_0013-w_0002" text="mit" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="dem" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="Hauptorte" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="Temesvär" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="(Fl." error_score="0.000" />
+      <Word id="l_0013-w_0007" text="?," error_score="0.000" />
+      <Word id="l_0013-w_0008" text="die" error_score="0.000" />
+      <Word id="l_0013-w_0009" text="Bevölkerung" error_score="0.000" />
+      <Word id="l_0013-w_0010" text="iſt" error_score="0.000" />
+      <Word id="l_0013-w_0011" text="ʒur" error_score="0.000" />
+      <Word id="l_0013-w_0012" text="Hälfte" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="deutſch). Jn großer Ausdehnung wird Tabak gebaut; durch ſeine Güte bekannt">
+      <Coords points="284,993 283,1003 314,1012 316,1012 317,1012 659,1006 1227,1016 1229,1016 1698,1008 1700,998 1698,968 1619,958 1617,958 1558,966 1379,958 1377,958 1375,958 1374,958 1362,966 1339,958 1338,958 1336,958 1298,966 1268,958 1267,958 1265,958 1264,958 1236,966 1226,957 1224,957 1222,957 1221,957 1219,957 1196,965 1176,957 1175,957 1173,957 1171,957 1140,965 1106,957 1104,957 1102,957 1101,957 1066,965 1053,957 1051,957 1050,957 1048,957 962,965 949,957 948,957 946,957 944,957 799,965 737,955 735,955 284,960 284,993" />
+      <Word id="l_0014-w_0001" text="deutſch)." error_score="0.000" />
+      <Word id="l_0014-w_0002" text="Jn" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="großer" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="Ausdehnung" error_score="0.000" />
+      <Word id="l_0014-w_0005" text="wird" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="Tabak" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="gebaut;" error_score="0.000" />
+      <Word id="l_0014-w_0008" text="durch" error_score="0.000" />
+      <Word id="l_0014-w_0009" text="ſeine" error_score="0.000" />
+      <Word id="l_0014-w_0010" text="Güte" error_score="0.000" />
+      <Word id="l_0014-w_0011" text="bekannt" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="iſt das ungariſche Obſt, das in großen Mengen in das Ausland (nach dem">
+      <Coords points="284,1045 283,1057 296,1067 297,1067 299,1067 301,1067 302,1067 332,1059 480,1067 482,1067 1031,1060 1114,1068 1115,1068 1185,1060 1505,1060 1519,1068 1520,1068 1522,1068 1524,1068 1695,1060 1696,1049 1695,1021 1634,1011 1632,1011 1631,1011 1614,1019 1598,1011 1596,1011 1594,1011 1593,1011 1575,1019 1533,1011 1532,1011 1530,1011 1528,1011 1515,1019 1482,1011 1481,1011 1347,1011 1346,1011 1344,1011 1343,1011 1333,1019 1323,1011 1321,1011 1319,1011 1318,1011 1316,1011 1293,1019 1280,1011 1278,1011 1277,1011 1275,1011 1273,1011 1255,1019 1043,1011 1041,1011 1040,1011 1017,1019 982,1009 980,1009 979,1009 924,1017 855,1009 854,1009 852,1009 832,1017 809,1009 808,1009 806,1009 745,1017 719,1009 717,1009 632,1009 630,1009 628,1009 627,1009 617,1017 589,1009 587,1009 585,1009 521,1017 284,1014 284,1045" />
+      <Word id="l_0015-w_0001" text="iſt" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="das" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="ungariſche" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="Obſt," error_score="0.000" />
+      <Word id="l_0015-w_0005" text="das" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0015-w_0007" text="großen" error_score="0.000" />
+      <Word id="l_0015-w_0008" text="Mengen" error_score="0.000" />
+      <Word id="l_0015-w_0009" text="in" error_score="0.000" />
+      <Word id="l_0015-w_0010" text="das" error_score="0.000" />
+      <Word id="l_0015-w_0011" text="Ausland" error_score="0.000" />
+      <Word id="l_0015-w_0012" text="(nach" error_score="0.000" />
+      <Word id="l_0015-w_0013" text="dem" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="Deutſchen Reiche, England und Frankreich) verſchickt wird. Jn den Bergländern">
+      <Coords points="283,1096 281,1108 302,1118 304,1118 306,1118 602,1111 645,1119 646,1119 836,1113 997,1121 999,1121 1696,1114 1698,1103 1696,1073 1626,1063 1624,1063 1622,1063 1621,1063 1607,1072 1583,1063 1581,1063 1580,1063 1578,1063 1552,1072 1514,1063 1512,1063 1471,1072 1418,1063 1417,1063 1415,1063 1413,1063 1403,1072 1370,1063 1369,1063 1367,1063 1298,1070 1285,1062 1283,1062 1282,1062 1280,1062 1036,1070 984,1060 982,1060 980,1060 964,1068 850,1060 849,1060 847,1060 826,1068 813,1060 811,1060 809,1060 808,1060 745,1068 734,1060 732,1060 730,1060 729,1060 727,1060 697,1068 679,1060 678,1060 676,1060 674,1060 643,1068 632,1059 630,1059 628,1059 627,1059 625,1059 594,1067 539,1059 538,1059 283,1065 283,1096" />
+      <Word id="l_0016-w_0001" text="Deutſchen" error_score="0.000" />
+      <Word id="l_0016-w_0002" text="Reiche," error_score="0.000" />
+      <Word id="l_0016-w_0003" text="England" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0016-w_0005" text="Frankreich)" error_score="0.000" />
+      <Word id="l_0016-w_0006" text="verſchickt" error_score="0.000" />
+      <Word id="l_0016-w_0007" text="wird." error_score="0.000" />
+      <Word id="l_0016-w_0008" text="Jn" error_score="0.000" />
+      <Word id="l_0016-w_0009" text="den" error_score="0.000" />
+      <Word id="l_0016-w_0010" text="Bergländern" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="gibt es ausgedehnte Beſtände von Ʒwetſchken⸗ und Pflaumenbäumen, deren Früchte">
+      <Coords points="283,1151 283,1167 1696,1165 1698,1154 1696,1124 1657,1114 1655,1114 1607,1123 1596,1114 1594,1114 1593,1114 1591,1114 1589,1114 1558,1123 1473,1114 1471,1114 1469,1114 1468,1114 1456,1124 1359,1124 1315,1114 1313,1114 1311,1114 1310,1114 1298,1124 1214,1124 1150,1114 1148,1114 1147,1114 1145,1114 1133,1123 1120,1114 1119,1114 1117,1114 1115,1114 1114,1114 1112,1114 1099,1124 1023,1124 989,1113 987,1113 985,1113 933,1121 890,1113 888,1113 887,1113 860,1123 770,1123 757,1113 755,1113 753,1113 752,1113 750,1113 734,1121 715,1113 714,1113 712,1113 283,1119 283,1151" />
+      <Word id="l_0017-w_0001" text="gibt" error_score="0.000" />
+      <Word id="l_0017-w_0002" text="es" error_score="0.000" />
+      <Word id="l_0017-w_0003" text="ausgedehnte" error_score="0.000" />
+      <Word id="l_0017-w_0004" text="Beſtände" error_score="0.000" />
+      <Word id="l_0017-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0017-w_0006" text="Ʒwetſchken⸗" error_score="0.000" />
+      <Word id="l_0017-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0017-w_0008" text="Pflaumenbäumen," error_score="0.000" />
+      <Word id="l_0017-w_0009" text="deren" error_score="0.000" />
+      <Word id="l_0017-w_0010" text="Früchte" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0018" text="teils ʒu „Slibowitʒ‟ gebrannt, ʒu Mus verarbeitet oder gedörrt ausgeführt werden.">
+      <Coords points="283,1202 281,1213 306,1223 307,1223 309,1223 620,1216 633,1225 635,1225 636,1225 638,1225 1691,1220 1693,1208 1691,1180 1469,1170 1468,1170 1466,1170 1464,1170 1451,1180 1366,1180 1305,1169 1303,1169 1255,1177 1054,1169 1053,1169 999,1177 939,1167 938,1167 701,1175 676,1167 674,1167 673,1167 671,1167 636,1175 623,1165 622,1165 620,1165 618,1165 559,1174 515,1165 513,1165 283,1172 283,1202" />
+      <Word id="l_0018-w_0001" text="teils" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="ʒu" error_score="0.000" />
+      <Word id="l_0018-w_0003" text="„Slibowitʒ‟" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="gebrannt," error_score="0.000" />
+      <Word id="l_0018-w_0005" text="ʒu" error_score="0.000" />
+      <Word id="l_0018-w_0006" text="Mus" error_score="0.000" />
+      <Word id="l_0018-w_0007" text="verarbeitet" error_score="0.000" />
+      <Word id="l_0018-w_0008" text="oder" error_score="0.000" />
+      <Word id="l_0018-w_0009" text="gedörrt" error_score="0.000" />
+      <Word id="l_0018-w_0010" text="ausgeführt" error_score="0.000" />
+      <Word id="l_0018-w_0011" text="werden." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Berühmt iſt der Aprikoſenmarkt von Kecskémet‟). Der ungariſche Bauer erntet">
+      <Coords points="281,1254 279,1267 1695,1271 1698,1258 1696,1230 281,1225 281,1254" />
+      <Word id="l_0019-w_0001" text="Berühmt" error_score="0.000" />
+      <Word id="l_0019-w_0002" text="iſt" error_score="0.000" />
+      <Word id="l_0019-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0019-w_0004" text="Aprikoſenmarkt" error_score="0.000" />
+      <Word id="l_0019-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0019-w_0006" text="Kecskémet‟)." error_score="0.000" />
+      <Word id="l_0019-w_0007" text="Der" error_score="0.000" />
+      <Word id="l_0019-w_0008" text="ungariſche" error_score="0.000" />
+      <Word id="l_0019-w_0009" text="Bauer" error_score="0.000" />
+      <Word id="l_0019-w_0010" text="erntet" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0020" text="ferner Melonen, Kürbiſſe, Gurken und Paprika. Als Krone aber von allem">
+      <Coords points="281,1310 281,1325 1693,1327 1695,1310 1695,1285 1644,1272 1642,1272 1640,1272 1607,1285 1454,1285 1436,1272 1435,1272 1433,1272 1431,1272 1430,1272 1402,1284 1315,1284 1293,1272 1291,1272 1290,1272 1288,1272 1259,1284 1227,1272 1226,1272 1189,1272 1188,1272 1186,1272 1185,1272 1168,1285 1130,1285 1112,1272 1110,1272 1109,1272 1107,1272 1106,1272 1066,1282 1002,1272 1000,1272 999,1272 997,1272 984,1282 962,1272 961,1272 959,1272 957,1272 913,1284 857,1272 855,1272 854,1272 826,1281 780,1272 778,1272 776,1272 775,1272 760,1284 717,1272 715,1272 604,1272 602,1272 600,1272 599,1272 582,1284 478,1272 408,1272 406,1272 404,1272 403,1272 388,1282 281,1279 281,1310" />
+      <Word id="l_0020-w_0001" text="ferner" error_score="0.000" />
+      <Word id="l_0020-w_0002" text="Melonen," error_score="0.000" />
+      <Word id="l_0020-w_0003" text="Kürbiſſe," error_score="0.000" />
+      <Word id="l_0020-w_0004" text="Gurken" error_score="0.000" />
+      <Word id="l_0020-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0020-w_0006" text="Paprika." error_score="0.000" />
+      <Word id="l_0020-w_0007" text="Als" error_score="0.000" />
+      <Word id="l_0020-w_0008" text="Krone" error_score="0.000" />
+      <Word id="l_0020-w_0009" text="aber" error_score="0.000" />
+      <Word id="l_0020-w_0010" text="von" error_score="0.000" />
+      <Word id="l_0020-w_0011" text="allem" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="muß der Reichtum an edlen, feurigen Weinen beʒeichnet werden.">
+      <Coords points="281,1358 279,1369 306,1379 307,1379 309,1379 785,1374 870,1382 872,1382 1441,1376 1443,1364 1441,1338 1384,1327 1382,1327 1264,1336 1199,1327 1198,1327 1196,1327 1194,1327 1181,1336 1152,1325 1150,1325 1148,1325 1147,1325 1120,1335 954,1325 952,1325 951,1325 949,1325 938,1336 895,1336 878,1325 877,1325 875,1325 873,1325 826,1332 816,1323 814,1323 813,1323 811,1323 809,1323 786,1333 732,1323 730,1323 684,1333 554,1333 526,1322 525,1322 523,1322 281,1330 281,1358" />
+      <Word id="l_0021-w_0001" text="muß" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0021-w_0003" text="Reichtum" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="an" error_score="0.000" />
+      <Word id="l_0021-w_0005" text="edlen," error_score="0.000" />
+      <Word id="l_0021-w_0006" text="feurigen" error_score="0.000" />
+      <Word id="l_0021-w_0007" text="Weinen" error_score="0.000" />
+      <Word id="l_0021-w_0008" text="beʒeichnet" error_score="0.000" />
+      <Word id="l_0021-w_0009" text="werden." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="Ungarn gehört ʒu den erſten Weinländern der Erde. Beſonders geſchätʒt">
+      <Coords points="383,1420 381,1432 421,1442 422,1442 1691,1435 1693,1424 1691,1396 1627,1386 1626,1386 1580,1394 1484,1386 1482,1386 1481,1386 1451,1394 1440,1386 1438,1386 1436,1386 1435,1386 1361,1394 1295,1386 1293,1386 1227,1394 1176,1386 1175,1386 1173,1386 1171,1386 1160,1396 1082,1396 1063,1386 1061,1386 1059,1386 1058,1386 1041,1394 1022,1384 1020,1384 1018,1384 979,1392 951,1384 949,1384 872,1384 870,1384 869,1384 867,1384 857,1392 809,1384 808,1384 766,1392 701,1384 699,1384 697,1384 696,1384 683,1394 610,1394 599,1384 597,1384 595,1384 594,1384 551,1392 383,1389 383,1420" />
+      <Word id="l_0022-w_0001" text="Ungarn" error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0002" text="gehört" error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0003" text="ʒu" error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0004" text="den" error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0005" text="erſten" error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0006" text="Weinländern" error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0007" text="der" error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0008" text="Erde." error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0009" text="Beſonders" error_score="1.000" error_type="merge" />
+      <Word id="l_0022-w_0010" text="geſchätʒt" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0023" text="ſind die Weine von Tokay an der Hegyalya‟), die Weine aus der Gegend des">
+      <Coords points="281,1476 281,1491 1693,1486 1693,1476 1693,1448 1640,1438 1639,1438 1637,1438 1635,1438 1622,1447 1594,1438 1593,1438 1591,1438 1589,1438 1588,1438 1576,1447 1515,1438 1514,1438 1512,1438 1479,1447 1423,1438 1422,1438 1420,1438 1402,1447 1272,1438 1270,1438 1196,1447 1171,1438 1170,1438 1168,1438 1127,1447 1096,1438 1094,1438 1092,1438 1091,1438 1068,1447 1040,1438 1038,1438 1036,1438 1035,1438 1005,1447 946,1438 944,1438 943,1438 910,1447 859,1438 857,1438 855,1438 834,1447 720,1438 719,1438 633,1447 508,1438 506,1438 281,1443 281,1476" />
+      <Word id="l_0023-w_0001" text="ſind" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="Weine" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="Tokay" error_score="0.000" />
+      <Word id="l_0023-w_0006" text="an" error_score="0.000" />
+      <Word id="l_0023-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0023-w_0008" text="Hegyalya‟)," error_score="0.000" />
+      <Word id="l_0023-w_0009" text="die" error_score="0.000" />
+      <Word id="l_0023-w_0010" text="Weine" error_score="0.000" />
+      <Word id="l_0023-w_0011" text="aus" error_score="0.000" />
+      <Word id="l_0023-w_0012" text="der" error_score="0.000" />
+      <Word id="l_0023-w_0013" text="Gegend" error_score="0.000" />
+      <Word id="l_0023-w_0014" text="des" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="Plattenſees, von den Abhängen des Siebenbürgiſchen Erʒgebirges (bei Groß⸗">
+      <Coords points="283,1526 281,1540 289,1547 291,1547 292,1547 294,1547 980,1539 1115,1549 1117,1549 1232,1540 1296,1549 1298,1549 1453,1540 1482,1549 1484,1549 1486,1549 1547,1540 1668,1549 1670,1549 1672,1549 1673,1549 1686,1539 1688,1529 1688,1499 1665,1489 1663,1489 1662,1489 1660,1489 1644,1498 1589,1489 1588,1489 1586,1489 1556,1498 1537,1489 1535,1489 1533,1489 1474,1499 1398,1499 1385,1489 1384,1489 1382,1489 1380,1489 1336,1498 1285,1489 1283,1489 1282,1489 1247,1498 1069,1489 1068,1489 1066,1489 1041,1498 984,1488 982,1488 941,1496 887,1488 885,1488 883,1488 860,1496 745,1488 743,1488 671,1496 605,1488 604,1488 602,1488 600,1488 585,1496 283,1493 283,1526" />
+      <Word id="l_0024-w_0001" text="Plattenſees," error_score="0.000" />
+      <Word id="l_0024-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0024-w_0003" text="den" error_score="0.000" />
+      <Word id="l_0024-w_0004" text="Abhängen" error_score="0.000" />
+      <Word id="l_0024-w_0005" text="des" error_score="0.000" />
+      <Word id="l_0024-w_0006" text="Siebenbürgiſchen" error_score="0.000" />
+      <Word id="l_0024-w_0007" text="Erʒgebirges" error_score="0.000" />
+      <Word id="l_0024-w_0008" text="(bei" error_score="0.000" />
+      <Word id="l_0024-w_0009" text="Groß⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="Wardein), von der Maros und vom Neuſiedler See. Unter den Rotwein⸗">
+      <Coords points="281,1580 279,1588 296,1598 297,1598 299,1598 1688,1591 1690,1583 1688,1554 1578,1554 1565,1544 1563,1544 1561,1544 1560,1544 1520,1552 1468,1544 1466,1544 1464,1544 1443,1552 1390,1544 1389,1544 1323,1552 1252,1544 1250,1544 1211,1552 1170,1544 1168,1544 911,1550 898,1542 896,1542 895,1542 893,1542 841,1550 808,1542 806,1542 692,1542 691,1542 689,1542 687,1542 676,1550 625,1542 623,1542 622,1542 602,1552 493,1552 480,1542 478,1542 477,1542 475,1542 281,1547 281,1580" />
+      <Word id="l_0025-w_0001" text="Wardein)," error_score="0.000" />
+      <Word id="l_0025-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0025-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0025-w_0004" text="Maros" error_score="0.000" />
+      <Word id="l_0025-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0025-w_0006" text="vom" error_score="0.000" />
+      <Word id="l_0025-w_0007" text="Neuſiedler" error_score="0.000" />
+      <Word id="l_0025-w_0008" text="See." error_score="0.000" />
+      <Word id="l_0025-w_0009" text="Unter" error_score="0.000" />
+      <Word id="l_0025-w_0010" text="den" error_score="0.000" />
+      <Word id="l_0025-w_0011" text="Rotwein⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0026" text="beʒirken ſteht die Gegend von Arad und Menes voran. Ebenſo ausgeʒeichnete">
+      <Coords points="281,1631 279,1642 292,1652 294,1652 296,1652 297,1652 931,1644 1624,1654 1626,1654 1693,1644 1695,1634 1693,1606 1621,1596 1619,1596 1571,1606 1445,1606 1430,1596 1428,1596 1426,1596 1425,1596 1423,1596 1394,1604 1374,1596 1372,1596 1370,1596 1321,1604 1022,1596 1020,1596 1018,1596 1003,1604 990,1595 989,1595 987,1595 985,1595 938,1603 905,1595 903,1595 901,1595 900,1595 873,1603 847,1595 845,1595 844,1595 791,1604 714,1604 702,1595 701,1595 699,1595 697,1595 633,1603 620,1595 618,1595 617,1595 615,1595 574,1603 554,1595 553,1595 551,1595 513,1603 487,1595 485,1595 483,1595 281,1600 281,1631" />
+      <Word id="l_0026-w_0001" text="beʒirken" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="ſteht" error_score="0.000" />
+      <Word id="l_0026-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0026-w_0004" text="Gegend" error_score="0.000" />
+      <Word id="l_0026-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0026-w_0006" text="Arad" error_score="0.000" />
+      <Word id="l_0026-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0026-w_0008" text="Menes" error_score="0.000" />
+      <Word id="l_0026-w_0009" text="voran." error_score="0.000" />
+      <Word id="l_0026-w_0010" text="Ebenſo" error_score="0.000" />
+      <Word id="l_0026-w_0011" text="ausgeʒeichnete" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="Rotweine wachſen bei Erlau und bei Villuny.">
+      <Coords points="281,1683 279,1693 1158,1697 1161,1687 1160,1659 1092,1659 1082,1649 1082,1647 1081,1647 1079,1647 974,1647 972,1647 971,1647 969,1647 969,1649 962,1655 954,1649 954,1647 952,1647 951,1647 949,1647 896,1657 873,1647 872,1647 870,1647 775,1657 704,1646 702,1646 701,1646 669,1655 658,1646 656,1646 655,1646 612,1646 610,1646 608,1646 607,1646 607,1647 597,1655 554,1646 553,1646 551,1646 510,1657 418,1657 406,1646 404,1646 403,1646 401,1646 399,1646 398,1646 381,1657 327,1657 317,1647 317,1646 316,1646 314,1646 312,1646 281,1652 281,1683" />
+      <Word id="l_0027-w_0001" text="Rotweine" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="wachſen" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="bei" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="Erlau" error_score="0.000" />
+      <Word id="l_0027-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0027-w_0006" text="bei" error_score="0.000" />
+      <Word id="l_0027-w_0007" text="Villuny." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="Die Eichenwälder des Bikony⸗Waldes fördern die Ʒucht von Maſtſchweinen,">
+      <Coords points="380,1746 378,1756 1688,1769 1691,1752 1690,1720 1441,1710 1440,1710 1367,1718 1324,1708 1323,1708 1321,1708 1319,1708 1301,1716 1196,1708 1194,1708 1125,1716 1114,1708 1112,1708 1110,1708 1109,1708 1107,1708 1106,1708 1092,1716 1064,1708 1063,1708 1061,1708 1059,1708 1035,1716 989,1706 987,1706 985,1706 962,1715 946,1706 944,1706 943,1706 900,1715 836,1706 834,1706 656,1713 645,1705 643,1705 641,1705 640,1705 595,1713 525,1705 523,1705 380,1711 380,1746" />
+      <Word id="l_0028-w_0001" text="Die" error_score="1.000" error_type="merge" />
+      <Word id="l_0028-w_0002" text="Eichenwälder" error_score="1.000" error_type="merge" />
+      <Word id="l_0028-w_0003" text="des" error_score="1.000" error_type="merge" />
+      <Word id="l_0028-w_0004" text="Bikony⸗Waldes" error_score="1.000" error_type="merge" />
+      <Word id="l_0028-w_0005" text="fördern" error_score="1.000" error_type="merge" />
+      <Word id="l_0028-w_0006" text="die" error_score="1.000" error_type="merge" />
+      <Word id="l_0028-w_0007" text="Ʒucht" error_score="1.000" error_type="merge" />
+      <Word id="l_0028-w_0008" text="von" error_score="1.000" error_type="merge" />
+      <Word id="l_0028-w_0009" text="Maſtſchweinen," error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0029" text="die weiten Pußten nähren viele Rinder und Pferde, ſo daß die Viehʒucht einen">
+      <Coords points="279,1799 278,1810 291,1818 292,1818 294,1818 296,1818 1690,1813 1691,1802 1690,1772 1624,1762 1622,1762 1621,1762 1619,1762 1606,1771 1552,1762 1550,1762 1548,1762 1532,1771 1468,1762 1380,1762 1379,1762 1377,1762 1375,1762 1364,1771 1339,1762 1338,1762 1336,1762 1334,1762 1300,1771 1288,1762 1287,1762 1285,1762 1283,1762 1282,1762 1252,1771 1242,1762 1240,1762 1239,1762 1237,1762 1236,1762 1216,1771 1188,1762 1186,1762 1185,1762 1183,1762 1163,1771 1115,1762 1114,1762 1112,1762 1097,1771 1084,1762 1082,1762 1081,1762 1079,1762 911,1769 898,1761 896,1761 895,1761 893,1761 279,1767 279,1799" />
+      <Word id="l_0029-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0029-w_0002" text="weiten" error_score="0.000" />
+      <Word id="l_0029-w_0003" text="Pußten" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="nähren" error_score="0.000" />
+      <Word id="l_0029-w_0005" text="viele" error_score="0.000" />
+      <Word id="l_0029-w_0006" text="Rinder" error_score="0.000" />
+      <Word id="l_0029-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0029-w_0008" text="Pferde," error_score="0.000" />
+      <Word id="l_0029-w_0009" text="ſo" error_score="0.000" />
+      <Word id="l_0029-w_0010" text="daß" error_score="0.000" />
+      <Word id="l_0029-w_0011" text="die" error_score="0.000" />
+      <Word id="l_0029-w_0012" text="Viehʒucht" error_score="0.000" />
+      <Word id="l_0029-w_0013" text="einen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="erheblichen Anteil an dem natürlichen Reichtum des Landes hat. Das ungariſche">
+      <Coords points="278,1851 276,1863 291,1871 292,1871 294,1871 296,1873 457,1873 457,1871 459,1871 460,1871 470,1863 497,1871 498,1871 500,1871 582,1863 872,1873 873,1873 934,1864 1013,1873 1015,1873 1097,1864 1308,1864 1321,1874 1323,1874 1324,1874 1326,1874 1385,1866 1441,1874 1443,1874 1501,1866 1558,1874 1560,1874 1691,1868 1693,1856 1693,1826 1667,1817 1665,1817 1663,1817 1377,1825 1326,1817 1324,1817 1323,1817 1321,1817 1308,1825 1249,1817 1247,1817 1245,1817 1227,1825 1211,1815 1209,1815 1208,1815 1115,1815 1114,1815 1112,1815 1110,1815 1099,1823 793,1815 791,1815 790,1815 768,1823 669,1813 668,1813 666,1813 643,1822 579,1813 577,1813 278,1820 278,1851" />
+      <Word id="l_0030-w_0001" text="erheblichen" error_score="0.000" />
+      <Word id="l_0030-w_0002" text="Anteil" error_score="0.000" />
+      <Word id="l_0030-w_0003" text="an" error_score="0.000" />
+      <Word id="l_0030-w_0004" text="dem" error_score="0.000" />
+      <Word id="l_0030-w_0005" text="natürlichen" error_score="0.000" />
+      <Word id="l_0030-w_0006" text="Reichtum" error_score="0.000" />
+      <Word id="l_0030-w_0007" text="des" error_score="0.000" />
+      <Word id="l_0030-w_0008" text="Landes" error_score="0.000" />
+      <Word id="l_0030-w_0009" text="hat." error_score="0.000" />
+      <Word id="l_0030-w_0010" text="Das" error_score="0.000" />
+      <Word id="l_0030-w_0011" text="ungariſche" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0031" text="Pferd ʒeichnet ſich als Wagenpferd durch Ʒähigkeit und Schnelligkeit, als Reitpferd">
+      <Coords points="279,1904 278,1917 291,1925 292,1925 294,1925 296,1925 974,1919 984,1927 985,1927 987,1927 989,1927 1691,1919 1693,1907 1691,1876 1573,1876 1558,1866 1556,1866 1555,1866 1553,1866 1440,1874 1394,1866 1392,1866 1390,1866 1389,1866 1377,1874 1343,1866 1341,1866 1339,1866 1300,1874 1244,1866 1242,1866 1240,1866 1221,1874 1208,1866 1206,1866 1204,1866 1203,1866 1137,1874 1089,1866 1087,1866 1086,1866 1084,1866 1073,1874 1061,1866 1059,1866 1058,1866 1056,1866 980,1873 967,1864 966,1864 964,1864 962,1864 961,1864 929,1873 895,1864 893,1864 892,1864 890,1864 872,1873 852,1864 850,1864 849,1864 771,1873 702,1864 701,1864 279,1871 279,1904" />
+      <Word id="l_0031-w_0001" text="Pferd" error_score="0.000" />
+      <Word id="l_0031-w_0002" text="ʒeichnet" error_score="0.000" />
+      <Word id="l_0031-w_0003" text="ſich" error_score="0.000" />
+      <Word id="l_0031-w_0004" text="als" error_score="0.000" />
+      <Word id="l_0031-w_0005" text="Wagenpferd" error_score="0.000" />
+      <Word id="l_0031-w_0006" text="durch" error_score="0.000" />
+      <Word id="l_0031-w_0007" text="Ʒähigkeit" error_score="0.000" />
+      <Word id="l_0031-w_0008" text="und" error_score="0.000" />
+      <Word id="l_0031-w_0009" text="Schnelligkeit," error_score="0.000" />
+      <Word id="l_0031-w_0010" text="als" error_score="0.000" />
+      <Word id="l_0031-w_0011" text="Reitpferd" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0032" text="durch Dauerhaftigkeit aus. — Der Erʒielung großer Erträge von Milch wendet">
+      <Coords points="279,1958 278,1966 350,1978 352,1978 353,1978 386,1970 413,1978 414,1978 416,1978 651,1970 936,1970 949,1978 951,1978 952,1978 1046,1979 1048,1979 1691,1973 1693,1961 1691,1932 1647,1922 1645,1922 1644,1922 1627,1930 1543,1922 1461,1922 1459,1922 1458,1922 1456,1922 1445,1930 1231,1922 1229,1922 1188,1930 1145,1922 1143,1922 1051,1930 985,1920 984,1920 900,1928 854,1920 852,1920 811,1930 737,1930 725,1920 724,1920 722,1920 720,1920 673,1928 643,1920 641,1920 640,1920 587,1928 574,1920 572,1920 571,1920 569,1920 279,1925 279,1958" />
+      <Word id="l_0032-w_0001" text="durch" error_score="0.000" />
+      <Word id="l_0032-w_0002" text="Dauerhaftigkeit" error_score="0.000" />
+      <Word id="l_0032-w_0003" text="aus." error_score="0.000" />
+      <Word id="l_0032-w_0004" text="—" error_score="0.000" />
+      <Word id="l_0032-w_0005" text="Der" error_score="0.000" />
+      <Word id="l_0032-w_0006" text="Erʒielung" error_score="0.000" />
+      <Word id="l_0032-w_0007" text="großer" error_score="0.000" />
+      <Word id="l_0032-w_0008" text="Erträge" error_score="0.000" />
+      <Word id="l_0032-w_0009" text="von" error_score="0.000" />
+      <Word id="l_0032-w_0010" text="Milch" error_score="0.000" />
+      <Word id="l_0032-w_0011" text="wendet" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0033" text="man gegenwärtig erhöhte Sorgfalt ʒu. Die größte Milchwirtſchaft nicht nur des">
+      <Coords points="279,2012 279,2025 429,2034 431,2034 432,2034 434,2034 449,2025 548,2025 572,2034 574,2034 576,2034 620,2025 684,2034 686,2034 783,2025 827,2034 829,2034 883,2025 906,2034 908,2034 910,2034 987,2024 1068,2032 1069,2032 1176,2024 1265,2032 1267,2032 1690,2024 1691,2009 1688,1983 1193,1973 1191,1973 1189,1973 1171,1981 1110,1973 1109,1973 1050,1981 990,1973 989,1973 987,1973 985,1973 972,1983 630,1974 628,1974 577,1983 503,1974 501,1974 278,1984 279,2012" />
+      <Word id="l_0033-w_0001" text="man" error_score="0.000" />
+      <Word id="l_0033-w_0002" text="gegenwärtig" error_score="0.000" />
+      <Word id="l_0033-w_0003" text="erhöhte" error_score="0.000" />
+      <Word id="l_0033-w_0004" text="Sorgfalt" error_score="0.000" />
+      <Word id="l_0033-w_0005" text="ʒu." error_score="0.000" />
+      <Word id="l_0033-w_0006" text="Die" error_score="0.000" />
+      <Word id="l_0033-w_0007" text="größte" error_score="0.000" />
+      <Word id="l_0033-w_0008" text="Milchwirtſchaft" error_score="0.000" />
+      <Word id="l_0033-w_0009" text="nicht" error_score="0.000" />
+      <Word id="l_0033-w_0010" text="nur" error_score="0.000" />
+      <Word id="l_0033-w_0011" text="des" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="Landes, ſondern Europas beſteht mit faſt 4000 Milchkühen auf der Herrſchaft">
+      <Coords points="279,2063 278,2073 399,2083 401,2083 1690,2078 1691,2067 1691,2035 1673,2025 1672,2025 1670,2025 1668,2025 1652,2034 1533,2025 1532,2025 1471,2034 1458,2025 1456,2025 1454,2025 1453,2025 1451,2025 1449,2025 1440,2034 1423,2025 1422,2025 1420,2025 1418,2025 1417,2025 1405,2035 1321,2035 1170,2025 1168,2025 1166,2025 1165,2025 1153,2035 1031,2035 984,2024 982,2024 980,2024 959,2032 936,2024 934,2024 933,2024 888,2032 852,2024 850,2024 768,2024 766,2024 765,2024 763,2024 750,2034 633,2034 620,2024 618,2024 617,2024 615,2024 613,2024 582,2032 501,2024 500,2024 498,2024 497,2024 487,2032 454,2024 452,2024 450,2024 449,2024 447,2024 434,2032 357,2024 355,2024 279,2030 279,2063" />
+      <Word id="l_0034-w_0001" text="Landes," error_score="0.000" />
+      <Word id="l_0034-w_0002" text="ſondern" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="Europas" error_score="0.000" />
+      <Word id="l_0034-w_0004" text="beſteht" error_score="0.000" />
+      <Word id="l_0034-w_0005" text="mit" error_score="0.000" />
+      <Word id="l_0034-w_0006" text="faſt" error_score="0.000" />
+      <Word id="l_0034-w_0007" text="4000" error_score="0.000" />
+      <Word id="l_0034-w_0008" text="Milchkühen" error_score="0.000" />
+      <Word id="l_0034-w_0009" text="auf" error_score="0.000" />
+      <Word id="l_0034-w_0010" text="der" error_score="0.000" />
+      <Word id="l_0034-w_0011" text="Herrſchaft" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="Ungariſch⸗Altenburg des Erʒherʒogs Friedrich, woher namentlich Wien mit">
+      <Coords points="279,2118 279,2129 1690,2134 1691,2118 1691,2090 1583,2090 1558,2078 1556,2078 1555,2078 1553,2078 1514,2088 1501,2078 1499,2078 1497,2078 1496,2078 1435,2090 1288,2090 1273,2078 1272,2078 1270,2078 1268,2078 1267,2078 1245,2090 1186,2090 1171,2078 1170,2078 1168,2078 1166,2078 1122,2086 1036,2078 1035,2078 1033,2078 1031,2078 1018,2088 1008,2080 1007,2080 1005,2080 1003,2080 954,2088 906,2078 905,2078 785,2086 768,2078 766,2078 765,2078 763,2078 762,2078 747,2088 659,2078 658,2078 656,2078 615,2088 572,2078 571,2078 523,2078 521,2078 520,2078 518,2078 505,2088 487,2078 485,2078 483,2078 399,2088 279,2085 279,2118" />
+      <Word id="l_0035-w_0001" text="Ungariſch⸗Altenburg" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="des" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="Erʒherʒogs" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="Friedrich," error_score="0.000" />
+      <Word id="l_0035-w_0005" text="woher" error_score="0.000" />
+      <Word id="l_0035-w_0006" text="namentlich" error_score="0.000" />
+      <Word id="l_0035-w_0007" text="Wien" error_score="0.000" />
+      <Word id="l_0035-w_0008" text="mit" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="Milch verſorgt wird.">
+      <Coords points="279,2169 279,2180 365,2190 367,2190 368,2190 393,2182 455,2190 457,2190 648,2180 648,2169 648,2139 623,2131 622,2131 620,2131 390,2139 381,2132 381,2131 380,2131 378,2131 291,2131 289,2131 288,2131 286,2131 279,2136 279,2169" />
+      <Word id="l_0036-w_0001" text="Milch" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="verſorgt" error_score="0.000" />
+      <Word id="l_0036-w_0003" text="wird." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="Mittelpunkte des Verkehres ſind am Rande der Kleinen ungariſchen">
+      <Coords points="381,2229 380,2241 390,2247 391,2247 393,2247 395,2247 1231,2243 1255,2251 1257,2251 1259,2251 1691,2243 1693,2234 1691,2205 1571,2193 1570,2193 1568,2193 1542,2205 1352,2205 1254,2192 1252,2192 1250,2192 1231,2201 1168,2192 1166,2192 1165,2192 1132,2201 1117,2192 1115,2192 1114,2192 1112,2192 1110,2192 1086,2201 1038,2192 1036,2192 1035,2192 1033,2192 1018,2203 946,2203 931,2192 929,2192 928,2192 878,2192 877,2192 875,2192 873,2192 860,2201 799,2190 798,2190 740,2198 699,2190 697,2190 696,2190 694,2190 683,2200 668,2192 666,2192 664,2192 663,2192 646,2200 627,2190 625,2190 623,2190 622,2190 595,2200 567,2190 566,2190 564,2190 515,2200 498,2190 497,2190 495,2190 493,2190 492,2190 472,2198 381,2188 381,2229" />
+      <Word id="l_0037-w_0001" text="Mittelpunkte" error_score="0.049" />
+      <Word id="l_0037-w_0002" text="des" error_score="0.049" />
+      <Word id="l_0037-w_0003" text="Verkehres" error_score="0.049" />
+      <Word id="l_0037-w_0004" text="ſind" error_score="0.049" />
+      <Word id="l_0037-w_0005" text="am" error_score="0.049" />
+      <Word id="l_0037-w_0006" text="Rande" error_score="0.049" />
+      <Word id="l_0037-w_0007" text="der" error_score="0.049" />
+      <Word id="l_0037-w_0008" text="Kleinen" error_score="0.049" />
+      <Word id="l_0037-w_0009" text="ungariſchen" error_score="0.049" />
+    </TextLine>
+    <TextLine id="l_0038" text="Tiefebene: Odenburg und das altertümliche Preßburg: — am Südrande">
+      <Coords points="281,2284 281,2297 1693,2297 1693,2284 1693,2256 1659,2246 1657,2246 1655,2246 1654,2246 1652,2246 1637,2257 1596,2257 1542,2244 1540,2244 1538,2244 1509,2256 1278,2256 1257,2244 1255,2244 1254,2244 1204,2256 1176,2244 1175,2244 1173,2244 1171,2244 1132,2256 1099,2244 1097,2244 1096,2244 974,2252 943,2244 941,2244 939,2244 938,2244 916,2256 847,2244 845,2244 844,2244 824,2256 808,2244 806,2244 804,2244 803,2244 801,2244 766,2256 661,2244 659,2244 605,2254 592,2244 590,2244 589,2244 544,2244 543,2244 541,2244 539,2244 521,2257 446,2257 418,2244 416,2244 414,2244 413,2244 391,2252 378,2244 376,2244 375,2244 373,2244 281,2251 281,2284" />
+      <Word id="l_0038-w_0001" text="Tiefebene:" error_score="0.000" />
+      <Word id="l_0038-w_0002" text="Odenburg" error_score="0.000" />
+      <Word id="l_0038-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0038-w_0004" text="das" error_score="0.000" />
+      <Word id="l_0038-w_0005" text="altertümliche" error_score="0.000" />
+      <Word id="l_0038-w_0006" text="Preßburg:" error_score="0.000" />
+      <Word id="l_0038-w_0007" text="—" error_score="0.000" />
+      <Word id="l_0038-w_0008" text="am" error_score="0.000" />
+      <Word id="l_0038-w_0009" text="Südrande" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0039" text="der Waldkarpaten: Kaſchau (Fl. 2), an der alten Handelsſtraße, die nach Galiʒien">
+      <Coords points="279,2335 278,2346 1685,2349 1688,2338 1686,2308 1647,2298 1556,2298 1555,2298 1553,2298 1552,2298 1540,2307 1528,2298 1527,2298 1525,2298 1524,2298 1522,2298 1501,2307 1431,2298 1430,2298 1387,2307 1250,2298 1249,2298 1247,2298 1232,2307 1219,2298 1217,2298 1216,2298 1214,2298 1175,2307 1152,2298 1150,2298 1148,2298 1086,2307 1066,2298 1064,2298 1063,2298 1015,2307 984,2297 982,2297 980,2297 979,2297 957,2305 877,2297 794,2297 793,2297 791,2297 790,2297 778,2305 717,2297 627,2297 625,2297 623,2297 622,2297 608,2307 477,2307 465,2297 464,2297 462,2297 460,2297 279,2302 279,2335" />
+      <Word id="l_0039-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0039-w_0002" text="Waldkarpaten:" error_score="0.000" />
+      <Word id="l_0039-w_0003" text="Kaſchau" error_score="0.000" />
+      <Word id="l_0039-w_0004" text="(Fl." error_score="0.000" />
+      <Word id="l_0039-w_0005" text="2)," error_score="0.000" />
+      <Word id="l_0039-w_0006" text="an" error_score="0.000" />
+      <Word id="l_0039-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0039-w_0008" text="alten" error_score="0.000" />
+      <Word id="l_0039-w_0009" text="Handelsſtraße," error_score="0.000" />
+      <Word id="l_0039-w_0010" text="die" error_score="0.000" />
+      <Word id="l_0039-w_0011" text="nach" error_score="0.000" />
+      <Word id="l_0039-w_0012" text="Galiʒien" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0040" text="führt, — Groß⸗Wardein (Fl. ?) am Rande der Großen ungariſchen Tiefebene,">
+      <Coords points="281,2386 279,2402 1686,2407 1690,2391 1688,2363 1614,2351 1522,2351 1520,2351 1519,2351 1492,2361 1410,2351 1408,2351 1407,2351 1385,2363 1259,2363 1185,2349 1183,2349 1181,2349 1145,2359 959,2349 957,2349 956,2349 954,2349 939,2361 869,2361 775,2349 773,2349 771,2349 750,2359 725,2348 724,2348 722,2348 720,2348 696,2358 679,2348 678,2348 676,2348 674,2348 673,2348 648,2358 625,2348 623,2348 622,2348 345,2358 296,2348 294,2348 292,2348 291,2348 281,2354 281,2386" />
+      <Word id="l_0040-w_0001" text="führt," error_score="0.000" />
+      <Word id="l_0040-w_0002" text="—" error_score="0.000" />
+      <Word id="l_0040-w_0003" text="Groß⸗Wardein" error_score="0.000" />
+      <Word id="l_0040-w_0004" text="(Fl." error_score="0.000" />
+      <Word id="l_0040-w_0005" text="?)" error_score="0.000" />
+      <Word id="l_0040-w_0006" text="am" error_score="0.000" />
+      <Word id="l_0040-w_0007" text="Rande" error_score="0.000" />
+      <Word id="l_0040-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0040-w_0009" text="Großen" error_score="0.000" />
+      <Word id="l_0040-w_0010" text="ungariſchen" error_score="0.000" />
+      <Word id="l_0040-w_0011" text="Tiefebene," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0041" text="*) Mohatſch. — *) Nach der Kaiſerin, welche die Stadt gründete. — *) kätſchkämet. —">
+      <Coords points="381,2486 380,2497 391,2506 393,2506 395,2506 396,2506 1683,2501 1685,2489 1683,2465 1473,2455 1471,2455 1469,2455 1468,2455 1456,2463 1430,2455 1428,2455 1426,2455 1425,2455 1423,2455 1412,2465 1301,2465 1259,2455 1257,2455 1208,2463 1181,2455 1180,2455 1178,2455 1104,2463 1071,2455 1069,2455 1068,2455 1066,2455 1051,2463 1035,2453 1033,2453 1031,2453 1030,2453 1028,2453 994,2461 921,2453 841,2453 839,2453 837,2453 836,2453 826,2461 783,2453 781,2453 381,2460 381,2486" />
+      <Word id="l_0041-w_0001" text="*)" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0002" text="Mohatſch." error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0003" text="—" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0004" text="*)" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0005" text="Nach" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0006" text="der" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0007" text="Kaiſerin," error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0008" text="welche" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0009" text="die" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0010" text="Stadt" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0011" text="gründete." error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0012" text="—" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0013" text="*)" error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0014" text="kätſchkämet." error_score="1.000" error_type="merge" />
+      <Word id="l_0041-w_0015" text="—" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0042" text="*) hedjallya. „Wer die Weinleſe in der Hegyalja und den Debrecʒiner Jahrmarkt nicht geſehen,">
+      <Coords points="283,2522 283,2530 281,2543 1686,2552 1690,2535 1688,2509 284,2504 283,2522" />
+      <Word id="l_0042-w_0001" text="*)" error_score="0.000" />
+      <Word id="l_0042-w_0002" text="hedjallya." error_score="0.000" />
+      <Word id="l_0042-w_0003" text="„Wer" error_score="0.000" />
+      <Word id="l_0042-w_0004" text="die" error_score="0.000" />
+      <Word id="l_0042-w_0005" text="Weinleſe" error_score="0.000" />
+      <Word id="l_0042-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0042-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0042-w_0008" text="Hegyalja" error_score="0.000" />
+      <Word id="l_0042-w_0009" text="und" error_score="0.000" />
+      <Word id="l_0042-w_0010" text="den" error_score="0.000" />
+      <Word id="l_0042-w_0011" text="Debrecʒiner" error_score="0.000" />
+      <Word id="l_0042-w_0012" text="Jahrmarkt" error_score="0.000" />
+      <Word id="l_0042-w_0013" text="nicht" error_score="0.000" />
+      <Word id="l_0042-w_0014" text="geſehen," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0043" text="hat in Ungarn nichts geſehen. ‟">
+      <Coords points="281,2576 281,2590 709,2596 711,2596 712,2596 714,2596 727,2588 727,2573 722,2545 279,2552 281,2576" />
+      <Word id="l_0043-w_0001" text="hat" error_score="0.000" />
+      <Word id="l_0043-w_0002" text="in" error_score="0.000" />
+      <Word id="l_0043-w_0003" text="Ungarn" error_score="0.000" />
+      <Word id="l_0043-w_0004" text="nichts" error_score="0.000" />
+      <Word id="l_0043-w_0005" text="geſehen." error_score="0.000" />
+      <Word id="l_0043-w_0006" text="‟" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="1775,0 1843,0 1838,129 1774,116 1775,0" />
+    <TextLine id="l_0044" text="ij">
+      <Coords points="1836,42 1835,41 1787,36 1782,97 1779,110 1828,128 1835,103 1835,92 1836,42" />
+      <Word id="l_0044-w_0001" text="ij" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+</Page>

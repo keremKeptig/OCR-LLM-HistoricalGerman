@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740393074_00000098.bin.png" imageHeight="2703" imageWidth="1725" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="0,1567 1,1567 1,1569 0,1569 0,1567" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="94,1015 100,1015 100,1043 84,1037 94,1015" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="94,2090 100,2090 100,2100 90,2100 94,2090" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="102,1453 118,1596 90,1806 78,1483 102,1453" />
+    <TextLine id="l_0001" text="">
+      <Coords points="78,1483 78,1498 78,1513 79,1528 79,1543 79,1558 81,1573 81,1588 82,1603 82,1618 82,1633 84,1648 84,1662 96,1663 111,1662 112,1468 96,1468 88,1468 78,1483" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="100,1851 112,1896 90,1962 84,1862 100,1851" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="100,180 124,328 106,546 118,815 96,965 78,851 78,258 100,180" />
+    <TextLine id="l_0002" text="">
+      <Coords points="78,277 78,292 78,307 78,322 78,337 78,352 78,367 78,382 78,397 78,412 78,427 78,442 78,458 78,473 78,488 78,503 78,518 78,531 93,534 106,534 117,273 99,273 78,271 78,277" />
+    </TextLine>
+    <TextLine id="l_0003" text="A">
+      <Coords points="82,884 84,897 94,899 111,897 111,873 94,873 81,873 82,884" />
+      <Word id="l_0003-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0004" text="A">
+      <Coords points="78,626 78,641 78,656 78,669 94,671 105,669 105,620 94,620 78,620 78,626" />
+      <Word id="l_0004-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0005" text="">
+      <Coords points="78,738 78,753 78,768 78,783 78,798 78,813 78,828 78,843 93,845 105,845 109,737 94,737 78,735 78,738" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="106,2516 178,2576 178,2599 96,2587 106,2516" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="311,216 359,228 366,312 414,318 1597,318 1615,330 1615,455 1603,479 835,479 745,485 713,527 300,527 288,246 311,216" />
+    <TextLine id="l_0006" text="ꝰ0">
+      <Coords points="299,231 299,256 299,268 353,268 353,256 353,228 302,228 299,231" />
+      <Word id="l_0006-w_0001" text="ꝰ0" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0007" text="Dieſe Ablagerungen deuten darauf hin, daſs bis dorthin, wo ſie jetʒt">
+      <Coords points="297,357 296,367 360,376 362,376 363,376 395,369 934,376 936,376 937,376 939,376 946,370 957,378 958,378 960,378 961,379 1027,379 1027,378 1029,378 1030,378 1041,370 1095,378 1096,378 1098,378 1131,370 1304,378 1305,378 1380,370 1478,378 1480,378 1481,378 1513,370 1579,378 1580,378 1582,378 1601,369 1603,360 1601,331 1538,321 1537,321 1535,321 1517,330 1495,321 1493,321 1492,321 1490,321 1457,331 1356,331 1334,321 1332,321 1331,321 1271,330 1244,321 1242,321 1241,321 1239,321 1220,330 1163,321 1161,321 1160,321 1129,330 1102,321 1101,321 1099,321 1098,321 1081,330 1063,321 1062,321 1060,321 1012,330 936,319 934,319 933,319 898,330 848,330 835,319 833,319 832,319 830,319 829,319 811,328 709,328 697,319 695,319 694,319 692,319 691,319 671,330 503,330 480,319 479,319 429,319 428,319 426,319 425,319 413,328 378,319 377,319 375,319 297,325 297,357" />
+      <Word id="l_0007-w_0001" text="Dieſe" error_score="0.000" />
+      <Word id="l_0007-w_0002" text="Ablagerungen" error_score="0.000" />
+      <Word id="l_0007-w_0003" text="deuten" error_score="0.000" />
+      <Word id="l_0007-w_0004" text="darauf" error_score="0.000" />
+      <Word id="l_0007-w_0005" text="hin," error_score="0.000" />
+      <Word id="l_0007-w_0006" text="daſs" error_score="0.000" />
+      <Word id="l_0007-w_0007" text="bis" error_score="0.000" />
+      <Word id="l_0007-w_0008" text="dorthin," error_score="0.000" />
+      <Word id="l_0007-w_0009" text="wo" error_score="0.000" />
+      <Word id="l_0007-w_0010" text="ſie" error_score="0.000" />
+      <Word id="l_0007-w_0011" text="jetʒt" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="liegen, einſt ein Gletſcher gereicht. Jhre nicht ſelten bedeutende Größe, ihre">
+      <Coords points="297,409 297,421 1600,421 1600,409 1600,381 1553,372 1552,372 1550,372 1517,379 1475,372 1474,372 1434,379 1424,372 1422,372 1421,372 1419,372 1418,372 1385,379 1343,372 1341,372 1340,372 1313,381 1248,381 1238,372 1236,372 1235,372 1233,372 1179,379 1123,372 1122,372 1071,379 1045,372 1044,372 1042,372 994,379 928,372 927,372 876,379 842,372 841,372 839,372 791,381 701,381 685,372 683,372 577,372 575,372 573,372 572,372 561,379 533,372 531,372 530,372 528,372 509,379 494,372 492,372 491,372 297,375 297,409" />
+      <Word id="l_0008-w_0001" text="liegen," error_score="0.000" />
+      <Word id="l_0008-w_0002" text="einſt" error_score="0.000" />
+      <Word id="l_0008-w_0003" text="ein" error_score="0.000" />
+      <Word id="l_0008-w_0004" text="Gletſcher" error_score="0.000" />
+      <Word id="l_0008-w_0005" text="gereicht." error_score="0.000" />
+      <Word id="l_0008-w_0006" text="Jhre" error_score="0.000" />
+      <Word id="l_0008-w_0007" text="nicht" error_score="0.000" />
+      <Word id="l_0008-w_0008" text="ſelten" error_score="0.000" />
+      <Word id="l_0008-w_0009" text="bedeutende" error_score="0.000" />
+      <Word id="l_0008-w_0010" text="Größe," error_score="0.000" />
+      <Word id="l_0008-w_0011" text="ihre" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="ſcharfkantige Form und der Ort des Vorkommens ſchließt den Transport">
+      <Coords points="299,456 297,471 1600,471 1601,461 1601,430 1591,423 1589,423 1588,423 1586,423 1585,423 1559,430 1447,423 1445,423 1403,430 1344,423 1343,423 1341,423 1325,430 1296,423 1295,423 1199,423 1197,423 1196,423 1194,423 1182,430 1053,430 1039,421 1038,421 1036,421 1035,421 1033,421 1003,429 981,421 979,421 978,421 940,429 799,421 797,421 746,429 734,420 733,420 731,420 730,420 728,420 712,427 694,420 692,420 691,420 689,420 673,429 572,429 555,420 554,420 552,420 551,420 518,427 470,420 468,420 467,420 444,427 408,420 407,420 299,423 299,456" />
+      <Word id="l_0009-w_0001" text="ſcharfkantige" error_score="0.000" />
+      <Word id="l_0009-w_0002" text="Form" error_score="0.000" />
+      <Word id="l_0009-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0009-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0009-w_0005" text="Ort" error_score="0.000" />
+      <Word id="l_0009-w_0006" text="des" error_score="0.000" />
+      <Word id="l_0009-w_0007" text="Vorkommens" error_score="0.000" />
+      <Word id="l_0009-w_0008" text="ſchließt" error_score="0.000" />
+      <Word id="l_0009-w_0009" text="den" error_score="0.000" />
+      <Word id="l_0009-w_0010" text="Transport" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0010" text="durch Waſſerfluten aus.">
+      <Coords points="300,509 300,522 713,522 713,509 713,483 578,474 577,474 575,474 557,480 537,471 536,471 534,471 533,471 507,480 497,471 495,471 494,471 492,471 453,479 413,471 411,471 410,471 408,471 408,473 399,480 387,471 386,471 384,471 383,471 381,471 351,480 300,474 300,509" />
+      <Word id="l_0010-w_0001" text="durch" error_score="0.000" />
+      <Word id="l_0010-w_0002" text="Waſſerfluten" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="aus." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="931,1549 1597,1549 1621,1567 1621,1632 1591,1668 1490,1662 1428,1704 1009,1710 468,1698 425,1650 306,1644 294,1608 300,1555 931,1549" />
+    <TextLine id="l_0011" text="Fig. 28. Pierre des Marmettes, erratiſcher Granitblock bei Monthey in Unter⸗Wallis">
+      <Coords points="1604,1557 1451,1557 1430,1549 1430,1549 1415,1549 1383,1555 1376,1549 1370,1549 1359,1549 1320,1555 1310,1549 1310,1549 1298,1549 1280,1557 1250,1549 1248,1549 1247,1549 1152,1557 1141,1549 1140,1549 1138,1549 1129,1549 1114,1549 1099,1549 1084,1549 1069,1549 1062,1549 1060,1549 1059,1549 1027,1557 996,1549 994,1549 993,1549 991,1549 954,1560 793,1560 782,1551 781,1551 779,1551 778,1551 722,1558 664,1551 662,1551 620,1558 572,1552 570,1552 569,1552 567,1552 557,1560 491,1552 489,1552 449,1560 419,1554 408,1554 393,1554 383,1554 303,1557 305,1587 305,1605 368,1597 954,1602 955,1602 957,1602 958,1602 969,1594 1250,1600 1251,1600 1609,1591 1610,1581 1607,1558 1604,1557" />
+      <Word id="l_0011-w_0001" text="Fig." error_score="0.071" />
+      <Word id="l_0011-w_0002" text="28." error_score="0.071" />
+      <Word id="l_0011-w_0003" text="Pierre" error_score="0.071" />
+      <Word id="l_0011-w_0004" text="des" error_score="0.071" />
+      <Word id="l_0011-w_0005" text="Marmettes," error_score="0.071" />
+      <Word id="l_0011-w_0006" text="erratiſcher" error_score="0.071" />
+      <Word id="l_0011-w_0007" text="Granitblock" error_score="0.071" />
+      <Word id="l_0011-w_0008" text="bei" error_score="0.071" />
+      <Word id="l_0011-w_0009" text="Monthey" error_score="0.071" />
+      <Word id="l_0011-w_0010" text="in" error_score="0.071" />
+      <Word id="l_0011-w_0011" text="Unter⸗Wallis" error_score="0.071" />
+    </TextLine>
+    <TextLine id="l_0012" text="205 m lang; ꝰ7 m hoch, 102 m breit, mit 2000 m‟ Jnhalt, 85 Mill. kg Gewicht">
+      <Coords points="305,1626 305,1638 697,1645 698,1645 785,1636 895,1644 897,1644 898,1644 925,1636 960,1644 961,1644 963,1644 988,1636 1018,1644 1020,1644 1021,1644 1068,1636 1147,1644 1149,1644 1257,1642 1259,1642 1260,1642 1272,1635 1427,1635 1444,1642 1445,1642 1447,1642 1607,1635 1609,1621 1607,1600 1586,1591 1585,1591 1583,1591 1547,1599 1519,1591 1517,1591 1516,1591 1419,1599 1347,1591 1346,1591 1344,1591 1343,1591 1332,1600 1248,1600 1196,1591 1194,1591 1140,1602 909,1602 889,1593 888,1593 886,1593 885,1593 860,1600 848,1593 847,1593 845,1593 844,1593 785,1600 743,1593 742,1593 740,1593 716,1602 686,1594 685,1594 683,1594 625,1602 572,1594 570,1594 524,1602 450,1594 449,1594 447,1594 425,1602 365,1594 363,1594 303,1600 305,1626" />
+      <Word id="l_0012-w_0001" text="205" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="m" error_score="0.000" />
+      <Word id="l_0012-w_0003" text="lang;" error_score="0.000" />
+      <Word id="l_0012-w_0004" text="ꝰ7" error_score="0.000" />
+      <Word id="l_0012-w_0005" text="m" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="hoch," error_score="0.000" />
+      <Word id="l_0012-w_0007" text="102" error_score="0.000" />
+      <Word id="l_0012-w_0008" text="m" error_score="0.000" />
+      <Word id="l_0012-w_0009" text="breit," error_score="0.000" />
+      <Word id="l_0012-w_0010" text="mit" error_score="0.000" />
+      <Word id="l_0012-w_0011" text="2000" error_score="0.000" />
+      <Word id="l_0012-w_0012" text="m‟" error_score="0.000" />
+      <Word id="l_0012-w_0013" text="Jnhalt," error_score="0.000" />
+      <Word id="l_0012-w_0014" text="85" error_score="0.000" />
+      <Word id="l_0012-w_0015" text="Mill." error_score="0.000" />
+      <Word id="l_0012-w_0016" text="kg" error_score="0.000" />
+      <Word id="l_0012-w_0017" text="Gewicht" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="ſtammt aus dem Thale von Ferret von der Oſtſeite des Montblanc.">
+      <Coords points="455,1669 455,1681 1459,1678 1460,1666 1457,1644 461,1638 459,1638 458,1638 456,1638 456,1639 455,1639 453,1639 455,1669" />
+      <Word id="l_0013-w_0001" text="ſtammt" error_score="0.000" />
+      <Word id="l_0013-w_0002" text="aus" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="dem" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="Thale" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="Ferret" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="von" error_score="0.000" />
+      <Word id="l_0013-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0013-w_0009" text="Oſtſeite" error_score="0.000" />
+      <Word id="l_0013-w_0010" text="des" error_score="0.000" />
+      <Word id="l_0013-w_0011" text="Montblanc." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="949,1729 1615,1735 1627,2070 721,2088 653,2124 306,2118 306,1783 383,1777 414,1735 949,1729" />
+    <TextLine id="l_0014" text="Die erratiſchen Blöcke des oberen Rheinthales und der ſchwäbiſchen Hochebene ſind">
+      <Coords points="404,1746 405,1771 405,1783 1612,1776 1613,1764 1610,1740 647,1737 646,1737 644,1737 643,1737 629,1744 413,1738 404,1746" />
+      <Word id="l_0014-w_0001" text="Die" error_score="0.000" />
+      <Word id="l_0014-w_0002" text="erratiſchen" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="Blöcke" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="des" error_score="0.000" />
+      <Word id="l_0014-w_0005" text="oberen" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="Rheinthales" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0014-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0014-w_0009" text="ſchwäbiſchen" error_score="0.000" />
+      <Word id="l_0014-w_0010" text="Hochebene" error_score="0.000" />
+      <Word id="l_0014-w_0011" text="ſind" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="Ablagerungen eines ehemaligen Rheingletſchers, der ſich über das durch die erratiſchen">
+      <Coords points="306,1812 306,1826 1612,1821 1613,1808 1610,1785 1178,1777 1176,1777 1175,1777 1173,1777 1161,1785 811,1779 809,1779 317,1786 306,1812" />
+      <Word id="l_0015-w_0001" text="Ablagerungen" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="eines" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="ehemaligen" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="Rheingletſchers," error_score="0.000" />
+      <Word id="l_0015-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="ſich" error_score="0.000" />
+      <Word id="l_0015-w_0007" text="über" error_score="0.000" />
+      <Word id="l_0015-w_0008" text="das" error_score="0.000" />
+      <Word id="l_0015-w_0009" text="durch" error_score="0.000" />
+      <Word id="l_0015-w_0010" text="die" error_score="0.000" />
+      <Word id="l_0015-w_0011" text="erratiſchen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="Blöcke beʒeichnete Gebiet erſtreckte.">
+      <Coords points="308,1853 306,1863 796,1868 799,1856 797,1830 308,1827 308,1853" />
+      <Word id="l_0016-w_0001" text="Blöcke" error_score="0.000" />
+      <Word id="l_0016-w_0002" text="beʒeichnete" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="Gebiet" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="erſtreckte." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="Die Hügel ſüdlich vom Garda⸗See, auf welchen einige in unſerer neueren Kriegs⸗">
+      <Coords points="410,1899 410,1920 462,1911 485,1919 486,1919 488,1919 563,1911 575,1919 577,1919 578,1919 580,1919 659,1917 661,1917 662,1917 673,1910 909,1916 910,1916 912,1916 933,1908 976,1916 978,1916 979,1916 999,1908 1068,1916 1069,1916 1108,1908 1316,1914 1317,1914 1495,1905 1505,1913 1507,1913 1508,1913 1510,1914 1582,1914 1582,1913 1583,1913 1616,1902 1616,1892 1613,1869 1514,1860 1513,1860 1511,1860 1510,1860 1499,1869 1328,1869 1311,1862 1310,1862 1308,1862 1244,1869 1233,1862 1232,1862 1230,1862 1229,1862 1188,1869 1140,1862 1138,1862 1137,1862 1135,1862 1125,1871 1045,1863 1044,1863 991,1871 975,1863 973,1863 972,1863 970,1863 949,1871 864,1865 862,1865 827,1872 818,1865 817,1865 815,1865 814,1865 812,1865 791,1872 763,1865 761,1865 760,1865 758,1865 757,1865 746,1874 668,1874 652,1865 650,1865 649,1865 408,1872 410,1899" />
+      <Word id="l_0017-w_0001" text="Die" error_score="0.395" />
+      <Word id="l_0017-w_0002" text="Hügel" error_score="0.395" />
+      <Word id="l_0017-w_0003" text="ſüdlich" error_score="0.395" />
+      <Word id="l_0017-w_0004" text="vom" error_score="0.395" />
+      <Word id="l_0017-w_0005" text="Garda⸗See," error_score="0.395" />
+      <Word id="l_0017-w_0006" text="auf" error_score="0.395" />
+      <Word id="l_0017-w_0007" text="welchen" error_score="0.395" />
+      <Word id="l_0017-w_0008" text="einige" error_score="0.395" />
+      <Word id="l_0017-w_0009" text="in" error_score="0.395" />
+      <Word id="l_0017-w_0010" text="unſerer" error_score="0.395" />
+      <Word id="l_0017-w_0011" text="neueren" error_score="0.395" />
+      <Word id="l_0017-w_0012" text="Kriegs⸗" error_score="0.395" />
+    </TextLine>
+    <TextLine id="l_0018" text="geſchichte ſo oft und ruhmvoll genannten Orte, wie Sommacampagna, Cuſtoʒʒa,">
+      <Coords points="308,1941 308,1956 1612,1949 1613,1935 1610,1913 969,1907 967,1907 915,1914 647,1908 646,1908 644,1908 613,1916 341,1910 339,1910 338,1910 306,1917 308,1941" />
+      <Word id="l_0018-w_0001" text="geſchichte" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="ſo" error_score="0.000" />
+      <Word id="l_0018-w_0003" text="oft" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="ruhmvoll" error_score="0.000" />
+      <Word id="l_0018-w_0006" text="genannten" error_score="0.000" />
+      <Word id="l_0018-w_0007" text="Orte," error_score="0.000" />
+      <Word id="l_0018-w_0008" text="wie" error_score="0.000" />
+      <Word id="l_0018-w_0009" text="Sommacampagna," error_score="0.000" />
+      <Word id="l_0018-w_0010" text="Cuſtoʒʒa," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Solferino u. a. liegen, ſind End⸗ oder Stirnmoränen alter Gletſcher, die aus Tirol">
+      <Coords points="309,1982 309,1994 1613,1988 1615,1976 1610,1949 1450,1953 1412,1946 1410,1946 1374,1953 1289,1946 1287,1946 1286,1946 1248,1955 1194,1947 1193,1947 1128,1955 1098,1947 1096,1947 1095,1947 1093,1947 1063,1955 964,1947 963,1947 961,1947 960,1947 948,1958 853,1958 841,1949 839,1949 838,1949 836,1949 835,1949 833,1949 823,1956 800,1949 799,1949 797,1949 796,1949 778,1956 727,1949 725,1949 724,1949 722,1949 710,1956 611,1950 610,1950 608,1950 607,1950 596,1958 320,1950 318,1950 317,1950 315,1950 308,1956 309,1982" />
+      <Word id="l_0019-w_0001" text="Solferino" error_score="0.000" />
+      <Word id="l_0019-w_0002" text="u." error_score="0.000" />
+      <Word id="l_0019-w_0003" text="a." error_score="0.000" />
+      <Word id="l_0019-w_0004" text="liegen," error_score="0.000" />
+      <Word id="l_0019-w_0005" text="ſind" error_score="0.000" />
+      <Word id="l_0019-w_0006" text="End⸗" error_score="0.000" />
+      <Word id="l_0019-w_0007" text="oder" error_score="0.000" />
+      <Word id="l_0019-w_0008" text="Stirnmoränen" error_score="0.000" />
+      <Word id="l_0019-w_0009" text="alter" error_score="0.000" />
+      <Word id="l_0019-w_0010" text="Gletſcher," error_score="0.000" />
+      <Word id="l_0019-w_0011" text="die" error_score="0.000" />
+      <Word id="l_0019-w_0012" text="aus" error_score="0.000" />
+      <Word id="l_0019-w_0013" text="Tirol" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0020" text="herabreichten.">
+      <Coords points="311,2022 309,2034 503,2037 506,2025 504,2000 311,1997 311,2022" />
+      <Word id="l_0020-w_0001" text="herabreichten." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="Die Unterſuchung der Geſteinsart läſst in manchen Fällen mit Sicherheit die Heimat">
+      <Coords points="413,2066 413,2079 1616,2073 1618,2058 1615,2034 420,2033 419,2033 417,2033 416,2033 416,2034 411,2037 413,2066" />
+      <Word id="l_0021-w_0001" text="Die" error_score="0.423" />
+      <Word id="l_0021-w_0002" text="Unterſuchung" error_score="0.423" />
+      <Word id="l_0021-w_0003" text="der" error_score="0.423" />
+      <Word id="l_0021-w_0004" text="Geſteinsart" error_score="0.423" />
+      <Word id="l_0021-w_0005" text="läſst" error_score="0.423" />
+      <Word id="l_0021-w_0006" text="in" error_score="0.423" />
+      <Word id="l_0021-w_0007" text="manchen" error_score="0.423" />
+      <Word id="l_0021-w_0008" text="Fällen" error_score="0.423" />
+      <Word id="l_0021-w_0009" text="mit" error_score="0.423" />
+      <Word id="l_0021-w_0010" text="Sicherheit" error_score="0.423" />
+      <Word id="l_0021-w_0011" text="die" error_score="0.423" />
+      <Word id="l_0021-w_0012" text="Heimat" error_score="0.423" />
+    </TextLine>
+    <TextLine id="l_0022" text="des Blockes beſtimmen.">
+      <Coords points="311,2105 309,2118 647,2121 650,2108 649,2084 311,2081 311,2105" />
+      <Word id="l_0022-w_0001" text="des" error_score="0.000" />
+      <Word id="l_0022-w_0002" text="Blockes" error_score="0.000" />
+      <Word id="l_0022-w_0003" text="beſtimmen." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

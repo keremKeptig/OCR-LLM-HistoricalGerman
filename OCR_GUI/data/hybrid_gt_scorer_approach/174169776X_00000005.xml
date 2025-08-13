@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="174169776X_00000005.bin.png" imageHeight="3393" imageWidth="2254" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="690,648 1348,655 1386,671 1386,729 1425,761 1642,776 1673,852 1665,933 1493,1023 1446,1121 1356,1138 1378,1236 1356,1302 1016,1332 656,1302 663,1123 558,1106 533,1023 362,1008 339,814 377,754 594,746 626,663 690,648" />
+    <TextLine id="l_0001" text="OSTERREICHISCHER">
+      <Coords points="650,723 650,740 1361,740 1361,723 1361,672 682,661 680,661 679,661 650,671 650,723" />
+      <Word id="l_0001-w_0001" text="OSTERREICHISCHER" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0002" text="SCHULATLAS">
+      <Coords points="367,916 365,927 386,940 388,940 390,940 392,940 394,940 441,927 497,927 518,940 520,940 522,940 524,940 599,927 629,940 631,940 633,942 667,942 667,940 669,940 671,940 671,938 684,927 714,940 716,940 718,942 752,942 752,940 754,940 756,940 756,938 771,927 873,940 875,940 877,940 924,927 937,938 937,940 939,940 941,940 1005,942 1007,942 1009,942 1031,933 1075,942 1077,942 1078,942 1080,942 1095,929 1122,942 1124,942 1126,944 1165,944 1165,942 1167,942 1169,942 1169,940 1182,929 1203,940 1205,940 1207,940 1286,929 1301,940 1301,942 1303,942 1305,942 1307,942 1393,929 1407,938 1408,938 1410,938 1412,938 1414,938 1456,929 1529,938 1531,938 1533,938 1554,929 1608,940 1610,940 1612,940 1640,927 1642,919 1642,799 1607,778 1605,778 1603,778 1601,778 1573,782 1571,782 1569,782 1569,784 1542,808 1505,808 1475,782 1475,780 1473,780 1471,780 1469,780 1467,780 1465,780 1433,808 1376,808 1348,782 1348,780 1346,780 1344,780 1342,780 1341,780 1295,793 1284,784 1282,784 1280,784 1171,784 1169,784 1167,784 1165,784 1165,786 1143,806 1107,784 1105,784 1103,784 1101,784 1099,784 1097,784 1097,786 1073,808 1007,808 980,784 980,782 978,782 977,782 975,782 973,782 924,795 909,784 909,782 907,782 905,782 871,782 869,782 867,782 865,782 846,799 828,784 828,782 826,782 824,782 786,780 784,780 782,780 780,780 765,793 722,780 720,780 718,780 716,780 714,780 714,782 690,803 665,780 663,780 662,780 635,780 633,780 631,780 629,780 605,803 543,776 541,776 539,776 537,776 535,776 486,806 464,806 428,778 426,778 424,778 396,776 394,776 392,776 390,776 367,791 367,916" />
+      <Word id="l_0002-w_0001" text="SCHULATLAS" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0003" text="NACH">
+      <Coords points="937,1002 937,1016 1077,1016 1077,1002 1077,970 937,970 937,1002" />
+      <Word id="l_0003-w_0001" text="NACH" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0004" text="METHODISCHEN GRUNDSATZEN">
+      <Coords points="571,1085 571,1102 1439,1102 1439,1085 1439,1048 571,1048 571,1085" />
+      <Word id="l_0004-w_0001" text="METHODISCHEN" error_score="1.000" error_type="merge" />
+      <Word id="l_0004-w_0002" text="GRUNDSATZEN" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0005" text="BEARBEITET VON">
+      <Coords points="812,1174 812,1185 1199,1181 1199,1170 1193,1138 811,1140 812,1174" />
+      <Word id="l_0005-w_0001" text="BEARBEITET" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0002" text="VON" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0006" text="JOH. GEORG ROTHAUG">
+      <Coords points="1359,1232 1301,1223 1299,1223 1297,1223 1256,1232 1120,1223 1118,1223 1031,1232 1007,1223 1005,1223 1003,1223 1001,1223 982,1232 969,1223 967,1223 965,1223 839,1223 837,1223 788,1232 777,1223 777,1221 775,1221 773,1221 673,1221 671,1221 669,1221 667,1221 652,1230 652,1274 652,1289 1363,1289 1363,1274 1363,1266 1359,1232" />
+      <Word id="l_0006-w_0001" text="JOH." error_score="0.000" />
+      <Word id="l_0006-w_0002" text="GEORG" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="ROTHAUG" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="918,1372 1122,1379 1144,1409 1131,1470 1303,1477 1342,1515 1544,1515 1584,1590 1710,1598 1710,1687 1582,1702 1695,1704 1635,1754 1725,1786 1725,1966 1539,1981 1484,2018 1001,2064 596,2056 548,2101 316,2086 286,2056 301,1477 858,1470 875,1387 918,1372" />
+    <TextLine id="l_0007" text="INHALT:">
+      <Coords points="882,1423 880,1436 1118,1440 1122,1426 1120,1389 882,1385 882,1423" />
+      <Word id="l_0007-w_0001" text="INHALT:" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="1. Die Hauptformen der Erdoberflache. 13. Sudamerika.">
+      <Coords points="1288,1475 1269,1475 1252,1474 1244,1474 1231,1474 1222,1472 1192,1472 1175,1472 1163,1470 1141,1470 1137,1470 1135,1468 1037,1466 1035,1466 944,1475 877,1466 875,1466 873,1466 835,1475 829,1470 816,1470 797,1470 778,1470 760,1470 741,1470 724,1470 718,1475 699,1472 684,1472 665,1472 662,1472 658,1475 577,1472 571,1474 552,1474 533,1474 514,1474 496,1474 477,1474 458,1474 439,1474 420,1475 414,1475 413,1477 399,1475 382,1475 364,1475 345,1475 337,1475 335,1477 331,1475 326,1475 307,1475 309,1506 309,1519 1299,1517 1301,1500 1297,1475 1288,1475" />
+      <Word id="l_0008-w_0001" text="1." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0002" text="Die" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0003" text="Hauptformen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0004" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0005" text="Erdoberflache." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0006" text="13." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0007" text="Sudamerika." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0009" text="2. Die beiden Halblugeln der Erde.">
+      <Coords points="309,1551 309,1566 928,1560 929,1543 926,1519 616,1511 614,1511 546,1521 469,1513 467,1513 465,1513 464,1513 448,1523 314,1515 313,1515 311,1515 309,1515 309,1517 307,1517 309,1551" />
+      <Word id="l_0009-w_0001" text="2." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0002" text="Die" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0003" text="beiden" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0004" text="Halblugeln" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0005" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0006" text="Erde." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0010" text="3. Europa (physisch).">
+      <Coords points="311,1590 309,1606 669,1607 673,1594 671,1568 311,1564 311,1590" />
+      <Word id="l_0010-w_0001" text="3." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0002" text="Europa" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0003" text="(physisch)." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0011" text="4. Europa (politisch).">
+      <Coords points="309,1634 307,1649 667,1653 671,1638 669,1611 309,1607 309,1634" />
+      <Word id="l_0011-w_0001" text="4." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0011-w_0002" text="Europa" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0011-w_0003" text="(politisch)." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0012" text="5. Mitteleuropa.">
+      <Coords points="311,1679 309,1692 577,1696 580,1683 579,1655 311,1651 311,1679" />
+      <Word id="l_0012-w_0001" text="5." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0002" text="Mitteleuropa." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0013" text="6. Osterreich -ungar. Monarchie.">
+      <Coords points="309,1721 307,1736 860,1741 863,1726 863,1700 309,1694 309,1721" />
+      <Word id="l_0013-w_0001" text="6." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0013-w_0002" text="Osterreich" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0013-w_0003" text="-ungar." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0013-w_0004" text="Monarchie." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0014" text="7. Deutsches Reich, Niederlande, Bel-">
+      <Coords points="311,1766 309,1781 975,1785 978,1770 978,1743 311,1739 311,1766" />
+      <Word id="l_0014-w_0001" text="7." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0014-w_0002" text="Deutsches" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0014-w_0003" text="Reich," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0014-w_0004" text="Niederlande," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0014-w_0005" text="Bel-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0015" text="gien, Dänemark, Luxemburg.">
+      <Coords points="352,1813 352,1832 852,1828 852,1813 852,1788 352,1788 352,1813" />
+      <Word id="l_0015-w_0001" text="gien," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0015-w_0002" text="Dänemark," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0015-w_0003" text="Luxemburg." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0016" text="8. Sud- und Westeuropa. Schweiz.">
+      <Coords points="309,1852 307,1868 903,1869 907,1856 905,1830 309,1826 309,1852" />
+      <Word id="l_0016-w_0001" text="8." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0002" text="Sud-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0003" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0004" text="Westeuropa." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0005" text="Schweiz." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0017" text="ꝰ. Ost- und Nordeuropa.">
+      <Coords points="309,1900 309,1915 733,1917 735,1900 735,1875 309,1875 309,1900" />
+      <Word id="l_0017-w_0001" text="ꝰ." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0002" text="Ost-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0003" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0004" text="Nordeuropa." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0018" text="10. Asien.">
+      <Coords points="296,1945 296,1962 467,1962 467,1945 467,1920 296,1918 296,1945" />
+      <Word id="l_0018-w_0001" text="10." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0002" text="Asien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0019" text="11. Afrika.">
+      <Coords points="294,1990 294,2005 479,2005 479,1990 479,1966 294,1966 294,1990" />
+      <Word id="l_0019-w_0001" text="11." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0002" text="Afrika." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0020" text="12. Nordamerika, Zentralamerika und">
+      <Coords points="296,2035 296,2052 986,2052 986,2035 986,2009 296,2009 296,2035" />
+      <Word id="l_0020-w_0001" text="12." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0020-w_0002" text="Nordamerika," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0020-w_0003" text="Zentralamerika" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0020-w_0004" text="und" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0021" text="Westindien.">
+      <Coords points="352,2081 352,2099 558,2099 558,2081 558,2054 352,2050 352,2081" />
+      <Word id="l_0021-w_0001" text="Westindien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0022" text="14. Australien und Polynesien.">
+      <Coords points="1552,1538 1537,1519 1199,1513 1197,1513 1135,1523 1033,1515 1031,1515 1029,1515 1027,1515 1027,1517 1026,1517 1024,1517 1026,1549 1026,1564 1556,1557 1556,1543 1554,1541 1552,1538" />
+      <Word id="l_0022-w_0001" text="14." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0002" text="Australien" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0003" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0004" text="Polynesien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0023" text="15. Osterreich unter der Enns.">
+      <Coords points="1027,1594 1027,1609 1552,1606 1554,1589 1550,1566 1395,1555 1393,1555 1392,1555 1390,1555 1371,1566 1216,1557 1214,1557 1212,1557 1163,1568 1090,1558 1088,1558 1086,1558 1084,1558 1073,1568 1037,1558 1035,1558 1033,1558 1031,1558 1029,1558 1029,1560 1027,1560 1026,1560 1027,1594" />
+      <Word id="l_0023-w_0001" text="15." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0002" text="Osterreich" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0003" text="unter" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0004" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0005" text="Enns." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0024" text="16. Osterreich ob der Enns und Salzburg.">
+      <Coords points="1707,1634 1693,1609 1027,1607 1027,1634 1026,1649 1712,1653 1716,1638 1716,1611 1707,1609 1707,1634" />
+      <Word id="l_0024-w_0001" text="16." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0002" text="Osterreich" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0003" text="ob" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0004" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0005" text="Enns" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0006" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0007" text="Salzburg." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0025" text="17. Steiermark und Kärnten.">
+      <Coords points="1029,1681 1029,1698 1516,1698 1516,1681 1516,1656 1029,1656 1029,1681" />
+      <Word id="l_0025-w_0001" text="17." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0002" text="Steiermark" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0003" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0004" text="Kärnten." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0026" text="18. Tirol und Vorarlberg.">
+      <Coords points="1027,1726 1027,1739 1459,1741 1461,1726 1461,1700 1027,1700 1027,1726" />
+      <Word id="l_0026-w_0001" text="18." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0002" text="Tirol" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0003" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0004" text="Vorarlberg." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0027" text="1ꝰ. Krain und das Kustenland.">
+      <Coords points="1026,1770 1026,1786 1557,1786 1557,1770 1557,1743 1026,1743 1026,1770" />
+      <Word id="l_0027-w_0001" text="1ꝰ." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0002" text="Krain" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0003" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0004" text="das" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0005" text="Kustenland." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0028" text="20. Dalmatien und das Okkupationsgebiet.">
+      <Coords points="1026,1811 1024,1826 1716,1832 1720,1817 1720,1790 1026,1785 1026,1811" />
+      <Word id="l_0028-w_0001" text="20." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0002" text="Dalmatien" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0003" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0004" text="das" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0005" text="Okkupationsgebiet." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0029" text="21. Bohmen.">
+      <Coords points="1024,1856 1024,1873 1235,1873 1235,1856 1235,1832 1024,1832 1024,1856" />
+      <Word id="l_0029-w_0001" text="21." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0002" text="Bohmen." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0030" text="22. Mahren und Schlesien.">
+      <Coords points="1024,1898 1022,1913 1484,1917 1488,1901 1486,1875 1024,1871 1024,1898" />
+      <Word id="l_0030-w_0001" text="22." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0002" text="Mahren" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0003" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0004" text="Schlesien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0031" text="23. Galizien, Bukowina und die Lander">
+      <Coords points="1718,1920 1024,1917 1024,1943 1022,1958 1718,1964 1722,1949 1720,1941 1718,1920" />
+      <Word id="l_0031-w_0001" text="23." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0002" text="Galizien," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0003" text="Bukowina" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0004" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0005" text="die" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0006" text="Lander" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0032" text="der ungarischen Krone.">
+      <Coords points="1084,1988 1082,2003 1491,2009 1495,1994 1493,1967 1084,1962 1084,1988" />
+      <Word id="l_0032-w_0001" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0002" text="ungarischen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0003" text="Krone." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="729,2194 1280,2201 1310,2224 1312,2277 1695,2299 1703,2343 1282,2365 1243,2390 1280,2403 1071,2493 986,2448 814,2425 805,2358 309,2335 347,2292 775,2292 701,2252 701,2209 729,2194" />
+    <TextLine id="l_0033" text="Zweite, verbesserte Auflage.">
+      <Coords points="1292,2212 1284,2207 1210,2199 1197,2199 1178,2199 1160,2199 1158,2199 988,2209 950,2199 948,2199 946,2199 848,2209 833,2199 831,2199 829,2199 718,2199 716,2199 714,2199 712,2199 712,2201 711,2201 707,2205 709,2239 709,2254 1297,2250 1299,2235 1295,2214 1292,2212" />
+      <Word id="l_0033-w_0001" text="Zweite," error_score="0.000" />
+      <Word id="l_0033-w_0002" text="verbesserte" error_score="0.000" />
+      <Word id="l_0033-w_0003" text="Auflage." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="Mit hohem k. k. Ministerialerlaß vom 28. Juni 1ꝰ02, Z. 17. 774, allgemein zulissig erklärt.">
+      <Coords points="1693,2303 343,2297 333,2305 314,2320 314,2324 313,2341 1695,2348 1699,2331 1697,2314 1693,2303" />
+      <Word id="l_0034-w_0001" text="Mit" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="hohem" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="k." error_score="0.000" />
+      <Word id="l_0034-w_0004" text="k." error_score="0.000" />
+      <Word id="l_0034-w_0005" text="Ministerialerlaß" error_score="0.000" />
+      <Word id="l_0034-w_0006" text="vom" error_score="0.000" />
+      <Word id="l_0034-w_0007" text="28." error_score="0.000" />
+      <Word id="l_0034-w_0008" text="Juni" error_score="0.000" />
+      <Word id="l_0034-w_0009" text="1ꝰ02," error_score="0.000" />
+      <Word id="l_0034-w_0010" text="Z." error_score="0.000" />
+      <Word id="l_0034-w_0011" text="17." error_score="0.000" />
+      <Word id="l_0034-w_0012" text="774," error_score="0.000" />
+      <Word id="l_0034-w_0013" text="allgemein" error_score="0.000" />
+      <Word id="l_0034-w_0014" text="zulissig" error_score="0.000" />
+      <Word id="l_0034-w_0015" text="erklärt." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="Preis, gebunden, 1 8o h.">
+      <Coords points="824,2409 822,2424 1193,2427 1197,2412 1195,2388 824,2384 824,2409" />
+      <Word id="l_0035-w_0001" text="Preis," error_score="0.000" />
+      <Word id="l_0035-w_0002" text="gebunden," error_score="0.000" />
+      <Word id="l_0035-w_0003" text="1" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="8o" error_score="0.000" />
+      <Word id="l_0035-w_0005" text="h." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="1037,2593 1446,2669 1476,2735 965,2810 888,2765 596,2757 543,2727 565,2654 782,2646 837,2608 1037,2593" />
+    <TextLine id="l_0036" text="WIEN.">
+      <Coords points="943,2599 931,2599 924,2605 926,2646 926,2657 1007,2667 1009,2667 1082,2665 1084,2665 1086,2665 1086,2663 1093,2655 1093,2642 1090,2606 954,2597 943,2599" />
+      <Word id="l_0036-w_0001" text="WIEN." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0037" text="VERLAG VON F. TEMPSKY.">
+      <Coords points="1458,2699 1446,2680 1446,2680 1444,2680 1442,2680 1354,2689 1341,2680 1339,2680 1337,2680 1335,2680 1333,2680 1309,2689 1144,2680 1143,2680 1078,2688 1067,2678 1065,2678 1063,2678 1061,2678 1060,2678 1029,2688 931,2678 929,2678 858,2688 818,2676 816,2676 814,2676 812,2676 792,2688 731,2688 722,2678 722,2676 720,2676 718,2676 716,2676 714,2676 696,2686 554,2686 552,2693 552,2718 550,2733 560,2740 562,2740 563,2740 565,2740 1152,2735 1158,2742 1160,2742 1160,2744 1161,2744 1163,2744 1165,2744 1463,2735 1465,2723 1465,2716 1458,2699" />
+      <Word id="l_0037-w_0001" text="VERLAG" error_score="0.000" />
+      <Word id="l_0037-w_0002" text="VON" error_score="0.000" />
+      <Word id="l_0037-w_0003" text="F." error_score="0.000" />
+      <Word id="l_0037-w_0004" text="TEMPSKY." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="1ꝰ03.">
+      <Coords points="950,2787 950,2801 1043,2801 1043,2784 1037,2755 948,2757 950,2787" />
+      <Word id="l_0038-w_0001" text="1ꝰ03." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="1069,2126 1099,2126 1107,2139 1041,2139 1069,2126" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="1114,2525 1144,2525 1144,2531 1109,2531 1114,2525" />
+  </TextRegion>
+</Page>

@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1744303657_00000355.bin.png" imageHeight="2847" imageWidth="1615" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="677,278 800,291 819,314 705,340 574,321 599,291 677,278" />
+    <TextLine id="l_0001" text="— 327">
+      <Coords points="719,281 703,279 665,279 664,279 662,279 661,279 661,281 648,294 593,294 593,295 594,316 594,325 721,332 722,332 724,332 745,319 745,314 743,292 730,281 719,281" />
+      <Word id="l_0001-w_0001" text="—" error_score="0.000" />
+      <Word id="l_0001-w_0002" text="327" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0002" text="—">
+      <Coords points="798,294 767,294 768,314 768,324 801,325 805,313 800,294 798,294" />
+      <Word id="l_0002-w_0001" text="—" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="670,354 1323,373 1336,2402 88,2453 69,2446 69,411 143,398 177,366 670,354" />
+    <TextLine id="l_0003" text="25. Jm Beregher⸗Comitate: Munkäcs, a. d. Latoreʒa mit feſtem Berg">
+      <Coords points="1314,371 1298,371 1282,371 1267,371 1252,370 1240,370 1235,370 1219,370 1213,368 937,363 936,363 934,363 933,363 923,371 186,366 185,366 183,366 181,366 175,371 177,401 177,412 1316,414 1319,396 1316,371 1314,371" />
+      <Word id="l_0003-w_0001" text="25." error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0002" text="Jm" error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0003" text="Beregher⸗Comitate:" error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0004" text="Munkäcs," error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0005" text="a." error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0006" text="d." error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0007" text="Latoreʒa" error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0008" text="mit" error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0009" text="feſtem" error_score="0.948" error_type="error" />
+      <Word id="l_0003-w_0010" text="Berg" error_score="0.948" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0004" text="ſchloßs. Bereghszàs2, Flecken, C0.">
+      <Coords points="484,401 468,401 463,401 446,411 327,411 310,401 308,401 306,401 257,411 205,403 204,403 202,403 180,411 158,403 156,403 155,403 72,409 74,436 74,449 642,444 642,431 639,409 496,401 484,401" />
+      <Word id="l_0004-w_0001" text="ſchloßs." error_score="0.713" error_type="error" />
+      <Word id="l_0004-w_0002" text="Bereghszàs2," error_score="0.713" error_type="error" />
+      <Word id="l_0004-w_0003" text="Flecken," error_score="0.713" error_type="error" />
+      <Word id="l_0004-w_0004" text="C0." error_score="0.713" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0005" text="26. Jm Unger⸗Comitate: Ungvär, a. d. Ung, Flecken, C0.">
+      <Coords points="175,480 175,491 1123,485 1124,472 1123,450 1104,441 1102,441 1100,441 1036,449 996,441 994,441 993,441 991,441 991,442 983,449 944,441 942,441 941,441 939,441 928,450 860,442 858,442 857,442 835,450 819,442 817,442 816,442 814,442 813,442 813,444 805,450 639,444 637,444 593,452 583,444 582,444 580,444 578,444 485,453 446,446 444,446 442,446 441,446 441,447 433,455 362,455 183,447 181,447 180,447 178,447 178,449 177,449 173,450 175,480" />
+      <Word id="l_0005-w_0001" text="26." error_score="0.713" error_type="error" />
+      <Word id="l_0005-w_0002" text="Jm" error_score="0.713" error_type="error" />
+      <Word id="l_0005-w_0003" text="Unger⸗Comitate:" error_score="0.713" error_type="error" />
+      <Word id="l_0005-w_0004" text="Ungvär," error_score="0.713" error_type="error" />
+      <Word id="l_0005-w_0005" text="a." error_score="0.713" error_type="error" />
+      <Word id="l_0005-w_0006" text="d." error_score="0.713" error_type="error" />
+      <Word id="l_0005-w_0007" text="Ung," error_score="0.806" error_type="error" />
+      <Word id="l_0005-w_0008" text="Flecken," error_score="0.806" error_type="error" />
+      <Word id="l_0005-w_0009" text="C0." error_score="0.806" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0006" text="27. Jm Ʒempliner⸗Comitate: Satorällja-Ujhely, unweit des">
+      <Coords points="173,525 173,536 1317,528 1319,514 1316,491 1224,482 1222,482 1221,482 1219,482 1208,490 1069,483 1067,483 1066,483 1040,491 990,483 988,483 987,483 961,493 869,485 868,485 820,495 759,487 757,487 756,487 754,487 743,495 545,488 544,488 542,488 540,488 531,496 436,490 434,490 433,490 431,490 422,499 360,499 338,490 336,490 335,490 333,490 332,490 321,499 253,491 251,491 249,491 227,499 185,491 183,491 181,491 180,491 172,496 173,525" />
+      <Word id="l_0006-w_0001" text="27." error_score="0.806" error_type="error" />
+      <Word id="l_0006-w_0002" text="Jm" error_score="0.806" error_type="error" />
+      <Word id="l_0006-w_0003" text="Ʒempliner⸗Comitate:" error_score="0.806" error_type="error" />
+      <Word id="l_0006-w_0004" text="Satorällja-Ujhely," error_score="0.806" error_type="error" />
+      <Word id="l_0006-w_0005" text="unweit" error_score="0.806" error_type="error" />
+      <Word id="l_0006-w_0006" text="des" error_score="0.806" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0007" text="Bodrog, Flecken, C0. Tokaj, a. d. Theiß, Bau des weltberühmten Weines,">
+      <Coords points="469,523 453,523 446,523 444,523 442,523 441,523 430,531 362,525 360,525 359,525 357,525 346,533 74,529 75,558 75,569 1316,570 1319,552 1316,529 1015,520 1013,520 963,529 898,521 896,521 895,521 893,521 882,529 830,521 828,521 827,521 795,529 697,523 695,523 694,523 692,523 681,533 553,533 542,523 540,523 539,523 485,523 469,523" />
+      <Word id="l_0007-w_0001" text="Bodrog," error_score="0.806" error_type="error" />
+      <Word id="l_0007-w_0002" text="Flecken," error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0003" text="C0." error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0004" text="Tokaj," error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0005" text="a." error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0006" text="d." error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0007" text="Theiß," error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0008" text="Bau" error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0009" text="des" error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0010" text="weltberühmten" error_score="0.978" error_type="error" />
+      <Word id="l_0007-w_0011" text="Weines," error_score="0.978" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0008" text="ſtehende Brücke.">
+      <Coords points="74,594 74,605 308,602 308,591 303,566 72,567 74,594" />
+      <Word id="l_0008-w_0001" text="ſtehende" error_score="0.995" error_type="error" />
+      <Word id="l_0008-w_0002" text="Brücke." error_score="0.995" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0009" text="28. Jm Saroſer⸗Comitate: Eperies (ung. Eperjes), a. d. Tarcʒa,">
+      <Coords points="177,637 177,646 1317,645 1319,629 1316,605 862,599 860,599 858,599 857,599 844,607 420,602 419,602 417,602 400,610 186,604 185,604 183,604 181,604 175,608 177,637" />
+      <Word id="l_0009-w_0001" text="28." error_score="0.995" error_type="error" />
+      <Word id="l_0009-w_0002" text="Jm" error_score="0.995" error_type="error" />
+      <Word id="l_0009-w_0003" text="Saroſer⸗Comitate:" error_score="0.995" error_type="error" />
+      <Word id="l_0009-w_0004" text="Eperies" error_score="0.995" error_type="error" />
+      <Word id="l_0009-w_0005" text="(ung." error_score="0.995" error_type="error" />
+      <Word id="l_0009-w_0006" text="Eperjes)," error_score="0.995" error_type="error" />
+      <Word id="l_0009-w_0007" text="a." error_score="0.995" error_type="error" />
+      <Word id="l_0009-w_0008" text="d." error_score="0.995" error_type="error" />
+      <Word id="l_0009-w_0009" text="Tarcʒa," error_score="0.999" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0010" text="Rechtsakademie, Handel, C0. S6ovär, Flecken, große Saline. Vörösvâgàs, be⸗">
+      <Coords points="75,669 75,681 1316,676 1317,664 1312,642 74,645 75,669" />
+      <Word id="l_0010-w_0001" text="Rechtsakademie," error_score="0.999" error_type="error" />
+      <Word id="l_0010-w_0002" text="Handel," error_score="0.999" error_type="error" />
+      <Word id="l_0010-w_0003" text="C0." error_score="0.999" error_type="error" />
+      <Word id="l_0010-w_0004" text="S6ovär," error_score="0.999" error_type="error" />
+      <Word id="l_0010-w_0005" text="Flecken," error_score="0.999" error_type="error" />
+      <Word id="l_0010-w_0006" text="große" error_score="0.999" error_type="error" />
+      <Word id="l_0010-w_0007" text="Saline." error_score="0.999" error_type="error" />
+      <Word id="l_0010-w_0008" text="Vörösvâgàs," error_score="0.999" error_type="error" />
+      <Word id="l_0010-w_0009" text="be⸗" error_score="0.999" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0011" text="rühmte Opalgruben.">
+      <Coords points="74,707 74,718 378,716 378,703 374,681 96,675 94,675 93,675 72,681 74,707" />
+      <Word id="l_0011-w_0001" text="rühmte" error_score="0.999" error_type="error" />
+      <Word id="l_0011-w_0002" text="Opalgruben." error_score="0.988" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0012" text="2ꝰ. Jm Ʒipſer⸗Comitate: Leutſchau, Stadt, C0.; Hauptort der Ʒipſer">
+      <Coords points="177,749 177,760 1319,752 1320,741 1317,718 643,713 642,713 640,713 639,713 629,721 188,716 186,716 185,716 183,716 175,721 177,749" />
+      <Word id="l_0012-w_0001" text="2ꝰ." error_score="0.988" error_type="error" />
+      <Word id="l_0012-w_0002" text="Jm" error_score="0.988" error_type="error" />
+      <Word id="l_0012-w_0003" text="Ʒipſer⸗Comitate:" error_score="0.988" error_type="error" />
+      <Word id="l_0012-w_0004" text="Leutſchau," error_score="0.988" error_type="error" />
+      <Word id="l_0012-w_0005" text="Stadt," error_score="0.988" error_type="error" />
+      <Word id="l_0012-w_0006" text="C0.;" error_score="0.988" error_type="error" />
+      <Word id="l_0012-w_0007" text="Hauptort" error_score="0.988" error_type="error" />
+      <Word id="l_0012-w_0008" text="der" error_score="0.988" error_type="error" />
+      <Word id="l_0012-w_0009" text="Ʒipſer" error_score="0.988" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0013" text="Sachſen, einer bei 100. 000 S. ʒählenden deutſchen Sprachinſel. Kesmark, a.">
+      <Coords points="79,784 79,793 1319,790 1320,776 1317,754 824,748 822,748 820,748 792,756 610,749 608,749 571,757 88,752 86,752 85,752 83,752 77,756 79,784" />
+      <Word id="l_0013-w_0001" text="Sachſen," error_score="0.267" />
+      <Word id="l_0013-w_0002" text="einer" error_score="0.267" />
+      <Word id="l_0013-w_0003" text="bei" error_score="0.267" />
+      <Word id="l_0013-w_0004" text="100." error_score="0.267" />
+      <Word id="l_0013-w_0005" text="000" error_score="0.267" />
+      <Word id="l_0013-w_0006" text="S." error_score="0.267" />
+      <Word id="l_0013-w_0007" text="ʒählenden" error_score="0.267" />
+      <Word id="l_0013-w_0008" text="deutſchen" error_score="0.267" />
+      <Word id="l_0013-w_0009" text="Sprachinſel." error_score="0.267" />
+      <Word id="l_0013-w_0010" text="Kesmark," error_score="0.267" />
+      <Word id="l_0013-w_0011" text="a." error_score="0.031" />
+    </TextLine>
+    <TextLine id="l_0014" text="Poprad, Stadt mit lebhaftem Wein⸗ und Leinwandhandel. Schmöllnitʒ u. Göll⸗">
+      <Coords points="79,820 79,833 1319,822 1320,809 1316,786 77,793 79,820" />
+      <Word id="l_0014-w_0001" text="Poprad," error_score="0.031" />
+      <Word id="l_0014-w_0002" text="Stadt" error_score="0.031" />
+      <Word id="l_0014-w_0003" text="mit" error_score="0.031" />
+      <Word id="l_0014-w_0004" text="lebhaftem" error_score="0.031" />
+      <Word id="l_0014-w_0005" text="Wein⸗" error_score="0.031" />
+      <Word id="l_0014-w_0006" text="und" error_score="0.031" />
+      <Word id="l_0014-w_0007" text="Leinwandhandel." error_score="0.031" />
+      <Word id="l_0014-w_0008" text="Schmöllnitʒ" error_score="0.031" />
+      <Word id="l_0014-w_0009" text="u." error_score="0.031" />
+      <Word id="l_0014-w_0010" text="Göll⸗" error_score="0.224" />
+    </TextLine>
+    <TextLine id="l_0015" text="nitʒ, Bergſtädte mit reichen Kupfergruben.">
+      <Coords points="77,854 77,866 705,863 707,849 702,827 75,830 77,854" />
+      <Word id="l_0015-w_0001" text="nitʒ," error_score="0.224" />
+      <Word id="l_0015-w_0002" text="Bergſtädte" error_score="0.224" />
+      <Word id="l_0015-w_0003" text="mit" error_score="0.224" />
+      <Word id="l_0015-w_0004" text="reichen" error_score="0.224" />
+      <Word id="l_0015-w_0005" text="Kupfergruben." error_score="0.224" />
+    </TextLine>
+    <TextLine id="l_0016" text="30. Jm Gömörer⸗Comitate: Rima-Szombat, Flecken a. d. Rima,">
+      <Coords points="180,898 180,909 1320,906 1322,888 1319,866 1235,857 1233,857 1232,857 1203,865 1195,857 1194,857 1192,857 1191,857 1189,857 1187,857 1178,865 1036,858 1034,858 1032,858 1031,858 1021,868 958,868 944,858 942,858 941,858 939,858 937,858 901,868 751,860 749,860 621,869 594,862 593,862 591,862 590,862 555,871 529,863 528,863 526,863 525,863 498,871 325,865 324,865 322,865 321,865 311,873 189,865 188,865 186,865 185,865 185,866 178,871 180,898" />
+      <Word id="l_0016-w_0001" text="30." error_score="0.224" />
+      <Word id="l_0016-w_0002" text="Jm" error_score="0.224" />
+      <Word id="l_0016-w_0003" text="Gömörer⸗Comitate:" error_score="0.224" />
+      <Word id="l_0016-w_0004" text="Rima-Szombat," error_score="0.224" />
+      <Word id="l_0016-w_0005" text="Flecken" error_score="0.224" />
+      <Word id="l_0016-w_0006" text="a." error_score="0.991" error_type="error" />
+      <Word id="l_0016-w_0007" text="d." error_score="0.991" error_type="error" />
+      <Word id="l_0016-w_0008" text="Rima," error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0017" text="00. Pohorella, Dorf im Granthale, Hauptort der wichtigen Eiſenwerke des">
+      <Coords points="79,933 79,944 1320,937 1322,925 1319,899 327,899 325,899 286,907 86,901 85,901 83,901 82,901 82,903 77,906 79,933" />
+      <Word id="l_0017-w_0001" text="00." error_score="0.991" error_type="error" />
+      <Word id="l_0017-w_0002" text="Pohorella," error_score="0.991" error_type="error" />
+      <Word id="l_0017-w_0003" text="Dorf" error_score="0.991" error_type="error" />
+      <Word id="l_0017-w_0004" text="im" error_score="0.991" error_type="error" />
+      <Word id="l_0017-w_0005" text="Granthale," error_score="0.991" error_type="error" />
+      <Word id="l_0017-w_0006" text="Hauptort" error_score="0.991" error_type="error" />
+      <Word id="l_0017-w_0007" text="der" error_score="0.991" error_type="error" />
+      <Word id="l_0017-w_0008" text="wichtigen" error_score="0.992" error_type="error" />
+      <Word id="l_0017-w_0009" text="Eiſenwerke" error_score="0.992" error_type="error" />
+      <Word id="l_0017-w_0010" text="des" error_score="0.992" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0018" text="Herʒogs von Coburg.">
+      <Coords points="79,969 79,982 88,988 90,988 91,988 93,990 185,990 185,988 186,988 188,988 202,980 390,988 392,988 393,988 395,988 404,980 404,969 404,945 79,945 79,969" />
+      <Word id="l_0018-w_0001" text="Herʒogs" error_score="0.992" error_type="error" />
+      <Word id="l_0018-w_0002" text="von" error_score="0.992" error_type="error" />
+      <Word id="l_0018-w_0003" text="Coburg." error_score="0.992" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0019" text="31. Jm Tornaer⸗Comitate: Torna, Flecken u. C0.">
+      <Coords points="181,1010 181,1023 1055,1018 1056,1005 1053,983 189,979 188,979 186,979 185,979 185,980 180,983 181,1010" />
+      <Word id="l_0019-w_0001" text="31." error_score="0.992" error_type="error" />
+      <Word id="l_0019-w_0002" text="Jm" error_score="0.992" error_type="error" />
+      <Word id="l_0019-w_0003" text="Tornaer⸗Comitate:" error_score="0.992" error_type="error" />
+      <Word id="l_0019-w_0004" text="Torna," error_score="0.992" error_type="error" />
+      <Word id="l_0019-w_0005" text="Flecken" error_score="1.000" error_type="error" />
+      <Word id="l_0019-w_0006" text="u." error_score="1.000" error_type="error" />
+      <Word id="l_0019-w_0007" text="C0." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0020" text="32. Jm Abaujer Comitate: Kaſchau (ung. Kassa), a. Hernäd, k. Fr.">
+      <Coords points="181,1056 181,1066 1322,1062 1323,1048 1320,1024 191,1023 189,1023 188,1023 186,1023 180,1028 181,1056" />
+      <Word id="l_0020-w_0001" text="32." error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0002" text="Jm" error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0003" text="Abaujer" error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0004" text="Comitate:" error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0005" text="Kaſchau" error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0006" text="(ung." error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0007" text="Kassa)," error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0008" text="a." error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0009" text="Hernäd," error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0010" text="k." error_score="1.000" error_type="error" />
+      <Word id="l_0020-w_0011" text="Fr." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0021" text="u. CO.; ſchöner gothiſcher Dom, Rechtsakademie, Hauptſtapelplatʒ des ung. ⸗galiʒiſchen">
+      <Coords points="79,1091 79,1104 1322,1099 1323,1083 1319,1059 77,1066 79,1091" />
+      <Word id="l_0021-w_0001" text="u." error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0002" text="CO.;" error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0003" text="ſchöner" error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0004" text="gothiſcher" error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0005" text="Dom," error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0006" text="Rechtsakademie," error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0007" text="Hauptſtapelplatʒ" error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0008" text="des" error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0009" text="ung." error_score="1.000" error_type="error" />
+      <Word id="l_0021-w_0010" text="⸗galiʒiſchen" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0022" text="Handels. S2ünto, ſehr guter Wein; hier beginnt die Hegyallja.">
+      <Coords points="79,1126 79,1135 306,1143 308,1143 355,1135 773,1140 775,1140 833,1132 1024,1138 1026,1138 1028,1138 1056,1129 1056,1119 1053,1097 566,1091 564,1091 563,1091 544,1099 347,1092 346,1092 344,1092 316,1100 88,1094 86,1094 85,1094 83,1094 77,1099 79,1126" />
+      <Word id="l_0022-w_0001" text="Handels." error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0002" text="S2ünto," error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0003" text="ſehr" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0004" text="guter" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0005" text="Wein;" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0006" text="hier" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0007" text="beginnt" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0008" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0009" text="Hegyallja." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0023" text="33. Jm Borſoder⸗Comitate: Miskolez, nahe am Sajo, Flecken, C0.">
+      <Coords points="180,1168 180,1179 1325,1175 1327,1162 1323,1138 189,1135 188,1135 186,1135 185,1135 178,1140 180,1168" />
+      <Word id="l_0023-w_0001" text="33." error_score="1.000" error_type="error" />
+      <Word id="l_0023-w_0002" text="Jm" error_score="1.000" error_type="error" />
+      <Word id="l_0023-w_0003" text="Borſoder⸗Comitate:" error_score="1.000" error_type="error" />
+      <Word id="l_0023-w_0004" text="Miskolez," error_score="1.000" error_type="error" />
+      <Word id="l_0023-w_0005" text="nahe" error_score="1.000" error_type="error" />
+      <Word id="l_0023-w_0006" text="am" error_score="1.000" error_type="error" />
+      <Word id="l_0023-w_0007" text="Sajo," error_score="1.000" error_type="error" />
+      <Word id="l_0023-w_0008" text="Flecken," error_score="0.963" error_type="error" />
+      <Word id="l_0023-w_0009" text="C0." error_score="0.963" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0024" text="34. Jm Heveſer⸗Comitate: Erlau (ung. Eger), a. gln. Fluſſe; ſchöne">
+      <Coords points="181,1213 181,1222 406,1230 408,1230 409,1230 431,1221 1327,1217 1327,1205 1323,1183 1132,1173 1130,1173 1129,1173 1097,1183 1080,1175 1078,1175 1077,1175 988,1183 979,1175 977,1175 975,1175 896,1175 895,1175 893,1175 866,1184 686,1176 684,1176 683,1176 681,1176 672,1184 480,1178 479,1178 430,1186 414,1178 412,1178 411,1178 409,1178 384,1187 191,1179 189,1179 188,1179 186,1179 186,1181 180,1186 181,1213" />
+      <Word id="l_0024-w_0001" text="34." error_score="0.963" error_type="error" />
+      <Word id="l_0024-w_0002" text="Jm" error_score="0.963" error_type="error" />
+      <Word id="l_0024-w_0003" text="Heveſer⸗Comitate:" error_score="0.963" error_type="error" />
+      <Word id="l_0024-w_0004" text="Erlau" error_score="0.963" error_type="error" />
+      <Word id="l_0024-w_0005" text="(ung." error_score="0.963" error_type="error" />
+      <Word id="l_0024-w_0006" text="Eger)," error_score="0.963" error_type="error" />
+      <Word id="l_0024-w_0007" text="a." error_score="0.963" error_type="error" />
+      <Word id="l_0024-w_0008" text="gln." error_score="0.963" error_type="error" />
+      <Word id="l_0024-w_0009" text="Fluſſe;" error_score="0.539" error_type="error" />
+      <Word id="l_0024-w_0010" text="ſchöne" error_score="0.539" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0025" text="Kathedrale, Rechtsakademie, warme Bäder, berühmter Wein; CO.">
+      <Coords points="83,1246 83,1259 1043,1255 1045,1241 1042,1219 727,1211 726,1211 724,1211 722,1211 722,1213 714,1219 96,1214 94,1214 93,1214 91,1214 82,1219 83,1246" />
+      <Word id="l_0025-w_0001" text="Kathedrale," error_score="0.539" error_type="error" />
+      <Word id="l_0025-w_0002" text="Rechtsakademie," error_score="0.539" error_type="error" />
+      <Word id="l_0025-w_0003" text="warme" error_score="0.539" error_type="error" />
+      <Word id="l_0025-w_0004" text="Bäder," error_score="0.539" error_type="error" />
+      <Word id="l_0025-w_0005" text="berühmter" error_score="0.539" error_type="error" />
+      <Word id="l_0025-w_0006" text="Wein;" error_score="0.539" error_type="error" />
+      <Word id="l_0025-w_0007" text="CO." error_score="0.539" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0026" text="35. Jm Comitate Jaʒygien, Gr. Kumanien und Sʒolnok, Jäsz-">
+      <Coords points="181,1290 181,1301 1323,1295 1325,1284 1322,1262 191,1259 189,1259 188,1259 186,1259 180,1263 181,1290" />
+      <Word id="l_0026-w_0001" text="35." error_score="0.539" error_type="error" />
+      <Word id="l_0026-w_0002" text="Jm" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0003" text="Comitate" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0004" text="Jaʒygien," error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0005" text="Gr." error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0006" text="Kumanien" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0007" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0008" text="Sʒolnok," error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0009" text="Jäsz-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0027" text="berény, unfern der Ʒagyva, Flecken CO., mit großen Viehmärkten. 820lnOk,">
+      <Coords points="79,1327 79,1338 1322,1339 1325,1320 1322,1298 1013,1290 1012,1290 939,1298 702,1292 700,1292 699,1292 670,1301 77,1301 79,1327" />
+      <Word id="l_0027-w_0001" text="berény," error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0002" text="unfern" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0003" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0004" text="Ʒagyva," error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0005" text="Flecken" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0006" text="CO.," error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0007" text="mit" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0008" text="großen" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0009" text="Viehmärkten." error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0010" text="820lnOk," error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0028" text="Flecken a. d. Theiß, ſtehende Brücken, ſtarker Fiſchfang.">
+      <Coords points="759,1323 757,1323 727,1333 591,1325 590,1325 588,1325 586,1325 575,1333 404,1327 403,1327 401,1327 400,1327 384,1336 286,1328 284,1328 283,1328 256,1336 245,1328 243,1328 242,1328 240,1328 238,1328 237,1328 237,1330 235,1330 229,1338 88,1330 86,1330 85,1330 83,1330 83,1331 82,1331 79,1334 80,1363 80,1376 895,1369 896,1355 893,1333 760,1323 759,1323" />
+      <Word id="l_0028-w_0001" text="Flecken" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0002" text="a." error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0003" text="d." error_score="0.978" error_type="error" />
+      <Word id="l_0028-w_0004" text="Theiß," error_score="0.978" error_type="error" />
+      <Word id="l_0028-w_0005" text="ſtehende" error_score="0.978" error_type="error" />
+      <Word id="l_0028-w_0006" text="Brücken," error_score="0.978" error_type="error" />
+      <Word id="l_0028-w_0007" text="ſtarker" error_score="0.978" error_type="error" />
+      <Word id="l_0028-w_0008" text="Fiſchfang." error_score="0.978" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0029" text="36. Jm Marmaroſer⸗Comitat: Marmaros-Sziget, Flecken a. d.">
+      <Coords points="186,1404 186,1415 1322,1410 1323,1396 1320,1374 192,1372 191,1372 189,1372 188,1372 188,1374 186,1374 185,1374 186,1404" />
+      <Word id="l_0029-w_0001" text="36." error_score="0.978" error_type="error" />
+      <Word id="l_0029-w_0002" text="Jm" error_score="0.978" error_type="error" />
+      <Word id="l_0029-w_0003" text="Marmaroſer⸗Comitat:" error_score="0.978" error_type="error" />
+      <Word id="l_0029-w_0004" text="Marmaros-Sziget," error_score="0.978" error_type="error" />
+      <Word id="l_0029-w_0005" text="Flecken" error_score="1.000" error_type="error" />
+      <Word id="l_0029-w_0006" text="a." error_score="1.000" error_type="error" />
+      <Word id="l_0029-w_0007" text="d." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0030" text="Theiß, Lyceum, C0. Ronaszék, Sugatag u. Szlatina, große und ſehr">
+      <Coords points="80,1440 80,1450 308,1458 310,1458 311,1458 330,1448 806,1455 808,1455 863,1445 963,1453 964,1453 1325,1445 1327,1432 1323,1410 578,1406 577,1406 575,1406 574,1406 561,1414 344,1407 343,1407 341,1407 325,1415 88,1409 86,1409 85,1409 83,1409 83,1410 79,1414 80,1440" />
+      <Word id="l_0030-w_0001" text="Theiß," error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0002" text="Lyceum," error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0003" text="C0." error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0004" text="Ronaszék," error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0005" text="Sugatag" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0006" text="u." error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0007" text="Szlatina," error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0008" text="große" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0009" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0010" text="ſehr" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0031" text="wichtige Salʒwerke (bei 2 Mill. Ʒ. ⸗Cent. jährliche Erʒeugung).">
+      <Coords points="83,1475 83,1488 1004,1482 1006,1469 1004,1447 987,1437 985,1437 983,1437 982,1437 980,1437 968,1445 849,1437 847,1437 707,1447 482,1440 480,1440 479,1440 477,1440 469,1447 460,1440 458,1440 457,1440 455,1440 360,1448 336,1440 335,1440 333,1440 332,1440 308,1450 136,1442 134,1442 82,1451 83,1475" />
+      <Word id="l_0031-w_0001" text="wichtige" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0002" text="Salʒwerke" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0003" text="(bei" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0004" text="2" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0005" text="Mill." error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0006" text="Ʒ." error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0007" text="⸗Cent." error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0008" text="jährliche" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0009" text="Erʒeugung)." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0032" text="37. Jm Ugocſaer⸗Comitate: Nagy S2öllös, Flecken a. d.">
+      <Coords points="185,1518 185,1527 260,1527 272,1537 273,1537 275,1537 276,1537 325,1527 378,1537 379,1537 536,1526 550,1535 552,1535 553,1535 555,1535 718,1532 719,1532 721,1532 732,1524 850,1534 852,1534 854,1534 855,1534 871,1523 925,1531 926,1531 928,1531 945,1524 1059,1532 1061,1532 1062,1532 1064,1532 1075,1523 1168,1531 1170,1531 1172,1531 1211,1521 1240,1531 1241,1531 1243,1531 1244,1531 1274,1521 1323,1527 1327,1510 1323,1489 1111,1480 1110,1480 1108,1480 1107,1480 1093,1489 900,1482 898,1482 896,1482 866,1491 759,1483 757,1483 756,1483 754,1483 745,1491 626,1485 624,1485 588,1493 550,1485 548,1485 480,1493 450,1485 449,1485 447,1485 403,1494 272,1486 270,1486 268,1486 234,1494 194,1486 192,1486 191,1486 189,1486 189,1488 183,1493 185,1518" />
+      <Word id="l_0032-w_0001" text="37." error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0002" text="Jm" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0003" text="Ugocſaer⸗Comitate:" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0004" text="Nagy" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0005" text="S2öllös," error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0006" text="Flecken" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0007" text="a." error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0008" text="d." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0033" text="Theiß, C0.">
+      <Coords points="80,1556 80,1565 245,1569 246,1553 242,1526 172,1526 161,1518 159,1518 158,1518 156,1518 79,1527 80,1556" />
+      <Word id="l_0033-w_0001" text="Theiß," error_score="0.993" error_type="error" />
+      <Word id="l_0033-w_0002" text="C0." error_score="0.993" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0034" text="38. Jm Sʒatmärer⸗Comitate: Nagy-Käroly, unfern des Eeſeder">
+      <Coords points="183,1597 183,1606 1086,1610 1088,1610 1137,1602 1300,1608 1301,1608 1303,1608 1328,1599 1328,1589 1325,1567 1284,1557 1282,1557 1216,1565 1081,1559 1080,1559 1078,1559 1058,1567 869,1559 868,1559 866,1559 865,1559 849,1569 740,1561 738,1561 737,1561 735,1561 726,1569 627,1562 626,1562 583,1570 555,1562 553,1562 552,1562 479,1570 447,1562 446,1562 444,1562 385,1572 253,1564 251,1564 249,1564 232,1572 192,1564 191,1564 189,1564 188,1564 188,1565 181,1570 183,1597" />
+      <Word id="l_0034-w_0001" text="38." error_score="0.993" error_type="error" />
+      <Word id="l_0034-w_0002" text="Jm" error_score="0.993" error_type="error" />
+      <Word id="l_0034-w_0003" text="Sʒatmärer⸗Comitate:" error_score="0.993" error_type="error" />
+      <Word id="l_0034-w_0004" text="Nagy-Käroly," error_score="0.993" error_type="error" />
+      <Word id="l_0034-w_0005" text="unfern" error_score="0.993" error_type="error" />
+      <Word id="l_0034-w_0006" text="des" error_score="0.993" error_type="error" />
+      <Word id="l_0034-w_0007" text="Eeſeder" error_score="0.993" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0035" text="Sumpfes (Nagy-Läp), 0O. Szatmar-Németi, a. d. Sʒamos, k. Fr.; Friede 1711.">
+      <Coords points="80,1630 80,1643 1325,1640 1327,1625 1323,1603 495,1597 493,1597 491,1597 490,1597 480,1605 94,1599 93,1599 91,1599 90,1599 79,1603 80,1630" />
+      <Word id="l_0035-w_0001" text="Sumpfes" error_score="0.993" error_type="error" />
+      <Word id="l_0035-w_0002" text="(Nagy-Läp)," error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0003" text="0O." error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0004" text="Szatmar-Németi," error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0005" text="a." error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0006" text="d." error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0007" text="Sʒamos," error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0008" text="k." error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0009" text="Fr.;" error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0010" text="Friede" error_score="0.894" error_type="error" />
+      <Word id="l_0035-w_0011" text="1711." error_score="0.894" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0036" text="Nagy-Bânya u. Felsö-Banya, Beraſtädte mit reichen Gold⸗, Silber⸗ und">
+      <Coords points="82,1667 82,1678 1323,1671 1325,1660 1322,1638 1043,1630 1042,1630 1040,1630 1009,1638 703,1632 702,1632 700,1632 683,1641 80,1641 82,1667" />
+      <Word id="l_0036-w_0001" text="Nagy-Bânya" error_score="0.841" error_type="error" />
+      <Word id="l_0036-w_0002" text="u." error_score="0.841" error_type="error" />
+      <Word id="l_0036-w_0003" text="Felsö-Banya," error_score="0.841" error_type="error" />
+      <Word id="l_0036-w_0004" text="Beraſtädte" error_score="0.841" error_type="error" />
+      <Word id="l_0036-w_0005" text="mit" error_score="0.841" error_type="error" />
+      <Word id="l_0036-w_0006" text="reichen" error_score="0.841" error_type="error" />
+      <Word id="l_0036-w_0007" text="Gold⸗," error_score="0.841" error_type="error" />
+      <Word id="l_0036-w_0008" text="Silber⸗" error_score="0.841" error_type="error" />
+      <Word id="l_0036-w_0009" text="und" error_score="0.841" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0037" text="Bleiwerken.">
+      <Coords points="80,1701 80,1716 254,1716 254,1701 254,1678 80,1678 80,1701" />
+      <Word id="l_0037-w_0001" text="Bleiwerken." error_score="0.841" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0038" text="3ꝰ. Jm Sʒilagyer⸗Comitate: Zilah, Flecken, C0.">
+      <Coords points="181,1746 181,1757 1036,1750 1037,1739 1034,1716 393,1711 392,1711 390,1711 360,1719 192,1712 191,1712 189,1712 188,1712 180,1717 181,1746" />
+      <Word id="l_0038-w_0001" text="3ꝰ." error_score="0.923" error_type="error" />
+      <Word id="l_0038-w_0002" text="Jm" error_score="0.923" error_type="error" />
+      <Word id="l_0038-w_0003" text="Sʒilagyer⸗Comitate:" error_score="0.923" error_type="error" />
+      <Word id="l_0038-w_0004" text="Zilah," error_score="0.923" error_type="error" />
+      <Word id="l_0038-w_0005" text="Flecken," error_score="0.923" error_type="error" />
+      <Word id="l_0038-w_0006" text="C0." error_score="0.923" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0039" text="40. Jm Sʒaboleſer⸗Comitate: Nyiregyhäza, großer Flecken mit">
+      <Coords points="181,1788 181,1799 1330,1796 1331,1784 1328,1760 564,1754 563,1754 561,1754 542,1761 196,1755 194,1755 192,1755 191,1755 180,1760 181,1788" />
+      <Word id="l_0039-w_0001" text="40." error_score="0.923" error_type="error" />
+      <Word id="l_0039-w_0002" text="Jm" error_score="0.923" error_type="error" />
+      <Word id="l_0039-w_0003" text="Sʒaboleſer⸗Comitate:" error_score="0.923" error_type="error" />
+      <Word id="l_0039-w_0004" text="Nyiregyhäza," error_score="0.923" error_type="error" />
+      <Word id="l_0039-w_0005" text="großer" error_score="0.994" error_type="error" />
+      <Word id="l_0039-w_0006" text="Flecken" error_score="0.994" error_type="error" />
+      <Word id="l_0039-w_0007" text="mit" error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0040" text="ſtarker Salpeterſiederei und Sodafabrikation C0.">
+      <Coords points="82,1826 82,1837 806,1834 808,1820 805,1796 634,1788 632,1788 422,1798 91,1793 90,1793 88,1793 86,1793 80,1796 82,1826" />
+      <Word id="l_0040-w_0001" text="ſtarker" error_score="0.994" error_type="error" />
+      <Word id="l_0040-w_0002" text="Salpeterſiederei" error_score="0.994" error_type="error" />
+      <Word id="l_0040-w_0003" text="und" error_score="0.994" error_type="error" />
+      <Word id="l_0040-w_0004" text="Sodafabrikation" error_score="0.994" error_type="error" />
+      <Word id="l_0040-w_0005" text="C0." error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0041" text="41. Jm Hajduken⸗Comitate: Debrecʒin, weitausgedehnte, dorfmäßig">
+      <Coords points="181,1867 181,1880 1328,1880 1330,1863 1327,1839 199,1834 197,1834 196,1834 180,1841 181,1867" />
+      <Word id="l_0041-w_0001" text="41." error_score="0.994" error_type="error" />
+      <Word id="l_0041-w_0002" text="Jm" error_score="0.994" error_type="error" />
+      <Word id="l_0041-w_0003" text="Hajduken⸗Comitate:" error_score="0.969" error_type="error" />
+      <Word id="l_0041-w_0004" text="Debrecʒin," error_score="0.969" error_type="error" />
+      <Word id="l_0041-w_0005" text="weitausgedehnte," error_score="0.969" error_type="error" />
+      <Word id="l_0041-w_0006" text="dorfmäßig" error_score="0.969" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0042" text="gebaute k. Fr., CO., mit einer Rechtsakademie, mit bedeutender und mannigfaltiger">
+      <Coords points="80,1902 80,1921 196,1913 374,1920 376,1920 378,1920 393,1912 667,1918 669,1918 1327,1907 1328,1896 1323,1874 79,1879 80,1902" />
+      <Word id="l_0042-w_0001" text="gebaute" error_score="0.969" error_type="error" />
+      <Word id="l_0042-w_0002" text="k." error_score="0.969" error_type="error" />
+      <Word id="l_0042-w_0003" text="Fr.," error_score="0.969" error_type="error" />
+      <Word id="l_0042-w_0004" text="CO.," error_score="0.969" error_type="error" />
+      <Word id="l_0042-w_0005" text="mit" error_score="0.969" error_type="error" />
+      <Word id="l_0042-w_0006" text="einer" error_score="0.969" error_type="error" />
+      <Word id="l_0042-w_0007" text="Rechtsakademie," error_score="0.136" />
+      <Word id="l_0042-w_0008" text="mit" error_score="0.136" />
+      <Word id="l_0042-w_0009" text="bedeutender" error_score="0.136" />
+      <Word id="l_0042-w_0010" text="und" error_score="0.136" />
+      <Word id="l_0042-w_0011" text="mannigfaltiger" error_score="0.136" />
+    </TextLine>
+    <TextLine id="l_0043" text="induſtrieller Thätigkeit, Landwirthſchaft und Viehʒucht; nach Budapeſt der bedeutendſte">
+      <Coords points="80,1940 80,1953 1330,1945 1330,1931 1327,1907 297,1905 295,1905 79,1915 80,1940" />
+      <Word id="l_0043-w_0001" text="induſtrieller" error_score="0.136" />
+      <Word id="l_0043-w_0002" text="Thätigkeit," error_score="0.136" />
+      <Word id="l_0043-w_0003" text="Landwirthſchaft" error_score="0.136" />
+      <Word id="l_0043-w_0004" text="und" error_score="0.136" />
+      <Word id="l_0043-w_0005" text="Viehʒucht;" error_score="0.136" />
+      <Word id="l_0043-w_0006" text="nach" error_score="0.447" />
+      <Word id="l_0043-w_0007" text="Budapeſt" error_score="0.447" />
+      <Word id="l_0043-w_0008" text="der" error_score="0.447" />
+      <Word id="l_0043-w_0009" text="bedeutendſte" error_score="0.447" />
+    </TextLine>
+    <TextLine id="l_0044" text="Handelsplatʒ Ungarus. — Bös2örmény, anſehnlicher Flecken, mit Viehʒucht und">
+      <Coords points="80,1973 80,1986 1325,1984 1327,1967 1323,1945 393,1940 392,1940 351,1948 90,1942 88,1942 86,1942 85,1942 79,1947 80,1973" />
+      <Word id="l_0044-w_0001" text="Handelsplatʒ" error_score="0.447" />
+      <Word id="l_0044-w_0002" text="Ungarus." error_score="0.447" />
+      <Word id="l_0044-w_0003" text="—" error_score="0.447" />
+      <Word id="l_0044-w_0004" text="Bös2örmény," error_score="0.447" />
+      <Word id="l_0044-w_0005" text="anſehnlicher" error_score="0.447" />
+      <Word id="l_0044-w_0006" text="Flecken," error_score="0.447" />
+      <Word id="l_0044-w_0007" text="mit" error_score="0.712" error_type="error" />
+      <Word id="l_0044-w_0008" text="Viehʒucht" error_score="0.712" error_type="error" />
+      <Word id="l_0044-w_0009" text="und" error_score="0.712" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0045" text="Salpeterſiedereien.">
+      <Coords points="80,2010 80,2021 351,2018 351,2007 346,1983 79,1984 80,2010" />
+      <Word id="l_0045-w_0001" text="Salpeterſiedereien." error_score="0.712" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0046" text="42. Jm Biharer⸗Comitate: Großwardein (ung. Nagy-Värad), a. d.">
+      <Coords points="180,2054 180,2064 371,2071 373,2071 374,2071 409,2062 1328,2059 1328,2046 1325,2022 192,2021 191,2021 189,2021 188,2021 178,2026 180,2054" />
+      <Word id="l_0046-w_0001" text="42." error_score="0.712" error_type="error" />
+      <Word id="l_0046-w_0002" text="Jm" error_score="0.712" error_type="error" />
+      <Word id="l_0046-w_0003" text="Biharer⸗Comitate:" error_score="0.712" error_type="error" />
+      <Word id="l_0046-w_0004" text="Großwardein" error_score="0.712" error_type="error" />
+      <Word id="l_0046-w_0005" text="(ung." error_score="0.712" error_type="error" />
+      <Word id="l_0046-w_0006" text="Nagy-Värad)," error_score="0.712" error_type="error" />
+      <Word id="l_0046-w_0007" text="a." error_score="0.982" error_type="error" />
+      <Word id="l_0046-w_0008" text="d." error_score="0.982" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0047" text="ſchnellen Körös, Rechtsakademie, k. Fr. und C0.">
+      <Coords points="384,2054 382,2054 381,2054 370,2062 340,2054 338,2054 336,2054 335,2054 333,2054 333,2056 325,2064 262,2064 237,2054 235,2054 234,2054 232,2054 230,2054 218,2064 124,2064 91,2054 90,2054 88,2054 86,2054 85,2054 77,2059 77,2087 77,2102 797,2102 797,2087 797,2060 784,2054 782,2054 781,2054 779,2054 735,2062 385,2054 384,2054" />
+      <Word id="l_0047-w_0001" text="ſchnellen" error_score="0.982" error_type="error" />
+      <Word id="l_0047-w_0002" text="Körös," error_score="0.982" error_type="error" />
+      <Word id="l_0047-w_0003" text="Rechtsakademie," error_score="0.982" error_type="error" />
+      <Word id="l_0047-w_0004" text="k." error_score="0.982" error_type="error" />
+      <Word id="l_0047-w_0005" text="Fr." error_score="0.982" error_type="error" />
+      <Word id="l_0047-w_0006" text="und" error_score="0.982" error_type="error" />
+      <Word id="l_0047-w_0007" text="C0." error_score="0.982" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0048" text="43. Jm Békéser⸗Comitate: Gyula, Flecken a. d. weißen Körös, C0.">
+      <Coords points="178,2132 178,2143 1325,2141 1327,2127 1325,2103 1312,2095 1311,2095 1309,2095 1308,2095 1263,2103 1195,2095 1194,2095 1154,2103 1110,2095 1108,2095 1039,2103 911,2097 909,2097 907,2097 906,2097 896,2105 857,2097 855,2097 794,2105 782,2097 781,2097 779,2097 778,2097 729,2105 708,2097 707,2097 705,2097 703,2097 702,2097 691,2106 599,2106 572,2097 571,2097 569,2097 567,2097 536,2106 510,2098 509,2098 507,2098 425,2106 316,2098 314,2098 313,2098 294,2106 251,2098 249,2098 248,2098 226,2106 197,2098 196,2098 194,2098 192,2098 191,2098 177,2106 178,2132" />
+      <Word id="l_0048-w_0001" text="43." error_score="0.982" error_type="error" />
+      <Word id="l_0048-w_0002" text="Jm" error_score="0.998" error_type="error" />
+      <Word id="l_0048-w_0003" text="Békéser⸗Comitate:" error_score="0.998" error_type="error" />
+      <Word id="l_0048-w_0004" text="Gyula," error_score="0.998" error_type="error" />
+      <Word id="l_0048-w_0005" text="Flecken" error_score="0.998" error_type="error" />
+      <Word id="l_0048-w_0006" text="a." error_score="0.998" error_type="error" />
+      <Word id="l_0048-w_0007" text="d." error_score="0.998" error_type="error" />
+      <Word id="l_0048-w_0008" text="weißen" error_score="0.998" error_type="error" />
+      <Word id="l_0048-w_0009" text="Körös," error_score="0.998" error_type="error" />
+      <Word id="l_0048-w_0010" text="C0." error_score="0.998" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0049" text="Osaba, das größte Dorf Europa's mit 30000 E.">
+      <Coords points="75,2168 75,2179 839,2181 843,2165 838,2139 74,2141 75,2168" />
+      <Word id="l_0049-w_0001" text="Osaba," error_score="0.998" error_type="error" />
+      <Word id="l_0049-w_0002" text="das" error_score="0.986" error_type="error" />
+      <Word id="l_0049-w_0003" text="größte" error_score="0.986" error_type="error" />
+      <Word id="l_0049-w_0004" text="Dorf" error_score="0.986" error_type="error" />
+      <Word id="l_0049-w_0005" text="Europa's" error_score="0.986" error_type="error" />
+      <Word id="l_0049-w_0006" text="mit" error_score="0.986" error_type="error" />
+      <Word id="l_0049-w_0007" text="30000" error_score="0.986" error_type="error" />
+      <Word id="l_0049-w_0008" text="E." error_score="0.986" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0050" text="44. Jm Cſongräder⸗Comitate: Sʒegedin (ung. Szegvar), a. d. Theiß">
+      <Coords points="177,2211 177,2223 1328,2222 1330,2206 1325,2179 1145,2182 1102,2174 1100,2174 1048,2182 1015,2174 1013,2174 1012,2174 1010,2174 1009,2174 999,2182 877,2176 876,2176 775,2184 752,2176 751,2176 749,2176 748,2176 746,2176 737,2185 659,2185 634,2176 632,2176 631,2176 590,2184 563,2176 561,2176 559,2176 558,2176 536,2185 447,2177 446,2177 368,2185 319,2177 317,2177 316,2177 294,2185 251,2177 249,2177 248,2177 224,2185 196,2177 194,2177 192,2177 191,2177 189,2177 175,2185 177,2211" />
+      <Word id="l_0050-w_0001" text="44." error_score="0.986" error_type="error" />
+      <Word id="l_0050-w_0002" text="Jm" error_score="0.986" error_type="error" />
+      <Word id="l_0050-w_0003" text="Cſongräder⸗Comitate:" error_score="0.986" error_type="error" />
+      <Word id="l_0050-w_0004" text="Sʒegedin" error_score="0.697" error_type="error" />
+      <Word id="l_0050-w_0005" text="(ung." error_score="0.697" error_type="error" />
+      <Word id="l_0050-w_0006" text="Szegvar)," error_score="0.697" error_type="error" />
+      <Word id="l_0050-w_0007" text="a." error_score="0.697" error_type="error" />
+      <Word id="l_0050-w_0008" text="d." error_score="0.697" error_type="error" />
+      <Word id="l_0050-w_0009" text="Theiß" error_score="0.697" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0051" text="und nahe der Marosmündung, die ʒweitgrößte Stadt Ungarns, k. Fr. u. CO. Soda⸗">
+      <Coords points="75,2245 75,2258 1327,2252 1328,2239 1325,2219 1024,2211 1023,2211 1021,2211 1020,2211 1009,2219 730,2212 729,2212 727,2212 697,2220 423,2214 422,2214 362,2222 121,2215 120,2215 74,2223 75,2245" />
+      <Word id="l_0051-w_0001" text="und" error_score="0.697" error_type="error" />
+      <Word id="l_0051-w_0002" text="nahe" error_score="0.697" error_type="error" />
+      <Word id="l_0051-w_0003" text="der" error_score="0.697" error_type="error" />
+      <Word id="l_0051-w_0004" text="Marosmündung," error_score="0.697" error_type="error" />
+      <Word id="l_0051-w_0005" text="die" error_score="0.356" />
+      <Word id="l_0051-w_0006" text="ʒweitgrößte" error_score="0.356" />
+      <Word id="l_0051-w_0007" text="Stadt" error_score="0.356" />
+      <Word id="l_0051-w_0008" text="Ungarns," error_score="0.356" />
+      <Word id="l_0051-w_0009" text="k." error_score="0.356" />
+      <Word id="l_0051-w_0010" text="Fr." error_score="0.356" />
+      <Word id="l_0051-w_0011" text="u." error_score="0.356" />
+      <Word id="l_0051-w_0012" text="CO." error_score="0.356" />
+      <Word id="l_0051-w_0013" text="Soda⸗" error_score="0.356" />
+    </TextLine>
+    <TextLine id="l_0052" text="ſiedereien und Jnduſtrie, Tabakbau und wichtiger Handel; Eiſenbahnbrücke über die">
+      <Coords points="74,2282 74,2294 1328,2290 1330,2274 1325,2250 72,2255 74,2282" />
+      <Word id="l_0052-w_0001" text="ſiedereien" error_score="0.356" />
+      <Word id="l_0052-w_0002" text="und" error_score="0.356" />
+      <Word id="l_0052-w_0003" text="Jnduſtrie," error_score="0.828" error_type="error" />
+      <Word id="l_0052-w_0004" text="Tabakbau" error_score="0.828" error_type="error" />
+      <Word id="l_0052-w_0005" text="und" error_score="0.828" error_type="error" />
+      <Word id="l_0052-w_0006" text="wichtiger" error_score="0.828" error_type="error" />
+      <Word id="l_0052-w_0007" text="Handel;" error_score="0.828" error_type="error" />
+      <Word id="l_0052-w_0008" text="Eiſenbahnbrücke" error_score="0.828" error_type="error" />
+      <Word id="l_0052-w_0009" text="über" error_score="0.828" error_type="error" />
+      <Word id="l_0052-w_0010" text="die" error_score="0.828" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0053" text="Theiß. H6d-Mezö-Vasärhely, an einem Theißſumpfe, k. Fr, Tabakbau und">
+      <Coords points="77,2317 77,2329 1327,2323 1328,2310 1325,2288 1015,2280 1013,2280 1012,2280 1010,2280 999,2288 811,2282 809,2282 75,2291 77,2317" />
+      <Word id="l_0053-w_0001" text="Theiß." error_score="0.828" error_type="error" />
+      <Word id="l_0053-w_0002" text="H6d-Mezö-Vasärhely," error_score="0.828" error_type="error" />
+      <Word id="l_0053-w_0003" text="an" error_score="1.000" error_type="error" />
+      <Word id="l_0053-w_0004" text="einem" error_score="1.000" error_type="error" />
+      <Word id="l_0053-w_0005" text="Theißſumpfe," error_score="1.000" error_type="error" />
+      <Word id="l_0053-w_0006" text="k." error_score="1.000" error_type="error" />
+      <Word id="l_0053-w_0007" text="Fr," error_score="1.000" error_type="error" />
+      <Word id="l_0053-w_0008" text="Tabakbau" error_score="1.000" error_type="error" />
+      <Word id="l_0053-w_0009" text="und" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0054" text="Viehhandel.">
+      <Coords points="75,2353 75,2367 254,2367 254,2353 254,2328 75,2328 75,2353" />
+      <Word id="l_0054-w_0001" text="Viehhandel." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0055" text="45. Jm Cſanader⸗Comitate: Makö, Flecken a. d. Maros, C0. Me-">
+      <Coords points="175,2396 175,2408 1328,2402 1330,2386 1327,2364 188,2364 186,2364 185,2364 183,2364 173,2369 175,2396" />
+      <Word id="l_0055-w_0001" text="45." error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0002" text="Jm" error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0003" text="Cſanader⸗Comitate:" error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0004" text="Makö," error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0005" text="Flecken" error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0006" text="a." error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0007" text="d." error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0008" text="Maros," error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0009" text="C0." error_score="1.000" error_type="error" />
+      <Word id="l_0055-w_0010" text="Me-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0056" text="zöhegyes, großes Aerarialgeſtüt.">
+      <Coords points="72,2432 72,2445 601,2443 602,2427 597,2404 71,2407 72,2432" />
+      <Word id="l_0056-w_0001" text="zöhegyes," error_score="1.000" error_type="error" />
+      <Word id="l_0056-w_0002" text="großes" error_score="1.000" error_type="error" />
+      <Word id="l_0056-w_0003" text="Aerarialgeſtüt." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+</Page>

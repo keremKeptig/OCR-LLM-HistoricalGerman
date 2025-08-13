@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740386922_00000265.bin.png" imageHeight="2850" imageWidth="1701" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="104,1868 112,1904 101,1936 88,1893 104,1868" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="106,2166 106,2183 101,2183 101,2166 106,2166" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="106,2197 106,2202 101,2202 101,2197 106,2197" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="106,2210 106,2221 101,2221 101,2210 106,2210" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="112,1773 112,1778 107,1778 107,1773 112,1773" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="106,2261 131,2406 112,2432 118,2664 95,2664 88,2512 106,2261" />
+    <TextLine id="l_0001" text="A">
+      <Coords points="120,2414 125,2405 101,2405 80,2405 82,2413 101,2414 120,2414" />
+      <Word id="l_0001-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0002" text="">
+      <Coords points="99,2346 98,2362 96,2378 101,2378 112,2376 115,2343 101,2343 99,2343 99,2346" />
+    </TextLine>
+    <TextLine id="l_0003" text="">
+      <Coords points="110,2501 109,2485 109,2470 109,2454 109,2438 114,2422 99,2424 79,2424 79,2504 101,2506 110,2503 110,2501" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="883,297 1042,304 1054,359 1094,373 1491,373 1586,399 1567,2367 1132,2386 1080,2424 304,2417 316,380 821,361 853,304 883,297" />
+    <TextLine id="l_0004" text="— 252 —">
+      <Coords points="1043,323 1034,311 920,300 918,300 917,300 915,300 915,302 904,313 853,313 853,332 853,340 907,340 915,346 915,348 917,348 918,348 920,348 1046,340 1046,332 1046,323 1043,323" />
+      <Word id="l_0004-w_0001" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0004-w_0002" text="252" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0004-w_0003" text="—" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0005" text="geschränkt oder durch Flüsse, deren Läuterungsbecken sie bilden,">
+      <Coords points="1571,395 1555,391 1541,386 1450,380 1449,380 1447,380 1425,387 1412,378 1411,378 1409,378 1407,378 1406,378 1384,386 1295,378 1293,378 1292,378 1262,386 1249,376 1248,376 1246,376 1244,376 1124,384 1073,375 1072,375 950,383 939,373 937,373 936,373 934,373 831,381 791,372 790,372 788,372 787,372 755,380 738,372 736,372 734,372 687,380 652,372 650,372 649,372 647,372 646,372 633,380 517,372 509,373 494,373 478,375 462,375 446,375 430,376 414,376 399,378 383,378 367,378 351,380 335,380 319,380 319,403 318,416 1572,429 1575,416 1574,395 1571,395" />
+      <Word id="l_0005-w_0001" text="geschränkt" error_score="0.000" />
+      <Word id="l_0005-w_0002" text="oder" error_score="0.000" />
+      <Word id="l_0005-w_0003" text="durch" error_score="0.000" />
+      <Word id="l_0005-w_0004" text="Flüsse," error_score="0.000" />
+      <Word id="l_0005-w_0005" text="deren" error_score="0.000" />
+      <Word id="l_0005-w_0006" text="Läuterungsbecken" error_score="0.000" />
+      <Word id="l_0005-w_0007" text="sie" error_score="0.000" />
+      <Word id="l_0005-w_0008" text="bilden," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0006" text="zugeschüttet. Oft zeigen nur Moore noch die Stelle an, wo sich">
+      <Coords points="319,454 318,465 509,476 511,476 818,471 858,479 860,479 1574,476 1575,465 1575,441 1563,432 1561,432 1560,432 1558,432 1396,441 1322,441 1308,430 1306,430 1305,430 1303,430 1200,438 1186,429 1184,429 1183,429 1181,429 1179,429 1143,438 1118,429 1116,429 1114,429 1113,429 1088,438 964,438 943,427 942,427 940,427 939,427 899,437 758,437 734,425 733,425 731,425 681,435 650,424 649,424 647,424 565,433 552,424 551,424 549,424 547,424 546,424 525,430 500,422 498,422 497,422 319,430 319,454" />
+      <Word id="l_0006-w_0001" text="zugeschüttet." error_score="0.000" />
+      <Word id="l_0006-w_0002" text="Oft" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="zeigen" error_score="0.000" />
+      <Word id="l_0006-w_0004" text="nur" error_score="0.000" />
+      <Word id="l_0006-w_0005" text="Moore" error_score="0.000" />
+      <Word id="l_0006-w_0006" text="noch" error_score="0.000" />
+      <Word id="l_0006-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0006-w_0008" text="Stelle" error_score="0.000" />
+      <Word id="l_0006-w_0009" text="an," error_score="0.000" />
+      <Word id="l_0006-w_0010" text="wo" error_score="0.000" />
+      <Word id="l_0006-w_0011" text="sich" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0007" text="einst grössere Seen ausbreiteten.">
+      <Coords points="321,505 319,516 932,527 936,514 934,490 833,479 831,479 747,487 643,487 630,476 628,476 627,476 625,476 624,476 589,484 489,475 487,475 424,482 411,473 410,473 408,473 407,473 321,479 321,505" />
+      <Word id="l_0007-w_0001" text="einst" error_score="0.000" />
+      <Word id="l_0007-w_0002" text="grössere" error_score="0.000" />
+      <Word id="l_0007-w_0003" text="Seen" error_score="0.000" />
+      <Word id="l_0007-w_0004" text="ausbreiteten." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="Zu dem Wasser des Festlandes gehören schliesslich noch">
+      <Coords points="424,560 422,570 1004,585 1005,585 1053,577 1070,585 1072,585 1211,587 1213,587 1214,587 1244,579 1254,587 1255,587 1257,587 1390,589 1392,589 1574,579 1575,570 1575,544 1561,535 1560,535 1558,535 1556,535 1555,535 1526,546 1450,546 1439,535 1438,535 1436,535 1434,535 1433,535 1419,543 1411,535 1409,535 1407,535 1406,535 1347,543 1335,533 1333,533 1331,533 1286,533 1284,533 1282,533 1281,533 1270,544 1194,544 1130,532 1129,532 1127,532 1100,543 1027,543 1000,530 999,530 997,530 996,530 967,539 948,530 947,530 945,530 896,539 860,530 858,530 856,530 855,530 853,530 842,541 810,541 793,528 791,528 790,528 788,528 787,528 766,539 666,539 614,527 612,527 611,527 590,538 547,538 533,527 532,527 530,527 528,527 527,527 498,536 424,530 424,560" />
+      <Word id="l_0008-w_0001" text="Zu" error_score="0.059" />
+      <Word id="l_0008-w_0002" text="dem" error_score="0.059" />
+      <Word id="l_0008-w_0003" text="Wasser" error_score="0.059" />
+      <Word id="l_0008-w_0004" text="des" error_score="0.059" />
+      <Word id="l_0008-w_0005" text="Festlandes" error_score="0.059" />
+      <Word id="l_0008-w_0006" text="gehören" error_score="0.059" />
+      <Word id="l_0008-w_0007" text="schliesslich" error_score="0.059" />
+      <Word id="l_0008-w_0008" text="noch" error_score="0.059" />
+    </TextLine>
+    <TextLine id="l_0009" text="Schnee und Eis. Unter der Schneegrenze eines Gebietes versteht">
+      <Coords points="319,611 318,622 666,625 674,633 674,634 676,634 677,634 679,634 1574,633 1575,622 1575,595 1564,587 1563,587 1561,587 1560,587 1398,596 1327,585 1325,585 1222,595 1164,584 1162,584 1160,584 1138,595 1038,595 942,593 928,582 926,582 924,582 923,582 921,582 902,590 880,582 879,582 877,582 875,582 874,582 863,592 814,581 812,581 810,581 785,590 677,579 676,579 674,579 654,589 609,579 608,579 505,589 395,587 384,577 383,577 381,577 380,577 319,582 319,611" />
+      <Word id="l_0009-w_0001" text="Schnee" error_score="0.000" />
+      <Word id="l_0009-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0009-w_0003" text="Eis." error_score="0.000" />
+      <Word id="l_0009-w_0004" text="Unter" error_score="0.000" />
+      <Word id="l_0009-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0009-w_0006" text="Schneegrenze" error_score="0.000" />
+      <Word id="l_0009-w_0007" text="eines" error_score="0.000" />
+      <Word id="l_0009-w_0008" text="Gebietes" error_score="0.000" />
+      <Word id="l_0009-w_0009" text="versteht" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0010" text="man die Linie, bis zu der der Schnee im Sommer liegen bleibt.">
+      <Coords points="319,663 318,674 700,687 701,687 842,680 858,688 860,688 861,688 1141,684 1214,691 1216,691 1571,685 1572,674 1572,650 1550,639 1548,639 1547,639 1360,647 1344,638 1343,638 1341,638 1339,638 1338,638 1306,649 1217,649 1167,636 1165,636 1164,636 1135,646 1086,636 1084,636 1083,636 1081,636 1067,646 989,646 977,634 975,634 974,634 972,634 801,642 787,633 785,633 783,633 782,633 679,642 658,631 657,631 655,631 579,641 567,631 565,631 563,631 562,631 560,631 540,639 500,630 498,630 497,630 495,630 476,639 457,630 456,630 454,630 452,630 411,639 319,639 319,663" />
+      <Word id="l_0010-w_0001" text="man" error_score="0.000" />
+      <Word id="l_0010-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="Linie," error_score="0.000" />
+      <Word id="l_0010-w_0004" text="bis" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="zu" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0010-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0010-w_0008" text="Schnee" error_score="0.000" />
+      <Word id="l_0010-w_0009" text="im" error_score="0.000" />
+      <Word id="l_0010-w_0010" text="Sommer" error_score="0.000" />
+      <Word id="l_0010-w_0011" text="liegen" error_score="0.000" />
+      <Word id="l_0010-w_0012" text="bleibt." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0011" text="In hohen Breiten geht die Schneegrenze oft bis an den Meeres-">
+      <Coords points="319,714 318,725 947,741 948,741 1571,737 1572,726 1571,704 1480,704 1463,693 1461,693 1460,693 1458,693 1384,701 1368,691 1366,691 1365,691 1363,691 1362,691 1339,703 1260,703 1225,690 1224,690 1222,690 1102,699 959,699 907,687 905,687 829,696 790,685 788,685 787,685 785,685 783,685 771,695 715,685 714,685 712,685 711,685 693,696 644,696 600,684 598,684 597,684 551,691 519,684 517,684 516,684 514,684 513,684 500,693 441,682 383,682 381,682 380,682 378,682 365,691 319,685 319,714" />
+      <Word id="l_0011-w_0001" text="In" error_score="0.000" />
+      <Word id="l_0011-w_0002" text="hohen" error_score="0.000" />
+      <Word id="l_0011-w_0003" text="Breiten" error_score="0.000" />
+      <Word id="l_0011-w_0004" text="geht" error_score="0.000" />
+      <Word id="l_0011-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0011-w_0006" text="Schneegrenze" error_score="0.000" />
+      <Word id="l_0011-w_0007" text="oft" error_score="0.000" />
+      <Word id="l_0011-w_0008" text="bis" error_score="0.000" />
+      <Word id="l_0011-w_0009" text="an" error_score="0.000" />
+      <Word id="l_0011-w_0010" text="den" error_score="0.000" />
+      <Word id="l_0011-w_0011" text="Meeres-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0012" text="spiegel hinab. Im allgemeinen ist die Schneegrenze von der Be-">
+      <Coords points="318,769 316,779 335,790 337,790 338,790 467,782 600,782 612,791 614,791 616,791 617,791 677,783 736,793 738,793 917,785 945,794 947,794 948,794 950,794 977,786 1004,794 1005,794 1007,794 1069,786 1191,796 1192,796 1333,788 1362,798 1363,798 1365,798 1406,790 1476,798 1477,798 1479,798 1480,798 1491,790 1571,790 1572,779 1572,755 1531,744 1529,744 1528,744 1526,744 1491,753 1444,744 1442,744 1441,744 1439,744 1422,753 1157,753 1127,741 1126,741 1124,741 1042,750 1008,741 1007,741 1005,741 1004,741 974,750 937,739 936,739 934,739 932,739 910,748 823,739 821,739 766,748 730,737 728,737 726,737 725,737 684,747 622,737 620,737 619,737 593,747 557,737 555,737 554,737 524,744 505,736 503,736 502,736 318,744 318,769" />
+      <Word id="l_0012-w_0001" text="spiegel" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="hinab." error_score="0.000" />
+      <Word id="l_0012-w_0003" text="Im" error_score="0.000" />
+      <Word id="l_0012-w_0004" text="allgemeinen" error_score="0.000" />
+      <Word id="l_0012-w_0005" text="ist" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="die" error_score="0.000" />
+      <Word id="l_0012-w_0007" text="Schneegrenze" error_score="0.000" />
+      <Word id="l_0012-w_0008" text="von" error_score="0.000" />
+      <Word id="l_0012-w_0009" text="der" error_score="0.000" />
+      <Word id="l_0012-w_0010" text="Be-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="sonnung sowie von der Menge der Niederschläge abhängig und wird">
+      <Coords points="318,820 316,832 1162,850 1164,850 1567,845 1569,829 1564,799 1428,807 1281,796 1279,796 1186,804 1145,794 1143,794 1141,794 1097,802 1031,794 1029,794 1027,794 1013,802 1004,793 1002,793 1000,793 999,793 863,801 757,791 755,791 719,799 707,790 706,790 704,790 703,790 586,798 574,788 573,788 571,788 570,788 525,796 318,796 318,820" />
+      <Word id="l_0013-w_0001" text="sonnung" error_score="0.000" />
+      <Word id="l_0013-w_0002" text="sowie" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="von" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="Menge" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="Niederschläge" error_score="0.000" />
+      <Word id="l_0013-w_0008" text="abhängig" error_score="0.000" />
+      <Word id="l_0013-w_0009" text="und" error_score="0.000" />
+      <Word id="l_0013-w_0010" text="wird" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="beeinflusst durch die Richtung des Gebirges gegen die herr-">
+      <Coords points="318,872 316,881 633,896 635,896 636,896 658,888 907,899 909,899 961,891 1013,900 1015,900 1059,891 1153,902 1154,902 1235,893 1252,904 1254,904 1255,904 1257,904 1567,894 1569,885 1567,862 1479,851 1477,851 1476,851 1439,861 1411,850 1409,850 1407,850 1406,850 1381,861 1276,861 1162,859 1146,848 1145,848 1143,848 1141,848 1100,855 1089,847 1088,847 1086,847 1084,847 1005,856 977,847 975,847 974,847 972,847 943,856 860,845 858,845 818,851 768,843 766,843 764,843 734,853 692,843 690,843 688,843 657,853 631,842 630,842 628,842 627,842 625,842 609,851 554,842 552,842 551,842 521,851 509,842 508,842 506,842 505,842 503,842 479,850 386,840 384,840 383,840 364,850 318,842 318,872" />
+      <Word id="l_0014-w_0001" text="beeinflusst" error_score="0.000" />
+      <Word id="l_0014-w_0002" text="durch" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="Richtung" error_score="0.000" />
+      <Word id="l_0014-w_0005" text="des" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="Gebirges" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="gegen" error_score="0.000" />
+      <Word id="l_0014-w_0008" text="die" error_score="0.000" />
+      <Word id="l_0014-w_0009" text="herr-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="schenden Winde, die Steilheit der Böschungen, die Gesteinsbe-">
+      <Coords points="316,923 315,935 326,943 327,943 329,943 331,943 931,943 940,951 942,951 943,951 945,951 1274,948 1442,957 1444,957 1567,950 1569,934 1566,913 1507,904 1506,904 1504,904 1503,904 1487,913 1461,904 1460,904 1458,904 1457,904 1455,904 1444,912 1433,904 1431,904 1430,904 1428,904 1427,904 1401,912 1369,902 1368,902 1366,902 1365,902 1325,912 1312,900 1311,900 1309,900 1308,900 1306,900 1270,910 1129,910 1116,899 1114,899 1113,899 1111,899 1110,899 1076,908 1045,897 1043,897 1042,897 972,907 959,897 958,897 956,897 955,897 910,905 890,896 888,896 886,896 885,896 858,905 820,894 818,894 817,894 815,894 814,894 799,904 760,894 758,894 757,894 755,894 720,904 693,893 692,893 690,893 622,902 606,893 605,893 603,893 601,893 600,893 581,902 568,891 567,891 565,891 563,891 460,900 443,889 441,889 440,889 438,889 437,889 418,899 367,889 365,889 316,897 316,923" />
+      <Word id="l_0015-w_0001" text="schenden" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="Winde," error_score="0.000" />
+      <Word id="l_0015-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="Steilheit" error_score="0.000" />
+      <Word id="l_0015-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="Böschungen," error_score="0.000" />
+      <Word id="l_0015-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0015-w_0008" text="Gesteinsbe-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="schaffenheit und die Schwankungen des Klimas.">
+      <Coords points="316,976 315,988 495,999 497,999 554,992 840,1003 842,1003 1227,1000 1229,988 1227,964 1097,951 1095,951 1094,951 1092,951 1078,961 1031,951 1029,951 1027,951 1007,961 880,959 872,951 872,950 871,950 869,950 867,950 785,957 774,948 772,948 771,948 722,948 720,948 719,948 717,948 706,957 679,946 677,946 676,946 631,956 612,946 611,946 609,946 608,946 606,946 593,956 509,945 508,945 506,945 486,954 478,946 478,945 476,945 475,945 473,945 471,945 441,953 430,943 429,943 427,943 426,943 316,951 316,976" />
+      <Word id="l_0016-w_0001" text="schaffenheit" error_score="0.000" />
+      <Word id="l_0016-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="Schwankungen" error_score="0.000" />
+      <Word id="l_0016-w_0005" text="des" error_score="0.000" />
+      <Word id="l_0016-w_0006" text="Klimas." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="Entfernt werden die im Gebirge angehäuften Schneemassen">
+      <Coords points="419,1032 418,1043 761,1046 806,1056 807,1056 1305,1052 1377,1060 1379,1060 1569,1052 1571,1041 1569,1018 1382,1018 1366,1007 1365,1007 1363,1007 1362,1007 1251,1014 1187,1005 1186,1005 1002,1013 988,1003 986,1003 985,1003 983,1003 866,1011 840,1003 839,1003 837,1003 836,1003 812,1011 801,1002 799,1002 798,1002 796,1002 619,1010 573,1000 571,1000 419,1000 419,1032" />
+      <Word id="l_0017-w_0001" text="Entfernt" error_score="0.089" />
+      <Word id="l_0017-w_0002" text="werden" error_score="0.089" />
+      <Word id="l_0017-w_0003" text="die" error_score="0.089" />
+      <Word id="l_0017-w_0004" text="im" error_score="0.089" />
+      <Word id="l_0017-w_0005" text="Gebirge" error_score="0.089" />
+      <Word id="l_0017-w_0006" text="angehäuften" error_score="0.089" />
+      <Word id="l_0017-w_0007" text="Schneemassen" error_score="0.089" />
+    </TextLine>
+    <TextLine id="l_0018" text="durch Auftauen, durch die Lawinen und durch die Gletscher.">
+      <Coords points="315,1081 313,1094 1480,1106 1484,1094 1484,1070 1422,1060 1420,1060 1350,1067 1341,1059 1339,1059 1338,1059 1336,1059 1205,1067 1195,1059 1195,1057 1194,1057 1192,1057 1191,1057 1091,1065 1069,1057 1067,1057 1065,1057 1064,1057 1046,1065 937,1065 928,1056 926,1056 924,1056 923,1056 880,1062 860,1054 858,1054 856,1054 855,1054 823,1062 772,1054 771,1054 769,1054 753,1062 733,1052 731,1052 730,1052 728,1052 704,1060 662,1052 660,1052 658,1052 636,1060 530,1060 521,1051 519,1051 517,1051 516,1051 514,1051 484,1059 462,1049 460,1049 459,1049 457,1049 441,1057 416,1049 414,1049 413,1049 315,1056 315,1081" />
+      <Word id="l_0018-w_0001" text="durch" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="Auftauen," error_score="0.000" />
+      <Word id="l_0018-w_0003" text="durch" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="die" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="Lawinen" error_score="0.000" />
+      <Word id="l_0018-w_0006" text="und" error_score="0.000" />
+      <Word id="l_0018-w_0007" text="durch" error_score="0.000" />
+      <Word id="l_0018-w_0008" text="die" error_score="0.000" />
+      <Word id="l_0018-w_0009" text="Gletscher." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Die winterlichen Staublawinen haben ein lockeres Gefüge,">
+      <Coords points="419,1138 418,1147 1564,1163 1567,1149 1566,1124 1504,1113 1503,1113 1501,1113 1471,1122 1457,1113 1455,1113 1453,1113 1452,1113 1450,1113 1420,1122 1336,1122 1322,1111 1320,1111 1319,1111 1317,1111 1316,1111 1289,1121 1263,1111 1262,1111 1260,1111 1259,1111 1240,1121 1208,1109 1206,1109 1205,1109 1203,1109 1178,1121 1105,1121 1051,1108 1050,1108 1048,1108 1024,1119 966,1119 945,1108 943,1108 942,1108 898,1116 883,1106 882,1106 880,1106 879,1106 823,1116 801,1106 799,1106 798,1106 703,1114 690,1105 688,1105 687,1105 685,1105 579,1113 559,1103 557,1103 555,1103 484,1113 432,1103 430,1103 429,1103 427,1103 419,1108 419,1138" />
+      <Word id="l_0019-w_0001" text="Die" error_score="1.000" error_type="merge" />
+      <Word id="l_0019-w_0002" text="winterlichen" error_score="1.000" error_type="merge" />
+      <Word id="l_0019-w_0003" text="Staublawinen" error_score="1.000" error_type="merge" />
+      <Word id="l_0019-w_0004" text="haben" error_score="1.000" error_type="merge" />
+      <Word id="l_0019-w_0005" text="ein" error_score="1.000" error_type="merge" />
+      <Word id="l_0019-w_0006" text="lockeres" error_score="1.000" error_type="merge" />
+      <Word id="l_0019-w_0007" text="Gefüge," error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0020" text="während die im Frühling niedergehenden Grundlawinen ganze Schnee-">
+      <Coords points="315,1189 313,1200 1566,1211 1569,1200 1569,1174 1487,1173 1476,1163 1474,1163 1472,1163 1471,1163 1469,1163 1452,1171 1427,1163 1425,1163 1423,1163 1422,1163 1420,1163 1407,1173 1249,1173 1236,1162 1235,1162 1233,1162 1232,1162 1230,1162 1210,1171 1173,1160 1172,1160 1170,1160 1092,1170 1056,1160 1054,1160 1053,1160 1051,1160 1032,1170 996,1159 994,1159 993,1159 856,1168 839,1157 837,1157 836,1157 834,1157 833,1157 809,1166 788,1157 787,1157 785,1157 726,1166 673,1155 671,1155 568,1163 551,1155 549,1155 547,1155 546,1155 544,1155 532,1165 519,1155 517,1155 516,1155 514,1155 427,1163 357,1154 356,1154 315,1162 315,1189" />
+      <Word id="l_0020-w_0001" text="während" error_score="0.000" />
+      <Word id="l_0020-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0020-w_0003" text="im" error_score="0.000" />
+      <Word id="l_0020-w_0004" text="Frühling" error_score="0.000" />
+      <Word id="l_0020-w_0005" text="niedergehenden" error_score="0.000" />
+      <Word id="l_0020-w_0006" text="Grundlawinen" error_score="0.000" />
+      <Word id="l_0020-w_0007" text="ganze" error_score="0.000" />
+      <Word id="l_0020-w_0008" text="Schnee-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="decken steiler Abhänge zu Tal wälzen. Noch mehr Schaden als">
+      <Coords points="313,1239 312,1250 494,1261 495,1263 1567,1263 1569,1250 1569,1227 1534,1217 1533,1217 1531,1217 1453,1225 1433,1217 1431,1217 1430,1217 1428,1217 1403,1225 1393,1216 1392,1216 1390,1216 1388,1216 1213,1223 1184,1214 1183,1214 1181,1214 1179,1214 1159,1222 1103,1214 1102,1214 1032,1222 999,1212 997,1212 996,1212 703,1219 665,1209 663,1209 662,1209 595,1217 492,1208 490,1208 489,1208 470,1216 394,1208 392,1208 313,1214 313,1239" />
+      <Word id="l_0021-w_0001" text="decken" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="steiler" error_score="0.000" />
+      <Word id="l_0021-w_0003" text="Abhänge" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="zu" error_score="0.000" />
+      <Word id="l_0021-w_0005" text="Tal" error_score="0.000" />
+      <Word id="l_0021-w_0006" text="wälzen." error_score="0.000" />
+      <Word id="l_0021-w_0007" text="Noch" error_score="0.000" />
+      <Word id="l_0021-w_0008" text="mehr" error_score="0.000" />
+      <Word id="l_0021-w_0009" text="Schaden" error_score="0.000" />
+      <Word id="l_0021-w_0010" text="als" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="durch ihren Sturz und die mitgeführten Schuttmassen verursachen">
+      <Coords points="313,1292 312,1303 1566,1315 1569,1304 1567,1280 1512,1271 1510,1271 1509,1271 1480,1279 1229,1277 1195,1268 1194,1268 1192,1268 1145,1274 1097,1266 1095,1266 1038,1274 940,1265 939,1265 807,1273 785,1263 783,1263 782,1263 780,1263 755,1271 739,1263 738,1263 736,1263 630,1271 584,1261 582,1261 497,1269 470,1260 468,1260 467,1260 313,1266 313,1292" />
+      <Word id="l_0022-w_0001" text="durch" error_score="0.000" />
+      <Word id="l_0022-w_0002" text="ihren" error_score="0.000" />
+      <Word id="l_0022-w_0003" text="Sturz" error_score="0.000" />
+      <Word id="l_0022-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0022-w_0006" text="mitgeführten" error_score="0.000" />
+      <Word id="l_0022-w_0007" text="Schuttmassen" error_score="0.000" />
+      <Word id="l_0022-w_0008" text="verursachen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="die Lawinen durch den Windstoss, der auf weite Strecken Gebäude">
+      <Coords points="313,1342 312,1355 1566,1368 1569,1355 1569,1331 1544,1322 1542,1322 1541,1322 1539,1322 1517,1330 1466,1322 1465,1322 1463,1322 1449,1330 1433,1322 1431,1322 1430,1322 1352,1328 1341,1320 1339,1320 1338,1320 1336,1320 1274,1328 1255,1318 1254,1318 1252,1318 1119,1326 1099,1317 1097,1317 1095,1317 942,1325 837,1315 836,1315 834,1315 815,1323 785,1314 783,1314 782,1314 742,1322 693,1314 692,1314 598,1320 579,1312 578,1312 576,1312 574,1312 554,1320 410,1311 408,1311 313,1317 313,1342" />
+      <Word id="l_0023-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="Lawinen" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="durch" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="den" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="Windstoss," error_score="0.000" />
+      <Word id="l_0023-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0023-w_0007" text="auf" error_score="0.000" />
+      <Word id="l_0023-w_0008" text="weite" error_score="0.000" />
+      <Word id="l_0023-w_0009" text="Strecken" error_score="0.000" />
+      <Word id="l_0023-w_0010" text="Gebäude" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="und Bäume niederreisst.">
+      <Coords points="312,1398 310,1407 771,1413 774,1402 772,1377 698,1368 696,1368 641,1375 620,1366 619,1366 617,1366 616,1366 600,1374 574,1366 573,1366 571,1366 475,1374 451,1364 449,1364 448,1364 312,1371 312,1398" />
+      <Word id="l_0024-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0024-w_0002" text="Bäume" error_score="0.000" />
+      <Word id="l_0024-w_0003" text="niederreisst." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="Uber der Schneegrenze verwandeln sich durch Schmelzen">
+      <Coords points="414,1450 413,1461 427,1470 429,1470 430,1470 432,1472 503,1472 503,1470 505,1470 506,1470 516,1463 622,1463 639,1472 641,1472 643,1472 1566,1470 1567,1459 1566,1436 1501,1426 1499,1426 1436,1434 1415,1426 1414,1426 1412,1426 1411,1426 1409,1426 1400,1434 1331,1425 1330,1425 1211,1432 1170,1423 1168,1423 1167,1423 1165,1423 1141,1431 1037,1423 1035,1423 1034,1423 1002,1431 414,1420 414,1450" />
+      <Word id="l_0025-w_0001" text="Uber" error_score="0.001" />
+      <Word id="l_0025-w_0002" text="der" error_score="0.001" />
+      <Word id="l_0025-w_0003" text="Schneegrenze" error_score="0.001" />
+      <Word id="l_0025-w_0004" text="verwandeln" error_score="0.001" />
+      <Word id="l_0025-w_0005" text="sich" error_score="0.001" />
+      <Word id="l_0025-w_0006" text="durch" error_score="0.001" />
+      <Word id="l_0025-w_0007" text="Schmelzen" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0026" text="und Gefrieren die Schneemassen in grobkörnige Firnmassen, die">
+      <Coords points="308,1512 486,1523 487,1523 1005,1521 1016,1529 1018,1529 1019,1529 1021,1529 1566,1526 1567,1515 1567,1491 1547,1480 1545,1480 1544,1480 1428,1489 1320,1489 1289,1477 1287,1477 1286,1477 1284,1477 1252,1486 1195,1477 1194,1477 1154,1485 1143,1475 1141,1475 1140,1475 1138,1475 1010,1485 974,1474 972,1474 970,1474 969,1474 945,1485 872,1485 744,1482 731,1470 730,1470 728,1470 726,1470 647,1480 614,1470 612,1470 611,1470 609,1470 590,1480 513,1480 495,1469 494,1469 492,1469 490,1469 446,1475 435,1467 433,1467 432,1467 430,1467 340,1477 312,1466 310,1501 308,1512" />
+      <Word id="l_0026-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="Gefrieren" error_score="0.000" />
+      <Word id="l_0026-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0026-w_0004" text="Schneemassen" error_score="0.000" />
+      <Word id="l_0026-w_0005" text="in" error_score="0.000" />
+      <Word id="l_0026-w_0006" text="grobkörnige" error_score="0.000" />
+      <Word id="l_0026-w_0007" text="Firnmassen," error_score="0.000" />
+      <Word id="l_0026-w_0008" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="sich in den kreisförmig erweiterten, obersten Teilen der Täler an-">
+      <Coords points="308,1554 307,1565 1560,1578 1563,1567 1563,1542 1406,1531 1404,1531 1260,1539 1248,1529 1246,1529 1244,1529 1243,1529 1132,1537 1040,1527 1038,1527 950,1535 928,1526 926,1526 924,1526 923,1526 901,1534 879,1526 877,1526 875,1526 874,1526 839,1534 728,1524 726,1524 627,1531 619,1524 619,1523 617,1523 616,1523 614,1523 612,1523 589,1531 560,1523 559,1523 557,1523 437,1529 421,1521 419,1521 418,1521 308,1527 308,1554" />
+      <Word id="l_0027-w_0001" text="sich" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="in" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="den" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="kreisförmig" error_score="0.000" />
+      <Word id="l_0027-w_0005" text="erweiterten," error_score="0.000" />
+      <Word id="l_0027-w_0006" text="obersten" error_score="0.000" />
+      <Word id="l_0027-w_0007" text="Teilen" error_score="0.000" />
+      <Word id="l_0027-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0027-w_0009" text="Täler" error_score="0.000" />
+      <Word id="l_0027-w_0010" text="an-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="häufen (Zirkustäler). Durch den Druck der höhern auf die untern">
+      <Coords points="310,1607 308,1618 1563,1630 1566,1619 1564,1594 1493,1584 1491,1584 1490,1584 1488,1584 1477,1594 1411,1594 1396,1583 1395,1583 1393,1583 1392,1583 1257,1591 1192,1581 1191,1581 1097,1589 1084,1580 1083,1580 1081,1580 1080,1580 993,1588 937,1578 936,1578 817,1586 733,1577 731,1577 730,1577 698,1584 669,1577 668,1577 666,1577 665,1577 643,1584 624,1575 622,1575 620,1575 568,1583 530,1575 528,1575 310,1577 310,1607" />
+      <Word id="l_0028-w_0001" text="häufen" error_score="0.000" />
+      <Word id="l_0028-w_0002" text="(Zirkustäler)." error_score="0.000" />
+      <Word id="l_0028-w_0003" text="Durch" error_score="0.000" />
+      <Word id="l_0028-w_0004" text="den" error_score="0.000" />
+      <Word id="l_0028-w_0005" text="Druck" error_score="0.000" />
+      <Word id="l_0028-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0028-w_0007" text="höhern" error_score="0.000" />
+      <Word id="l_0028-w_0008" text="auf" error_score="0.000" />
+      <Word id="l_0028-w_0009" text="die" error_score="0.000" />
+      <Word id="l_0028-w_0010" text="untern" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0029" text="Schichten, sowie durch beständiges Auftauen und Wiedergefrieren">
+      <Coords points="308,1657 307,1668 364,1678 365,1678 996,1678 1191,1687 1192,1687 1281,1681 1425,1691 1427,1691 1563,1683 1564,1672 1563,1646 1476,1637 1474,1637 1379,1643 1368,1635 1366,1635 1365,1635 1363,1635 1362,1635 1333,1643 1286,1634 1284,1634 1282,1634 1262,1641 1240,1634 1238,1634 1236,1634 1235,1634 1233,1634 1222,1643 1146,1643 1007,1630 1005,1630 943,1638 896,1630 894,1630 893,1630 891,1630 882,1638 860,1629 858,1629 856,1629 814,1637 782,1629 780,1629 779,1629 777,1629 758,1637 669,1627 668,1627 666,1627 643,1635 600,1627 598,1627 456,1634 445,1624 443,1624 441,1624 440,1624 308,1629 308,1657" />
+      <Word id="l_0029-w_0001" text="Schichten," error_score="0.000" />
+      <Word id="l_0029-w_0002" text="sowie" error_score="0.000" />
+      <Word id="l_0029-w_0003" text="durch" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="beständiges" error_score="0.000" />
+      <Word id="l_0029-w_0005" text="Auftauen" error_score="0.000" />
+      <Word id="l_0029-w_0006" text="und" error_score="0.000" />
+      <Word id="l_0029-w_0007" text="Wiedergefrieren" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="verwandelt sich der Firnschnee in Gletschereis und es entsteht der">
+      <Coords points="312,1710 310,1721 1561,1735 1564,1724 1563,1698 1444,1691 1442,1691 1441,1691 1439,1691 1428,1698 1384,1689 1382,1689 1287,1697 1271,1687 1270,1687 1268,1687 1267,1687 1116,1694 1092,1686 1091,1686 1089,1686 1051,1694 1010,1684 1008,1684 1007,1684 872,1692 825,1683 823,1683 753,1691 730,1681 728,1681 726,1681 606,1689 593,1679 592,1679 590,1679 589,1679 536,1687 508,1679 506,1679 505,1679 312,1684 312,1710" />
+      <Word id="l_0030-w_0001" text="verwandelt" error_score="0.000" />
+      <Word id="l_0030-w_0002" text="sich" error_score="0.000" />
+      <Word id="l_0030-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0030-w_0004" text="Firnschnee" error_score="0.000" />
+      <Word id="l_0030-w_0005" text="in" error_score="0.000" />
+      <Word id="l_0030-w_0006" text="Gletschereis" error_score="0.000" />
+      <Word id="l_0030-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0030-w_0008" text="es" error_score="0.000" />
+      <Word id="l_0030-w_0009" text="entsteht" error_score="0.000" />
+      <Word id="l_0030-w_0010" text="der" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0031" text="Eisstrom oder Gletscher, der dem Zug der Schwerkraft folgend langsam">
+      <Coords points="310,1763 308,1776 1561,1789 1564,1776 1563,1751 1433,1751 1400,1740 1398,1740 1396,1740 1395,1740 1393,1740 1381,1748 1281,1740 1279,1740 1278,1740 1263,1748 1252,1738 1251,1738 1249,1738 1248,1738 1246,1738 1227,1746 1175,1738 1173,1738 1111,1746 1095,1736 1094,1736 1092,1736 1091,1736 950,1744 936,1735 934,1735 932,1735 931,1735 793,1743 780,1733 779,1733 777,1733 776,1733 649,1741 614,1732 612,1732 611,1732 468,1740 310,1732 310,1763" />
+      <Word id="l_0031-w_0001" text="Eisstrom" error_score="0.000" />
+      <Word id="l_0031-w_0002" text="oder" error_score="0.000" />
+      <Word id="l_0031-w_0003" text="Gletscher," error_score="0.000" />
+      <Word id="l_0031-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0031-w_0005" text="dem" error_score="0.000" />
+      <Word id="l_0031-w_0006" text="Zug" error_score="0.000" />
+      <Word id="l_0031-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0031-w_0008" text="Schwerkraft" error_score="0.000" />
+      <Word id="l_0031-w_0009" text="folgend" error_score="0.000" />
+      <Word id="l_0031-w_0010" text="langsam" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0032" text="in die Tiefe fliesst. Begleitet werden die Gletscher beständig durch die">
+      <Coords points="308,1816 307,1827 1561,1841 1564,1830 1563,1803 1469,1793 1468,1793 1427,1801 1407,1792 1406,1792 1404,1792 1403,1792 1385,1800 1355,1792 1354,1792 1352,1792 1230,1798 1219,1790 1217,1790 1216,1790 1214,1790 1164,1798 1148,1789 1146,1789 1145,1789 1143,1789 1141,1789 1140,1789 1127,1797 1038,1789 1037,1789 1035,1789 1015,1797 1004,1787 1002,1787 1000,1787 999,1787 997,1787 962,1795 912,1787 910,1787 909,1787 891,1795 807,1787 806,1787 804,1787 785,1793 726,1784 725,1784 723,1784 706,1792 658,1784 657,1784 592,1792 492,1782 490,1782 489,1782 473,1790 449,1781 448,1781 446,1781 308,1787 308,1816" />
+      <Word id="l_0032-w_0001" text="in" error_score="0.000" />
+      <Word id="l_0032-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0032-w_0003" text="Tiefe" error_score="0.000" />
+      <Word id="l_0032-w_0004" text="fliesst." error_score="0.000" />
+      <Word id="l_0032-w_0005" text="Begleitet" error_score="0.000" />
+      <Word id="l_0032-w_0006" text="werden" error_score="0.000" />
+      <Word id="l_0032-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0032-w_0008" text="Gletscher" error_score="0.000" />
+      <Word id="l_0032-w_0009" text="beständig" error_score="0.000" />
+      <Word id="l_0032-w_0010" text="durch" error_score="0.000" />
+      <Word id="l_0032-w_0011" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0033" text="Moränen, d. i. Gesteinstrümmer, die durch Abwetzen, Ausschürfen und">
+      <Coords points="308,1869 307,1882 1558,1895 1561,1882 1558,1849 1449,1855 1428,1847 1427,1847 1425,1847 1423,1847 1406,1855 1371,1846 1369,1846 1368,1846 1287,1854 1270,1846 1268,1846 1267,1846 1265,1846 1248,1854 1167,1844 1165,1844 1111,1852 1092,1843 1091,1843 1089,1843 993,1850 958,1843 956,1843 955,1843 953,1843 951,1843 939,1850 899,1841 898,1841 896,1841 894,1841 893,1841 882,1850 798,1850 761,1839 760,1839 758,1839 692,1847 592,1838 590,1838 464,1846 308,1836 308,1869" />
+      <Word id="l_0033-w_0001" text="Moränen," error_score="0.000" />
+      <Word id="l_0033-w_0002" text="d." error_score="0.000" />
+      <Word id="l_0033-w_0003" text="i." error_score="0.000" />
+      <Word id="l_0033-w_0004" text="Gesteinstrümmer," error_score="0.000" />
+      <Word id="l_0033-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0033-w_0006" text="durch" error_score="0.000" />
+      <Word id="l_0033-w_0007" text="Abwetzen," error_score="0.000" />
+      <Word id="l_0033-w_0008" text="Ausschürfen" error_score="0.000" />
+      <Word id="l_0033-w_0009" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="Abrollen von den Seitenwänden auf den Gletscher oder in seine">
+      <Coords points="307,1922 305,1931 864,1945 866,1945 1107,1941 1145,1949 1146,1949 1400,1944 1420,1952 1422,1952 1423,1952 1560,1944 1561,1936 1560,1911 1501,1901 1499,1901 1434,1909 1423,1900 1422,1900 1420,1900 1419,1900 1417,1900 1398,1907 1336,1900 1335,1900 1282,1907 1217,1898 1216,1898 1214,1898 1195,1906 1141,1896 1140,1896 1062,1904 1004,1895 1002,1895 962,1903 864,1893 863,1893 782,1901 723,1892 722,1892 658,1900 611,1892 609,1892 465,1898 429,1888 427,1888 426,1888 307,1895 307,1922" />
+      <Word id="l_0034-w_0001" text="Abrollen" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="den" error_score="0.000" />
+      <Word id="l_0034-w_0004" text="Seitenwänden" error_score="0.000" />
+      <Word id="l_0034-w_0005" text="auf" error_score="0.000" />
+      <Word id="l_0034-w_0006" text="den" error_score="0.000" />
+      <Word id="l_0034-w_0007" text="Gletscher" error_score="0.000" />
+      <Word id="l_0034-w_0008" text="oder" error_score="0.000" />
+      <Word id="l_0034-w_0009" text="in" error_score="0.000" />
+      <Word id="l_0034-w_0010" text="seine" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="Spalten gelangen. Als Rand- und Mittelmoränen bilden sie lang-">
+      <Coords points="305,1974 304,1985 316,1993 318,1993 319,1993 321,1993 454,1988 584,1996 586,1996 860,1991 890,1999 891,1999 893,1999 970,1993 1153,2002 1154,2002 1255,1996 1281,2004 1282,2004 1284,2004 1390,1998 1419,2006 1420,2006 1422,2006 1558,1998 1560,1988 1558,1963 1488,1963 1474,1952 1472,1952 1471,1952 1469,1952 1468,1952 1439,1961 1422,1950 1420,1950 1419,1950 1417,1950 1415,1950 1414,1950 1396,1961 1341,1961 1270,1949 1268,1949 1267,1949 1246,1960 1191,1960 1000,1945 999,1945 962,1953 943,1945 942,1945 940,1945 939,1945 937,1945 924,1957 863,1957 839,1944 837,1944 836,1944 793,1953 753,1944 752,1944 750,1944 749,1944 726,1953 712,1942 711,1942 709,1942 707,1942 662,1952 540,1952 525,1941 524,1941 522,1941 521,1941 519,1941 492,1950 392,1939 391,1939 389,1939 362,1949 335,1939 334,1939 332,1939 331,1939 305,1945 305,1974" />
+      <Word id="l_0035-w_0001" text="Spalten" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="gelangen." error_score="0.000" />
+      <Word id="l_0035-w_0003" text="Als" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="Rand-" error_score="0.000" />
+      <Word id="l_0035-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0035-w_0006" text="Mittelmoränen" error_score="0.000" />
+      <Word id="l_0035-w_0007" text="bilden" error_score="0.000" />
+      <Word id="l_0035-w_0008" text="sie" error_score="0.000" />
+      <Word id="l_0035-w_0009" text="lang-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="gezogne Bänder, als Grundmoränen regellose Anhäufungen von">
+      <Coords points="305,2029 304,2044 1029,2045 1067,2055 1069,2055 1208,2048 1219,2056 1221,2056 1222,2056 1357,2058 1358,2058 1558,2050 1560,2039 1560,2017 1371,2015 1347,2002 1346,2002 1344,2002 1343,2002 1341,2002 1328,2010 1232,2002 1230,2002 1229,2002 1227,2002 1213,2014 1156,2014 1138,2001 1137,2001 1135,2001 1134,2001 961,2010 929,1999 928,1999 926,1999 804,2007 741,1999 739,1999 738,1999 736,1999 720,2009 677,1998 676,1998 674,1998 673,1998 652,2009 597,2009 582,1998 581,1998 579,1998 509,1996 508,1996 506,1996 471,2007 305,2007 305,2029" />
+      <Word id="l_0036-w_0001" text="gezogne" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="Bänder," error_score="0.000" />
+      <Word id="l_0036-w_0003" text="als" error_score="0.000" />
+      <Word id="l_0036-w_0004" text="Grundmoränen" error_score="0.000" />
+      <Word id="l_0036-w_0005" text="regellose" error_score="0.000" />
+      <Word id="l_0036-w_0006" text="Anhäufungen" error_score="0.000" />
+      <Word id="l_0036-w_0007" text="von" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="Gesteinstrümmern. Wo der Gletscher abschmilzt, häufen Ober-">
+      <Coords points="304,2080 302,2090 319,2099 321,2099 323,2099 774,2096 1404,2110 1406,2110 1561,2102 1563,2093 1563,2067 1463,2056 1461,2056 1460,2056 1458,2056 1446,2067 1407,2067 1388,2055 1387,2055 1385,2055 1384,2055 1382,2055 1357,2064 1309,2055 1308,2055 1306,2055 1267,2064 1227,2053 1225,2053 1224,2053 1172,2061 1149,2053 1148,2053 1146,2053 1145,2053 1126,2063 1102,2053 1100,2053 1099,2053 1005,2061 986,2052 985,2052 983,2052 981,2052 959,2061 910,2050 909,2050 860,2059 804,2050 802,2050 752,2058 731,2048 730,2048 728,2048 676,2058 509,2048 508,2048 506,2048 484,2055 475,2047 473,2047 471,2047 470,2047 468,2047 445,2055 426,2045 424,2045 422,2045 356,2055 323,2045 321,2045 319,2045 318,2045 316,2045 304,2053 304,2080" />
+      <Word id="l_0037-w_0001" text="Gesteinstrümmern." error_score="0.000" />
+      <Word id="l_0037-w_0002" text="Wo" error_score="0.000" />
+      <Word id="l_0037-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0037-w_0004" text="Gletscher" error_score="0.000" />
+      <Word id="l_0037-w_0005" text="abschmilzt," error_score="0.000" />
+      <Word id="l_0037-w_0006" text="häufen" error_score="0.000" />
+      <Word id="l_0037-w_0007" text="Ober-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="flächenmoränen und Grundmoräne ihre Schuttmassen als End-oder">
+      <Coords points="304,2132 302,2145 1558,2156 1561,2143 1561,2120 1515,2109 1514,2109 1406,2116 1377,2107 1376,2107 1374,2107 1373,2107 1371,2107 1360,2115 1324,2107 1322,2107 1320,2107 1319,2107 1308,2116 1200,2116 1129,2105 1127,2105 1126,2105 1108,2113 1089,2105 1088,2105 1086,2105 986,2112 975,2104 974,2104 972,2104 970,2104 853,2112 801,2102 799,2102 728,2110 660,2101 658,2101 657,2101 655,2101 644,2109 519,2101 517,2101 399,2107 386,2099 384,2099 383,2099 381,2099 304,2105 304,2132" />
+      <Word id="l_0038-w_0001" text="flächenmoränen" error_score="0.000" />
+      <Word id="l_0038-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0038-w_0003" text="Grundmoräne" error_score="0.000" />
+      <Word id="l_0038-w_0004" text="ihre" error_score="0.000" />
+      <Word id="l_0038-w_0005" text="Schuttmassen" error_score="0.000" />
+      <Word id="l_0038-w_0006" text="als" error_score="0.000" />
+      <Word id="l_0038-w_0007" text="End-oder" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0039" text="Stirnmoräne auf. Am Gletscherende, der Gletscherzunge. tritt aus">
+      <Coords points="304,2188 302,2197 1556,2208 1560,2199 1558,2175 1439,2162 1438,2162 1436,2162 1414,2172 1232,2172 1217,2161 1216,2161 1214,2161 1213,2161 1211,2161 1186,2169 1167,2159 1165,2159 1100,2159 1099,2159 1097,2159 1095,2159 1083,2169 1037,2159 1035,2159 983,2167 967,2158 966,2158 964,2158 962,2158 917,2167 802,2156 736,2156 734,2156 733,2156 731,2156 719,2166 660,2154 658,2154 657,2154 655,2154 639,2164 616,2154 614,2154 612,2154 552,2164 479,2153 478,2153 304,2159 304,2188" />
+      <Word id="l_0039-w_0001" text="Stirnmoräne" error_score="0.000" />
+      <Word id="l_0039-w_0002" text="auf." error_score="0.000" />
+      <Word id="l_0039-w_0003" text="Am" error_score="0.000" />
+      <Word id="l_0039-w_0004" text="Gletscherende," error_score="0.000" />
+      <Word id="l_0039-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0039-w_0006" text="Gletscherzunge." error_score="0.000" />
+      <Word id="l_0039-w_0007" text="tritt" error_score="0.000" />
+      <Word id="l_0039-w_0008" text="aus" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0040" text="dem Gletschertor der molkigtrübe, graugrüne Gletscherbach hervor.">
+      <Coords points="302,2238 300,2249 1555,2264 1558,2253 1558,2227 1449,2226 1438,2216 1436,2216 1434,2216 1433,2216 1431,2216 1409,2223 1400,2215 1398,2215 1396,2215 1395,2215 1292,2223 1278,2213 1276,2213 1274,2213 1273,2213 1271,2213 1252,2221 1162,2213 1160,2213 1159,2213 1137,2221 1092,2211 1091,2211 997,2219 912,2219 902,2210 901,2210 899,2210 898,2210 858,2216 845,2208 844,2208 842,2208 840,2208 739,2216 662,2207 660,2207 597,2215 576,2205 574,2205 573,2205 532,2213 511,2205 509,2205 508,2205 506,2205 479,2213 468,2205 467,2205 465,2205 464,2205 462,2205 460,2205 451,2211 441,2204 440,2204 438,2204 437,2204 342,2211 319,2204 318,2204 316,2204 315,2204 313,2204 302,2210 302,2238" />
+      <Word id="l_0040-w_0001" text="dem" error_score="0.000" />
+      <Word id="l_0040-w_0002" text="Gletschertor" error_score="0.000" />
+      <Word id="l_0040-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0040-w_0004" text="molkigtrübe," error_score="0.000" />
+      <Word id="l_0040-w_0005" text="graugrüne" error_score="0.000" />
+      <Word id="l_0040-w_0006" text="Gletscherbach" error_score="0.000" />
+      <Word id="l_0040-w_0007" text="hervor." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0041" text="Dieser erhält sein Wasser zum kleinern Teile durch das Abschmelzen">
+      <Coords points="300,2291 299,2303 1556,2316 1560,2303 1558,2278 1507,2278 1495,2267 1493,2267 1491,2267 1490,2267 1431,2276 1419,2267 1417,2267 1415,2267 1414,2267 1371,2275 1360,2265 1358,2265 1357,2265 1355,2265 1281,2275 1268,2265 1267,2265 1265,2265 1263,2265 1262,2265 1230,2273 1219,2264 1217,2264 1216,2264 1214,2264 1162,2273 1138,2264 1137,2264 1135,2264 1134,2264 1111,2273 1088,2262 1086,2262 1084,2262 951,2272 931,2261 929,2261 866,2261 864,2261 863,2261 861,2261 847,2270 690,2270 677,2259 676,2259 674,2259 673,2259 616,2268 598,2257 597,2257 595,2257 593,2257 592,2257 568,2267 533,2257 532,2257 530,2257 459,2265 300,2262 300,2291" />
+      <Word id="l_0041-w_0001" text="Dieser" error_score="0.000" />
+      <Word id="l_0041-w_0002" text="erhält" error_score="0.000" />
+      <Word id="l_0041-w_0003" text="sein" error_score="0.000" />
+      <Word id="l_0041-w_0004" text="Wasser" error_score="0.000" />
+      <Word id="l_0041-w_0005" text="zum" error_score="0.000" />
+      <Word id="l_0041-w_0006" text="kleinern" error_score="0.000" />
+      <Word id="l_0041-w_0007" text="Teile" error_score="0.000" />
+      <Word id="l_0041-w_0008" text="durch" error_score="0.000" />
+      <Word id="l_0041-w_0009" text="das" error_score="0.000" />
+      <Word id="l_0041-w_0010" text="Abschmelzen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0042" text="des Gletschers, zum grössern durch das Auftauen der Gletscher-">
+      <Coords points="302,2341 300,2356 1555,2368 1558,2354 1556,2333 1398,2321 1396,2321 1358,2329 1175,2319 1173,2319 1086,2327 1042,2318 1040,2318 937,2324 920,2316 918,2316 917,2316 795,2324 772,2314 771,2314 769,2314 616,2322 432,2311 430,2311 348,2319 318,2311 316,2311 315,2311 313,2311 312,2311 302,2316 302,2341" />
+      <Word id="l_0042-w_0001" text="des" error_score="0.000" />
+      <Word id="l_0042-w_0002" text="Gletschers," error_score="0.000" />
+      <Word id="l_0042-w_0003" text="zum" error_score="0.000" />
+      <Word id="l_0042-w_0004" text="grössern" error_score="0.000" />
+      <Word id="l_0042-w_0005" text="durch" error_score="0.000" />
+      <Word id="l_0042-w_0006" text="das" error_score="0.000" />
+      <Word id="l_0042-w_0007" text="Auftauen" error_score="0.000" />
+      <Word id="l_0042-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0042-w_0009" text="Gletscher-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0043" text="oberfläche in den warmen Tagesstunden.">
+      <Coords points="302,2397 300,2409 1072,2419 1075,2403 1073,2381 1018,2368 1016,2368 972,2378 947,2368 945,2368 943,2368 942,2368 918,2378 861,2378 848,2367 847,2367 845,2367 844,2367 700,2376 586,2365 584,2365 541,2375 511,2365 509,2365 508,2365 506,2365 505,2365 490,2375 459,2363 457,2363 456,2363 351,2373 329,2363 327,2363 326,2363 324,2363 302,2373 302,2397" />
+      <Word id="l_0043-w_0001" text="oberfläche" error_score="0.000" />
+      <Word id="l_0043-w_0002" text="in" error_score="0.000" />
+      <Word id="l_0043-w_0003" text="den" error_score="0.000" />
+      <Word id="l_0043-w_0004" text="warmen" error_score="0.000" />
+      <Word id="l_0043-w_0005" text="Tagesstunden." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

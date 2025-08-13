@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1741193575_00000027.bin.png" imageHeight="4279" imageWidth="2857" orientation="0.0" overwritePageError="0.3028897313144981">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="114,3622 121,3630 104,3630 104,3622 114,3622" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="582,190 635,218 663,313 616,520 482,568 294,520 256,482 275,408 237,396 218,256 256,218 501,237 582,190" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="697,2415 1451,2415 1470,2450 1432,2498 1253,2507 1232,2593 958,2593 930,2507 675,2488 697,2415" />
+    <TextLine id="l_0001" text="Griechisch-orientalische Christen">
+      <Coords points="1187,2415 1184,2415 1182,2415 937,2424 911,2415 894,2415 870,2415 856,2415 697,2422 680,2448 680,2460 677,2484 1439,2491 1443,2467 1441,2429 1198,2429 1191,2417 1189,2417 1189,2415 1187,2415" />
+      <Word id="l_0001-w_0001" text="Griechisch-orientalische" />
+      <Word id="l_0001-w_0002" text="Christen" />
+    </TextLine>
+    <TextLine id="l_0002" text="ꝰ0, 000. 000">
+      <Coords points="944,2550 946,2567 946,2586 1030,2598 1032,2598 1034,2598 1060,2586 1210,2593 1213,2593 1215,2593 1217,2593 1232,2581 1232,2560 1225,2526 946,2531 944,2550" />
+      <Word id="l_0002-w_0001" text="ꝰ0," />
+      <Word id="l_0002-w_0002" text="000." />
+      <Word id="l_0002-w_0003" text="000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="1527,1580 1574,1635 1565,1813 1234,1832 1232,1918 1175,1937 932,1927 920,1832 637,1813 589,1728 628,1616 713,1597 1508,1607 1527,1580" />
+    <TextLine id="l_0003" text="Evangelisehe Christen:">
+      <Coords points="680,1664 680,1683 1484,1683 1484,1664 1484,1628 1379,1628 1367,1616 1367,1614 1365,1614 1363,1614 1360,1614 1358,1614 1355,1614 1336,1626 1298,1614 1296,1614 1294,1614 1291,1614 1241,1626 1225,1614 1222,1614 1220,1614 1217,1614 1156,1626 1075,1614 1072,1614 1070,1614 1025,1626 977,1614 975,1614 972,1614 892,1626 680,1621 680,1664" />
+      <Word id="l_0003-w_0001" text="Evangelisehe" />
+      <Word id="l_0003-w_0002" text="Christen:" />
+    </TextLine>
+    <TextLine id="l_0004" text="Lutheraner, Reformierte, Anglikaner und andere">
+      <Coords points="628,1737 628,1759 1536,1766 1539,1737 1536,1702 628,1706 628,1737" />
+      <Word id="l_0004-w_0001" text="Lutheraner," />
+      <Word id="l_0004-w_0002" text="Reformierte," />
+      <Word id="l_0004-w_0003" text="Anglikaner" />
+      <Word id="l_0004-w_0004" text="und" />
+      <Word id="l_0004-w_0005" text="andere" />
+    </TextLine>
+    <TextLine id="l_0005" text="kleine evangelische Religions-Genosenschaften">
+      <Coords points="654,1787 651,1809 1527,1813 1531,1792 1529,1754 654,1754 654,1787" />
+      <Word id="l_0005-w_0001" text="kleine" />
+      <Word id="l_0005-w_0002" text="evangelische" />
+      <Word id="l_0005-w_0003" text="Religions-Genosenschaften" />
+    </TextLine>
+    <TextLine id="l_0006" text="ꝰ0, 000. 000">
+      <Coords points="934,1904 934,1920 1222,1918 1222,1899 1215,1866 932,1868 934,1904" />
+      <Word id="l_0006-w_0001" text="ꝰ0," />
+      <Word id="l_0006-w_0002" text="000." />
+      <Word id="l_0006-w_0003" text="000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="582,1112 1099,1141 1129,1198 1298,1207 1358,1274 1755,1274 1777,1340 2000,1350 2010,1404 1567,1414 1520,1471 1508,1414 1405,1404 1403,1347 1301,1338 1301,1283 1260,1271 570,1271 582,1112" />
+    <TextLine id="l_0007" text="140. 000 Altkatholiken">
+      <Coords points="1096,1148 649,1148 592,1129 589,1181 589,1214 1103,1202 1103,1181 1103,1155 1096,1148" />
+      <Word id="l_0007-w_0001" text="140." />
+      <Word id="l_0007-w_0002" text="000" />
+      <Word id="l_0007-w_0003" text="Altkatholiken" />
+    </TextLine>
+    <TextLine id="l_0008" text="1, 000. 000 Confessionslose">
+      <Coords points="720,1245 720,1283 854,1283 854,1281 856,1281 899,1264 1298,1264 1298,1245 1298,1212 720,1212 720,1245" />
+      <Word id="l_0008-w_0001" text="1," />
+      <Word id="l_0008-w_0002" text="000." />
+      <Word id="l_0008-w_0003" text="000" />
+      <Word id="l_0008-w_0004" text="Confessionslose" />
+    </TextLine>
+    <TextLine id="l_0009" text="Israeliten s, 000. 000">
+      <Coords points="1757,1293 1738,1276 1305,1274 1305,1307 1303,1328 1755,1333 1760,1312 1757,1295 1757,1293" />
+      <Word id="l_0009-w_0001" text="Israeliten" />
+      <Word id="l_0009-w_0002" text="s," />
+      <Word id="l_0009-w_0003" text="000." />
+      <Word id="l_0009-w_0004" text="000" />
+    </TextLine>
+    <TextLine id="l_0010" text="Mohammedaner 7, 000. o0o">
+      <Coords points="2005,1374 1983,1352 1410,1352 1410,1385 1410,1409 2007,1409 2007,1385 2007,1352 2005,1352 2005,1374" />
+      <Word id="l_0010-w_0001" text="Mohammedaner" />
+      <Word id="l_0010-w_0002" text="7," />
+      <Word id="l_0010-w_0003" text="000." />
+      <Word id="l_0010-w_0004" text="o0o" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="1541,3052 1624,3099 1850,3109 1881,3194 2295,3204 2305,3259 1738,3278 1688,3309 1669,3382 1548,3411 1348,3373 1348,3299 1298,3268 713,3240 751,3194 1118,3204 1158,3183 1177,3099 1441,3099 1541,3052" />
+    <TextLine id="l_0011" text="Katholische Christen:">
+      <Coords points="1175,3159 1172,3175 1841,3180 1845,3164 1843,3121 1175,3116 1175,3159" />
+      <Word id="l_0011-w_0001" text="Katholische" />
+      <Word id="l_0011-w_0002" text="Christen:" />
+    </TextLine>
+    <TextLine id="l_0012" text="Rõmisch-katholische und griechisch-katholische Christen, Armenier, Mechitharisten etc.">
+      <Coords points="2293,3216 2278,3206 1103,3199 1103,3202 1079,3202 1056,3202 1032,3202 1025,3199 744,3199 723,3225 723,3230 720,3254 2295,3263 2300,3240 2297,3225 2293,3216" />
+      <Word id="l_0012-w_0001" text="Rõmisch-katholische" />
+      <Word id="l_0012-w_0002" text="und" />
+      <Word id="l_0012-w_0003" text="griechisch-katholische" />
+      <Word id="l_0012-w_0004" text="Christen," />
+      <Word id="l_0012-w_0005" text="Armenier," />
+      <Word id="l_0012-w_0006" text="Mechitharisten" />
+      <Word id="l_0012-w_0007" text="etc." />
+    </TextLine>
+    <TextLine id="l_0013" text="170. 000. 000">
+      <Coords points="1669,3323 1667,3309 1355,3313 1358,3351 1358,3370 1458,3382 1460,3382 1653,3378 1655,3378 1658,3378 1674,3366 1674,3344 1672,3342 1669,3323" />
+      <Word id="l_0013-w_0001" text="170." />
+      <Word id="l_0013-w_0002" text="000." />
+      <Word id="l_0013-w_0003" text="000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="1206,561 1860,570 1891,656 2010,656 2029,720 1015,720 1025,656 1146,646 1206,561" />
+    <TextLine id="l_0014" text="Die Religionen Euronas">
+      <Coords points="1631,565 1629,565 1627,565 1627,568 1612,582 1531,582 1472,563 1470,563 1451,563 1427,563 1403,563 1379,563 1327,563 1325,563 1322,563 1275,577 1260,565 1260,563 1258,563 1256,563 1208,563 1189,582 1189,625 1187,641 1270,656 1272,656 1857,646 1860,629 1857,582 1634,565 1631,565" />
+      <Word id="l_0014-w_0001" text="Die" />
+      <Word id="l_0014-w_0002" text="Religionen" />
+      <Word id="l_0014-w_0003" text="Euronas" />
+    </TextLine>
+    <TextLine id="l_0015" text="nach der Anzahl ihrer Bekenner.">
+      <Coords points="2014,684 2000,667 1593,656 1591,656 1358,665 1351,656 1348,656 1348,653 1346,653 1344,653 1341,653 1030,663 1015,684 1015,698 1013,717 2012,725 2017,706 2014,689 2014,684" />
+      <Word id="l_0015-w_0001" text="nach" />
+      <Word id="l_0015-w_0002" text="der" />
+      <Word id="l_0015-w_0003" text="Anzahl" />
+      <Word id="l_0015-w_0004" text="ihrer" />
+      <Word id="l_0015-w_0005" text="Bekenner." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="1531,2405 1555,2443 1536,2488 1510,2469 1531,2405" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="1555,3532 1555,3544 1548,3544 1548,3527 1555,3532" />
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="2847,1951 2854,2374 2840,2393 2821,2263 2847,1951" />
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="2847,204 2847,301 2840,301 2840,199 2847,204" />
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="2847,318 2847,339 2854,358 2840,358 2847,318" />
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="2847,1790 2854,1797 2854,1813 2840,1804 2847,1790" />
+  </TextRegion>
+  <TextRegion id="r_0014" type="paragraph">
+    <Coords points="102,3893 102,3915 95,3915 95,3889 102,3893" />
+  </TextRegion>
+  <TextRegion id="r_0015" type="paragraph">
+    <Coords points="97,4041 130,4079 121,4114 85,4105 97,4041" />
+  </TextRegion>
+  <TextRegion id="r_0016" type="paragraph">
+    <Coords points="95,3936 149,3936 111,4010 85,4000 95,3936" />
+  </TextRegion>
+  <TextRegion id="r_0017" type="paragraph">
+    <Coords points="406,3884 399,3886 399,3879 406,3879 406,3884" />
+  </TextRegion>
+  <TextRegion id="r_0018" type="paragraph">
+    <Coords points="440,3889 758,3898 777,3953 361,3943 440,3889" />
+    <TextLine id="l_0016" text="genneien van c ohanug.">
+      <Coords points="397,3915 373,3922 375,3931 375,3958 773,3950 773,3929 768,3905 409,3905 397,3915" />
+      <Word id="l_0016-w_0001" text="genneien" />
+      <Word id="l_0016-w_0002" text="van" />
+      <Word id="l_0016-w_0003" text="c" />
+      <Word id="l_0016-w_0004" text="ohanug." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0019" type="paragraph">
+    <Coords points="1301,3908 1905,3917 1914,3953 1225,3943 1301,3908" />
+    <TextLine id="l_0017" text="Kartogr Anst. von GFreytag &amp; Bernch. Wien.">
+      <Coords points="1900,3922 1876,3915 1853,3915 1829,3915 1805,3915 1781,3915 1757,3915 1734,3912 1710,3912 1686,3912 1662,3912 1639,3912 1615,3912 1591,3910 1567,3910 1543,3910 1520,3910 1496,3910 1472,3910 1448,3910 1432,3908 1294,3908 1282,3912 1258,3924 1234,3934 1237,3939 1237,3960 1910,3955 1910,3934 1907,3931 1900,3922" />
+      <Word id="l_0017-w_0001" text="Kartogr" />
+      <Word id="l_0017-w_0002" text="Anst." />
+      <Word id="l_0017-w_0003" text="von" />
+      <Word id="l_0017-w_0004" text="GFreytag" />
+      <Word id="l_0017-w_0005" text="&amp;" />
+      <Word id="l_0017-w_0006" text="Bernch." />
+      <Word id="l_0017-w_0007" text="Wien." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0020" type="paragraph">
+    <Coords points="2790,4131 2783,4133 2783,4126 2790,4126 2790,4131" />
+  </TextRegion>
+  <TextRegion id="r_0021" type="paragraph">
+    <Coords points="2776,4164 2854,4259 2847,4276 2754,4276 2776,4164" />
+    <TextLine id="l_0018" text="A">
+      <Coords points="2761,4233 2757,4255 2771,4259 2802,4259 2802,4229 2773,4229 2761,4226 2761,4233" />
+      <Word id="l_0018-w_0001" text="A" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0022" type="paragraph">
+    <Coords points="2833,4012 2854,4095 2811,4105 2792,4069 2833,4012" />
+  </TextRegion>
+  <TextRegion id="r_0023" type="paragraph">
+    <Coords points="2842,3803 2847,3803 2847,3858 2821,3839 2842,3803" />
+  </TextRegion>
+  <TextRegion id="r_0024" type="paragraph">
+    <Coords points="2837,3884 2837,3896 2830,3896 2830,3879 2837,3884" />
+  </TextRegion>
+  <TextRegion id="r_0025" type="paragraph">
+    <Coords points="2837,3637 2847,3641 2847,3649 2830,3649 2837,3637" />
+  </TextRegion>
+</Page>

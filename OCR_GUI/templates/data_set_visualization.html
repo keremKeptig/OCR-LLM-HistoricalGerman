@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Data Set Visualization - OCR Quality Estimation</title>
+
+    <!-- Bootstrap (quick styling) -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    
+    <!-- Include the shared CSS -->
+    <link rel="stylesheet" href="/static/css/styles.css">
+
+    <style>
+        /* force the two plots to stay tall and equal */
+        .plot-box {
+            height: 45vh;             /* half screen each */
+        }
+        .plot-box img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            border: 1px solid #aaa;
+            border-radius: 0.5rem;
+        }
+        
+        /* Adjust content for header */
+        .main-content {
+            margin-top: 64px;
+            height: calc(100vh - 64px);
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-content">
+      <div class="header-title">
+        <h1>OCR Quality Estimation</h1>
+      </div>
+      <nav class="header-nav">
+        <a href="/" class="nav-item">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2-2V8z"></path>
+            <polyline points="14 2 14 8 20 8"></polyline>
+            <line x1="16" y1="13" x2="8" y2="13"></line>
+            <line x1="16" y1="17" x2="8" y2="17"></line>
+            <polyline points="10 9 9 9 8 9"></polyline>
+          </svg>
+          <span>Back to GUI</span>
+        </a>
+        <a href="/data_set_visualization" class="nav-item" style="background-color: #f9fafb; color: #374151; border-color: #e5e7eb;">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"></circle>
+            <circle cx="12" cy="12" r="6"></circle>
+            <circle cx="12" cy="12" r="2"></circle>
+          </svg>
+          <span>Evaluation</span>
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="main-content p-3">
+  <div class="container-fluid">
+    <div class="row g-4">
+
+      <!-- ========== LEFT: two stacked plots ========== -->
+      <div class="col-lg-8 d-flex flex-column gap-4">
+        <div class="plot-box">
+          <img id="plot1" src="{{ url_for('data_viz.plot_png', plot_id=1) }}" alt="Plot 1" />
+        </div>
+        <div class="plot-box">
+          <img id="plot2" src="{{ url_for('data_viz.plot_png', plot_id=2) }}" alt="Plot 2" />
+        </div>
+      </div>
+
+      <!-- ========== RIGHT: dropdowns + metrics ========== -->
+      <div class="col-lg-4">
+
+        <!-- dropdowns -->
+        <div class="mb-3">
+          <label for="approach1" class="form-label">Approach 1</label>
+          <select id="approach1" class="form-select">
+            {% for opt in approach_options %}
+              <option value="{{ opt }}">{{ opt }}</option>
+            {% endfor %}
+          </select>
+          </div>
+
+        <div class="mb-4">
+          <label for="approach2" class="form-label">Approach 2</label>
+          <select id="approach2" class="form-select">
+          {% for opt in approach_options %}
+            <option value="{{ opt }}"
+                    {% if loop.index0 == 2 %}selected{% endif %}>  <!-- 2nd item -->
+              {{ opt }}
+            </option>
+          {% endfor %}
+        </select>
+        </div>
+
+        <!-- metrics table -->
+        <table class="table align-middle">
+          <tbody id="metric-table">
+          {% for safe_key, (label, value) in metrics.items() %}
+            {% set colour = "" %}
+            {% if safe_key in ("spearman_r", "pearson_r") %}
+                {% if value > 0.8 %}{% set colour = "text-success" %}
+                {% elif value < 0.3 %}{% set colour = "text-danger" %}{% endif %}
+            {% endif %}
+            <tr>
+              <th class="text-end pe-3">{{ label }}</th>
+              <td id="metric-{{ safe_key }}" class="fs-4 fw-semibold font-monospace text-end {{ colour }}">
+                {{ "%.4f"|format(value) }}
+              </td>
+            </tr>
+          {% endfor %}
+          </tbody>
+</table>
+      </div>
+    </div>
+  </div>
+
+  <!-- === JS: Bootstrap + tiny helper to refresh === -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+  <script>
+/* ------------------------------ *
+ *  Data-set visualisation page   *
+ * ------------------------------ */
+
+$(function () {
+  // Base URLs rendered server-side – never hard-code paths
+  const PLOT1_URL   = "{{ url_for('data_viz.plot_png',  plot_id=1) }}";
+  const PLOT2_URL   = "{{ url_for('data_viz.plot_png',  plot_id=2) }}";
+  const METRICS_URL = "{{ url_for('data_viz.metrics_json') }}";
+
+  function refreshEverything () {
+    const a1 = $("#approach1").val();
+    const a2 = $("#approach2").val();
+    const ts = Date.now();                       // cache-buster
+
+    // reload the two PNGs
+    $("#plot1").attr(
+      "src",
+      `${PLOT1_URL}?a1=${encodeURIComponent(a1)}&a2=${encodeURIComponent(a2)}&_=${ts}`
+    );
+    $("#plot2").attr(
+      "src",
+      `${PLOT2_URL}?a1=${encodeURIComponent(a1)}&a2=${encodeURIComponent(a2)}&_=${ts}`
+    );
+
+    // fetch metrics and update the table
+    /* fetch metrics and update the table */
+$.getJSON(`${METRICS_URL}?a1=${a1}&a2=${a2}`, data => {
+  for (const [k, v] of Object.entries(data)) {
+    const cell = $(`#metric-${k}`);        // k is already the safe key
+    if (!cell.length) continue;            // should never happen now
+
+    const num = Number(v).toFixed(4);
+    cell.text(num).removeClass("text-success text-danger");
+
+    if (["spearman_r", "pearson_r"].includes(k)) {
+      if (num > 0.8)      cell.addClass("text-success");
+      else if (num < 0.3) cell.addClass("text-danger");
+    }
+  }
+});
+
+  }
+
+  // initial render + drop-down handlers
+  refreshEverything();
+  $("#approach1, #approach2").on("change", refreshEverything);
+});
+</script>
+
+  </div> <!-- Close main-content -->
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1737364816_00000001.bin.png" imageHeight="2381" imageWidth="1734" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="140,253 157,328 141,406 68,395 58,416 42,400 58,280 68,322 125,312 121,259 140,253" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="87,10 141,15 152,46 74,51 68,21 87,10" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="55,1894 120,1904 115,1966 221,1989 231,2035 127,2062 104,2088 58,2078 37,2041 37,1920 55,1894" />
+    <TextLine id="l_0001" text="883)">
+      <Coords points="74,2034 72,2045 194,2052 197,2038 197,1989 75,1984 74,2034" />
+      <Word id="l_0001-w_0001" text="883)" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="299,2010 300,2025 296,2025 296,2010 299,2010" />
+  </TextRegion>
+</Page>

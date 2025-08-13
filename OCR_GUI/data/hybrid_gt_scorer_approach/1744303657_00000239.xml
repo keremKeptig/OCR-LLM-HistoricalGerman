@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1744303657_00000239.bin.png" imageHeight="2847" imageWidth="1659" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="685,291 853,303 829,373 1353,385 1359,789 796,858 94,846 101,379 694,366 688,340 601,333 685,291" />
+    <TextLine id="l_0001" text="- 211 —">
+      <Coords points="840,308 840,305 763,305 740,294 729,294 726,292 656,302 650,306 634,314 636,327 636,333 677,333 687,341 687,343 688,343 690,343 691,343 755,341 756,341 758,341 758,340 767,332 842,333 843,324 842,319 840,308" />
+      <Word id="l_0001-w_0001" text="-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0002" text="211" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0003" text="—" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0002" text="parallel mit der Küſte bis über Neapel hinaus hinʒieht, und durch eine">
+      <Coords points="1315,384 1299,384 1291,382 1280,387 1253,382 1252,382 1236,382 1220,382 1217,381 1188,387 1179,381 1173,381 1166,381 1158,389 1054,389 990,379 989,379 987,379 986,379 973,387 933,378 932,378 930,378 929,378 927,378 914,385 900,378 899,378 897,378 895,378 862,385 669,378 668,378 620,385 577,378 576,378 574,378 550,385 514,376 512,376 511,376 509,376 487,384 457,376 455,376 454,376 387,384 326,376 324,376 322,376 321,376 308,384 286,376 284,376 283,376 281,376 264,384 226,376 224,376 98,382 98,411 98,428 1348,427 1350,415 1348,389 1326,384 1315,384" />
+      <Word id="l_0002-w_0001" text="parallel" error_score="0.177" />
+      <Word id="l_0002-w_0002" text="mit" error_score="0.177" />
+      <Word id="l_0002-w_0003" text="der" error_score="0.177" />
+      <Word id="l_0002-w_0004" text="Küſte" error_score="0.177" />
+      <Word id="l_0002-w_0005" text="bis" error_score="0.177" />
+      <Word id="l_0002-w_0006" text="über" error_score="0.177" />
+      <Word id="l_0002-w_0007" text="Neapel" error_score="0.177" />
+      <Word id="l_0002-w_0008" text="hinaus" error_score="0.177" />
+      <Word id="l_0002-w_0009" text="hinʒieht," error_score="0.177" />
+      <Word id="l_0002-w_0010" text="und" error_score="0.177" />
+      <Word id="l_0002-w_0011" text="durch" error_score="0.177" />
+      <Word id="l_0002-w_0012" text="eine" error_score="0.177" />
+    </TextLine>
+    <TextLine id="l_0003" text="Reihe erloſchener Vulkane, Krater, hochgradiger Thermen, Gasquellen,">
+      <Coords points="98,463 96,474 161,485 163,485 164,485 199,477 542,487 544,487 546,487 565,479 726,479 737,487 739,487 740,487 742,487 952,480 990,488 992,488 1345,480 1347,468 1345,442 1296,431 1294,431 1193,439 1150,431 1149,431 1147,431 1146,431 1133,441 1002,431 1000,431 905,439 884,430 883,430 881,430 813,438 789,430 788,430 786,430 785,430 783,430 772,439 751,430 750,430 748,430 747,430 726,441 618,441 593,430 592,430 590,430 588,430 587,430 574,441 522,441 485,428 484,428 482,428 481,428 447,436 411,428 410,428 408,428 406,428 394,438 315,428 254,428 253,428 251,428 231,438 174,428 172,428 98,431 98,463" />
+      <Word id="l_0003-w_0001" text="Reihe" error_score="0.000" />
+      <Word id="l_0003-w_0002" text="erloſchener" error_score="0.000" />
+      <Word id="l_0003-w_0003" text="Vulkane," error_score="0.000" />
+      <Word id="l_0003-w_0004" text="Krater," error_score="0.000" />
+      <Word id="l_0003-w_0005" text="hochgradiger" error_score="0.000" />
+      <Word id="l_0003-w_0006" text="Thermen," error_score="0.000" />
+      <Word id="l_0003-w_0007" text="Gasquellen," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0004" text="Solfataren und einen thätigen Vulkan kenntlich macht, Die bemerkens⸗">
+      <Coords points="99,493 99,518 99,529 166,539 167,539 288,531 481,531 500,539 501,539 503,539 1154,531 1261,539 1263,539 1345,529 1345,518 1345,493 1266,483 1264,483 1263,483 1239,491 1173,483 1171,483 1169,483 1147,491 1123,483 1122,483 1120,483 1066,491 1003,483 1002,483 1000,483 975,491 902,483 900,483 821,491 791,483 789,483 788,483 786,483 764,491 715,483 713,483 712,483 682,491 669,483 668,483 666,483 664,483 663,483 628,491 560,483 558,483 484,491 410,483 408,483 406,483 387,491 349,483 348,483 302,491 101,490 99,493" />
+      <Word id="l_0004-w_0001" text="Solfataren" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0004-w_0003" text="einen" error_score="0.000" />
+      <Word id="l_0004-w_0004" text="thätigen" error_score="0.000" />
+      <Word id="l_0004-w_0005" text="Vulkan" error_score="0.000" />
+      <Word id="l_0004-w_0006" text="kenntlich" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="macht," error_score="0.000" />
+      <Word id="l_0004-w_0008" text="Die" error_score="0.000" />
+      <Word id="l_0004-w_0009" text="bemerkens⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0005" text="wertheſten Vorkommniſſe dieſer Art ſind die phlegräiſchen Felder">
+      <Coords points="96,567 94,578 153,589 155,589 717,583 728,593 729,593 731,593 732,593 794,585 878,585 889,593 891,593 892,593 894,593 1030,585 1076,594 1078,594 1347,585 1348,574 1347,547 1280,537 1279,537 978,544 962,536 960,536 959,536 763,544 740,536 739,536 737,536 736,536 734,536 721,544 679,534 677,534 675,534 645,542 596,534 595,534 512,542 490,534 489,534 487,534 410,542 365,533 364,533 362,533 346,540 316,533 315,533 313,533 311,533 278,540 220,533 218,533 216,533 215,533 202,540 188,533 186,533 185,533 96,539 96,567" />
+      <Word id="l_0005-w_0001" text="wertheſten" error_score="0.000" />
+      <Word id="l_0005-w_0002" text="Vorkommniſſe" error_score="0.000" />
+      <Word id="l_0005-w_0003" text="dieſer" error_score="0.000" />
+      <Word id="l_0005-w_0004" text="Art" error_score="0.000" />
+      <Word id="l_0005-w_0005" text="ſind" error_score="0.000" />
+      <Word id="l_0005-w_0006" text="die" error_score="0.000" />
+      <Word id="l_0005-w_0007" text="phlegräiſchen" error_score="0.000" />
+      <Word id="l_0005-w_0008" text="Felder" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0006" text="und der Veſuv bei Neapel. Ein ʒweites vulkaniſches Gebiet bilden die">
+      <Coords points="96,612 98,624 98,635 289,635 322,643 324,643 326,643 397,635 441,643 443,643 444,643 465,635 549,643 550,643 623,635 634,643 636,643 637,643 639,645 721,645 721,643 820,634 945,642 946,642 1347,634 1348,621 1347,596 1320,586 1318,586 1317,586 1315,586 1288,594 1062,586 1060,586 1000,594 946,586 945,586 943,586 918,594 886,586 884,586 883,586 789,594 766,586 764,586 763,586 707,596 473,588 471,588 470,588 455,596 443,588 441,588 440,588 438,588 436,588 435,588 425,596 405,588 403,588 402,588 356,596 318,588 316,588 315,588 294,596 256,588 254,588 202,596 186,588 185,588 183,588 182,588 163,596 145,588 144,588 142,588 101,596 96,612" />
+      <Word id="l_0006-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0006-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="Veſuv" error_score="0.000" />
+      <Word id="l_0006-w_0004" text="bei" error_score="0.000" />
+      <Word id="l_0006-w_0005" text="Neapel." error_score="0.000" />
+      <Word id="l_0006-w_0006" text="Ein" error_score="0.000" />
+      <Word id="l_0006-w_0007" text="ʒweites" error_score="0.000" />
+      <Word id="l_0006-w_0008" text="vulkaniſches" error_score="0.000" />
+      <Word id="l_0006-w_0009" text="Gebiet" error_score="0.000" />
+      <Word id="l_0006-w_0010" text="bilden" error_score="0.000" />
+      <Word id="l_0006-w_0011" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0007" text="lipariſchen Jnſeln mit den ʒwei thätigen Vulkanen Vulcano und">
+      <Coords points="96,678 96,689 227,699 229,699 296,689 356,699 357,699 410,689 444,697 446,697 447,697 592,688 623,697 625,697 626,697 707,688 726,697 728,697 729,699 813,699 813,697 870,688 895,697 897,697 899,697 1024,694 1025,694 1027,694 1038,686 1233,695 1234,695 1236,695 1271,686 1326,695 1328,695 1329,695 1331,695 1345,684 1345,673 1343,651 1323,642 1321,642 1320,642 1318,642 1298,651 1160,651 1136,640 1135,640 1062,640 1060,640 1059,640 1057,640 1044,651 971,651 959,640 957,640 956,640 954,640 952,640 916,650 883,642 881,642 880,642 878,642 876,642 862,653 807,653 789,642 788,642 786,642 785,642 710,651 679,642 677,642 675,642 542,651 530,642 528,642 527,642 525,642 523,642 522,642 508,653 481,643 479,643 478,643 433,653 386,643 384,643 335,651 305,643 303,643 302,643 300,643 299,643 286,653 229,643 227,643 94,648 96,678" />
+      <Word id="l_0007-w_0001" text="lipariſchen" error_score="0.000" />
+      <Word id="l_0007-w_0002" text="Jnſeln" error_score="0.000" />
+      <Word id="l_0007-w_0003" text="mit" error_score="0.000" />
+      <Word id="l_0007-w_0004" text="den" error_score="0.000" />
+      <Word id="l_0007-w_0005" text="ʒwei" error_score="0.000" />
+      <Word id="l_0007-w_0006" text="thätigen" error_score="0.000" />
+      <Word id="l_0007-w_0007" text="Vulkanen" error_score="0.000" />
+      <Word id="l_0007-w_0008" text="Vulcano" error_score="0.000" />
+      <Word id="l_0007-w_0009" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="Stromboli. Des Aetna auf Sicilien iſt bereits gedacht worden; endlich">
+      <Coords points="98,730 98,744 1345,744 1347,727 1345,700 1336,692 1334,692 1332,692 1331,692 1258,702 1074,702 1051,692 1049,692 1047,692 1046,692 1027,700 913,692 911,692 910,692 892,700 851,692 850,692 848,692 831,700 818,692 816,692 815,692 813,692 812,692 780,700 736,692 734,692 732,692 698,700 626,694 625,694 623,694 622,694 611,703 489,703 478,694 476,694 474,694 473,694 435,702 389,694 387,694 386,694 356,702 337,694 335,694 334,694 291,702 253,694 251,694 96,699 98,730" />
+      <Word id="l_0008-w_0001" text="Stromboli." error_score="0.000" />
+      <Word id="l_0008-w_0002" text="Des" error_score="0.000" />
+      <Word id="l_0008-w_0003" text="Aetna" error_score="0.000" />
+      <Word id="l_0008-w_0004" text="auf" error_score="0.000" />
+      <Word id="l_0008-w_0005" text="Sicilien" error_score="0.000" />
+      <Word id="l_0008-w_0006" text="iſt" error_score="0.000" />
+      <Word id="l_0008-w_0007" text="bereits" error_score="0.000" />
+      <Word id="l_0008-w_0008" text="gedacht" error_score="0.000" />
+      <Word id="l_0008-w_0009" text="worden;" error_score="0.000" />
+      <Word id="l_0008-w_0010" text="endlich" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="gehören auch die Macalubi (Schlammvulkane) bei Girgenti auf derſelben">
+      <Coords points="96,784 96,798 1348,792 1348,779 1345,752 1133,752 1116,743 1114,743 1112,743 1024,751 984,743 983,743 945,751 933,743 932,743 930,743 929,743 927,743 926,743 914,752 905,744 903,744 902,744 900,744 899,744 883,752 826,744 824,744 823,744 821,744 810,754 713,754 702,744 701,744 699,744 615,744 614,744 612,744 611,744 599,752 550,744 549,744 476,754 341,746 340,746 338,746 315,754 289,746 288,746 286,746 191,754 137,746 136,746 134,746 94,756 96,784" />
+      <Word id="l_0009-w_0001" text="gehören" error_score="0.000" />
+      <Word id="l_0009-w_0002" text="auch" error_score="0.000" />
+      <Word id="l_0009-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0009-w_0004" text="Macalubi" error_score="0.000" />
+      <Word id="l_0009-w_0005" text="(Schlammvulkane)" error_score="0.000" />
+      <Word id="l_0009-w_0006" text="bei" error_score="0.000" />
+      <Word id="l_0009-w_0007" text="Girgenti" error_score="0.000" />
+      <Word id="l_0009-w_0008" text="auf" error_score="0.000" />
+      <Word id="l_0009-w_0009" text="derſelben" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0010" text="Jnſel in dieſe Klaſſe von Erſcheinungen.">
+      <Coords points="99,833 98,847 106,854 107,854 109,854 110,855 182,855 182,854 183,854 185,854 185,852 191,846 208,854 210,854 212,854 213,854 242,846 269,854 270,854 272,854 335,846 592,855 593,855 789,847 791,836 789,809 558,798 557,798 555,798 554,798 554,800 544,809 452,809 438,797 436,797 435,797 433,797 432,797 403,805 360,797 359,797 357,797 356,797 356,798 346,806 319,797 318,797 316,797 315,797 300,805 292,797 291,797 289,797 288,797 286,797 254,806 212,797 210,797 208,797 207,797 207,798 197,806 155,797 153,797 151,797 150,797 136,806 123,797 121,797 120,797 118,797 117,797 99,803 99,833" />
+      <Word id="l_0010-w_0001" text="Jnſel" error_score="0.000" />
+      <Word id="l_0010-w_0002" text="in" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="dieſe" error_score="0.000" />
+      <Word id="l_0010-w_0004" text="Klaſſe" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="Erſcheinungen." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="748,930 827,949 810,993 1359,1012 1353,2003 911,2035 872,2062 853,2144 861,2170 918,2189 1220,2195 1340,2245 1359,2277 1353,2402 1209,2415 1182,2484 1127,2478 1093,2415 886,2415 802,2446 107,2440 94,2258 170,2206 183,2062 88,2029 88,1062 107,1031 202,999 606,993 626,979 601,966 620,936 748,930" />
+    <TextLine id="l_0011" text="hydrographic.">
+      <Coords points="810,944 794,941 783,937 620,937 620,961 620,975 823,975 823,961 820,955 810,944" />
+      <Word id="l_0011-w_0001" text="hydrographic." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0012" text="a) Meere. Jm Weſten von Jtalien liegt das mittelländiſche">
+      <Coords points="1347,1010 1331,1010 1315,1010 1299,1009 1283,1009 1267,1009 1252,1007 1239,1007 1236,1007 1220,1007 1204,1005 1199,1005 1195,1007 1188,1005 1173,1004 1157,1004 1141,1004 1127,1002 1104,1007 1070,1001 1062,1001 1046,1001 1033,999 957,1009 940,1001 938,1001 937,1001 935,1001 933,1001 924,1009 854,999 853,999 851,999 821,1009 715,999 713,999 712,999 710,999 698,1010 565,1010 541,1001 539,1001 538,1001 536,1001 512,1010 468,1001 466,1001 465,1001 463,1001 452,1010 405,1001 403,1001 402,1001 368,1010 215,1001 213,1001 212,1001 191,1010 193,1039 193,1050 1348,1045 1350,1034 1347,1010 1347,1010" />
+      <Word id="l_0012-w_0001" text="a)" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="Meere." error_score="0.000" />
+      <Word id="l_0012-w_0003" text="Jm" error_score="0.000" />
+      <Word id="l_0012-w_0004" text="Weſten" error_score="0.000" />
+      <Word id="l_0012-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="Jtalien" error_score="0.000" />
+      <Word id="l_0012-w_0007" text="liegt" error_score="0.000" />
+      <Word id="l_0012-w_0008" text="das" error_score="0.000" />
+      <Word id="l_0012-w_0009" text="mittelländiſche" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="Meer mit ſeinen Theilen: dem Golf von Genua, der Straße">
+      <Coords points="96,1089 96,1100 1350,1100 1350,1089 1350,1062 1317,1053 1315,1053 1313,1053 1312,1053 1274,1062 1215,1053 1214,1053 1212,1053 1182,1062 1122,1054 1120,1054 1119,1054 1117,1054 1106,1064 973,1064 959,1053 957,1053 956,1053 954,1053 952,1053 919,1064 820,1064 807,1053 805,1053 804,1053 802,1053 747,1061 715,1053 713,1053 712,1053 710,1053 709,1053 696,1064 641,1064 626,1053 625,1053 623,1053 622,1053 620,1053 618,1053 606,1062 538,1053 536,1053 535,1053 500,1061 452,1053 451,1053 449,1053 447,1053 435,1062 368,1053 367,1053 365,1053 326,1062 289,1053 288,1053 286,1053 284,1053 245,1062 96,1059 96,1089" />
+      <Word id="l_0013-w_0001" text="Meer" error_score="0.000" />
+      <Word id="l_0013-w_0002" text="mit" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="ſeinen" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="Theilen:" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="dem" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="Golf" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="von" error_score="0.000" />
+      <Word id="l_0013-w_0008" text="Genua," error_score="0.000" />
+      <Word id="l_0013-w_0009" text="der" error_score="0.000" />
+      <Word id="l_0013-w_0010" text="Straße" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="von Piombino, der Straße von Bonifacio, dem tyrrhe⸗">
+      <Coords points="96,1143 96,1153 1347,1149 1348,1140 1345,1116 1299,1105 1298,1105 1296,1105 1258,1115 1199,1107 1198,1107 1196,1107 1195,1107 1184,1116 1114,1116 1103,1107 1101,1107 1100,1107 1098,1107 1043,1115 1009,1105 1008,1105 1006,1105 1005,1105 971,1115 916,1105 914,1105 913,1105 881,1115 826,1105 824,1105 823,1105 821,1105 808,1116 693,1116 652,1107 650,1107 649,1107 647,1107 618,1116 542,1107 541,1107 539,1107 538,1107 525,1118 485,1118 473,1107 471,1107 470,1107 468,1107 466,1107 465,1107 452,1118 387,1118 313,1107 311,1107 267,1116 191,1107 189,1107 188,1107 186,1107 174,1116 104,1108 102,1108 101,1108 99,1108 99,1110 94,1113 96,1143" />
+      <Word id="l_0014-w_0001" text="von" error_score="0.000" />
+      <Word id="l_0014-w_0002" text="Piombino," error_score="0.000" />
+      <Word id="l_0014-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="Straße" error_score="0.000" />
+      <Word id="l_0014-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="Bonifacio," error_score="0.000" />
+      <Word id="l_0014-w_0007" text="dem" error_score="0.000" />
+      <Word id="l_0014-w_0008" text="tyrrhe⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="niſchen Meere (ſammt den Meerbuſen von Gaeta, Neapel, Salerno">
+      <Coords points="96,1195 96,1206 191,1214 193,1214 194,1214 221,1206 416,1206 447,1214 449,1214 451,1214 639,1205 785,1213 786,1213 826,1205 1033,1211 1035,1211 1036,1211 1066,1203 1332,1211 1334,1211 1336,1211 1337,1211 1350,1202 1350,1190 1347,1167 1222,1156 1220,1156 1218,1156 1217,1156 1206,1165 1180,1157 1179,1157 1177,1157 1116,1165 1076,1156 1074,1156 1073,1156 1071,1156 1070,1156 1057,1165 998,1157 997,1157 995,1157 970,1165 937,1156 935,1156 933,1156 932,1156 930,1156 930,1157 918,1167 645,1157 644,1157 642,1157 641,1157 628,1168 590,1168 576,1157 574,1157 573,1157 571,1157 569,1157 549,1167 536,1157 535,1157 533,1157 531,1157 465,1167 433,1159 432,1159 430,1159 428,1159 427,1159 414,1168 129,1159 128,1159 126,1159 94,1170 96,1195" />
+      <Word id="l_0015-w_0001" text="niſchen" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="Meere" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="(ſammt" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="den" error_score="0.000" />
+      <Word id="l_0015-w_0005" text="Meerbuſen" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="von" error_score="0.000" />
+      <Word id="l_0015-w_0007" text="Gaeta," error_score="0.000" />
+      <Word id="l_0015-w_0008" text="Neapel," error_score="0.000" />
+      <Word id="l_0015-w_0009" text="Salerno" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="und Policastro) und der Meerenge von Meſſina, — im Süden">
+      <Coords points="96,1247 96,1259 1348,1255 1350,1244 1347,1221 1260,1209 1212,1209 1211,1209 1209,1209 1207,1209 1195,1219 1142,1209 1141,1209 1139,1209 1138,1209 1125,1221 1011,1221 986,1209 984,1209 983,1209 918,1217 867,1209 865,1209 864,1209 862,1209 850,1221 604,1221 536,1211 535,1211 490,1219 479,1211 478,1211 476,1211 474,1211 473,1211 454,1221 440,1211 438,1211 436,1211 435,1211 383,1221 370,1211 368,1211 367,1211 365,1211 364,1211 337,1219 308,1211 307,1211 305,1211 267,1219 182,1211 180,1211 178,1211 161,1221 147,1211 145,1211 144,1211 142,1211 94,1222 96,1247" />
+      <Word id="l_0016-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0016-w_0002" text="Policastro)" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0016-w_0005" text="Meerenge" error_score="0.000" />
+      <Word id="l_0016-w_0006" text="von" error_score="0.000" />
+      <Word id="l_0016-w_0007" text="Meſſina," error_score="0.000" />
+      <Word id="l_0016-w_0008" text="—" error_score="0.000" />
+      <Word id="l_0016-w_0009" text="im" error_score="0.000" />
+      <Word id="l_0016-w_0010" text="Süden" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="das joniſche Meer mit dem Golf von Tarent und der Straße">
+      <Coords points="94,1300 94,1311 1348,1311 1348,1300 1348,1273 1318,1265 1317,1265 1315,1265 1275,1273 1233,1265 1231,1265 1177,1274 1089,1274 1078,1265 1076,1265 1074,1265 1073,1265 1071,1265 1049,1274 900,1274 867,1265 865,1265 864,1265 862,1265 861,1265 850,1274 758,1274 718,1265 717,1265 715,1265 698,1273 653,1265 652,1265 585,1273 573,1265 571,1265 569,1265 568,1265 566,1265 565,1265 552,1273 523,1265 522,1265 520,1265 428,1273 359,1265 357,1265 356,1265 322,1273 251,1265 250,1265 248,1265 215,1273 183,1265 182,1265 180,1265 178,1265 177,1265 166,1274 94,1274 94,1300" />
+      <Word id="l_0017-w_0001" text="das" error_score="0.000" />
+      <Word id="l_0017-w_0002" text="joniſche" error_score="0.000" />
+      <Word id="l_0017-w_0003" text="Meer" error_score="0.000" />
+      <Word id="l_0017-w_0004" text="mit" error_score="0.000" />
+      <Word id="l_0017-w_0005" text="dem" error_score="0.000" />
+      <Word id="l_0017-w_0006" text="Golf" error_score="0.000" />
+      <Word id="l_0017-w_0007" text="von" error_score="0.000" />
+      <Word id="l_0017-w_0008" text="Tarent" error_score="0.000" />
+      <Word id="l_0017-w_0009" text="und" error_score="0.000" />
+      <Word id="l_0017-w_0010" text="der" error_score="0.000" />
+      <Word id="l_0017-w_0011" text="Straße" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0018" text="von Otranto, — im Oſten endlich das Adriameer mit den">
+      <Coords points="94,1353 94,1361 300,1369 302,1369 364,1361 402,1369 403,1369 405,1369 406,1369 417,1361 492,1361 503,1369 504,1369 506,1369 508,1369 568,1361 683,1369 685,1369 687,1369 688,1369 699,1361 1347,1361 1348,1350 1345,1328 1305,1328 1293,1317 1291,1317 1290,1317 1288,1317 1286,1317 1285,1317 1271,1327 1252,1317 1250,1317 1248,1317 1247,1317 1206,1328 1068,1328 1038,1317 1036,1317 1035,1317 1033,1317 1002,1327 952,1317 951,1317 949,1317 924,1327 910,1317 908,1317 907,1317 905,1317 838,1327 826,1317 824,1317 823,1317 777,1317 775,1317 717,1328 636,1319 634,1319 389,1328 360,1319 359,1319 357,1319 305,1327 207,1319 205,1319 204,1319 202,1319 189,1328 104,1320 102,1320 101,1320 99,1320 99,1322 93,1327 94,1353" />
+      <Word id="l_0018-w_0001" text="von" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="Otranto," error_score="0.000" />
+      <Word id="l_0018-w_0003" text="—" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="im" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="Oſten" error_score="0.000" />
+      <Word id="l_0018-w_0006" text="endlich" error_score="0.000" />
+      <Word id="l_0018-w_0007" text="das" error_score="0.000" />
+      <Word id="l_0018-w_0008" text="Adriameer" error_score="0.000" />
+      <Word id="l_0018-w_0009" text="mit" error_score="0.000" />
+      <Word id="l_0018-w_0010" text="den" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Golfen von Manfredonia und Benedig.">
+      <Coords points="96,1406 96,1417 935,1417 935,1406 935,1380 903,1380 894,1371 894,1369 892,1369 891,1369 889,1369 888,1369 886,1369 873,1379 865,1371 864,1371 862,1371 861,1371 859,1371 857,1371 846,1380 783,1380 747,1369 745,1369 744,1369 742,1369 740,1369 740,1371 731,1379 706,1371 704,1371 702,1371 641,1379 606,1369 604,1369 603,1369 549,1379 530,1369 528,1369 527,1369 525,1369 490,1379 455,1369 454,1369 452,1369 451,1369 449,1369 449,1371 440,1380 411,1380 351,1369 349,1369 348,1369 346,1369 346,1371 337,1380 218,1380 177,1369 175,1369 174,1369 172,1369 142,1379 113,1369 112,1369 110,1369 109,1369 107,1369 96,1376 96,1406" />
+      <Word id="l_0019-w_0001" text="Golfen" error_score="0.000" />
+      <Word id="l_0019-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0019-w_0003" text="Manfredonia" error_score="0.000" />
+      <Word id="l_0019-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0019-w_0005" text="Benedig." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0020" text="Küſten. Die Küſte des Mittelmeeres in Jtalien wird von der franʒöſiſchen">
+      <Coords points="197,1463 197,1472 1348,1470 1350,1459 1347,1436 210,1429 208,1429 207,1429 205,1429 196,1434 197,1463" />
+      <Word id="l_0020-w_0001" text="Küſten." error_score="0.068" />
+      <Word id="l_0020-w_0002" text="Die" error_score="0.068" />
+      <Word id="l_0020-w_0003" text="Küſte" error_score="0.068" />
+      <Word id="l_0020-w_0004" text="des" error_score="0.068" />
+      <Word id="l_0020-w_0005" text="Mittelmeeres" error_score="0.068" />
+      <Word id="l_0020-w_0006" text="in" error_score="0.068" />
+      <Word id="l_0020-w_0007" text="Jtalien" error_score="0.068" />
+      <Word id="l_0020-w_0008" text="wird" error_score="0.068" />
+      <Word id="l_0020-w_0009" text="von" error_score="0.068" />
+      <Word id="l_0020-w_0010" text="der" error_score="0.068" />
+      <Word id="l_0020-w_0011" text="franʒöſiſchen" error_score="0.068" />
+    </TextLine>
+    <TextLine id="l_0021" text="Grenʒe bis Massa von hohen und ſteilen Bergen gebildet, die oft ſo ſchroff in das">
+      <Coords points="96,1496 96,1508 1347,1508 1347,1496 1347,1474 96,1474 96,1496" />
+      <Word id="l_0021-w_0001" text="Grenʒe" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="bis" error_score="0.000" />
+      <Word id="l_0021-w_0003" text="Massa" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0021-w_0005" text="hohen" error_score="0.000" />
+      <Word id="l_0021-w_0006" text="und" error_score="0.000" />
+      <Word id="l_0021-w_0007" text="ſteilen" error_score="0.000" />
+      <Word id="l_0021-w_0008" text="Bergen" error_score="0.000" />
+      <Word id="l_0021-w_0009" text="gebildet," error_score="0.000" />
+      <Word id="l_0021-w_0010" text="die" error_score="0.000" />
+      <Word id="l_0021-w_0011" text="oft" error_score="0.000" />
+      <Word id="l_0021-w_0012" text="ſo" error_score="0.000" />
+      <Word id="l_0021-w_0013" text="ſchroff" error_score="0.000" />
+      <Word id="l_0021-w_0014" text="in" error_score="0.000" />
+      <Word id="l_0021-w_0015" text="das" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="Meer abfallen, daſs die Straße in ihre Gehänge eingeſchnitten werden mußte. Jn">
+      <Coords points="96,1531 96,1543 1345,1543 1345,1531 1345,1508 96,1507 96,1531" />
+      <Word id="l_0022-w_0001" text="Meer" error_score="0.000" />
+      <Word id="l_0022-w_0002" text="abfallen," error_score="0.000" />
+      <Word id="l_0022-w_0003" text="daſs" error_score="0.000" />
+      <Word id="l_0022-w_0004" text="die" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="Straße" error_score="0.000" />
+      <Word id="l_0022-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0022-w_0007" text="ihre" error_score="0.000" />
+      <Word id="l_0022-w_0008" text="Gehänge" error_score="0.000" />
+      <Word id="l_0022-w_0009" text="eingeſchnitten" error_score="0.000" />
+      <Word id="l_0022-w_0010" text="werden" error_score="0.000" />
+      <Word id="l_0022-w_0011" text="mußte." error_score="0.000" />
+      <Word id="l_0022-w_0012" text="Jn" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="dieſer Strecke liegt der tief in das Land eingreifende, herrliche Golf von Speʒia.">
+      <Coords points="96,1567 96,1580 1345,1580 1345,1567 1345,1545 96,1542 96,1567" />
+      <Word id="l_0023-w_0001" text="dieſer" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="Strecke" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="liegt" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="tief" error_score="0.000" />
+      <Word id="l_0023-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0023-w_0007" text="das" error_score="0.000" />
+      <Word id="l_0023-w_0008" text="Land" error_score="0.000" />
+      <Word id="l_0023-w_0009" text="eingreifende," error_score="0.000" />
+      <Word id="l_0023-w_0010" text="herrliche" error_score="0.000" />
+      <Word id="l_0023-w_0011" text="Golf" error_score="0.000" />
+      <Word id="l_0023-w_0012" text="von" error_score="0.000" />
+      <Word id="l_0023-w_0013" text="Speʒia." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="Ʒwiſchen Massa und Castellamare bei Neapel iſt die Küſte, mit geringen Unterbre⸗">
+      <Coords points="98,1602 98,1614 1343,1611 1345,1599 1340,1576 96,1578 98,1602" />
+      <Word id="l_0024-w_0001" text="Ʒwiſchen" error_score="0.000" />
+      <Word id="l_0024-w_0002" text="Massa" error_score="0.000" />
+      <Word id="l_0024-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0024-w_0004" text="Castellamare" error_score="0.000" />
+      <Word id="l_0024-w_0005" text="bei" error_score="0.000" />
+      <Word id="l_0024-w_0006" text="Neapel" error_score="0.000" />
+      <Word id="l_0024-w_0007" text="iſt" error_score="0.000" />
+      <Word id="l_0024-w_0008" text="die" error_score="0.000" />
+      <Word id="l_0024-w_0009" text="Küſte," error_score="0.000" />
+      <Word id="l_0024-w_0010" text="mit" error_score="0.000" />
+      <Word id="l_0024-w_0011" text="geringen" error_score="0.000" />
+      <Word id="l_0024-w_0012" text="Unterbre⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="chungen (bei Livorno, Piombino, Orbetello, Civitavecchia und Gaeta), flach und">
+      <Coords points="96,1637 96,1651 1347,1651 1347,1637 1347,1614 96,1606 96,1637" />
+      <Word id="l_0025-w_0001" text="chungen" error_score="0.000" />
+      <Word id="l_0025-w_0002" text="(bei" error_score="0.000" />
+      <Word id="l_0025-w_0003" text="Livorno," error_score="0.000" />
+      <Word id="l_0025-w_0004" text="Piombino," error_score="0.000" />
+      <Word id="l_0025-w_0005" text="Orbetello," error_score="0.000" />
+      <Word id="l_0025-w_0006" text="Civitavecchia" error_score="0.000" />
+      <Word id="l_0025-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0025-w_0008" text="Gaeta)," error_score="0.000" />
+      <Word id="l_0025-w_0009" text="flach" error_score="0.000" />
+      <Word id="l_0025-w_0010" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0026" text="ſtark verſumpft. Jenſeits Castellamare iſt ſie bis ʒum Kap Spartivento wieder ſteil">
+      <Coords points="98,1673 98,1687 1345,1682 1347,1670 1342,1644 96,1646 98,1673" />
+      <Word id="l_0026-w_0001" text="ſtark" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="verſumpft." error_score="0.000" />
+      <Word id="l_0026-w_0003" text="Jenſeits" error_score="0.000" />
+      <Word id="l_0026-w_0004" text="Castellamare" error_score="0.000" />
+      <Word id="l_0026-w_0005" text="iſt" error_score="0.000" />
+      <Word id="l_0026-w_0006" text="ſie" error_score="0.000" />
+      <Word id="l_0026-w_0007" text="bis" error_score="0.000" />
+      <Word id="l_0026-w_0008" text="ʒum" error_score="0.000" />
+      <Word id="l_0026-w_0009" text="Kap" error_score="0.000" />
+      <Word id="l_0026-w_0010" text="Spartivento" error_score="0.000" />
+      <Word id="l_0026-w_0011" text="wieder" error_score="0.000" />
+      <Word id="l_0026-w_0012" text="ſteil" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="und bergig. Längs dem joniſchen Meere iſt die Küſte nur am Oſtfuße des As-">
+      <Coords points="96,1708 96,1720 1343,1716 1345,1703 1342,1682 533,1676 531,1676 530,1676 504,1684 137,1678 136,1678 94,1686 96,1708" />
+      <Word id="l_0027-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="bergig." error_score="0.000" />
+      <Word id="l_0027-w_0003" text="Längs" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="dem" error_score="0.000" />
+      <Word id="l_0027-w_0005" text="joniſchen" error_score="0.000" />
+      <Word id="l_0027-w_0006" text="Meere" error_score="0.000" />
+      <Word id="l_0027-w_0007" text="iſt" error_score="0.000" />
+      <Word id="l_0027-w_0008" text="die" error_score="0.000" />
+      <Word id="l_0027-w_0009" text="Küſte" error_score="0.000" />
+      <Word id="l_0027-w_0010" text="nur" error_score="0.000" />
+      <Word id="l_0027-w_0011" text="am" error_score="0.000" />
+      <Word id="l_0027-w_0012" text="Oſtfuße" error_score="0.000" />
+      <Word id="l_0027-w_0013" text="des" error_score="0.000" />
+      <Word id="l_0027-w_0014" text="As-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="promonte, längs dem Silawalde und bei Otranto von Bergen oder Hügeln nahe">
+      <Coords points="96,1744 96,1760 1343,1754 1345,1739 1340,1716 94,1720 96,1744" />
+      <Word id="l_0028-w_0001" text="promonte," error_score="0.000" />
+      <Word id="l_0028-w_0002" text="längs" error_score="0.000" />
+      <Word id="l_0028-w_0003" text="dem" error_score="0.000" />
+      <Word id="l_0028-w_0004" text="Silawalde" error_score="0.000" />
+      <Word id="l_0028-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0028-w_0006" text="bei" error_score="0.000" />
+      <Word id="l_0028-w_0007" text="Otranto" error_score="0.000" />
+      <Word id="l_0028-w_0008" text="von" error_score="0.000" />
+      <Word id="l_0028-w_0009" text="Bergen" error_score="0.000" />
+      <Word id="l_0028-w_0010" text="oder" error_score="0.000" />
+      <Word id="l_0028-w_0011" text="Hügeln" error_score="0.000" />
+      <Word id="l_0028-w_0012" text="nahe" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0029" text="umſtellt, ſonſt aber meiſtens flach und leicht ʒugänglich. Längs dem adriatiſchen">
+      <Coords points="96,1777 96,1790 1347,1790 1347,1777 1347,1755 96,1755 96,1777" />
+      <Word id="l_0029-w_0001" text="umſtellt," error_score="0.000" />
+      <Word id="l_0029-w_0002" text="ſonſt" error_score="0.000" />
+      <Word id="l_0029-w_0003" text="aber" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="meiſtens" error_score="0.000" />
+      <Word id="l_0029-w_0005" text="flach" error_score="0.000" />
+      <Word id="l_0029-w_0006" text="und" error_score="0.000" />
+      <Word id="l_0029-w_0007" text="leicht" error_score="0.000" />
+      <Word id="l_0029-w_0008" text="ʒugänglich." error_score="0.000" />
+      <Word id="l_0029-w_0009" text="Längs" error_score="0.000" />
+      <Word id="l_0029-w_0010" text="dem" error_score="0.000" />
+      <Word id="l_0029-w_0011" text="adriatiſchen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="Meere endlich iſt ſie von Brindisi bis ʒur Mündung des Sangro, mit Ausnahme">
+      <Coords points="96,1814 96,1825 1345,1822 1347,1811 1343,1788 764,1780 763,1780 717,1790 94,1790 96,1814" />
+      <Word id="l_0030-w_0001" text="Meere" error_score="0.000" />
+      <Word id="l_0030-w_0002" text="endlich" error_score="0.000" />
+      <Word id="l_0030-w_0003" text="iſt" error_score="0.000" />
+      <Word id="l_0030-w_0004" text="ſie" error_score="0.000" />
+      <Word id="l_0030-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0030-w_0006" text="Brindisi" error_score="0.000" />
+      <Word id="l_0030-w_0007" text="bis" error_score="0.000" />
+      <Word id="l_0030-w_0008" text="ʒur" error_score="0.000" />
+      <Word id="l_0030-w_0009" text="Mündung" error_score="0.000" />
+      <Word id="l_0030-w_0010" text="des" error_score="0.000" />
+      <Word id="l_0030-w_0011" text="Sangro," error_score="0.000" />
+      <Word id="l_0030-w_0012" text="mit" error_score="0.000" />
+      <Word id="l_0030-w_0013" text="Ausnahme" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0031" text="der Halbinſel des Monte Gargano flach, vom Sangro bis Rimini meiſt hoch und">
+      <Coords points="98,1848 98,1860 1345,1856 1347,1845 1343,1823 96,1823 98,1848" />
+      <Word id="l_0031-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0031-w_0002" text="Halbinſel" error_score="0.000" />
+      <Word id="l_0031-w_0003" text="des" error_score="0.000" />
+      <Word id="l_0031-w_0004" text="Monte" error_score="0.000" />
+      <Word id="l_0031-w_0005" text="Gargano" error_score="0.000" />
+      <Word id="l_0031-w_0006" text="flach," error_score="0.000" />
+      <Word id="l_0031-w_0007" text="vom" error_score="0.000" />
+      <Word id="l_0031-w_0008" text="Sangro" error_score="0.000" />
+      <Word id="l_0031-w_0009" text="bis" error_score="0.000" />
+      <Word id="l_0031-w_0010" text="Rimini" error_score="0.000" />
+      <Word id="l_0031-w_0011" text="meiſt" error_score="0.000" />
+      <Word id="l_0031-w_0012" text="hoch" error_score="0.000" />
+      <Word id="l_0031-w_0013" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0032" text="ſteil, von Rimini aber bis ʒum Jſonʒo wieder eben, niedrig und faſt durchweg von">
+      <Coords points="96,1883 96,1896 1343,1894 1345,1880 1340,1858 94,1860 96,1883" />
+      <Word id="l_0032-w_0001" text="ſteil," error_score="0.000" />
+      <Word id="l_0032-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0032-w_0003" text="Rimini" error_score="0.000" />
+      <Word id="l_0032-w_0004" text="aber" error_score="0.000" />
+      <Word id="l_0032-w_0005" text="bis" error_score="0.000" />
+      <Word id="l_0032-w_0006" text="ʒum" error_score="0.000" />
+      <Word id="l_0032-w_0007" text="Jſonʒo" error_score="0.000" />
+      <Word id="l_0032-w_0008" text="wieder" error_score="0.000" />
+      <Word id="l_0032-w_0009" text="eben," error_score="0.000" />
+      <Word id="l_0032-w_0010" text="niedrig" error_score="0.000" />
+      <Word id="l_0032-w_0011" text="und" error_score="0.000" />
+      <Word id="l_0032-w_0012" text="faſt" error_score="0.000" />
+      <Word id="l_0032-w_0013" text="durchweg" error_score="0.000" />
+      <Word id="l_0032-w_0014" text="von" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0033" text="einem mehr oder minder breiten Sumpfgürtel eingefaßt. Der Mittelmeerküſte liegen">
+      <Coords points="98,1918 98,1931 1347,1931 1347,1918 1347,1896 98,1896 98,1918" />
+      <Word id="l_0033-w_0001" text="einem" error_score="0.000" />
+      <Word id="l_0033-w_0002" text="mehr" error_score="0.000" />
+      <Word id="l_0033-w_0003" text="oder" error_score="0.000" />
+      <Word id="l_0033-w_0004" text="minder" error_score="0.000" />
+      <Word id="l_0033-w_0005" text="breiten" error_score="0.000" />
+      <Word id="l_0033-w_0006" text="Sumpfgürtel" error_score="0.000" />
+      <Word id="l_0033-w_0007" text="eingefaßt." error_score="0.000" />
+      <Word id="l_0033-w_0008" text="Der" error_score="0.000" />
+      <Word id="l_0033-w_0009" text="Mittelmeerküſte" error_score="0.000" />
+      <Word id="l_0033-w_0010" text="liegen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="die Jnſel Elba bei Piombino, die Jnſel del Giglio bei Orbetello, die vonti⸗">
+      <Coords points="96,1954 96,1967 1343,1962 1345,1950 1342,1928 512,1921 511,1921 395,1929 104,1923 102,1923 101,1923 99,1923 99,1924 94,1928 96,1954" />
+      <Word id="l_0034-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="Jnſel" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="Elba" error_score="0.000" />
+      <Word id="l_0034-w_0004" text="bei" error_score="0.000" />
+      <Word id="l_0034-w_0005" text="Piombino," error_score="0.000" />
+      <Word id="l_0034-w_0006" text="die" error_score="0.000" />
+      <Word id="l_0034-w_0007" text="Jnſel" error_score="0.000" />
+      <Word id="l_0034-w_0008" text="del" error_score="0.000" />
+      <Word id="l_0034-w_0009" text="Giglio" error_score="0.000" />
+      <Word id="l_0034-w_0010" text="bei" error_score="0.000" />
+      <Word id="l_0034-w_0011" text="Orbetello," error_score="0.000" />
+      <Word id="l_0034-w_0012" text="die" error_score="0.000" />
+      <Word id="l_0034-w_0013" text="vonti⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="niſchen Jnſeln bei Gaeta, Ischia, Procida und Capri bei Neapel und die">
+      <Coords points="96,1991 96,2002 337,2010 338,2010 1345,1999 1345,1986 1342,1964 929,1956 927,1956 926,1956 924,1956 914,1964 535,1958 533,1958 465,1966 128,1959 126,1959 125,1959 94,1967 96,1991" />
+      <Word id="l_0035-w_0001" text="niſchen" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="Jnſeln" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="bei" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="Gaeta," error_score="0.000" />
+      <Word id="l_0035-w_0005" text="Ischia," error_score="0.000" />
+      <Word id="l_0035-w_0006" text="Procida" error_score="0.000" />
+      <Word id="l_0035-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0035-w_0008" text="Capri" error_score="0.000" />
+      <Word id="l_0035-w_0009" text="bei" error_score="0.000" />
+      <Word id="l_0035-w_0010" text="Neapel" error_score="0.000" />
+      <Word id="l_0035-w_0011" text="und" error_score="0.000" />
+      <Word id="l_0035-w_0012" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="große Jnſel Sicilien als kontinentale Jnſeln vor.">
+      <Coords points="98,2024 96,2038 861,2038 862,2027 861,2002 98,1999 98,2024" />
+      <Word id="l_0036-w_0001" text="große" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="Jnſel" error_score="0.000" />
+      <Word id="l_0036-w_0003" text="Sicilien" error_score="0.000" />
+      <Word id="l_0036-w_0004" text="als" error_score="0.000" />
+      <Word id="l_0036-w_0005" text="kontinentale" error_score="0.000" />
+      <Word id="l_0036-w_0006" text="Jnſeln" error_score="0.000" />
+      <Word id="l_0036-w_0007" text="vor." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="b) Flüſſe, meiſt von geringer Größe.">
+      <Coords points="196,2106 196,2114 216,2125 218,2125 220,2125 221,2125 242,2116 261,2125 262,2125 264,2127 368,2127 368,2125 370,2125 372,2125 372,2124 381,2116 457,2124 459,2124 460,2124 462,2124 474,2114 561,2114 587,2124 588,2124 590,2124 706,2113 810,2122 812,2122 813,2122 846,2109 846,2102 845,2076 805,2065 804,2065 802,2065 763,2073 739,2064 737,2064 736,2064 734,2064 732,2064 718,2076 655,2076 630,2062 628,2062 626,2062 625,2062 569,2076 493,2067 492,2067 490,2067 489,2067 478,2076 440,2064 438,2064 436,2064 435,2064 387,2079 360,2079 345,2065 343,2065 341,2065 259,2065 258,2065 256,2065 254,2065 254,2067 243,2076 232,2067 232,2065 231,2065 229,2065 205,2065 204,2065 202,2065 201,2065 201,2067 199,2067 194,2070 196,2106" />
+      <Word id="l_0037-w_0001" text="b)" error_score="0.000" />
+      <Word id="l_0037-w_0002" text="Flüſſe," error_score="0.000" />
+      <Word id="l_0037-w_0003" text="meiſt" error_score="0.000" />
+      <Word id="l_0037-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0037-w_0005" text="geringer" error_score="0.000" />
+      <Word id="l_0037-w_0006" text="Größe." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="Jn das Mittelmeer fallen:">
+      <Coords points="250,2174 250,2184 487,2192 489,2192 612,2182 717,2190 718,2190 720,2190 753,2181 753,2171 750,2144 672,2133 671,2133 669,2133 652,2143 641,2133 639,2133 637,2133 636,2133 634,2133 633,2133 633,2135 623,2144 560,2144 516,2133 514,2133 302,2144 264,2135 262,2135 261,2135 259,2135 258,2135 258,2136 248,2143 250,2174" />
+      <Word id="l_0038-w_0001" text="Jn" error_score="0.274" />
+      <Word id="l_0038-w_0002" text="das" error_score="0.274" />
+      <Word id="l_0038-w_0003" text="Mittelmeer" error_score="0.274" />
+      <Word id="l_0038-w_0004" text="fallen:" error_score="0.274" />
+    </TextLine>
+    <TextLine id="l_0039" text="1. Der Arno, vom Monte Falterona. Mündung bei Piſa:">
+      <Coords points="199,2238 199,2247 1245,2242 1247,2233 1244,2208 1174,2195 1173,2195 1171,2195 1139,2206 1092,2195 1090,2195 1089,2195 1087,2195 1087,2196 1074,2208 1005,2208 997,2200 997,2198 995,2198 994,2198 992,2198 990,2198 971,2204 907,2195 905,2195 903,2195 902,2195 902,2196 891,2209 780,2209 763,2196 761,2196 759,2196 758,2196 756,2196 755,2196 740,2206 709,2196 707,2196 706,2196 704,2196 682,2208 661,2198 660,2198 658,2198 625,2204 573,2196 571,2196 569,2196 568,2196 568,2198 555,2209 402,2209 348,2198 346,2198 345,2198 343,2198 327,2209 262,2198 261,2198 259,2198 234,2209 216,2198 215,2198 213,2198 212,2198 210,2198 208,2198 208,2200 197,2208 199,2238" />
+      <Word id="l_0039-w_0001" text="1." error_score="0.264" />
+      <Word id="l_0039-w_0002" text="Der" error_score="0.264" />
+      <Word id="l_0039-w_0003" text="Arno," error_score="0.264" />
+      <Word id="l_0039-w_0004" text="vom" error_score="0.264" />
+      <Word id="l_0039-w_0005" text="Monte" error_score="0.264" />
+      <Word id="l_0039-w_0006" text="Falterona." error_score="0.264" />
+      <Word id="l_0039-w_0007" text="Mündung" error_score="0.264" />
+      <Word id="l_0039-w_0008" text="bei" error_score="0.264" />
+      <Word id="l_0039-w_0009" text="Piſa:" error_score="0.264" />
+    </TextLine>
+    <TextLine id="l_0040" text="von Florenʒ an, doch nur für Barken ſchiffbar; im Oberlaufe durchfließt er die von">
+      <Coords points="1345,2257 98,2255 98,2279 96,2290 148,2299 150,2299 663,2293 725,2301 726,2301 1347,2293 1348,2282 1347,2258 1345,2257" />
+      <Word id="l_0040-w_0001" text="von" error_score="0.099" />
+      <Word id="l_0040-w_0002" text="Florenʒ" error_score="0.099" />
+      <Word id="l_0040-w_0003" text="an," error_score="0.099" />
+      <Word id="l_0040-w_0004" text="doch" error_score="0.099" />
+      <Word id="l_0040-w_0005" text="nur" error_score="0.099" />
+      <Word id="l_0040-w_0006" text="für" error_score="0.099" />
+      <Word id="l_0040-w_0007" text="Barken" error_score="0.099" />
+      <Word id="l_0040-w_0008" text="ſchiffbar;" error_score="0.099" />
+      <Word id="l_0040-w_0009" text="im" error_score="0.099" />
+      <Word id="l_0040-w_0010" text="Oberlaufe" error_score="0.099" />
+      <Word id="l_0040-w_0011" text="durchfließt" error_score="0.099" />
+      <Word id="l_0040-w_0012" text="er" error_score="0.099" />
+      <Word id="l_0040-w_0013" text="die" error_score="0.099" />
+      <Word id="l_0040-w_0014" text="von" error_score="0.099" />
+    </TextLine>
+    <TextLine id="l_0041" text="Hügeln und Bergen mehr oder minder eng umſtandene Val d'Arno, tritt bei Flo⸗">
+      <Coords points="99,2317 99,2329 1347,2329 1347,2317 1347,2294 99,2291 99,2317" />
+      <Word id="l_0041-w_0001" text="Hügeln" error_score="0.000" />
+      <Word id="l_0041-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0041-w_0003" text="Bergen" error_score="0.000" />
+      <Word id="l_0041-w_0004" text="mehr" error_score="0.000" />
+      <Word id="l_0041-w_0005" text="oder" error_score="0.000" />
+      <Word id="l_0041-w_0006" text="minder" error_score="0.000" />
+      <Word id="l_0041-w_0007" text="eng" error_score="0.000" />
+      <Word id="l_0041-w_0008" text="umſtandene" error_score="0.000" />
+      <Word id="l_0041-w_0009" text="Val" error_score="0.000" />
+      <Word id="l_0041-w_0010" text="d'Arno," error_score="0.000" />
+      <Word id="l_0041-w_0011" text="tritt" error_score="0.000" />
+      <Word id="l_0041-w_0012" text="bei" error_score="0.000" />
+      <Word id="l_0041-w_0013" text="Flo⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0042" text="renʒ auf eine kurʒe Strecke in ein breites Thalbecken aus, durchbricht vor Empoli">
+      <Coords points="99,2351 99,2366 1347,2366 1347,2351 1345,2328 99,2328 99,2351" />
+      <Word id="l_0042-w_0001" text="renʒ" error_score="0.000" />
+      <Word id="l_0042-w_0002" text="auf" error_score="0.000" />
+      <Word id="l_0042-w_0003" text="eine" error_score="0.000" />
+      <Word id="l_0042-w_0004" text="kurʒe" error_score="0.000" />
+      <Word id="l_0042-w_0005" text="Strecke" error_score="0.000" />
+      <Word id="l_0042-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0042-w_0007" text="ein" error_score="0.000" />
+      <Word id="l_0042-w_0008" text="breites" error_score="0.000" />
+      <Word id="l_0042-w_0009" text="Thalbecken" error_score="0.000" />
+      <Word id="l_0042-w_0010" text="aus," error_score="0.000" />
+      <Word id="l_0042-w_0011" text="durchbricht" error_score="0.000" />
+      <Word id="l_0042-w_0012" text="vor" error_score="0.000" />
+      <Word id="l_0042-w_0013" text="Empoli" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0043" text="den Subapennin mit einem engen ſteilrandigen Einſchnitte, und durchʒieht nun das">
+      <Coords points="99,2369 99,2385 98,2397 174,2407 175,2407 609,2400 740,2408 742,2408 1343,2400 1345,2388 1343,2364 109,2359 99,2369" />
+      <Word id="l_0043-w_0001" text="den" error_score="0.000" />
+      <Word id="l_0043-w_0002" text="Subapennin" error_score="0.000" />
+      <Word id="l_0043-w_0003" text="mit" error_score="0.000" />
+      <Word id="l_0043-w_0004" text="einem" error_score="0.000" />
+      <Word id="l_0043-w_0005" text="engen" error_score="0.000" />
+      <Word id="l_0043-w_0006" text="ſteilrandigen" error_score="0.000" />
+      <Word id="l_0043-w_0007" text="Einſchnitte," error_score="0.000" />
+      <Word id="l_0043-w_0008" text="und" error_score="0.000" />
+      <Word id="l_0043-w_0009" text="durchʒieht" error_score="0.000" />
+      <Word id="l_0043-w_0010" text="nun" error_score="0.000" />
+      <Word id="l_0043-w_0011" text="das" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0044" text="ebene Land bis ʒum Meere mit flachen Ufern.">
+      <Coords points="99,2419 98,2432 332,2443 334,2443 775,2437 777,2424 775,2402 565,2402 554,2393 552,2393 550,2393 549,2393 99,2396 99,2419" />
+      <Word id="l_0044-w_0001" text="ebene" error_score="0.000" />
+      <Word id="l_0044-w_0002" text="Land" error_score="0.000" />
+      <Word id="l_0044-w_0003" text="bis" error_score="0.000" />
+      <Word id="l_0044-w_0004" text="ʒum" error_score="0.000" />
+      <Word id="l_0044-w_0005" text="Meere" error_score="0.000" />
+      <Word id="l_0044-w_0006" text="mit" error_score="0.000" />
+      <Word id="l_0044-w_0007" text="flachen" error_score="0.000" />
+      <Word id="l_0044-w_0008" text="Ufern." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0045" text="148">
+      <Coords points="1185,2438 1130,2438 1130,2465 1130,2478 1168,2486 1169,2486 1171,2486 1190,2476 1190,2465 1190,2462 1185,2438" />
+      <Word id="l_0045-w_0001" text="148" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+</Page>

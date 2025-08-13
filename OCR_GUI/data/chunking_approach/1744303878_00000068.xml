@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1744303878_00000068.bin.png" imageHeight="2802" imageWidth="1730" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="406,404 1692,417 1692,1835 1667,1885 1505,1917 1686,1986 1692,2414 1673,2482 386,2464 406,404" />
+    <TextLine id="l_0001" text="Weſten die Weſt⸗Ghats (2600 m), im Oſten die Oſt⸗Ghats (1300 m).">
+      <Coords points="1663,415 1647,415 1638,415 1606,420 1599,415 1585,415 1569,415 1554,415 1538,415 1536,414 1479,418 1440,414 1429,414 1413,414 1398,414 1390,414 1356,418 1331,412 1320,412 1304,412 1303,412 1287,417 1256,412 1242,412 1227,412 1211,412 1174,417 1149,410 1133,410 1121,410 1107,415 1024,409 1024,409 1009,409 993,409 991,409 954,415 918,409 915,409 900,409 884,407 876,407 787,414 773,407 759,407 744,407 742,407 713,412 644,406 635,406 619,406 618,406 599,412 590,406 588,406 573,406 557,404 543,404 401,409 401,440 400,449 462,460 464,460 551,452 691,462 692,462 694,462 719,454 769,463 770,463 829,456 847,463 848,463 850,463 962,457 993,465 995,465 996,465 1108,457 1141,467 1142,467 1144,467 1287,459 1325,468 1326,468 1328,468 1487,460 1502,470 1504,470 1505,470 1507,470 1599,462 1666,470 1667,470 1669,470 1686,460 1687,451 1687,421 1669,415 1663,415" />
+      <Word id="l_0001-w_0001" text="Weſten" error_score="0.000" />
+      <Word id="l_0001-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0001-w_0003" text="Weſt⸗Ghats" error_score="0.000" />
+      <Word id="l_0001-w_0004" text="(2600" error_score="0.000" />
+      <Word id="l_0001-w_0005" text="m)," error_score="0.000" />
+      <Word id="l_0001-w_0006" text="im" error_score="0.000" />
+      <Word id="l_0001-w_0007" text="Oſten" error_score="0.000" />
+      <Word id="l_0001-w_0008" text="die" error_score="0.000" />
+      <Word id="l_0001-w_0009" text="Oſt⸗Ghats" error_score="0.000" />
+      <Word id="l_0001-w_0010" text="(1300" error_score="0.000" />
+      <Word id="l_0001-w_0011" text="m)." error_score="0.031" />
+    </TextLine>
+    <TextLine id="l_0002" text="Anſehnliche Flüſſe, der Godavari und der Kriſchna ſtrömen aus">
+      <Coords points="403,493 401,504 457,515 459,515 622,509 633,516 635,516 636,516 638,518 755,518 755,516 756,516 758,516 770,509 798,516 800,516 801,516 878,510 889,518 890,518 892,518 893,518 1262,513 1322,523 1323,523 1687,515 1689,504 1683,473 1675,468 1673,468 1672,468 1670,468 1669,468 1645,477 1519,477 1504,465 1502,465 1501,465 1499,465 1392,476 1322,463 1320,463 1239,474 1188,463 1186,463 1184,463 1153,474 1139,462 1138,462 1136,462 1135,462 1133,462 1104,474 1058,474 1040,462 1038,462 1037,462 1035,462 1033,462 993,473 959,473 945,460 943,460 942,460 890,460 889,460 887,460 886,460 870,471 819,471 806,460 805,460 803,460 801,460 800,460 777,471 728,459 727,459 644,459 643,459 641,459 639,459 625,470 585,457 583,457 582,457 403,460 403,493" />
+      <Word id="l_0002-w_0001" text="Anſehnliche" error_score="0.031" />
+      <Word id="l_0002-w_0002" text="Flüſſe," error_score="0.031" />
+      <Word id="l_0002-w_0003" text="der" error_score="0.031" />
+      <Word id="l_0002-w_0004" text="Godavari" error_score="0.031" />
+      <Word id="l_0002-w_0005" text="und" error_score="0.031" />
+      <Word id="l_0002-w_0006" text="der" error_score="0.031" />
+      <Word id="l_0002-w_0007" text="Kriſchna" error_score="0.031" />
+      <Word id="l_0002-w_0008" text="ſtrömen" error_score="0.031" />
+      <Word id="l_0002-w_0009" text="aus" error_score="0.031" />
+    </TextLine>
+    <TextLine id="l_0003" text="Dekhan dem Meere ʒu.">
+      <Coords points="401,524 401,546 400,557 490,568 492,568 843,565 845,554 843,527 714,526 669,513 668,513 666,513 664,513 641,524 582,524 571,513 571,512 569,512 568,512 566,512 510,521 490,510 488,510 487,510 442,519 412,510 411,510 409,510 407,510 401,524" />
+      <Word id="l_0003-w_0001" text="Dekhan" error_score="0.352" />
+      <Word id="l_0003-w_0002" text="dem" error_score="0.352" />
+      <Word id="l_0003-w_0003" text="Meere" error_score="0.352" />
+      <Word id="l_0003-w_0004" text="ʒu." error_score="0.352" />
+    </TextLine>
+    <TextLine id="l_0004" text="Tropiſche Hitʒe und überreiche Bewäſſerung haben ſich in Jndien vereinigt,">
+      <Coords points="507,603 506,613 625,625 627,625 738,617 745,624 745,625 747,625 748,625 750,625 814,619 926,628 928,628 929,628 960,621 1149,632 1150,632 1290,625 1334,635 1336,635 1415,627 1426,635 1427,635 1429,635 1431,635 1546,628 1673,638 1675,638 1677,638 1678,638 1686,630 1687,619 1687,594 1642,585 1641,585 1594,593 1488,583 1487,583 1454,589 1445,582 1443,582 1441,582 1440,582 1351,589 1337,580 1336,580 1334,580 1332,580 1278,588 1208,579 1206,579 1110,586 1091,577 1090,577 1088,577 1021,585 934,575 932,575 931,575 900,583 843,574 842,574 840,574 811,582 717,582 706,572 705,572 703,572 702,572 658,580 622,571 621,571 619,571 507,575 507,603" />
+      <Word id="l_0004-w_0001" text="Tropiſche" error_score="0.352" />
+      <Word id="l_0004-w_0002" text="Hitʒe" error_score="0.352" />
+      <Word id="l_0004-w_0003" text="und" error_score="0.352" />
+      <Word id="l_0004-w_0004" text="überreiche" error_score="0.352" />
+      <Word id="l_0004-w_0005" text="Bewäſſerung" error_score="0.352" />
+      <Word id="l_0004-w_0006" text="haben" error_score="0.352" />
+      <Word id="l_0004-w_0007" text="ſich" error_score="0.014" />
+      <Word id="l_0004-w_0008" text="in" error_score="0.014" />
+      <Word id="l_0004-w_0009" text="Jndien" error_score="0.014" />
+      <Word id="l_0004-w_0010" text="vereinigt," error_score="0.014" />
+    </TextLine>
+    <TextLine id="l_0005" text="um einen ſo kraftſtrotʒenden Pflanʒenwuchs hervorʒubringen, wie er ſich ſonſt nur in">
+      <Coords points="400,647 398,660 1684,675 1687,663 1687,639 1664,632 1663,632 1661,632 1572,638 1560,630 1558,630 1557,630 1555,630 1431,636 1365,628 1364,628 1058,632 1044,624 1043,624 1041,624 1040,624 694,627 655,619 654,619 400,624 400,647" />
+      <Word id="l_0005-w_0001" text="um" error_score="0.014" />
+      <Word id="l_0005-w_0002" text="einen" error_score="0.014" />
+      <Word id="l_0005-w_0003" text="ſo" error_score="0.014" />
+      <Word id="l_0005-w_0004" text="kraftſtrotʒenden" error_score="0.014" />
+      <Word id="l_0005-w_0005" text="Pflanʒenwuchs" error_score="0.014" />
+      <Word id="l_0005-w_0006" text="hervorʒubringen," error_score="0.014" />
+      <Word id="l_0005-w_0007" text="wie" error_score="0.002" />
+      <Word id="l_0005-w_0008" text="er" error_score="0.002" />
+      <Word id="l_0005-w_0009" text="ſich" error_score="0.002" />
+      <Word id="l_0005-w_0010" text="ſonſt" error_score="0.002" />
+      <Word id="l_0005-w_0011" text="nur" error_score="0.002" />
+      <Word id="l_0005-w_0012" text="in" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0006" text="wenigen Gegenden der heißen Ʒone wieder findet. Doch ſind gerade die frucht⸗">
+      <Coords points="400,695 398,705 471,714 473,714 574,708 587,716 588,716 590,716 591,717 1686,717 1687,706 1687,683 1652,674 1650,674 1649,674 1580,681 1476,674 1474,674 1385,680 1374,672 1373,672 1371,672 1370,672 1317,678 1301,670 1300,670 1298,670 1199,678 1133,669 1132,669 1130,669 1105,677 1027,669 1026,669 971,677 926,667 924,667 872,675 784,667 783,667 781,667 780,667 769,675 720,666 719,666 717,666 702,674 641,666 639,666 638,666 608,674 576,664 574,664 573,664 400,670 400,695" />
+      <Word id="l_0006-w_0001" text="wenigen" error_score="0.002" />
+      <Word id="l_0006-w_0002" text="Gegenden" error_score="0.002" />
+      <Word id="l_0006-w_0003" text="der" error_score="0.002" />
+      <Word id="l_0006-w_0004" text="heißen" error_score="0.002" />
+      <Word id="l_0006-w_0005" text="Ʒone" error_score="0.003" />
+      <Word id="l_0006-w_0006" text="wieder" error_score="0.003" />
+      <Word id="l_0006-w_0007" text="findet." error_score="0.003" />
+      <Word id="l_0006-w_0008" text="Doch" error_score="0.003" />
+      <Word id="l_0006-w_0009" text="ſind" error_score="0.003" />
+      <Word id="l_0006-w_0010" text="gerade" error_score="0.003" />
+      <Word id="l_0006-w_0011" text="die" error_score="0.003" />
+      <Word id="l_0006-w_0012" text="frucht⸗" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0007" text="barſten Gebiete für den Menſchen die ungeſundeſten. Die regenreichſten Gebiete">
+      <Coords points="400,737 398,748 451,758 453,758 532,751 541,759 543,759 545,759 546,761 1354,761 1401,768 1402,768 1686,762 1687,751 1687,730 1641,720 1639,720 1546,726 1513,719 1511,719 1510,719 1401,725 1199,716 1197,716 1133,722 1114,714 1113,714 1111,714 1005,720 826,711 825,711 400,711 400,737" />
+      <Word id="l_0007-w_0001" text="barſten" error_score="0.003" />
+      <Word id="l_0007-w_0002" text="Gebiete" error_score="0.003" />
+      <Word id="l_0007-w_0003" text="für" error_score="0.003" />
+      <Word id="l_0007-w_0004" text="den" error_score="0.002" />
+      <Word id="l_0007-w_0005" text="Menſchen" error_score="0.002" />
+      <Word id="l_0007-w_0006" text="die" error_score="0.002" />
+      <Word id="l_0007-w_0007" text="ungeſundeſten." error_score="0.002" />
+      <Word id="l_0007-w_0008" text="Die" error_score="0.002" />
+      <Word id="l_0007-w_0009" text="regenreichſten" error_score="0.002" />
+      <Word id="l_0007-w_0010" text="Gebiete" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0008" text="liegen am Südabhang des Himalaya. Hier giebt es Gegenden, in welchen an einem">
+      <Coords points="400,784 398,795 437,804 439,804 559,798 722,807 724,809 1686,809 1687,797 1686,773 1494,764 1493,764 1365,770 1312,762 1311,762 1205,768 1146,761 1144,761 1054,767 1041,759 1040,759 1038,759 1037,759 440,761 400,753 400,784" />
+      <Word id="l_0008-w_0001" text="liegen" error_score="0.002" />
+      <Word id="l_0008-w_0002" text="am" error_score="0.002" />
+      <Word id="l_0008-w_0003" text="Südabhang" error_score="0.002" />
+      <Word id="l_0008-w_0004" text="des" error_score="0.003" />
+      <Word id="l_0008-w_0005" text="Himalaya." error_score="0.003" />
+      <Word id="l_0008-w_0006" text="Hier" error_score="0.003" />
+      <Word id="l_0008-w_0007" text="giebt" error_score="0.003" />
+      <Word id="l_0008-w_0008" text="es" error_score="0.003" />
+      <Word id="l_0008-w_0009" text="Gegenden," error_score="0.003" />
+      <Word id="l_0008-w_0010" text="in" error_score="0.003" />
+      <Word id="l_0008-w_0011" text="welchen" error_score="0.003" />
+      <Word id="l_0008-w_0012" text="an" error_score="0.003" />
+      <Word id="l_0008-w_0013" text="einem" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0009" text="Tage mehr Regenwaſſer ʒur Erde fällt, als durchſchnittlich in Europa auf eine">
+      <Coords points="400,829 398,840 445,849 446,849 878,846 1206,857 1208,857 1686,853 1687,842 1687,820 1644,811 1642,811 1529,817 1337,807 1336,807 1251,814 1202,806 1200,806 1043,812 1027,804 1026,804 400,804 400,829" />
+      <Word id="l_0009-w_0001" text="Tage" error_score="0.007" />
+      <Word id="l_0009-w_0002" text="mehr" error_score="0.007" />
+      <Word id="l_0009-w_0003" text="Regenwaſſer" error_score="0.007" />
+      <Word id="l_0009-w_0004" text="ʒur" error_score="0.007" />
+      <Word id="l_0009-w_0005" text="Erde" error_score="0.007" />
+      <Word id="l_0009-w_0006" text="fällt," error_score="0.007" />
+      <Word id="l_0009-w_0007" text="als" error_score="0.007" />
+      <Word id="l_0009-w_0008" text="durchſchnittlich" error_score="0.007" />
+      <Word id="l_0009-w_0009" text="in" error_score="0.007" />
+      <Word id="l_0009-w_0010" text="Europa" error_score="0.007" />
+      <Word id="l_0009-w_0011" text="auf" error_score="0.010" />
+      <Word id="l_0009-w_0012" text="eine" error_score="0.010" />
+    </TextLine>
+    <TextLine id="l_0010" text="gleich große Fläche in einem ganʒen Jahre.">
+      <Coords points="401,853 401,873 400,887 474,895 476,895 478,895 479,895 488,887 510,896 512,896 513,896 588,888 596,895 596,896 597,896 599,896 660,898 661,898 663,898 691,890 840,890 847,899 848,899 848,901 850,901 851,901 853,901 957,893 968,902 970,902 971,902 973,902 1071,893 1072,882 1071,859 403,849 401,853" />
+      <Word id="l_0010-w_0001" text="gleich" error_score="0.010" />
+      <Word id="l_0010-w_0002" text="große" error_score="0.010" />
+      <Word id="l_0010-w_0003" text="Fläche" error_score="0.010" />
+      <Word id="l_0010-w_0004" text="in" error_score="0.010" />
+      <Word id="l_0010-w_0005" text="einem" error_score="0.010" />
+      <Word id="l_0010-w_0006" text="ganʒen" error_score="0.010" />
+      <Word id="l_0010-w_0007" text="Jahre." error_score="0.010" />
+    </TextLine>
+    <TextLine id="l_0011" text="Vorderindien iſt reich an wertvollen Bodenprodukten; ʒur Fruchtbarkeit des">
+      <Coords points="507,929 506,940 1684,952 1687,941 1686,918 507,902 507,929" />
+      <Word id="l_0011-w_0001" text="Vorderindien" error_score="0.010" />
+      <Word id="l_0011-w_0002" text="iſt" error_score="0.003" />
+      <Word id="l_0011-w_0003" text="reich" error_score="0.003" />
+      <Word id="l_0011-w_0004" text="an" error_score="0.003" />
+      <Word id="l_0011-w_0005" text="wertvollen" error_score="0.003" />
+      <Word id="l_0011-w_0006" text="Bodenprodukten;" error_score="0.003" />
+      <Word id="l_0011-w_0007" text="ʒur" error_score="0.003" />
+      <Word id="l_0011-w_0008" text="Fruchtbarkeit" error_score="0.003" />
+      <Word id="l_0011-w_0009" text="des" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0012" text="Bodens geſellt ſich die fleißʒige Bewirtſchaftung. Die Felder und Plantagen liefern">
+      <Coords points="400,974 398,985 563,996 565,996 1203,994 1222,1002 1223,1002 1225,1002 1339,996 1526,1005 1527,1005 1686,997 1687,986 1687,963 1606,954 1605,954 1524,960 1455,952 1454,952 1365,958 1272,951 1270,951 1203,957 1191,949 1189,949 1188,949 1186,949 1058,955 1041,948 1040,948 400,948 400,974" />
+      <Word id="l_0012-w_0001" text="Bodens" error_score="0.003" />
+      <Word id="l_0012-w_0002" text="geſellt" error_score="0.003" />
+      <Word id="l_0012-w_0003" text="ſich" error_score="0.001" />
+      <Word id="l_0012-w_0004" text="die" error_score="0.001" />
+      <Word id="l_0012-w_0005" text="fleißʒige" error_score="0.001" />
+      <Word id="l_0012-w_0006" text="Bewirtſchaftung." error_score="0.001" />
+      <Word id="l_0012-w_0007" text="Die" error_score="0.001" />
+      <Word id="l_0012-w_0008" text="Felder" error_score="0.001" />
+      <Word id="l_0012-w_0009" text="und" error_score="0.001" />
+      <Word id="l_0012-w_0010" text="Plantagen" error_score="0.001" />
+      <Word id="l_0012-w_0011" text="liefern" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0013" text="Reis, Weiʒen, Ʒuckerrohr, Kaffee, Thee, Pfeffer und andere Gewürʒe, ferner Baum⸗">
+      <Coords points="400,1019 398,1030 1683,1044 1686,1033 1686,1010 1600,1000 1599,1000 1507,1007 1496,999 1494,999 1493,999 1491,999 1427,1007 1353,997 1351,997 1270,1005 1259,996 1258,996 1256,996 1255,996 1130,1004 1099,994 1097,994 1096,994 982,1002 966,993 965,993 963,993 962,993 890,1000 828,991 826,991 825,991 803,999 766,991 764,991 763,991 738,999 652,990 650,990 649,990 622,997 532,988 530,988 487,996 400,993 400,1019" />
+      <Word id="l_0013-w_0001" text="Reis," error_score="0.001" />
+      <Word id="l_0013-w_0002" text="Weiʒen," error_score="0.002" />
+      <Word id="l_0013-w_0003" text="Ʒuckerrohr," error_score="0.002" />
+      <Word id="l_0013-w_0004" text="Kaffee," error_score="0.002" />
+      <Word id="l_0013-w_0005" text="Thee," error_score="0.002" />
+      <Word id="l_0013-w_0006" text="Pfeffer" error_score="0.002" />
+      <Word id="l_0013-w_0007" text="und" error_score="0.002" />
+      <Word id="l_0013-w_0008" text="andere" error_score="0.002" />
+      <Word id="l_0013-w_0009" text="Gewürʒe," error_score="0.002" />
+      <Word id="l_0013-w_0010" text="ferner" error_score="0.002" />
+      <Word id="l_0013-w_0011" text="Baum⸗" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0014" text="wolle, Jndigo und Mohn (ʒur Opiumbereitung); die Wälder enthalten ausgeʒeichnete">
+      <Coords points="401,1064 400,1075 1116,1092 1118,1092 1686,1089 1687,1078 1686,1053 401,1039 401,1064" />
+      <Word id="l_0014-w_0001" text="wolle," error_score="0.002" />
+      <Word id="l_0014-w_0002" text="Jndigo" error_score="0.011" />
+      <Word id="l_0014-w_0003" text="und" error_score="0.011" />
+      <Word id="l_0014-w_0004" text="Mohn" error_score="0.011" />
+      <Word id="l_0014-w_0005" text="(ʒur" error_score="0.011" />
+      <Word id="l_0014-w_0006" text="Opiumbereitung);" error_score="0.011" />
+      <Word id="l_0014-w_0007" text="die" error_score="0.011" />
+      <Word id="l_0014-w_0008" text="Wälder" error_score="0.011" />
+      <Word id="l_0014-w_0009" text="enthalten" error_score="0.011" />
+      <Word id="l_0014-w_0010" text="ausgeʒeichnete" error_score="0.011" />
+    </TextLine>
+    <TextLine id="l_0015" text="Nutʒhölʒer; an den Abhängen des Himalaya iſt der Fieberrindenbaum, eine der">
+      <Coords points="400,1108 398,1120 409,1128 411,1128 412,1128 414,1128 650,1123 829,1133 831,1134 1684,1134 1686,1122 1684,1100 1638,1091 1636,1091 1635,1091 1633,1091 1620,1099 1577,1091 1575,1091 1574,1091 1572,1091 1560,1099 1483,1099 1463,1089 1462,1089 1460,1089 1417,1097 1384,1088 1382,1088 1381,1088 1379,1088 1357,1095 1272,1088 1270,1088 1269,1088 1267,1088 1256,1095 1200,1086 1199,1086 1116,1094 1065,1084 1063,1084 1026,1092 943,1083 942,1083 940,1083 920,1091 907,1083 906,1083 904,1083 903,1083 829,1091 806,1081 805,1081 731,1081 730,1081 728,1081 727,1081 716,1089 660,1081 658,1081 560,1088 520,1078 518,1078 516,1078 400,1083 400,1108" />
+      <Word id="l_0015-w_0001" text="Nutʒhölʒer;" error_score="0.011" />
+      <Word id="l_0015-w_0002" text="an" error_score="0.019" />
+      <Word id="l_0015-w_0003" text="den" error_score="0.019" />
+      <Word id="l_0015-w_0004" text="Abhängen" error_score="0.019" />
+      <Word id="l_0015-w_0005" text="des" error_score="0.019" />
+      <Word id="l_0015-w_0006" text="Himalaya" error_score="0.019" />
+      <Word id="l_0015-w_0007" text="iſt" error_score="0.019" />
+      <Word id="l_0015-w_0008" text="der" error_score="0.019" />
+      <Word id="l_0015-w_0009" text="Fieberrindenbaum," error_score="0.019" />
+      <Word id="l_0015-w_0010" text="eine" error_score="0.019" />
+      <Word id="l_0015-w_0011" text="der" error_score="0.019" />
+    </TextLine>
+    <TextLine id="l_0016" text="nütʒlichſten Arʒneipflanʒen, heimiſch geworden — Die Tierwelt iſt durch ʒablreiche">
+      <Coords points="398,1156 397,1165 440,1175 442,1175 555,1169 608,1176 610,1176 1174,1175 1533,1186 1535,1186 1684,1178 1686,1169 1686,1145 1661,1136 1659,1136 1658,1136 1529,1142 1521,1136 1521,1134 1519,1134 1518,1134 1516,1134 1378,1141 1364,1133 1362,1133 1360,1133 398,1133 398,1156" />
+      <Word id="l_0016-w_0001" text="nütʒlichſten" error_score="0.060" />
+      <Word id="l_0016-w_0002" text="Arʒneipflanʒen," error_score="0.060" />
+      <Word id="l_0016-w_0003" text="heimiſch" error_score="0.060" />
+      <Word id="l_0016-w_0004" text="geworden" error_score="0.060" />
+      <Word id="l_0016-w_0005" text="—" error_score="0.060" />
+      <Word id="l_0016-w_0006" text="Die" error_score="0.060" />
+      <Word id="l_0016-w_0007" text="Tierwelt" error_score="0.060" />
+      <Word id="l_0016-w_0008" text="iſt" error_score="0.060" />
+      <Word id="l_0016-w_0009" text="durch" error_score="0.060" />
+      <Word id="l_0016-w_0010" text="ʒablreiche" error_score="0.060" />
+    </TextLine>
+    <TextLine id="l_0017" text="Arten vertreten; ʒu erwähnen iſt beſonders der Elefant (wird auch als Haustier">
+      <Coords points="400,1198 398,1209 414,1218 415,1218 417,1218 912,1217 952,1225 954,1225 1281,1221 1297,1229 1298,1229 1300,1229 1683,1225 1684,1214 1683,1190 400,1173 400,1198" />
+      <Word id="l_0017-w_0001" text="Arten" error_score="0.014" />
+      <Word id="l_0017-w_0002" text="vertreten;" error_score="0.014" />
+      <Word id="l_0017-w_0003" text="ʒu" error_score="0.014" />
+      <Word id="l_0017-w_0004" text="erwähnen" error_score="0.014" />
+      <Word id="l_0017-w_0005" text="iſt" error_score="0.014" />
+      <Word id="l_0017-w_0006" text="beſonders" error_score="0.014" />
+      <Word id="l_0017-w_0007" text="der" error_score="0.014" />
+      <Word id="l_0017-w_0008" text="Elefant" error_score="0.014" />
+      <Word id="l_0017-w_0009" text="(wird" error_score="0.014" />
+      <Word id="l_0017-w_0010" text="auch" error_score="0.014" />
+      <Word id="l_0017-w_0011" text="als" error_score="0.002" />
+      <Word id="l_0017-w_0012" text="Haustier" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0018" text="geʒüchtet). Auch wertvolle Mineralien fehlen dieſem herrlichen Lande nicht. Der">
+      <Coords points="400,1246 400,1260 822,1260 1013,1270 1015,1270 1111,1264 1163,1271 1164,1271 1230,1265 1326,1273 1328,1273 1395,1267 1407,1274 1409,1274 1410,1274 1412,1274 1504,1268 1543,1276 1544,1276 1683,1268 1684,1260 1683,1235 1533,1225 1532,1225 1530,1225 1508,1232 1339,1223 1337,1223 1261,1229 1251,1221 1250,1221 1248,1221 1247,1221 1245,1221 1213,1229 1128,1221 1127,1221 1125,1221 1124,1221 1114,1229 1071,1220 1069,1220 974,1226 963,1218 962,1218 960,1218 959,1218 957,1218 924,1226 875,1218 873,1218 805,1225 794,1217 792,1217 791,1217 789,1217 661,1223 650,1215 649,1215 647,1215 646,1215 546,1223 532,1214 530,1214 529,1214 527,1214 400,1220 400,1246" />
+      <Word id="l_0018-w_0001" text="geʒüchtet)." error_score="0.002" />
+      <Word id="l_0018-w_0002" text="Auch" error_score="0.002" />
+      <Word id="l_0018-w_0003" text="wertvolle" error_score="0.002" />
+      <Word id="l_0018-w_0004" text="Mineralien" error_score="0.002" />
+      <Word id="l_0018-w_0005" text="fehlen" error_score="0.002" />
+      <Word id="l_0018-w_0006" text="dieſem" error_score="0.002" />
+      <Word id="l_0018-w_0007" text="herrlichen" error_score="0.002" />
+      <Word id="l_0018-w_0008" text="Lande" error_score="0.002" />
+      <Word id="l_0018-w_0009" text="nicht." error_score="0.002" />
+      <Word id="l_0018-w_0010" text="Der" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0019" text="Schoß der Erde birgt Diamanten von beſonderer Reinheit, ferner Gold, Eiſen und">
+      <Coords points="400,1292 398,1301 1680,1313 1683,1304 1681,1279 1538,1270 1536,1270 1535,1270 1533,1270 1522,1278 1485,1268 1483,1268 1482,1268 1227,1273 1194,1265 1192,1265 1191,1265 1094,1273 1082,1265 1080,1265 1079,1265 1077,1265 1075,1265 1057,1273 1043,1264 1041,1264 1040,1264 1038,1264 991,1273 887,1273 873,1264 872,1264 870,1264 868,1264 798,1270 783,1262 781,1262 780,1262 734,1270 685,1260 683,1260 682,1260 647,1268 516,1259 515,1259 400,1265 400,1292" />
+      <Word id="l_0019-w_0001" text="Schoß" error_score="0.002" />
+      <Word id="l_0019-w_0002" text="der" error_score="0.002" />
+      <Word id="l_0019-w_0003" text="Erde" error_score="0.002" />
+      <Word id="l_0019-w_0004" text="birgt" error_score="0.002" />
+      <Word id="l_0019-w_0005" text="Diamanten" error_score="0.002" />
+      <Word id="l_0019-w_0006" text="von" error_score="0.002" />
+      <Word id="l_0019-w_0007" text="beſonderer" error_score="0.002" />
+      <Word id="l_0019-w_0008" text="Reinheit," error_score="0.002" />
+      <Word id="l_0019-w_0009" text="ferner" error_score="0.001" />
+      <Word id="l_0019-w_0010" text="Gold," error_score="0.001" />
+      <Word id="l_0019-w_0011" text="Eiſen" error_score="0.001" />
+      <Word id="l_0019-w_0012" text="und" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0020" text="andere Metalle; in letʒter Ʒeit ſind auch große Steinkohlenlager entdeckt worden.">
+      <Coords points="398,1335 397,1346 635,1357 636,1357 1392,1357 1465,1365 1466,1365 1639,1357 1641,1346 1639,1323 1466,1323 1437,1313 1435,1313 1434,1313 1293,1320 1275,1312 1273,1312 1272,1312 1118,1318 1100,1310 1099,1310 1097,1310 937,1316 910,1309 909,1309 907,1309 770,1315 747,1307 745,1307 744,1307 633,1313 576,1306 574,1306 398,1310 398,1335" />
+      <Word id="l_0020-w_0001" text="andere" error_score="0.001" />
+      <Word id="l_0020-w_0002" text="Metalle;" error_score="0.001" />
+      <Word id="l_0020-w_0003" text="in" error_score="0.001" />
+      <Word id="l_0020-w_0004" text="letʒter" error_score="0.001" />
+      <Word id="l_0020-w_0005" text="Ʒeit" error_score="0.001" />
+      <Word id="l_0020-w_0006" text="ſind" error_score="0.001" />
+      <Word id="l_0020-w_0007" text="auch" error_score="0.001" />
+      <Word id="l_0020-w_0008" text="große" error_score="0.001" />
+      <Word id="l_0020-w_0009" text="Steinkohlenlager" error_score="0.001" />
+      <Word id="l_0020-w_0010" text="entdeckt" error_score="0.001" />
+      <Word id="l_0020-w_0011" text="worden." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0021" text="Die Bevölkerung beſteht aus den Dravida, den dunkelfarbigen Urein⸗">
+      <Coords points="504,1391 502,1401 946,1415 948,1415 1681,1413 1683,1404 1681,1380 1586,1371 1585,1371 1536,1379 1516,1369 1515,1369 1513,1369 1476,1377 1420,1369 1418,1369 1417,1369 1415,1369 1402,1377 1367,1369 1365,1369 1306,1376 1295,1368 1293,1368 1292,1368 1290,1368 1253,1376 1225,1366 1223,1366 1222,1366 1105,1374 1065,1365 1063,1365 1061,1365 1060,1365 1058,1365 1047,1372 1030,1365 1029,1365 1027,1365 968,1372 946,1363 945,1363 875,1363 873,1363 872,1363 870,1363 859,1371 722,1362 720,1362 504,1365 504,1391" />
+      <Word id="l_0021-w_0001" text="Die" error_score="0.001" />
+      <Word id="l_0021-w_0002" text="Bevölkerung" error_score="0.001" />
+      <Word id="l_0021-w_0003" text="beſteht" error_score="0.001" />
+      <Word id="l_0021-w_0004" text="aus" error_score="0.001" />
+      <Word id="l_0021-w_0005" text="den" error_score="0.001" />
+      <Word id="l_0021-w_0006" text="Dravida," error_score="0.001" />
+      <Word id="l_0021-w_0007" text="den" error_score="0.001" />
+      <Word id="l_0021-w_0008" text="dunkelfarbigen" error_score="0.001" />
+      <Word id="l_0021-w_0009" text="Urein⸗" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0022" text="wohnern im Süden und aus den ſpäter eingewanderten, hellerfarbigen Hindu. Die">
+      <Coords points="395,1446 1680,1460 1683,1449 1681,1425 1046,1411 1044,1411 988,1418 970,1410 968,1410 966,1410 840,1416 825,1408 823,1408 822,1408 431,1411 398,1404 397,1435 395,1446" />
+      <Word id="l_0022-w_0001" text="wohnern" error_score="0.001" />
+      <Word id="l_0022-w_0002" text="im" error_score="0.001" />
+      <Word id="l_0022-w_0003" text="Süden" error_score="0.001" />
+      <Word id="l_0022-w_0004" text="und" error_score="0.001" />
+      <Word id="l_0022-w_0005" text="aus" error_score="0.001" />
+      <Word id="l_0022-w_0006" text="den" error_score="0.001" />
+      <Word id="l_0022-w_0007" text="ſpäter" error_score="0.001" />
+      <Word id="l_0022-w_0008" text="eingewanderten," error_score="0.000" />
+      <Word id="l_0022-w_0009" text="hellerfarbigen" error_score="0.000" />
+      <Word id="l_0022-w_0010" text="Hindu." error_score="0.000" />
+      <Word id="l_0022-w_0011" text="Die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="Hindu gehören ʒur kaukaſiſchen Raſſe: ihre Sprache iſt mit den meiſten europäiſchen">
+      <Coords points="398,1480 397,1494 404,1500 406,1500 407,1500 409,1500 682,1495 826,1505 828,1506 1681,1506 1683,1494 1681,1471 1633,1461 1631,1461 1560,1469 1454,1469 1443,1460 1441,1460 1440,1460 1438,1460 1301,1466 1286,1458 1284,1458 1283,1458 1281,1458 1265,1466 1223,1457 1222,1457 1114,1464 1094,1455 1093,1455 1091,1455 976,1463 949,1453 948,1453 946,1453 853,1461 826,1452 825,1452 823,1452 590,1458 540,1449 538,1449 537,1449 512,1457 464,1449 462,1449 398,1455 398,1480" />
+      <Word id="l_0023-w_0001" text="Hindu" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="gehören" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="ʒur" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="kaukaſiſchen" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="Raſſe:" error_score="0.000" />
+      <Word id="l_0023-w_0006" text="ihre" error_score="0.000" />
+      <Word id="l_0023-w_0007" text="Sprache" error_score="0.000" />
+      <Word id="l_0023-w_0008" text="iſt" error_score="0.000" />
+      <Word id="l_0023-w_0009" text="mit" error_score="0.000" />
+      <Word id="l_0023-w_0010" text="den" error_score="0.000" />
+      <Word id="l_0023-w_0011" text="meiſten" error_score="0.000" />
+      <Word id="l_0023-w_0012" text="europäiſchen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="Sprachen verwandt, ihre Religion der Brahmaismus. Die Hindu teilen ſich in vier">
+      <Coords points="398,1523 397,1534 1680,1550 1683,1539 1681,1516 398,1500 398,1523" />
+      <Word id="l_0024-w_0001" text="Sprachen" error_score="0.000" />
+      <Word id="l_0024-w_0002" text="verwandt," error_score="0.000" />
+      <Word id="l_0024-w_0003" text="ihre" error_score="0.000" />
+      <Word id="l_0024-w_0004" text="Religion" error_score="0.000" />
+      <Word id="l_0024-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0024-w_0006" text="Brahmaismus." error_score="0.000" />
+      <Word id="l_0024-w_0007" text="Die" error_score="0.000" />
+      <Word id="l_0024-w_0008" text="Hindu" error_score="0.000" />
+      <Word id="l_0024-w_0009" text="teilen" error_score="0.000" />
+      <Word id="l_0024-w_0010" text="ſich" error_score="0.000" />
+      <Word id="l_0024-w_0011" text="in" error_score="0.000" />
+      <Word id="l_0024-w_0012" text="vier" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="Kaſten (Geſellſchaftsklaſſen): 1. Prieſter, 2. Krieger, 3. Ackerbauer und Hirten, 4.">
+      <Coords points="397,1570 395,1580 526,1590 527,1590 1029,1589 1606,1603 1608,1603 1678,1595 1680,1586 1678,1561 1563,1561 1552,1550 1550,1550 1549,1550 1547,1550 1510,1558 1350,1550 1348,1550 1346,1550 1325,1556 1293,1547 1292,1547 1290,1547 1289,1547 1258,1555 1236,1547 1234,1547 1233,1547 1231,1547 1216,1555 1141,1555 1124,1545 1122,1545 1121,1545 974,1551 909,1542 907,1542 906,1542 879,1550 853,1542 851,1542 850,1542 783,1550 763,1541 761,1541 759,1541 657,1547 639,1539 638,1539 571,1539 569,1539 568,1539 566,1539 557,1547 523,1537 521,1537 520,1537 518,1537 516,1537 506,1545 453,1537 451,1537 397,1544 397,1570" />
+      <Word id="l_0025-w_0001" text="Kaſten" error_score="0.000" />
+      <Word id="l_0025-w_0002" text="(Geſellſchaftsklaſſen):" error_score="0.000" />
+      <Word id="l_0025-w_0003" text="1." error_score="0.000" />
+      <Word id="l_0025-w_0004" text="Prieſter," error_score="0.000" />
+      <Word id="l_0025-w_0005" text="2." error_score="0.000" />
+      <Word id="l_0025-w_0006" text="Krieger," error_score="0.000" />
+      <Word id="l_0025-w_0007" text="3." error_score="0.000" />
+      <Word id="l_0025-w_0008" text="Ackerbauer" error_score="0.000" />
+      <Word id="l_0025-w_0009" text="und" error_score="0.000" />
+      <Word id="l_0025-w_0010" text="Hirten," error_score="0.000" />
+      <Word id="l_0025-w_0011" text="4." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0026" text="Handwerker, welche jeder Vermiſchung unter einander ausweichen. Außerhalb der">
+      <Coords points="397,1617 395,1631 403,1637 404,1637 406,1637 407,1637 753,1632 960,1642 962,1642 1455,1639 1499,1646 1501,1646 1680,1639 1681,1628 1680,1604 397,1592 397,1617" />
+      <Word id="l_0026-w_0001" text="Handwerker," error_score="0.000" />
+      <Word id="l_0026-w_0002" text="welche" error_score="0.014" />
+      <Word id="l_0026-w_0003" text="jeder" error_score="0.014" />
+      <Word id="l_0026-w_0004" text="Vermiſchung" error_score="0.014" />
+      <Word id="l_0026-w_0005" text="unter" error_score="0.014" />
+      <Word id="l_0026-w_0006" text="einander" error_score="0.014" />
+      <Word id="l_0026-w_0007" text="ausweichen." error_score="0.014" />
+      <Word id="l_0026-w_0008" text="Außerhalb" error_score="0.014" />
+      <Word id="l_0026-w_0009" text="der" error_score="0.014" />
+    </TextLine>
+    <TextLine id="l_0027" text="Kaſten ſtehen die Parias. Sie gelten als unreine, tief verachtete Menſchen, mit">
+      <Coords points="393,1659 392,1670 440,1681 442,1681 499,1673 551,1682 552,1682 677,1674 692,1684 694,1684 696,1684 697,1684 820,1676 865,1685 867,1685 868,1685 889,1678 907,1685 909,1685 910,1685 1085,1679 1135,1688 1136,1688 1227,1681 1253,1688 1255,1688 1256,1688 1452,1684 1540,1693 1541,1693 1680,1684 1681,1673 1680,1651 1536,1642 1535,1642 1410,1648 1392,1640 1390,1640 1388,1640 1290,1646 1251,1639 1250,1639 1118,1645 1060,1637 1058,1637 970,1643 960,1636 959,1636 957,1636 956,1636 393,1636 393,1659" />
+      <Word id="l_0027-w_0001" text="Kaſten" error_score="0.014" />
+      <Word id="l_0027-w_0002" text="ſtehen" error_score="0.014" />
+      <Word id="l_0027-w_0003" text="die" error_score="0.137" />
+      <Word id="l_0027-w_0004" text="Parias." error_score="0.137" />
+      <Word id="l_0027-w_0005" text="Sie" error_score="0.137" />
+      <Word id="l_0027-w_0006" text="gelten" error_score="0.137" />
+      <Word id="l_0027-w_0007" text="als" error_score="0.137" />
+      <Word id="l_0027-w_0008" text="unreine," error_score="0.137" />
+      <Word id="l_0027-w_0009" text="tief" error_score="0.137" />
+      <Word id="l_0027-w_0010" text="verachtete" error_score="0.137" />
+      <Word id="l_0027-w_0011" text="Menſchen," error_score="0.137" />
+      <Word id="l_0027-w_0012" text="mit" error_score="0.137" />
+    </TextLine>
+    <TextLine id="l_0028" text="welchen die übrigen Hindu keine Gemeinſchaft haben.">
+      <Coords points="395,1706 393,1717 446,1726 448,1726 797,1723 1066,1734 1068,1734 1200,1726 1202,1715 1200,1692 1139,1682 1138,1682 1136,1682 1119,1690 1111,1682 1110,1682 1108,1682 1107,1682 1105,1682 1085,1690 1069,1681 1068,1681 1066,1681 1065,1681 1063,1681 1046,1688 1040,1682 1040,1681 1038,1681 1037,1681 1035,1681 998,1688 987,1681 985,1681 984,1681 982,1681 940,1688 924,1679 923,1679 921,1679 920,1679 918,1679 893,1687 847,1679 845,1679 778,1685 769,1678 767,1678 766,1678 764,1678 763,1678 761,1678 752,1684 744,1678 742,1678 741,1678 739,1678 655,1684 643,1676 641,1676 639,1676 638,1676 565,1684 530,1674 529,1674 527,1674 526,1674 524,1674 515,1682 470,1674 468,1674 395,1681 395,1706" />
+      <Word id="l_0028-w_0001" text="welchen" error_score="0.075" />
+      <Word id="l_0028-w_0002" text="die" error_score="0.075" />
+      <Word id="l_0028-w_0003" text="übrigen" error_score="0.075" />
+      <Word id="l_0028-w_0004" text="Hindu" error_score="0.075" />
+      <Word id="l_0028-w_0005" text="keine" error_score="0.075" />
+      <Word id="l_0028-w_0006" text="Gemeinſchaft" error_score="0.075" />
+      <Word id="l_0028-w_0007" text="haben." error_score="0.075" />
+    </TextLine>
+    <TextLine id="l_0029" text="Vorderindien iſt faſt ganʒ im Beſitʒ der Engländer; unabhängig">
+      <Coords points="496,1768 495,1779 518,1788 520,1788 521,1788 611,1782 851,1793 853,1793 854,1793 882,1787 1675,1799 1678,1783 1678,1752 1652,1743 1650,1743 1649,1743 1647,1743 1606,1752 1560,1741 1558,1741 1443,1751 1399,1751 1388,1740 1387,1740 1385,1740 1384,1740 1382,1740 1364,1749 1336,1740 1334,1740 1332,1740 1289,1748 1278,1738 1276,1738 1275,1738 1273,1738 1209,1748 1181,1737 1180,1737 1178,1737 1177,1737 1155,1746 1122,1737 1121,1737 1119,1737 1118,1737 1116,1737 1104,1746 1088,1735 1086,1735 1085,1735 1083,1735 1082,1735 1057,1746 1019,1746 1009,1735 1007,1735 1005,1735 1004,1735 1002,1735 1001,1735 985,1745 876,1745 831,1732 829,1732 828,1732 826,1732 805,1741 778,1732 777,1732 775,1732 713,1740 697,1731 696,1731 694,1731 692,1731 691,1731 654,1740 641,1731 639,1731 638,1731 636,1731 597,1738 587,1729 585,1729 583,1729 582,1729 580,1729 557,1738 532,1729 530,1729 529,1729 527,1729 496,1737 496,1768" />
+      <Word id="l_0029-w_0001" text="Vorderindien" error_score="0.075" />
+      <Word id="l_0029-w_0002" text="iſt" error_score="0.075" />
+      <Word id="l_0029-w_0003" text="faſt" error_score="0.075" />
+      <Word id="l_0029-w_0004" text="ganʒ" error_score="0.009" />
+      <Word id="l_0029-w_0005" text="im" error_score="0.009" />
+      <Word id="l_0029-w_0006" text="Beſitʒ" error_score="0.009" />
+      <Word id="l_0029-w_0007" text="der" error_score="0.009" />
+      <Word id="l_0029-w_0008" text="Engländer;" error_score="0.009" />
+      <Word id="l_0029-w_0009" text="unabhängig" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0030" text="ſind die beiden Himalayalandſchaften Nepal und Bhutan; den">
+      <Coords points="392,1821 390,1836 1037,1849 1038,1849 1122,1841 1177,1850 1178,1850 1392,1844 1407,1852 1409,1852 1410,1852 1488,1846 1557,1855 1558,1855 1678,1846 1680,1836 1678,1808 1624,1797 1622,1797 1620,1797 1597,1807 1513,1807 1502,1797 1501,1797 1499,1797 1497,1797 1496,1797 1469,1805 1421,1794 1420,1794 1297,1804 1265,1793 1264,1793 1262,1793 1261,1793 1259,1793 1242,1804 1174,1804 1160,1791 1158,1791 1156,1791 1155,1791 1065,1801 1009,1790 1007,1790 923,1799 906,1788 904,1788 903,1788 901,1788 900,1788 876,1797 823,1788 822,1788 820,1788 794,1797 761,1787 759,1787 758,1787 713,1796 654,1796 643,1785 641,1785 639,1785 580,1785 579,1785 577,1785 576,1785 565,1794 523,1783 521,1783 520,1783 518,1783 482,1793 456,1783 454,1783 453,1783 451,1783 434,1793 423,1783 421,1783 420,1783 418,1783 392,1788 392,1821" />
+      <Word id="l_0030-w_0001" text="ſind" error_score="0.009" />
+      <Word id="l_0030-w_0002" text="die" error_score="0.009" />
+      <Word id="l_0030-w_0003" text="beiden" error_score="0.009" />
+      <Word id="l_0030-w_0004" text="Himalayalandſchaften" error_score="0.009" />
+      <Word id="l_0030-w_0005" text="Nepal" error_score="0.001" />
+      <Word id="l_0030-w_0006" text="und" error_score="0.001" />
+      <Word id="l_0030-w_0007" text="Bhutan;" error_score="0.001" />
+      <Word id="l_0030-w_0008" text="den" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0031" text="Franʒoſen und Portugieſen gehören einige Küſtenſtädte.">
+      <Coords points="392,1877 390,1894 393,1897 395,1897 395,1899 397,1899 398,1899 400,1899 683,1892 691,1899 691,1900 692,1900 694,1900 696,1900 738,1894 789,1902 791,1902 901,1894 910,1902 910,1903 912,1903 914,1903 915,1903 1066,1896 1075,1903 1077,1903 1079,1903 1163,1905 1164,1905 1166,1905 1188,1897 1250,1906 1251,1906 1420,1897 1421,1886 1420,1858 1364,1847 1362,1847 1270,1857 1209,1846 1208,1846 1206,1846 1205,1846 1189,1857 1146,1857 1135,1846 1133,1846 1132,1846 1130,1846 1128,1846 1127,1846 1114,1855 1102,1846 1100,1846 1099,1846 1097,1846 1096,1846 1077,1855 968,1844 966,1844 907,1853 857,1843 856,1843 798,1852 764,1843 763,1843 761,1843 759,1843 730,1850 719,1841 717,1841 716,1841 714,1841 713,1841 677,1850 661,1841 660,1841 658,1841 657,1841 655,1841 619,1850 540,1839 538,1839 537,1839 502,1849 425,1839 423,1839 392,1846 392,1877" />
+      <Word id="l_0031-w_0001" text="Franʒoſen" error_score="0.001" />
+      <Word id="l_0031-w_0002" text="und" error_score="0.001" />
+      <Word id="l_0031-w_0003" text="Portugieſen" error_score="0.001" />
+      <Word id="l_0031-w_0004" text="gehören" error_score="0.001" />
+      <Word id="l_0031-w_0005" text="einige" error_score="0.001" />
+      <Word id="l_0031-w_0006" text="Küſtenſtädte." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0032" text="Städte:">
+      <Coords points="495,1942 495,1953 705,1953 705,1942 705,1916 655,1916 646,1906 646,1905 644,1905 643,1905 641,1905 639,1905 638,1905 627,1913 618,1905 618,1903 616,1903 615,1903 585,1903 583,1903 582,1903 580,1903 568,1913 560,1906 560,1905 559,1905 557,1905 555,1905 554,1905 552,1905 545,1911 513,1903 512,1903 510,1903 509,1903 507,1903 495,1911 495,1942" />
+      <Word id="l_0032-w_0001" text="Städte:" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0033" text="An der Oſtküſte: Calcutta, Hauptſtadt (810000 E. ), „das">
+      <Coords points="496,2004 495,2015 664,2017 716,2028 717,2028 719,2028 748,2020 812,2028 814,2028 815,2028 831,2020 1090,2031 1091,2031 1093,2031 1094,2031 1107,2023 1189,2033 1191,2033 1317,2025 1339,2034 1340,2034 1342,2034 1677,2026 1678,2015 1678,1987 1631,1987 1620,1976 1619,1976 1617,1976 1616,1976 1560,1986 1530,1976 1529,1976 1527,1976 1490,1984 1479,1975 1477,1975 1476,1975 1426,1975 1424,1975 1423,1975 1421,1975 1409,1984 1339,1973 1337,1973 1336,1973 1334,1973 1323,1983 1276,1973 1275,1973 1273,1973 1253,1983 1237,1973 1236,1973 1234,1973 1233,1973 1172,1983 1138,1973 1136,1973 1135,1973 1133,1973 1113,1983 1041,1983 1030,1973 1029,1973 1027,1973 1026,1973 974,1980 962,1970 960,1970 959,1970 957,1970 956,1970 954,1970 940,1980 912,1970 910,1970 909,1970 907,1970 879,1981 836,1981 820,1969 819,1969 817,1969 688,1969 686,1969 685,1969 683,1969 671,1978 611,1978 599,1967 597,1967 596,1967 594,1967 593,1967 571,1976 535,1967 534,1967 532,1967 496,1972 496,2004" />
+      <Word id="l_0033-w_0001" text="An" error_score="0.003" />
+      <Word id="l_0033-w_0002" text="der" error_score="0.003" />
+      <Word id="l_0033-w_0003" text="Oſtküſte:" error_score="0.003" />
+      <Word id="l_0033-w_0004" text="Calcutta," error_score="0.003" />
+      <Word id="l_0033-w_0005" text="Hauptſtadt" error_score="0.003" />
+      <Word id="l_0033-w_0006" text="(810000" error_score="0.003" />
+      <Word id="l_0033-w_0007" text="E." error_score="0.003" />
+      <Word id="l_0033-w_0008" text=")," error_score="0.003" />
+      <Word id="l_0033-w_0009" text="„das" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0034" text="indiſche London‟. — Madräs (450000 E. ) mit ſehr bedeutendem">
+      <Coords points="389,2059 387,2068 457,2078 459,2078 541,2071 557,2079 559,2079 560,2079 1337,2079 1356,2087 1357,2087 1359,2087 1678,2081 1680,2071 1678,2045 1610,2033 1608,2033 1606,2033 1585,2043 1521,2043 1494,2031 1493,2031 1491,2031 1410,2040 1398,2031 1396,2031 1395,2031 1393,2031 1328,2039 1309,2029 1308,2029 1306,2029 1242,2039 1230,2029 1228,2029 1227,2029 1225,2029 1169,2037 1156,2028 1155,2028 1153,2028 1152,2028 906,2036 892,2026 890,2026 889,2026 887,2026 886,2026 856,2034 845,2025 843,2025 842,2025 840,2025 787,2036 711,2036 699,2025 699,2023 697,2023 696,2023 694,2023 692,2023 666,2031 625,2023 624,2023 622,2023 601,2031 568,2023 566,2023 565,2023 563,2023 535,2031 506,2022 504,2022 502,2022 389,2025 389,2059" />
+      <Word id="l_0034-w_0001" text="indiſche" error_score="0.039" />
+      <Word id="l_0034-w_0002" text="London‟." error_score="0.039" />
+      <Word id="l_0034-w_0003" text="—" error_score="0.039" />
+      <Word id="l_0034-w_0004" text="Madräs" error_score="0.039" />
+      <Word id="l_0034-w_0005" text="(450000" error_score="0.039" />
+      <Word id="l_0034-w_0006" text="E." error_score="0.039" />
+      <Word id="l_0034-w_0007" text=")" error_score="0.039" />
+      <Word id="l_0034-w_0008" text="mit" error_score="0.039" />
+      <Word id="l_0034-w_0009" text="ſehr" error_score="0.039" />
+      <Word id="l_0034-w_0010" text="bedeutendem" error_score="0.039" />
+    </TextLine>
+    <TextLine id="l_0035" text="Handel. — Pondichery (ſpr. Pondiſchéri; franʒöſiſch).">
+      <Coords points="390,2113 389,2124 398,2134 398,2135 400,2135 401,2135 403,2135 565,2126 618,2126 627,2135 627,2137 629,2137 630,2137 632,2137 633,2137 660,2127 744,2127 780,2138 781,2138 783,2138 828,2129 873,2138 875,2138 876,2138 878,2138 889,2129 912,2140 914,2140 915,2140 985,2131 996,2140 998,2140 999,2140 1001,2140 1085,2134 1094,2141 1096,2141 1097,2141 1099,2143 1205,2143 1205,2141 1206,2141 1208,2141 1219,2134 1228,2141 1230,2141 1231,2141 1417,2143 1418,2143 1420,2143 1421,2143 1435,2132 1437,2123 1437,2095 1415,2084 1413,2084 1412,2084 1262,2093 1245,2082 1244,2082 1242,2082 1241,2082 1239,2082 1205,2092 1189,2082 1188,2082 1186,2082 1184,2082 1183,2082 1181,2082 1172,2090 1166,2084 1164,2084 1163,2084 1161,2084 1160,2084 1147,2090 1079,2081 1077,2081 1075,2081 1057,2090 999,2081 998,2081 996,2081 995,2081 984,2092 942,2092 914,2079 912,2079 910,2079 909,2079 907,2079 893,2090 809,2090 798,2079 797,2079 795,2079 794,2079 744,2085 736,2079 736,2078 734,2078 733,2078 731,2078 730,2078 691,2087 654,2078 652,2078 650,2078 649,2078 616,2087 540,2087 529,2076 527,2076 526,2076 524,2076 445,2085 404,2076 403,2076 401,2076 400,2076 398,2076 390,2081 390,2113" />
+      <Word id="l_0035-w_0001" text="Handel." error_score="0.066" />
+      <Word id="l_0035-w_0002" text="—" error_score="0.066" />
+      <Word id="l_0035-w_0003" text="Pondichery" error_score="0.066" />
+      <Word id="l_0035-w_0004" text="(ſpr." error_score="0.066" />
+      <Word id="l_0035-w_0005" text="Pondiſchéri;" error_score="0.066" />
+      <Word id="l_0035-w_0006" text="franʒöſiſch)." error_score="0.066" />
+    </TextLine>
+    <TextLine id="l_0036" text="An der Weſtküſte: Bombay (ſpr. Bombé 820000 E. ), der">
+      <Coords points="495,2179 493,2188 663,2190 689,2199 691,2199 692,2199 801,2193 831,2201 833,2201 834,2201 1678,2199 1680,2190 1678,2160 1540,2149 1538,2149 1536,2149 1518,2159 1507,2149 1507,2148 1505,2148 1504,2148 1502,2148 1441,2155 1381,2148 1379,2148 1378,2148 1354,2157 1326,2146 1325,2146 1323,2146 1322,2146 1281,2155 1228,2146 1227,2146 1225,2146 1223,2146 1211,2157 1174,2157 1150,2145 1149,2145 1147,2145 1146,2145 1119,2155 1055,2155 1043,2145 1041,2145 1040,2145 1038,2145 960,2152 948,2143 946,2143 945,2143 943,2143 942,2143 910,2152 823,2141 753,2141 752,2141 750,2141 730,2151 716,2141 714,2141 713,2141 711,2141 668,2151 610,2151 597,2140 596,2140 594,2140 593,2140 591,2140 571,2149 534,2140 532,2140 530,2140 495,2145 495,2179" />
+      <Word id="l_0036-w_0001" text="An" error_score="0.066" />
+      <Word id="l_0036-w_0002" text="der" error_score="0.066" />
+      <Word id="l_0036-w_0003" text="Weſtküſte:" error_score="0.066" />
+      <Word id="l_0036-w_0004" text="Bombay" error_score="0.066" />
+      <Word id="l_0036-w_0005" text="(ſpr." error_score="0.102" />
+      <Word id="l_0036-w_0006" text="Bombé" error_score="0.102" />
+      <Word id="l_0036-w_0007" text="820000" error_score="0.102" />
+      <Word id="l_0036-w_0008" text="E." error_score="0.102" />
+      <Word id="l_0036-w_0009" text=")," error_score="0.102" />
+      <Word id="l_0036-w_0010" text="der" error_score="0.102" />
+    </TextLine>
+    <TextLine id="l_0037" text="erſte Handelsplatʒ nicht nur in Jndien, ſondern in ganʒ Aſien. —">
+      <Coords points="387,2229 386,2240 425,2252 426,2252 428,2252 481,2243 493,2252 495,2252 496,2252 498,2252 543,2246 710,2255 711,2255 713,2255 714,2255 728,2246 789,2255 791,2255 843,2246 904,2255 906,2255 907,2255 909,2255 920,2247 946,2255 948,2255 949,2255 996,2247 1009,2257 1010,2257 1012,2257 1124,2258 1125,2258 1127,2258 1149,2249 1169,2258 1170,2258 1172,2258 1328,2250 1356,2258 1357,2258 1359,2258 1360,2258 1378,2252 1388,2261 1390,2261 1392,2261 1393,2263 1479,2263 1479,2261 1480,2261 1499,2252 1526,2263 1527,2263 1529,2263 1672,2252 1673,2241 1672,2218 1504,2204 1502,2204 1501,2204 1499,2204 1482,2215 1367,2215 1343,2202 1342,2202 1340,2202 1339,2202 1317,2212 1237,2202 1236,2202 1200,2210 1184,2201 1183,2201 1181,2201 1180,2201 1178,2201 1158,2210 1090,2201 1088,2201 1041,2208 1023,2199 1021,2199 1019,2199 1018,2199 996,2208 954,2199 952,2199 951,2199 924,2208 831,2208 819,2198 817,2198 815,2198 814,2198 716,2207 702,2196 700,2196 699,2196 697,2196 540,2202 521,2194 520,2194 518,2194 516,2194 481,2204 429,2194 428,2194 426,2194 387,2204 387,2229" />
+      <Word id="l_0037-w_0001" text="erſte" error_score="0.102" />
+      <Word id="l_0037-w_0002" text="Handelsplatʒ" error_score="0.102" />
+      <Word id="l_0037-w_0003" text="nicht" error_score="0.102" />
+      <Word id="l_0037-w_0004" text="nur" error_score="0.102" />
+      <Word id="l_0037-w_0005" text="in" error_score="0.329" />
+      <Word id="l_0037-w_0006" text="Jndien," error_score="0.329" />
+      <Word id="l_0037-w_0007" text="ſondern" error_score="0.329" />
+      <Word id="l_0037-w_0008" text="in" error_score="0.329" />
+      <Word id="l_0037-w_0009" text="ganʒ" error_score="0.329" />
+      <Word id="l_0037-w_0010" text="Aſien." error_score="0.329" />
+      <Word id="l_0037-w_0011" text="—" error_score="0.329" />
+    </TextLine>
+    <TextLine id="l_0038" text="Goa (verfallen, portugieſiſch).">
+      <Coords points="387,2283 386,2296 482,2297 490,2305 490,2306 492,2306 493,2306 495,2306 496,2306 523,2299 555,2308 557,2308 559,2308 630,2302 657,2310 658,2310 660,2310 661,2310 663,2310 663,2308 669,2302 683,2310 685,2310 686,2310 744,2302 794,2311 795,2313 907,2313 907,2311 909,2311 929,2302 931,2289 931,2263 906,2250 904,2250 903,2250 660,2260 618,2247 616,2247 615,2247 526,2258 507,2246 506,2246 504,2246 502,2246 501,2246 499,2246 484,2257 421,2246 420,2246 418,2246 387,2255 387,2283" />
+      <Word id="l_0038-w_0001" text="Goa" error_score="0.329" />
+      <Word id="l_0038-w_0002" text="(verfallen," error_score="0.329" />
+      <Word id="l_0038-w_0003" text="portugieſiſch)." error_score="0.329" />
+    </TextLine>
+    <TextLine id="l_0039" text="Jm Jnnern: Kaſchmir in der gleichnamigen Himalaya⸗">
+      <Coords points="490,2342 488,2352 502,2361 504,2361 506,2361 507,2361 509,2361 530,2353 594,2353 610,2363 611,2363 613,2363 615,2363 616,2363 636,2353 719,2353 728,2361 730,2361 731,2361 733,2361 811,2355 884,2364 886,2364 1047,2356 1068,2366 1069,2366 1071,2366 1072,2366 1094,2356 1189,2356 1200,2366 1200,2367 1202,2367 1203,2367 1205,2369 1448,2369 1448,2367 1449,2367 1469,2359 1480,2369 1482,2369 1483,2369 1485,2370 1652,2370 1652,2369 1653,2369 1677,2358 1678,2350 1677,2324 1608,2322 1594,2311 1592,2311 1591,2311 1589,2311 1588,2311 1560,2322 1522,2311 1521,2311 1519,2311 1518,2311 1477,2322 1413,2322 1392,2310 1390,2310 1388,2310 1312,2319 1300,2310 1298,2310 1297,2310 1234,2310 1233,2310 1231,2310 1203,2320 1146,2319 1133,2308 1132,2308 1130,2308 1128,2308 1127,2308 1105,2319 1055,2308 1054,2308 1052,2308 1021,2319 934,2306 932,2306 856,2314 828,2306 826,2306 825,2306 823,2306 784,2317 605,2305 604,2305 602,2305 569,2316 490,2303 490,2342" />
+      <Word id="l_0039-w_0001" text="Jm" error_score="0.135" />
+      <Word id="l_0039-w_0002" text="Jnnern:" error_score="0.135" />
+      <Word id="l_0039-w_0003" text="Kaſchmir" error_score="0.135" />
+      <Word id="l_0039-w_0004" text="in" error_score="0.135" />
+      <Word id="l_0039-w_0005" text="der" error_score="0.135" />
+      <Word id="l_0039-w_0006" text="gleichnamigen" error_score="0.135" />
+      <Word id="l_0039-w_0007" text="Himalaya⸗" error_score="0.135" />
+    </TextLine>
+    <TextLine id="l_0040" text="landſchaft. — Lahore in Pandſchab. — Delhi (1ꝰ0000 E. ),">
+      <Coords points="387,2391 386,2401 395,2409 397,2409 398,2409 516,2412 518,2412 644,2403 692,2414 831,2415 833,2415 834,2415 864,2406 887,2415 889,2415 890,2415 932,2408 943,2417 945,2417 946,2417 1035,2419 1037,2419 1144,2409 1340,2422 1342,2422 1385,2412 1417,2423 1418,2423 1420,2423 1675,2419 1677,2406 1677,2381 1650,2367 1649,2367 1647,2367 1585,2380 1546,2366 1544,2366 1427,2366 1426,2366 1424,2366 1399,2377 1384,2364 1382,2364 1381,2364 1326,2364 1325,2364 1323,2364 1295,2377 1278,2363 1276,2363 1275,2363 1273,2363 1272,2363 1239,2377 1161,2377 1122,2361 1121,2361 1119,2361 1118,2361 1088,2369 1026,2359 1024,2359 1023,2359 995,2370 952,2359 951,2359 949,2359 948,2359 907,2372 881,2358 879,2358 878,2358 876,2358 875,2358 853,2370 773,2369 758,2356 756,2356 755,2356 753,2356 752,2356 716,2367 689,2358 688,2358 686,2358 685,2358 683,2358 668,2369 568,2369 516,2353 515,2353 513,2353 387,2358 387,2391" />
+      <Word id="l_0040-w_0001" text="landſchaft." error_score="0.135" />
+      <Word id="l_0040-w_0002" text="—" error_score="0.135" />
+      <Word id="l_0040-w_0003" text="Lahore" error_score="0.135" />
+      <Word id="l_0040-w_0004" text="in" error_score="0.135" />
+      <Word id="l_0040-w_0005" text="Pandſchab." error_score="0.042" />
+      <Word id="l_0040-w_0006" text="—" error_score="0.042" />
+      <Word id="l_0040-w_0007" text="Delhi" error_score="0.042" />
+      <Word id="l_0040-w_0008" text="(1ꝰ0000" error_score="0.042" />
+      <Word id="l_0040-w_0009" text="E." error_score="0.042" />
+      <Word id="l_0040-w_0010" text=")," error_score="0.042" />
+    </TextLine>
+    <TextLine id="l_0041" text="Lucknow (270000 E), Benares (220000 E), die uralte „heilige">
+      <Coords points="386,2445 384,2457 694,2470 696,2470 773,2464 817,2471 819,2471 1518,2471 1529,2479 1530,2479 1532,2479 1533,2479 1673,2471 1675,2459 1675,2431 1628,2420 1627,2420 1533,2429 1482,2419 1480,2419 1479,2419 1459,2429 1390,2429 1371,2417 1370,2417 1368,2417 1367,2417 1308,2426 1295,2417 1293,2417 1292,2417 1290,2417 1234,2425 1222,2415 1220,2415 1219,2415 1217,2415 1160,2425 1099,2414 1097,2414 1096,2414 1069,2423 901,2423 889,2414 887,2414 886,2414 884,2414 831,2422 819,2412 819,2411 817,2411 815,2411 814,2411 766,2420 713,2411 711,2411 710,2411 680,2419 671,2409 669,2409 668,2409 607,2409 605,2409 604,2409 602,2409 588,2419 481,2408 479,2408 478,2408 451,2417 412,2408 411,2408 409,2408 407,2408 386,2414 386,2445" />
+      <Word id="l_0041-w_0001" text="Lucknow" error_score="0.042" />
+      <Word id="l_0041-w_0002" text="(270000" error_score="0.042" />
+      <Word id="l_0041-w_0003" text="E)," error_score="0.042" />
+      <Word id="l_0041-w_0004" text="Benares" error_score="0.042" />
+      <Word id="l_0041-w_0005" text="(220000" error_score="0.021" />
+      <Word id="l_0041-w_0006" text="E)," error_score="0.021" />
+      <Word id="l_0041-w_0007" text="die" error_score="0.021" />
+      <Word id="l_0041-w_0008" text="uralte" error_score="0.021" />
+      <Word id="l_0041-w_0009" text="„heilige" error_score="0.021" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1010,305 1088,305 1138,334 1082,353 952,340 1010,305" />
+    <TextLine id="l_0042" text="- 58 —">
+      <Coords points="1111,319 1107,316 1023,305 1021,305 1019,305 1018,305 1018,306 1005,319 987,319 987,337 987,347 1125,348 1127,337 1127,333 1111,319" />
+      <Word id="l_0042-w_0001" text="-" error_score="0.000" />
+      <Word id="l_0042-w_0002" text="58" error_score="0.000" />
+      <Word id="l_0042-w_0003" text="—" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

@@ -1,0 +1,580 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1741695821_00000049.bin.png" imageHeight="3526" imageWidth="2818" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="388,2060 413,2076 421,2105 376,2097 388,2060" />
+    <TextLine id="l_0001" text="46">
+      <Coords points="397,2066 378,2076 378,2086 378,2107 405,2109 407,2086 405,2070 397,2066" />
+      <Word id="l_0001-w_0001" text="46" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="389,258 554,266 562,319 368,327 352,282 389,258" />
+    <TextLine id="l_0002" text="N? 42 243.">
+      <Coords points="538,268 372,266 360,274 360,297 358,307 550,311 554,301 550,285 538,268" />
+      <Word id="l_0002-w_0001" text="N?" error_score="0.868" error_type="error" />
+      <Word id="l_0002-w_0002" text="42" error_score="0.868" error_type="error" />
+      <Word id="l_0002-w_0003" text="243." error_score="0.868" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="725,352 750,352 750,366 721,366 725,352" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="774,219 2206,235 2237,289 2214,334 2269,344 2247,368 2394,336 2559,423 2504,532 2559,736 2512,767 2543,1032 2512,1057 2504,1143 2551,1330 2512,1355 2512,1494 2498,1471 2473,1512 2512,1504 2543,1590 2520,1698 2559,1808 2520,1841 2512,1972 2449,1982 2504,1990 2551,2068 2520,2115 2551,2395 2512,2429 2512,2505 2559,2701 2520,2718 2512,2826 2465,2844 2441,2906 2443,2946 2512,2922 2535,2991 2373,2999 2355,3038 2192,3022 2073,3053 1222,3053 1134,3022 1003,3038 985,2991 870,2991 807,3030 774,2991 666,2983 617,3030 572,3030 538,2983 376,2983 415,2905 423,2773 578,2773 603,2748 601,2709 438,2732 376,2701 407,2444 438,2427 376,2403 376,2350 407,2325 415,2123 548,2146 776,2115 909,2146 948,2115 1189,2123 1230,2060 1269,2066 1277,2005 1401,1998 1414,2029 1440,1996 1316,1972 1307,1941 1019,1949 987,1972 932,1941 930,1909 862,1909 846,1941 844,1917 766,1902 650,1902 648,1941 619,1949 601,1902 454,1894 415,1956 384,1894 407,1857 368,1823 391,1439 368,1300 399,1212 376,987 407,961 407,791 391,805 376,765 384,383 617,383 844,423 893,405 909,352 924,376 1197,407 1238,391 1191,360 1393,391 1469,344 1487,391 1775,391 1777,344 1832,334 1651,327 1681,374 1636,381 1604,374 1628,329 1603,319 760,311 774,219" />
+    <TextLine id="l_0003" text="col⸗">
+      <Coords points="386,428 384,448 464,452 468,432 466,393 386,395 386,428" />
+      <Word id="l_0003-w_0001" text="col⸗" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0004" text="">
+      <Coords points="384,728 382,756 460,785 462,785 464,785 466,785 540,763 542,732 542,564 386,583 384,728" />
+    </TextLine>
+    <TextLine id="l_0005" text="M">
+      <Coords points="572,534 568,589 609,570 613,538 613,509 574,505 572,534" />
+      <Word id="l_0005-w_0001" text="M" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0006" text="—">
+      <Coords points="599,736 597,750 640,750 642,740 642,711 601,711 599,736" />
+      <Word id="l_0006-w_0001" text="—" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0007" text="">
+      <Coords points="440,824 501,814 613,820 615,791 609,752 489,771 438,758 440,797 440,824" />
+    </TextLine>
+    <TextLine id="l_0008" text="is">
+      <Coords points="476,899 476,914 521,918 523,895 515,836 470,842 476,899" />
+      <Word id="l_0008-w_0001" text="is" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0009" text="1shS">
+      <Coords points="386,1020 384,1042 489,1051 493,1026 493,977 386,991 386,1020" />
+      <Word id="l_0009-w_0001" text="1shS" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0010" text="3">
+      <Coords points="472,1059 476,1091 497,1081 497,1057 491,1032 468,1034 472,1059" />
+      <Word id="l_0010-w_0001" text="3" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0011" text="8">
+      <Coords points="546,1055 550,1079 566,1073 566,1053 558,1012 540,1016 546,1055" />
+      <Word id="l_0011-w_0001" text="8" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0012" text="">
+      <Coords points="601,944 597,971 621,969 625,946 632,818 611,812 601,944" />
+    </TextLine>
+    <TextLine id="l_0013" text="">
+      <Coords points="378,1261 376,1318 374,1337 401,1349 403,1349 405,1349 480,1339 627,1355 631,1326 627,1267 582,1285 556,1263 554,1263 552,1263 485,1257 484,1257 482,1257 480,1257 448,1281 405,1281 380,1257 378,1261" />
+    </TextLine>
+    <TextLine id="l_0014" text="">
+      <Coords points="646,869 654,873 668,822 672,793 664,787 656,820 646,869" />
+    </TextLine>
+    <TextLine id="l_0015" text="43">
+      <Coords points="683,666 683,683 728,687 728,662 725,620 693,613 691,613 689,613 687,613 687,615 678,622 683,666" />
+      <Word id="l_0015-w_0001" text="43" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0016" text="">
+      <Coords points="689,1132 678,1222 701,1232 703,1232 705,1232 707,1232 734,1218 744,1138 754,1042 699,1024 689,1132" />
+    </TextLine>
+    <TextLine id="l_0017" text="3">
+      <Coords points="674,1388 672,1404 717,1406 721,1390 723,1312 676,1306 674,1388" />
+      <Word id="l_0017-w_0001" text="3" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0018" text="OSTERREICH-UNGARN, KLIMAKARTEN.">
+      <Coords points="2206,242 2145,233 2143,233 1873,242 1699,231 1697,231 1634,240 1467,231 1465,231 776,237 764,280 764,284 762,299 2206,307 2210,291 2208,244 2206,242" />
+      <Word id="l_0018-w_0001" text="OSTERREICH-UNGARN," error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0002" text="KLIMAKARTEN." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0019" text="5">
+      <Coords points="734,965 736,1053 768,1036 768,965 766,934 734,940 734,965" />
+      <Word id="l_0019-w_0001" text="5" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0020" text="E">
+      <Coords points="799,654 801,675 834,675 834,650 823,579 791,593 799,654" />
+      <Word id="l_0020-w_0001" text="E" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0021" text="">
+      <Coords points="1028,383 1009,385 989,381 970,380 950,378 930,376 913,362 891,362 891,385 889,399 1038,407 1042,387 1040,383 1028,383" />
+    </TextLine>
+    <TextLine id="l_0022" text="ger E.">
+      <Coords points="907,448 907,470 1079,468 1079,448 1079,411 1036,389 1034,389 997,389 995,389 993,389 907,411 907,448" />
+      <Word id="l_0022-w_0001" text="ger" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0002" text="E." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0023" text="A">
+      <Coords points="930,450 928,450 911,454 911,487 911,507 940,507 940,487 936,450 930,450" />
+      <Word id="l_0023-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0024" text="">
+      <Coords points="685,1390 683,1388 662,1382 660,1382 658,1382 656,1382 654,1382 654,1384 646,1392 646,1418 646,1437 977,1437 977,1418 977,1394 924,1382 923,1382 921,1382 919,1382 919,1384 909,1394 836,1394 805,1371 803,1371 801,1371 734,1371 732,1371 730,1371 728,1371 728,1373 705,1394 689,1390 685,1390" />
+    </TextLine>
+    <TextLine id="l_0025" text="Mitlere Jahrestemperatur.">
+      <Coords points="480,1469 480,1486 999,1484 1001,1465 997,1439 478,1437 480,1469" />
+      <Word id="l_0025-w_0001" text="Mitlere" error_score="1.000" error_type="error" />
+      <Word id="l_0025-w_0002" text="Jahrestemperatur." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0026" text="über lͤceloius E ꝰe-g celsius">
+      <Coords points="435,1518 435,1531 1048,1525 1050,1512 1046,1486 440,1480 438,1480 437,1480 435,1480 435,1482 433,1482 435,1518" />
+      <Word id="l_0026-w_0001" text="über" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0002" text="lͤceloius" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0003" text="E" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0004" text="ꝰe-g" error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0005" text="celsius" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0027" text="u°-10ͤ">
+      <Coords points="442,1563 442,1580 717,1567 719,1561 715,1535 440,1529 442,1563" />
+      <Word id="l_0027-w_0001" text="u°-10ͤ" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0028" text="g0-70">
+      <Coords points="746,1561 746,1571 844,1578 846,1578 948,1563 948,1553 942,1527 744,1533 746,1561" />
+      <Word id="l_0028-w_0001" text="g0-70" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0029" text="1o.-ꝰ.. 7 -g.">
+      <Coords points="376,1616 376,1635 513,1621 527,1631 529,1631 531,1631 533,1631 534,1631 570,1616 605,1625 607,1625 609,1625 672,1612 852,1629 854,1629 856,1629 858,1629 883,1614 913,1627 915,1627 917,1627 919,1627 921,1627 952,1608 952,1600 946,1576 523,1578 503,1567 501,1567 499,1567 374,1565 376,1616" />
+      <Word id="l_0029-w_0001" text="1o.-ꝰ.." error_score="1.000" error_type="error" />
+      <Word id="l_0029-w_0002" text="7" error_score="1.000" error_type="error" />
+      <Word id="l_0029-w_0003" text="-g." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0030" text="L unter 6e Celsius.">
+      <Coords points="574,1655 574,1670 905,1670 905,1649 899,1623 572,1623 574,1655" />
+      <Word id="l_0030-w_0001" text="L" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0002" text="unter" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0003" text="6e" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0004" text="Celsius." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0031" text="">
+      <Coords points="562,2143 542,2144 523,2141 503,2139 484,2135 464,2131 444,2127 425,2125 425,2152 423,2174 495,2162 542,2174 544,2174 546,2174 548,2174 578,2164 580,2156 578,2141 562,2143" />
+    </TextLine>
+    <TextLine id="l_0032" text="A">
+      <Coords points="429,2587 429,2593 460,2609 462,2609 464,2609 466,2609 515,2595 570,2605 572,2585 566,2562 470,2562 427,2550 429,2587" />
+      <Word id="l_0032-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0033" text="fa ſ enua">
+      <Coords points="374,2695 397,2709 399,2709 401,2709 458,2699 572,2711 576,2683 576,2658 487,2654 452,2636 450,2636 448,2636 446,2636 399,2648 380,2634 376,2677 374,2695" />
+      <Word id="l_0033-w_0001" text="fa" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0002" text="ſ" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0003" text="enua" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0034" text="82">
+      <Coords points="382,2965 384,2971 388,2995 413,3002 411,2965 403,2940 391,2942 382,2965" />
+      <Word id="l_0034-w_0001" text="82" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0035" text="">
+      <Coords points="958,846 956,867 983,865 985,848 989,760 964,756 958,846" />
+    </TextLine>
+    <TextLine id="l_0036" text="A">
+      <Coords points="670,2493 670,2507 736,2517 738,2491 734,2423 697,2417 695,2417 693,2417 666,2430 670,2493" />
+      <Word id="l_0036-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0037" text="S">
+      <Coords points="793,2227 791,2246 817,2254 819,2254 821,2254 823,2254 848,2242 850,2229 848,2174 793,2176 793,2227" />
+      <Word id="l_0037-w_0001" text="S" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0038" text="he">
+      <Coords points="885,2180 887,2223 928,2209 928,2180 926,2143 885,2150 885,2180" />
+      <Word id="l_0038-w_0001" text="he" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0039" text="D">
+      <Coords points="954,1743 954,1763 1062,1759 1062,1743 1060,1655 954,1657 954,1743" />
+      <Word id="l_0039-w_0001" text="D" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0040" text="">
+      <Coords points="964,2213 958,2268 956,2270 977,2274 985,2215 991,2119 970,2115 964,2213" />
+    </TextLine>
+    <TextLine id="l_0041" text="F">
+      <Coords points="1118,1739 1118,1763 1214,1755 1214,1735 1209,1653 1115,1651 1118,1739" />
+      <Word id="l_0041-w_0001" text="F" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0042" text="">
+      <Coords points="1022,2278 1022,2333 1091,2340 1093,2340 1095,2340 1097,2340 1138,2315 1169,2315 1214,2344 1220,2278 1218,2215 1022,2229 1022,2278" />
+    </TextLine>
+    <TextLine id="l_0043" text="C untin. D as. ooocontimeter">
+      <Coords points="425,2883 1030,2885 1034,2871 1034,2846 825,2844 793,2820 791,2820 789,2820 734,2818 662,2818 660,2818 658,2818 656,2818 656,2820 634,2840 509,2840 429,2814 427,2863 425,2883" />
+      <Word id="l_0043-w_0001" text="C" error_score="1.000" error_type="error" />
+      <Word id="l_0043-w_0002" text="untin." error_score="1.000" error_type="error" />
+      <Word id="l_0043-w_0003" text="D" error_score="1.000" error_type="error" />
+      <Word id="l_0043-w_0004" text="as." error_score="1.000" error_type="error" />
+      <Word id="l_0043-w_0005" text="ooocontimeter" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0044" text="70 ider 200">
+      <Coords points="431,2959 431,2969 905,2977 907,2977 909,2977 911,2977 923,2965 923,2955 919,2932 774,2918 772,2918 670,2932 429,2928 431,2959" />
+      <Word id="l_0044-w_0001" text="70" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0002" text="ider" error_score="1.000" error_type="error" />
+      <Word id="l_0044-w_0003" text="200" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0045" text="L">
+      <Coords points="1009,3024 1001,3075 1034,3077 1042,3028 1046,2975 1015,2971 1009,3024" />
+      <Word id="l_0045-w_0001" text="L" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0046" text="8">
+      <Coords points="1220,1067 1209,1134 1283,1157 1299,1079 1311,991 1269,965 1267,965 1265,965 1263,965 1234,965 1220,1067" />
+      <Word id="l_0046-w_0001" text="8" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0047" text="">
+      <Coords points="1107,2528 1107,2538 1132,2550 1134,2550 1136,2550 1226,2538 1228,2526 1222,2409 1103,2409 1107,2528" />
+    </TextLine>
+    <TextLine id="l_0048" text="2">
+      <Coords points="1083,2834 1107,2850 1113,2812 1113,2769 1085,2756 1083,2812 1083,2834" />
+      <Word id="l_0048-w_0001" text="2" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0049" text="4">
+      <Coords points="1136,2869 1138,2885 1164,2885 1164,2865 1154,2834 1130,2842 1136,2869" />
+      <Word id="l_0049-w_0001" text="4" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0050" text="De">
+      <Coords points="1332,524 1436,521 1436,487 1436,427 1334,401 1332,487 1332,524" />
+      <Word id="l_0050-w_0001" text="De" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0051" text="">
+      <Coords points="1179,664 1175,689 1226,681 1289,701 1291,701 1293,701 1340,693 1342,681 1342,642 1181,638 1179,664" />
+    </TextLine>
+    <TextLine id="l_0052" text="A">
+      <Coords points="1107,1157 1105,1169 1191,1185 1195,1163 1193,1102 1109,1112 1107,1157" />
+      <Word id="l_0052-w_0001" text="A" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0053" text="2">
+      <Coords points="1144,1514 1144,1531 1167,1543 1169,1512 1162,1471 1140,1478 1144,1514" />
+      <Word id="l_0053-w_0001" text="2" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0054" text="Gthe">
+      <Coords points="991,1919 989,1939 1048,1943 1079,1970 1081,1970 1083,1970 1085,1970 1087,1970 1120,1958 1154,1970 1160,1921 1160,1870 1022,1857 1020,1857 1019,1857 991,1870 991,1919" />
+      <Word id="l_0054-w_0001" text="Gthe" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0055" text="">
+      <Coords points="1022,2117 1022,2172 1024,2186 1034,2180 1034,2172 1034,2117 1022,2117" />
+    </TextLine>
+    <TextLine id="l_0056" text="Mittlere jährliche Regenmenge.">
+      <Coords points="440,2803 438,2818 819,2832 821,2832 1026,2822 1028,2807 1026,2777 440,2773 440,2803" />
+      <Word id="l_0056-w_0001" text="Mittlere" error_score="0.991" error_type="error" />
+      <Word id="l_0056-w_0002" text="jährliche" error_score="0.991" error_type="error" />
+      <Word id="l_0056-w_0003" text="Regenmenge." error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0057" text="D 100-200">
+      <Coords points="703,2912 703,2926 911,2924 913,2910 909,2887 717,2873 715,2873 713,2873 711,2873 711,2875 701,2883 703,2912" />
+      <Word id="l_0057-w_0001" text="D" error_score="0.117" />
+      <Word id="l_0057-w_0002" text="100-200" error_score="0.117" />
+    </TextLine>
+    <TextLine id="l_0058" text="E">
+      <Coords points="817,3022 797,3020 797,3024 797,3079 821,3079 821,3024 821,3020 817,3022" />
+      <Word id="l_0058-w_0001" text="E" error_score="0.117" />
+    </TextLine>
+    <TextLine id="l_0059" text="">
+      <Coords points="1246,1206 1244,1224 1265,1236 1271,1208 1273,1138 1250,1140 1246,1206" />
+    </TextLine>
+    <TextLine id="l_0060" text="">
+      <Coords points="1311,944 1309,965 1391,965 1393,946 1393,854 1360,852 1358,852 1356,852 1354,852 1354,854 1324,881 1311,881 1311,944" />
+    </TextLine>
+    <TextLine id="l_0061" text="AE">
+      <Coords points="1291,1208 1289,1238 1420,1226 1422,1216 1422,1171 1383,1171 1342,1138 1340,1138 1338,1138 1295,1136 1291,1208" />
+      <Word id="l_0061-w_0001" text="AE" error_score="0.117" />
+    </TextLine>
+    <TextLine id="l_0062" text="">
+      <Coords points="1240,1445 1238,1478 1254,1480 1285,1516 1285,1518 1287,1518 1289,1518 1291,1520 1318,1520 1322,1449 1320,1424 1293,1424 1265,1392 1265,1390 1263,1390 1262,1390 1242,1390 1240,1445" />
+    </TextLine>
+    <TextLine id="l_0063" text="3">
+      <Coords points="1354,1379 1354,1402 1375,1402 1375,1379 1375,1353 1354,1353 1354,1379" />
+      <Word id="l_0063-w_0001" text="3" error_score="0.117" />
+    </TextLine>
+    <TextLine id="l_0064" text="">
+      <Coords points="1252,1600 1242,1618 1360,1674 1369,1659 1381,1627 1269,1563 1252,1600" />
+    </TextLine>
+    <TextLine id="l_0065" text="Me">
+      <Coords points="1028,1745 1009,1745 989,1745 962,1749 950,1739 950,1737 948,1737 946,1737 883,1735 881,1735 879,1735 877,1735 877,1737 875,1737 872,1739 872,1782 870,1802 923,1796 966,1825 968,1825 970,1825 1068,1827 1069,1827 1071,1827 1118,1804 1260,1806 1263,1790 1262,1763 1140,1751 1138,1751 1136,1751 1120,1759 1103,1743 1101,1743 1099,1743 1097,1743 1095,1743 1054,1757 1040,1745 1028,1745" />
+      <Word id="l_0065-w_0001" text="Me" error_score="0.117" />
+    </TextLine>
+    <TextLine id="l_0066" text="">
+      <Coords points="874,2229 877,2256 887,2258 885,2227 875,2201 868,2203 874,2229" />
+    </TextLine>
+    <TextLine id="l_0067" text="d E">
+      <Coords points="774,2278 774,2289 866,2305 868,2305 870,2305 872,2305 901,2286 962,2287 964,2270 958,2215 772,2239 774,2278" />
+      <Word id="l_0067-w_0001" text="d" error_score="0.117" />
+      <Word id="l_0067-w_0002" text="E" error_score="0.117" />
+    </TextLine>
+    <TextLine id="l_0068" text="">
+      <Coords points="766,2425 766,2460 830,2442 832,2427 828,2395 766,2395 766,2425" />
+    </TextLine>
+    <TextLine id="l_0069" text="D">
+      <Coords points="632,2754 632,2771 862,2777 864,2754 864,2701 799,2701 699,2634 697,2634 695,2634 632,2634 632,2754" />
+      <Word id="l_0069-w_0001" text="D" error_score="0.117" />
+    </TextLine>
+    <TextLine id="l_0070" text="U 55--70">
+      <Coords points="429,2906 427,2918 435,2926 435,2928 437,2928 438,2928 440,2928 674,2918 676,2910 674,2885 429,2881 429,2906" />
+      <Word id="l_0070-w_0001" text="U" error_score="0.117" />
+      <Word id="l_0070-w_0002" text="55--70" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0071" text="2">
+      <Coords points="570,3022 574,3073 615,3073 611,3018 603,2967 562,2967 570,3022" />
+      <Word id="l_0071-w_0001" text="2" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0072" text="A8">
+      <Coords points="1103,846 1103,869 1158,867 1158,844 1152,801 1101,812 1103,846" />
+      <Word id="l_0072-w_0001" text="A8" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0073" text="l">
+      <Coords points="795,908 793,928 864,922 875,932 877,932 879,932 881,932 971,924 1013,936 1015,936 1017,936 1150,934 1152,916 1150,863 1075,865 1073,865 1071,865 1052,881 1005,881 981,859 979,859 977,859 975,859 795,875 795,908" />
+      <Word id="l_0073-w_0001" text="l" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0074" text="">
+      <Coords points="811,967 819,1030 838,1014 836,965 830,914 805,914 811,967" />
+    </TextLine>
+    <TextLine id="l_0075" text="Heg RA">
+      <Coords points="380,1796 380,1827 393,1839 393,1841 395,1841 397,1841 399,1841 523,1835 525,1835 527,1835 527,1833 558,1800 587,1808 589,1808 591,1808 593,1808 595,1808 595,1806 597,1806 611,1786 730,1782 770,1804 772,1804 774,1804 776,1804 777,1804 789,1792 825,1810 828,1780 823,1712 776,1694 774,1694 772,1694 770,1694 715,1719 672,1700 670,1700 668,1700 666,1700 640,1714 572,1704 570,1704 568,1704 509,1729 470,1710 468,1710 466,1710 464,1710 376,1737 380,1796" />
+      <Word id="l_0075-w_0001" text="Heg" error_score="0.359" />
+      <Word id="l_0075-w_0002" text="RA" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0076" text="a6">
+      <Coords points="382,2380 378,2407 407,2432 419,2383 417,2346 384,2350 382,2380" />
+      <Word id="l_0076-w_0001" text="a6" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0077" text="3">
+      <Coords points="495,2248 503,2313 531,2313 523,2244 511,2203 489,2209 495,2248" />
+      <Word id="l_0077-w_0001" text="3" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0078" text="n">
+      <Coords points="981,1602 981,1618 997,1616 997,1602 997,1578 981,1578 981,1602" />
+      <Word id="l_0078-w_0001" text="n" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0079" text="1">
+      <Coords points="1211,1563 1211,1586 1222,1586 1222,1563 1220,1527 1211,1527 1211,1563" />
+      <Word id="l_0079-w_0001" text="1" error_score="0.359" />
+    </TextLine>
+    <TextLine id="l_0080" text="W">
+      <Coords points="1234,2816 1234,2834 1291,2856 1295,2816 1295,2793 1234,2787 1234,2816" />
+      <Word id="l_0080-w_0001" text="W" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0081" text="2">
+      <Coords points="1222,3032 1226,3077 1263,3077 1262,3028 1254,2973 1216,2973 1222,3032" />
+      <Word id="l_0081-w_0001" text="2" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0082" text="A">
+      <Coords points="1316,2693 1311,2716 1324,2715 1330,2697 1340,2660 1328,2650 1316,2693" />
+      <Word id="l_0082-w_0001" text="A" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0083" text="3">
+      <Coords points="1493,865 1495,885 1540,877 1540,859 1528,803 1485,814 1493,865" />
+      <Word id="l_0083-w_0001" text="3" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0084" text="Coh.">
+      <Coords points="1452,1198 1520,1208 1526,1189 1528,1165 1461,1136 1456,1179 1452,1198" />
+      <Word id="l_0084-w_0001" text="Coh." error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0085" text="A">
+      <Coords points="1434,1218 1432,1243 1493,1234 1495,1220 1495,1187 1434,1183 1434,1218" />
+      <Word id="l_0085-w_0001" text="A" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0086" text="E">
+      <Coords points="1363,2362 1361,2380 1442,2391 1446,2366 1444,2291 1365,2315 1363,2362" />
+      <Word id="l_0086-w_0001" text="E" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0087" text="">
+      <Coords points="1479,1917 1479,1937 1505,1939 1506,1917 1506,1780 1479,1774 1479,1917" />
+    </TextLine>
+    <TextLine id="l_0088" text="42">
+      <Coords points="1575,560 1573,573 1616,575 1620,562 1616,519 1575,521 1575,560" />
+      <Word id="l_0088-w_0001" text="42" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0089" text="Ar">
+      <Coords points="1608,562 1589,562 1587,556 1569,558 1569,622 1567,656 1687,646 1689,624 1687,540 1608,552 1608,562" />
+      <Word id="l_0089-w_0001" text="Ar" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0090" text="E">
+      <Coords points="1667,654 1667,711 1720,705 1720,654 1720,630 1667,630 1667,654" />
+      <Word id="l_0090-w_0001" text="E" error_score="0.861" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0091" text="Rer.">
+      <Coords points="1550,1187 1548,1198 1673,1230 1679,1196 1681,1169 1661,1157 1659,1157 1657,1157 1655,1157 1616,1163 1579,1132 1577,1132 1575,1132 1554,1130 1550,1187" />
+      <Word id="l_0091-w_0001" text="Rer." error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0092" text="4">
+      <Coords points="1550,1755 1550,1778 1573,1778 1573,1755 1569,1715 1550,1723 1550,1755" />
+      <Word id="l_0092-w_0001" text="4" error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0093" text="4">
+      <Coords points="1552,1872 1552,1892 1583,1888 1583,1872 1579,1788 1552,1802 1552,1872" />
+      <Word id="l_0093-w_0001" text="4" error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0094" text="A">
+      <Coords points="1653,1279 1651,1328 1679,1330 1681,1330 1683,1330 1685,1330 1685,1328 1720,1296 1761,1302 1765,1281 1765,1239 1736,1220 1734,1220 1732,1220 1730,1220 1728,1220 1653,1239 1653,1279" />
+      <Word id="l_0094-w_0001" text="A" error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0095" text="S">
+      <Coords points="1746,1976 1746,1994 1812,2001 1814,1976 1814,1878 1746,1866 1746,1976" />
+      <Word id="l_0095-w_0001" text="S" error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0096" text="">
+      <Coords points="1624,2415 1622,2434 1636,2446 1638,2446 1640,2446 1642,2446 1716,2434 1857,2458 1861,2425 1861,2395 1624,2383 1624,2415" />
+    </TextLine>
+    <TextLine id="l_0097" text="oe S">
+      <Coords points="1459,2570 1528,2573 1561,2599 1563,2599 1565,2599 1669,2603 1675,2560 1673,2530 1616,2530 1589,2515 1587,2515 1585,2515 1481,2523 1465,2513 1461,2548 1459,2570" />
+      <Word id="l_0097-w_0001" text="oe" error_score="0.994" error_type="error" />
+      <Word id="l_0097-w_0002" text="S" error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0098" text="">
+      <Coords points="1363,2579 1361,2599 1489,2599 1491,2585 1489,2562 1363,2546 1363,2579" />
+    </TextLine>
+    <TextLine id="l_0099" text="">
+      <Coords points="1718,783 1714,873 1748,863 1755,875 1757,875 1757,877 1759,877 1761,877 1763,877 1797,875 1802,787 1798,750 1718,756 1718,783" />
+    </TextLine>
+    <TextLine id="l_0100" text="Fe E">
+      <Coords points="1624,1055 1622,1073 1840,1079 1844,1063 1840,1022 1810,1032 1777,1020 1775,1020 1773,1020 1771,1020 1746,1032 1624,1016 1624,1055" />
+      <Word id="l_0100-w_0001" text="Fe" error_score="0.994" error_type="error" />
+      <Word id="l_0100-w_0002" text="E" error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0101" text="1)">
+      <Coords points="1691,1128 1693,1118 1663,1118 1632,1118 1632,1124 1663,1128 1691,1128" />
+      <Word id="l_0101-w_0001" text="1)" error_score="0.994" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0102" text="5">
+      <Coords points="2000,362 2004,438 2034,444 2032,360 2026,295 1994,295 2000,362" />
+      <Word id="l_0102-w_0001" text="5" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0103" text="">
+      <Coords points="2047,419 2047,438 2057,438 2057,419 2057,362 2047,362 2047,419" />
+    </TextLine>
+    <TextLine id="l_0104" text="e">
+      <Coords points="1869,812 1975,809 1977,809 1979,809 1979,807 1981,807 1989,797 2049,803 2051,803 2181,777 2181,760 2171,679 2087,685 2085,685 2083,685 2024,724 1951,728 1936,718 1934,718 1932,718 1930,718 1928,718 1926,718 1908,732 1865,705 1867,791 1869,812" />
+      <Word id="l_0104-w_0001" text="e" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0105" text="L">
+      <Coords points="1883,1925 1932,1937 1936,1923 1940,1880 1893,1851 1885,1917 1883,1925" />
+      <Word id="l_0105-w_0001" text="L" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0106" text="—">
+      <Coords points="1971,1939 1969,1958 1992,1960 1996,1941 1994,1917 1971,1915 1971,1939" />
+      <Word id="l_0106-w_0001" text="—" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0107" text="F ent.">
+      <Coords points="2016,1100 2020,1187 2122,1179 2124,1179 2126,1179 2126,1177 2147,1157 2167,1159 2169,1159 2171,1159 2173,1159 2173,1157 2190,1134 2192,1130 2196,1130 2200,1126 2288,1116 2288,1087 2281,1024 2194,1030 2192,1030 2114,1069 2045,1063 2043,1063 2041,1063 2014,1075 2016,1100" />
+      <Word id="l_0107-w_0001" text="F" error_score="1.000" error_type="error" />
+      <Word id="l_0107-w_0002" text="ent." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0108" text="5">
+      <Coords points="1969,2485 1971,2528 2030,2507 2030,2483 2024,2405 1965,2413 1969,2485" />
+      <Word id="l_0108-w_0001" text="5" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0109" text="">
+      <Coords points="2188,1132 2186,1169 2192,1175 2194,1175 2194,1177 2196,1177 2198,1177 2200,1177 2284,1165 2286,1134 2281,1093 2249,1106 2188,1100 2188,1132" />
+    </TextLine>
+    <TextLine id="l_0110" text="A LauEa.">
+      <Coords points="2190,1228 2188,1245 2230,1239 2359,1259 2361,1259 2435,1255 2437,1239 2435,1214 2292,1191 2290,1191 2190,1200 2190,1228" />
+      <Word id="l_0110-w_0001" text="A" error_score="1.000" error_type="error" />
+      <Word id="l_0110-w_0002" text="LauEa." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0111" text="i">
+      <Coords points="2222,1516 2222,1529 2251,1531 2253,1514 2241,1459 2218,1473 2222,1516" />
+      <Word id="l_0111-w_0001" text="i" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0112" text="1a">
+      <Coords points="2318,1463 2298,1463 2310,1506 2316,1524 2333,1518 2330,1500 2318,1463" />
+      <Word id="l_0112-w_0001" text="1a" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0113" text="">
+      <Coords points="2065,1606 2063,1620 2110,1633 2112,1633 2114,1633 2210,1623 2310,1633 2314,1608 2312,1580 2251,1569 2249,1569 2247,1569 2212,1578 2188,1567 2186,1567 2185,1567 2065,1576 2065,1606" />
+    </TextLine>
+    <TextLine id="l_0114" text="Ʒ">
+      <Coords points="2069,1862 2067,1907 2112,1909 2114,1909 2116,1909 2118,1909 2118,1907 2157,1874 2192,1884 2194,1884 2196,1884 2239,1874 2241,1864 2241,1788 2214,1772 2212,1772 2210,1772 2208,1772 2206,1772 2206,1774 2190,1788 2159,1788 2118,1757 2116,1757 2114,1757 2069,1753 2069,1862" />
+      <Word id="l_0114-w_0001" text="Ʒ" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0115" text="DN">
+      <Coords points="2087,2244 2226,2258 2230,2235 2230,2197 2196,2197 2157,2158 2157,2156 2155,2156 2153,2156 2151,2156 2149,2156 2147,2156 2132,2170 2090,2146 2089,2233 2087,2244" />
+      <Word id="l_0115-w_0001" text="DN" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0116" text="A⸗">
+      <Coords points="2241,2029 2241,2045 2302,2052 2304,2029 2304,2001 2241,1988 2241,2029" />
+      <Word id="l_0116-w_0001" text="A⸗" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0117" text="">
+      <Coords points="1650,3032 1650,3081 2141,3079 2143,3026 2137,3001 1648,3004 1650,3032" />
+    </TextLine>
+    <TextLine id="l_0118" text="B⸗">
+      <Coords points="2179,2977 2179,3018 2316,3016 2316,2977 2316,2954 2179,2954 2179,2977" />
+      <Word id="l_0118-w_0001" text="B⸗" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0119" text="4.">
+      <Coords points="2486,722 2484,748 2524,748 2526,724 2526,689 2512,679 2510,679 2508,679 2506,679 2504,679 2486,685 2486,722" />
+      <Word id="l_0119-w_0001" text="4." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0120" text="A.">
+      <Coords points="2398,1314 2398,1337 2527,1334 2527,1314 2527,1269 2488,1255 2486,1255 2484,1255 2482,1255 2480,1255 2480,1257 2471,1265 2465,1259 2463,1259 2461,1259 2459,1259 2457,1259 2455,1259 2433,1277 2398,1277 2398,1314" />
+      <Word id="l_0120-w_0001" text="A." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0121" text="5">
+      <Coords points="2373,1490 2375,1502 2408,1502 2408,1484 2394,1428 2363,1435 2373,1490" />
+      <Word id="l_0121-w_0001" text="5" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0122" text="">
+      <Coords points="2390,1792 2390,1819 2527,1806 2527,1786 2522,1714 2482,1706 2480,1706 2478,1706 2477,1706 2477,1708 2475,1708 2451,1735 2388,1753 2390,1792" />
+    </TextLine>
+    <TextLine id="l_0123" text="Ape A-">
+      <Coords points="2255,2587 2253,2599 2408,2622 2410,2622 2459,2615 2461,2603 2459,2573 2428,2573 2402,2558 2400,2558 2398,2558 2396,2558 2394,2558 2365,2568 2296,2552 2294,2552 2257,2558 2255,2587" />
+      <Word id="l_0123-w_0001" text="Ape" error_score="1.000" error_type="error" />
+      <Word id="l_0123-w_0002" text="A-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0124" text="">
+      <Coords points="1930,2758 1930,2767 2281,2783 2283,2783 2284,2783 2286,2783 2286,2781 2300,2767 2300,2756 2292,2716 2247,2728 2198,2718 2196,2718 2194,2718 2192,2718 2192,2720 2183,2730 2147,2716 2145,2716 2143,2716 2141,2716 2139,2716 2139,2718 2126,2732 1928,2732 1930,2758" />
+    </TextLine>
+    <TextLine id="l_0125" text="a1">
+      <Coords points="2069,2881 2067,2895 2077,2905 2077,2906 2079,2906 2081,2906 2083,2906 2085,2906 2128,2895 2171,2906 2177,2883 2175,2846 2069,2856 2069,2881" />
+      <Word id="l_0125-w_0001" text="a1" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0126" text="de">
+      <Coords points="2130,2883 2124,2883 2090,2893 2092,2920 2094,2959 2173,2936 2173,2916 2171,2891 2143,2883 2130,2883" />
+      <Word id="l_0126-w_0001" text="de" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0127" text="ʒ">
+      <Coords points="2512,399 2369,407 2371,436 2371,458 2529,450 2529,432 2524,405 2512,399" />
+      <Word id="l_0127-w_0001" text="ʒ" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0128" text="">
+      <Coords points="2181,660 2179,675 2218,691 2220,691 2222,693 2377,693 2379,669 2379,644 2290,640 2253,599 2253,597 2251,597 2249,597 2200,595 2198,595 2196,595 2194,595 2183,601 2181,660" />
+    </TextLine>
+    <TextLine id="l_0129" text="ee">
+      <Coords points="1965,881 1965,908 1973,914 1975,914 1977,914 1979,914 2067,910 2069,910 2071,910 2071,908 2085,893 2141,893 2190,905 2194,869 2188,830 2161,834 2132,818 2130,818 2128,818 2126,818 2124,818 2096,840 2047,842 2008,814 2006,814 2004,814 2002,814 1961,814 1965,881" />
+      <Word id="l_0129-w_0001" text="ee" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0130" text="A">
+      <Coords points="2130,1228 2132,1243 2153,1234 2153,1228 2153,1200 2130,1194 2130,1228" />
+      <Word id="l_0130-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0131" text="L.U">
+      <Coords points="1936,1404 1951,1418 1951,1420 1953,1420 1955,1420 1957,1420 2294,1404 2296,1386 2292,1316 1991,1334 1940,1312 1938,1382 1936,1404" />
+      <Word id="l_0131-w_0001" text="L.U" error_score="0.658" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0132" text="">
+      <Coords points="1640,2658 1665,2675 1667,2675 1669,2675 1671,2675 1673,2675 1675,2675 1710,2650 1746,2660 1748,2660 1749,2660 1828,2652 1906,2683 1908,2683 1910,2685 1957,2685 1959,2650 1959,2587 1916,2585 1914,2585 1912,2585 1861,2613 1830,2589 1828,2589 1826,2589 1824,2589 1822,2589 1759,2609 1740,2585 1738,2585 1738,2583 1736,2583 1734,2583 1732,2583 1730,2583 1728,2583 1695,2607 1644,2587 1642,2640 1640,2658" />
+    </TextLine>
+    <TextLine id="l_0133" text="">
+      <Coords points="1916,2760 1916,2713 1904,2711 1902,2760 1904,2783 1916,2775 1916,2760" />
+    </TextLine>
+    <TextLine id="l_0134" text="">
+      <Coords points="2333,3083 2345,3083 2337,3028 2324,2957 2314,2957 2326,3030 2333,3083" />
+    </TextLine>
+    <TextLine id="l_0135" text="A.">
+      <Coords points="2363,2687 2363,2709 2531,2703 2531,2681 2527,2628 2484,2615 2482,2615 2480,2615 2478,2615 2400,2654 2361,2654 2363,2687" />
+      <Word id="l_0135-w_0001" text="A." error_score="0.658" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="1236,3063 2261,3071 2355,3079 2355,3108 572,3108 580,3071 1236,3063" />
+    <TextLine id="l_0136" text="Lat aesee a muometer">
+      <Coords points="734,3069 715,3069 695,3069 676,3069 656,3069 636,3069 617,3069 597,3069 578,3077 578,3095 576,3112 1146,3116 1150,3098 1148,3073 736,3067 734,3069" />
+      <Word id="l_0136-w_0001" text="Lat" error_score="0.658" error_type="error" />
+      <Word id="l_0136-w_0002" text="aesee" error_score="0.658" error_type="error" />
+      <Word id="l_0136-w_0003" text="a" error_score="0.658" error_type="error" />
+      <Word id="l_0136-w_0004" text="muometer" error_score="0.658" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0137" text="Maßstab 1: ꝰ000000">
+      <Coords points="1209,3100 1209,3118 1575,3114 1577,3095 1571,3071 1207,3075 1209,3100" />
+      <Word id="l_0137-w_0001" text="Maßstab" error_score="0.658" error_type="error" />
+      <Word id="l_0137-w_0002" text="1:" error_score="0.658" error_type="error" />
+      <Word id="l_0137-w_0003" text="ꝰ000000" error_score="0.658" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0138" text="100 Kilometer in der Natur-I. Mm auf der Karte.">
+      <Coords points="2332,3077 1646,3077 1646,3100 1646,3120 2333,3124 2335,3100 2335,3077 2332,3077" />
+      <Word id="l_0138-w_0001" text="100" error_score="0.658" error_type="error" />
+      <Word id="l_0138-w_0002" text="Kilometer" error_score="0.658" error_type="error" />
+      <Word id="l_0138-w_0003" text="in" error_score="0.658" error_type="error" />
+      <Word id="l_0138-w_0004" text="der" error_score="0.658" error_type="error" />
+      <Word id="l_0138-w_0005" text="Natur-I." error_score="0.658" error_type="error" />
+      <Word id="l_0138-w_0006" text="Mm" error_score="0.658" error_type="error" />
+      <Word id="l_0138-w_0007" text="auf" error_score="0.658" error_type="error" />
+      <Word id="l_0138-w_0008" text="der" />
+      <Word id="l_0138-w_0009" text="Karte." />
+    </TextLine>
+  </TextRegion>
+</Page>

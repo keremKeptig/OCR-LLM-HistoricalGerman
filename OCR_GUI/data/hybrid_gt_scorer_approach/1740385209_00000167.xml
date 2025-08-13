@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740385209_00000167.bin.png" imageHeight="2930" imageWidth="1937" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="588,299 1019,299 1032,323 967,349 599,343 579,336 588,299" />
+    <TextLine id="l_0001" text="Temperatur der Meerestiefen.">
+      <Coords points="1006,299 592,302 583,312 584,327 584,340 1021,335 1021,322 1016,304 1006,299" />
+      <Word id="l_0001-w_0001" text="Temperatur" error_score="0.000" />
+      <Word id="l_0001-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0001-w_0003" text="Meerestiefen." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1459,364 1513,364 1506,395 1539,410 1552,2518 1423,2537 1389,2576 1234,2537 84,2531 65,468 169,410 1409,403 1467,397 1482,377 1459,364" />
+    <TextLine id="l_0002" text="3. Ueber die Temperatur der Meerestiefen haben die oben erwähnten">
+      <Coords points="1093,405 1076,405 1060,405 1044,405 1027,405 1011,405 995,405 985,405 842,413 177,411 175,411 174,411 172,411 164,416 166,449 166,459 1526,447 1528,436 1524,408 1101,403 1093,405" />
+      <Word id="l_0002-w_0001" text="3." error_score="0.003" />
+      <Word id="l_0002-w_0002" text="Ueber" error_score="0.003" />
+      <Word id="l_0002-w_0003" text="die" error_score="0.003" />
+      <Word id="l_0002-w_0004" text="Temperatur" error_score="0.003" />
+      <Word id="l_0002-w_0005" text="der" error_score="0.003" />
+      <Word id="l_0002-w_0006" text="Meerestiefen" error_score="0.003" />
+      <Word id="l_0002-w_0007" text="haben" error_score="0.003" />
+      <Word id="l_0002-w_0008" text="die" error_score="0.003" />
+      <Word id="l_0002-w_0009" text="oben" error_score="0.003" />
+      <Word id="l_0002-w_0010" text="erwähnten" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0003" text="wiſſenſchaftlichen Expeditionen ʒahlreiche Beobachtungen geliefert, welche die früheren">
+      <Coords points="68,494 68,506 109,516 110,517 304,517 304,516 358,506 389,514 390,514 392,514 575,506 646,514 648,514 747,504 964,511 966,511 967,511 1001,502 1029,511 1031,511 1032,511 1073,502 1096,511 1098,511 1099,511 1168,502 1270,509 1272,509 1273,509 1291,501 1453,509 1454,509 1528,498 1528,486 1524,460 1241,450 1239,450 1238,450 1236,450 1223,460 1065,452 1063,452 1062,452 1060,452 1047,460 881,454 879,454 804,462 770,454 768,454 767,454 765,454 741,462 693,454 692,454 690,454 674,462 658,454 656,454 654,454 653,454 615,463 374,455 373,455 371,455 369,455 355,465 104,457 102,457 101,457 66,467 68,494" />
+      <Word id="l_0003-w_0001" text="wiſſenſchaftlichen" error_score="0.000" />
+      <Word id="l_0003-w_0002" text="Expeditionen" error_score="0.000" />
+      <Word id="l_0003-w_0003" text="ʒahlreiche" error_score="0.000" />
+      <Word id="l_0003-w_0004" text="Beobachtungen" error_score="0.000" />
+      <Word id="l_0003-w_0005" text="geliefert," error_score="0.000" />
+      <Word id="l_0003-w_0006" text="welche" error_score="0.000" />
+      <Word id="l_0003-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0003-w_0008" text="früheren" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0004" text="Anſichten über die Wärme⸗Vertheilung in den Oceanen weſentlich berichtigt haben.">
+      <Coords points="71,546 71,558 1524,550 1526,537 1523,511 1304,501 1303,501 1244,511 1226,502 1225,502 1120,502 1119,502 1032,512 925,504 923,504 922,504 920,504 907,512 628,506 627,506 625,506 606,514 566,506 565,506 563,506 562,506 549,516 448,507 446,507 404,516 371,507 369,507 368,507 306,517 276,509 275,509 273,509 272,509 239,517 166,509 164,509 70,514 71,546" />
+      <Word id="l_0004-w_0001" text="Anſichten" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="über" error_score="0.000" />
+      <Word id="l_0004-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0004-w_0004" text="Wärme⸗Vertheilung" error_score="0.000" />
+      <Word id="l_0004-w_0005" text="in" error_score="0.000" />
+      <Word id="l_0004-w_0006" text="den" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="Oceanen" error_score="0.000" />
+      <Word id="l_0004-w_0008" text="weſentlich" error_score="0.000" />
+      <Word id="l_0004-w_0009" text="berichtigt" error_score="0.000" />
+      <Word id="l_0004-w_0010" text="haben." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0005" text="Die Beobachtungen von Dumont d'Urville (1826/ 2ꝰ), Wilkes (183ꝰ/ 42)">
+      <Coords points="169,599 169,610 1523,603 1524,584 1521,556 1399,546 1397,546 1396,546 1355,556 1285,548 1283,548 1158,558 1080,550 1078,550 993,559 930,551 928,551 926,551 892,561 811,553 809,553 752,563 602,556 601,556 599,556 597,556 586,566 467,566 324,558 322,558 320,558 319,558 307,568 180,559 179,559 177,559 175,559 167,566 169,599" />
+      <Word id="l_0005-w_0001" text="Die" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0002" text="Beobachtungen" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0003" text="von" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0004" text="Dumont" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0005" text="d'Urville" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0006" text="(1826/" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0007" text="2ꝰ)," error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0008" text="Wilkes" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0009" text="(183ꝰ/" error_score="1.000" error_type="merge" />
+      <Word id="l_0005-w_0010" text="42)" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0006" text="und James Roſs (183ꝰ/42) hatten für größere Meerestiefen überall in der Aequatorial⸗">
+      <Coords points="71,646 71,659 1526,649 1528,636 1524,608 557,605 555,605 412,613 319,607 317,607 316,607 288,615 120,608 118,608 70,616 71,646" />
+      <Word id="l_0006-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0006-w_0002" text="James" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="Roſs" error_score="0.000" />
+      <Word id="l_0006-w_0004" text="(183ꝰ/42)" error_score="0.000" />
+      <Word id="l_0006-w_0005" text="hatten" error_score="0.000" />
+      <Word id="l_0006-w_0006" text="für" error_score="0.000" />
+      <Word id="l_0006-w_0007" text="größere" error_score="0.000" />
+      <Word id="l_0006-w_0008" text="Meerestiefen" error_score="0.000" />
+      <Word id="l_0006-w_0009" text="überall" error_score="0.000" />
+      <Word id="l_0006-w_0010" text="in" error_score="0.000" />
+      <Word id="l_0006-w_0011" text="der" error_score="0.000" />
+      <Word id="l_0006-w_0012" text="Aequatorial⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0007" text="region wie in den polaren Breiten eine naheʒu gleichförmige Temperatur von circa">
+      <Coords points="71,698 71,708 245,716 247,716 320,708 438,714 439,714 545,706 619,712 620,712 697,704 879,711 881,711 882,711 904,703 1111,709 1112,709 1114,709 1135,701 1528,701 1529,686 1526,662 1471,652 1469,652 1467,652 1449,660 1298,654 1296,654 1243,662 1150,654 1148,654 1146,654 1145,654 1132,662 948,655 946,655 944,655 925,664 832,657 830,657 773,665 724,657 723,657 721,657 692,667 565,659 563,659 562,659 560,659 547,667 345,660 343,660 342,660 314,669 285,660 283,660 281,660 280,660 278,660 265,670 122,662 120,662 70,672 71,698" />
+      <Word id="l_0007-w_0001" text="region" error_score="0.000" />
+      <Word id="l_0007-w_0002" text="wie" error_score="0.000" />
+      <Word id="l_0007-w_0003" text="in" error_score="0.000" />
+      <Word id="l_0007-w_0004" text="den" error_score="0.000" />
+      <Word id="l_0007-w_0005" text="polaren" error_score="0.000" />
+      <Word id="l_0007-w_0006" text="Breiten" error_score="0.000" />
+      <Word id="l_0007-w_0007" text="eine" error_score="0.000" />
+      <Word id="l_0007-w_0008" text="naheʒu" error_score="0.000" />
+      <Word id="l_0007-w_0009" text="gleichförmige" error_score="0.000" />
+      <Word id="l_0007-w_0010" text="Temperatur" error_score="0.000" />
+      <Word id="l_0007-w_0011" text="von" error_score="0.000" />
+      <Word id="l_0007-w_0012" text="circa" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="4ꝰ Celſius ergeben. Daraus glaubte man folgern ʒu dürfen, daß im Meere wie in">
+      <Coords points="74,761 1526,750 1528,734 1526,709 1495,699 1493,699 1492,699 1433,709 1298,701 1296,701 1295,701 1293,701 1280,711 1159,703 1158,703 1107,712 1024,704 1023,704 939,714 825,706 824,706 759,716 607,708 606,708 604,708 602,708 586,717 439,709 438,709 436,709 417,719 343,711 342,711 340,711 316,719 74,719 74,742 74,761" />
+      <Word id="l_0008-w_0001" text="4ꝰ" error_score="0.000" />
+      <Word id="l_0008-w_0002" text="Celſius" error_score="0.000" />
+      <Word id="l_0008-w_0003" text="ergeben." error_score="0.000" />
+      <Word id="l_0008-w_0004" text="Daraus" error_score="0.000" />
+      <Word id="l_0008-w_0005" text="glaubte" error_score="0.000" />
+      <Word id="l_0008-w_0006" text="man" error_score="0.000" />
+      <Word id="l_0008-w_0007" text="folgern" error_score="0.000" />
+      <Word id="l_0008-w_0008" text="ʒu" error_score="0.000" />
+      <Word id="l_0008-w_0009" text="dürfen," error_score="0.000" />
+      <Word id="l_0008-w_0010" text="daß" error_score="0.000" />
+      <Word id="l_0008-w_0011" text="im" error_score="0.000" />
+      <Word id="l_0008-w_0012" text="Meere" error_score="0.000" />
+      <Word id="l_0008-w_0013" text="wie" error_score="0.000" />
+      <Word id="l_0008-w_0014" text="in" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="den Süßwaſſerſeen von einer gewiſſen Tiefe an eine conſtante Temperatur von 4‟">
+      <Coords points="73,799 73,812 1521,795 1523,782 1516,750 1487,758 1187,753 1185,753 1114,761 1089,753 1088,753 1086,753 1084,753 1065,763 953,755 951,755 949,755 948,755 935,765 798,756 796,756 742,766 663,758 661,758 659,758 620,768 513,760 511,760 509,760 508,760 495,771 71,771 73,799" />
+      <Word id="l_0009-w_0001" text="den" error_score="0.000" />
+      <Word id="l_0009-w_0002" text="Süßwaſſerſeen" error_score="0.000" />
+      <Word id="l_0009-w_0003" text="von" error_score="0.000" />
+      <Word id="l_0009-w_0004" text="einer" error_score="0.000" />
+      <Word id="l_0009-w_0005" text="gewiſſen" error_score="0.000" />
+      <Word id="l_0009-w_0006" text="Tiefe" error_score="0.000" />
+      <Word id="l_0009-w_0007" text="an" error_score="0.000" />
+      <Word id="l_0009-w_0008" text="eine" error_score="0.000" />
+      <Word id="l_0009-w_0009" text="conſtante" error_score="0.000" />
+      <Word id="l_0009-w_0010" text="Temperatur" error_score="0.000" />
+      <Word id="l_0009-w_0011" text="von" error_score="0.000" />
+      <Word id="l_0009-w_0012" text="4‟" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0010" text="Celſius, d. i. die Temperatur der Maximaldichte des ſüßen Waſſers, herrſche. Jn den">
+      <Coords points="73,849 73,862 1526,851 1528,835 1524,809 1409,800 1407,800 1361,809 1239,802 1238,802 1182,810 1080,804 1078,804 1039,812 897,805 896,805 894,805 876,813 718,807 716,807 715,807 713,807 700,815 575,809 573,809 571,809 553,817 263,812 262,812 71,820 73,849" />
+      <Word id="l_0010-w_0001" text="Celſius," error_score="0.000" />
+      <Word id="l_0010-w_0002" text="d." error_score="0.000" />
+      <Word id="l_0010-w_0003" text="i." error_score="0.000" />
+      <Word id="l_0010-w_0004" text="die" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="Temperatur" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0010-w_0007" text="Maximaldichte" error_score="0.000" />
+      <Word id="l_0010-w_0008" text="des" error_score="0.000" />
+      <Word id="l_0010-w_0009" text="ſüßen" error_score="0.000" />
+      <Word id="l_0010-w_0010" text="Waſſers," error_score="0.000" />
+      <Word id="l_0010-w_0011" text="herrſche." error_score="0.000" />
+      <Word id="l_0010-w_0012" text="Jn" error_score="0.000" />
+      <Word id="l_0010-w_0013" text="den" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0011" text="Polarbecken, folgerte man, nimmt die Temperatur mit der Tiefe ʒu, in den niedrigeren">
+      <Coords points="73,900 73,913 1526,900 1528,887 1524,861 1365,852 1363,852 1361,852 1342,861 1221,854 1220,854 1159,862 988,856 987,856 985,856 983,856 974,864 847,857 845,857 796,865 638,859 636,859 583,869 71,869 73,900" />
+      <Word id="l_0011-w_0001" text="Polarbecken," error_score="0.000" />
+      <Word id="l_0011-w_0002" text="folgerte" error_score="0.000" />
+      <Word id="l_0011-w_0003" text="man," error_score="0.000" />
+      <Word id="l_0011-w_0004" text="nimmt" error_score="0.000" />
+      <Word id="l_0011-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0011-w_0006" text="Temperatur" error_score="0.000" />
+      <Word id="l_0011-w_0007" text="mit" error_score="0.000" />
+      <Word id="l_0011-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0011-w_0009" text="Tiefe" error_score="0.000" />
+      <Word id="l_0011-w_0010" text="ʒu," error_score="0.000" />
+      <Word id="l_0011-w_0011" text="in" error_score="0.000" />
+      <Word id="l_0011-w_0012" text="den" error_score="0.000" />
+      <Word id="l_0011-w_0013" text="niedrigeren" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0012" text="Breiten nimmt ſie mit der Tiefe ab bis ʒu dieſer conſtanten Temperatur; ʒwiſchen">
+      <Coords points="73,950 73,962 1526,948 1528,937 1524,911 1438,901 1436,901 1202,911 1166,903 1164,903 1163,903 1161,903 1159,903 1146,913 1032,905 1031,905 979,914 866,906 865,906 796,916 695,908 693,908 650,916 627,908 625,908 623,908 557,918 456,909 454,909 452,909 433,919 366,911 364,911 276,919 257,911 255,911 254,911 252,911 250,911 234,921 153,913 151,913 71,919 73,950" />
+      <Word id="l_0012-w_0001" text="Breiten" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="nimmt" error_score="0.000" />
+      <Word id="l_0012-w_0003" text="ſie" error_score="0.000" />
+      <Word id="l_0012-w_0004" text="mit" error_score="0.000" />
+      <Word id="l_0012-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="Tiefe" error_score="0.000" />
+      <Word id="l_0012-w_0007" text="ab" error_score="0.000" />
+      <Word id="l_0012-w_0008" text="bis" error_score="0.000" />
+      <Word id="l_0012-w_0009" text="ʒu" error_score="0.000" />
+      <Word id="l_0012-w_0010" text="dieſer" error_score="0.000" />
+      <Word id="l_0012-w_0011" text="conſtanten" error_score="0.000" />
+      <Word id="l_0012-w_0012" text="Temperatur;" error_score="0.000" />
+      <Word id="l_0012-w_0013" text="ʒwiſchen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="50‟ und 600 Breite aber erreicht in beiden Hemiſphären die „homotherme Grund⸗">
+      <Coords points="73,997 73,1009 267,1017 268,1017 307,1009 356,1017 358,1017 527,1007 540,1015 542,1015 544,1015 545,1017 636,1017 636,1015 638,1015 640,1015 658,1005 835,1005 848,1014 850,1014 852,1014 853,1015 944,1015 944,1014 1062,1004 1197,1012 1199,1012 1526,1001 1528,989 1526,965 1500,955 1498,955 1497,955 1374,963 1270,955 1269,955 1215,965 1192,957 1190,957 1189,957 1187,957 1164,965 1094,957 1093,957 1021,965 946,957 944,957 840,966 677,958 676,958 583,968 469,960 467,960 407,968 384,960 382,960 381,960 379,960 360,970 343,962 342,962 340,962 338,962 307,970 289,962 288,962 286,962 71,968 73,997" />
+      <Word id="l_0013-w_0001" text="50‟" error_score="0.000" />
+      <Word id="l_0013-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="600" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="Breite" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="aber" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="erreicht" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="in" error_score="0.000" />
+      <Word id="l_0013-w_0008" text="beiden" error_score="0.000" />
+      <Word id="l_0013-w_0009" text="Hemiſphären" error_score="0.000" />
+      <Word id="l_0013-w_0010" text="die" error_score="0.000" />
+      <Word id="l_0013-w_0011" text="„homotherme" error_score="0.000" />
+      <Word id="l_0013-w_0012" text="Grund⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="ſchicht‟ die Meeresoberfläche, dieſe beiden Becken gleichſam wie ein Wall trennend.">
+      <Coords points="73,1051 73,1066 1528,1051 1529,1040 1528,1012 1503,1002 1502,1002 1500,1002 1498,1002 1497,1002 1482,1012 1365,1012 1334,1002 1332,1002 1330,1002 1259,1014 1171,1014 1156,1004 1155,1004 1153,1004 1151,1004 1150,1004 1107,1014 974,1005 972,1005 899,1015 887,1007 886,1007 884,1007 882,1007 747,1015 720,1007 718,1007 716,1007 715,1007 672,1017 488,1009 487,1009 485,1009 462,1018 291,1010 289,1010 288,1010 286,1010 275,1020 236,1012 234,1012 232,1012 205,1020 151,1012 149,1012 71,1018 73,1051" />
+      <Word id="l_0014-w_0001" text="ſchicht‟" error_score="0.000" />
+      <Word id="l_0014-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="Meeresoberfläche," error_score="0.000" />
+      <Word id="l_0014-w_0004" text="dieſe" error_score="0.000" />
+      <Word id="l_0014-w_0005" text="beiden" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="Becken" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="gleichſam" error_score="0.000" />
+      <Word id="l_0014-w_0008" text="wie" error_score="0.000" />
+      <Word id="l_0014-w_0009" text="ein" error_score="0.000" />
+      <Word id="l_0014-w_0010" text="Wall" error_score="0.000" />
+      <Word id="l_0014-w_0011" text="trennend." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="Dieſe Vorſtellung wurde, durch große Autoritäten verbreitet und geſtütʒt, die allgemein">
+      <Coords points="74,1102 74,1115 1528,1103 1529,1088 1526,1062 1397,1053 1396,1053 1300,1062 1207,1054 1205,1054 1203,1054 1161,1064 1024,1056 1023,1056 962,1066 816,1058 814,1058 812,1058 811,1058 798,1066 676,1059 674,1059 617,1069 589,1061 588,1061 586,1061 537,1069 526,1061 524,1061 522,1061 521,1061 475,1069 464,1061 462,1061 461,1061 459,1061 457,1061 430,1071 257,1062 255,1062 254,1062 231,1072 73,1072 74,1102" />
+      <Word id="l_0015-w_0001" text="Dieſe" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="Vorſtellung" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="wurde," error_score="0.000" />
+      <Word id="l_0015-w_0004" text="durch" error_score="0.000" />
+      <Word id="l_0015-w_0005" text="große" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="Autoritäten" error_score="0.000" />
+      <Word id="l_0015-w_0007" text="verbreitet" error_score="0.000" />
+      <Word id="l_0015-w_0008" text="und" error_score="0.000" />
+      <Word id="l_0015-w_0009" text="geſtütʒt," error_score="0.000" />
+      <Word id="l_0015-w_0010" text="die" error_score="0.000" />
+      <Word id="l_0015-w_0011" text="allgemein" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="herrſchende, bis die neueren Tiefſee⸗Forſchungen ihre Unrichtigkeit nachwieſen.">
+      <Coords points="74,1150 74,1163 1373,1154 1374,1141 1371,1115 1244,1105 1243,1105 1241,1105 1239,1105 1228,1113 1125,1106 1124,1106 1122,1106 1120,1106 1111,1115 1099,1106 1098,1106 1096,1106 1094,1106 1010,1115 982,1106 980,1106 979,1106 977,1106 975,1106 964,1115 899,1108 897,1108 896,1108 894,1108 884,1116 741,1108 739,1108 737,1108 736,1108 720,1118 700,1110 698,1110 697,1110 651,1118 641,1110 640,1110 638,1110 562,1110 560,1110 503,1121 397,1121 382,1111 381,1111 379,1111 377,1111 376,1111 343,1119 312,1111 311,1111 309,1111 307,1111 272,1121 224,1113 223,1113 221,1113 219,1113 210,1121 180,1113 179,1113 177,1113 73,1118 74,1150" />
+      <Word id="l_0016-w_0001" text="herrſchende," error_score="0.000" />
+      <Word id="l_0016-w_0002" text="bis" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="neueren" error_score="0.000" />
+      <Word id="l_0016-w_0005" text="Tiefſee⸗Forſchungen" error_score="0.000" />
+      <Word id="l_0016-w_0006" text="ihre" error_score="0.000" />
+      <Word id="l_0016-w_0007" text="Unrichtigkeit" error_score="0.000" />
+      <Word id="l_0016-w_0008" text="nachwieſen." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="Ʒwar hatte ſchon der ältere Roſs (1818) in der Davisſtraße in größeren">
+      <Coords points="174,1204 174,1222 374,1212 441,1220 443,1220 562,1209 739,1209 778,1217 780,1217 824,1209 850,1217 852,1217 853,1217 1023,1206 1130,1214 1132,1214 1532,1202 1534,1191 1531,1163 1449,1154 1448,1154 1361,1163 1273,1155 1272,1155 1270,1155 1251,1163 1216,1155 1215,1155 1213,1155 1158,1165 1117,1157 1115,1157 1052,1165 1040,1157 1039,1157 1037,1157 1036,1157 1034,1157 1032,1157 1021,1167 856,1158 855,1158 853,1158 832,1168 703,1160 702,1160 700,1160 698,1160 682,1170 596,1162 594,1162 592,1162 562,1170 516,1162 514,1162 513,1162 511,1162 496,1172 402,1163 400,1163 399,1163 376,1172 355,1163 353,1163 351,1163 234,1173 185,1165 184,1165 182,1165 180,1165 172,1172 174,1204" />
+      <Word id="l_0017-w_0001" text="Ʒwar" error_score="0.232" />
+      <Word id="l_0017-w_0002" text="hatte" error_score="0.232" />
+      <Word id="l_0017-w_0003" text="ſchon" error_score="0.232" />
+      <Word id="l_0017-w_0004" text="der" error_score="0.232" />
+      <Word id="l_0017-w_0005" text="ältere" error_score="0.232" />
+      <Word id="l_0017-w_0006" text="Roſs" error_score="0.232" />
+      <Word id="l_0017-w_0007" text="(1818)" error_score="0.232" />
+      <Word id="l_0017-w_0008" text="in" error_score="0.232" />
+      <Word id="l_0017-w_0009" text="der" error_score="0.232" />
+      <Word id="l_0017-w_0010" text="Davisſtraße" error_score="0.232" />
+      <Word id="l_0017-w_0011" text="in" error_score="0.232" />
+      <Word id="l_0017-w_0012" text="größeren" error_score="0.232" />
+    </TextLine>
+    <TextLine id="l_0018" text="Tiefen eine Temperatur von —1. ‟ Celſius gefunden, einmal ſogar in 4080 —3.">
+      <Coords points="76,1253 76,1264 1521,1259 1523,1241 1515,1206 1502,1214 1480,1206 1479,1206 1477,1206 1409,1214 1397,1206 1396,1206 1394,1206 1316,1206 1314,1206 1313,1206 1311,1206 1295,1215 1115,1207 1114,1207 1112,1207 1111,1207 1094,1217 1036,1209 1034,1209 946,1217 933,1209 931,1209 930,1209 928,1209 860,1219 708,1211 707,1211 658,1220 636,1212 635,1212 633,1212 632,1212 614,1220 74,1220 76,1253" />
+      <Word id="l_0018-w_0001" text="Tiefen" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="eine" error_score="0.000" />
+      <Word id="l_0018-w_0003" text="Temperatur" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="—1." error_score="0.000" />
+      <Word id="l_0018-w_0006" text="‟" error_score="0.000" />
+      <Word id="l_0018-w_0007" text="Celſius" error_score="0.000" />
+      <Word id="l_0018-w_0008" text="gefunden," error_score="0.000" />
+      <Word id="l_0018-w_0009" text="einmal" error_score="0.000" />
+      <Word id="l_0018-w_0010" text="ſogar" error_score="0.000" />
+      <Word id="l_0018-w_0011" text="in" error_score="0.000" />
+      <Word id="l_0018-w_0012" text="4080" error_score="0.000" />
+      <Word id="l_0018-w_0013" text="—3." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Celſius. Gleicherweiſe beobachtete E. von Lenʒ, der wiſſenſchaftliche Begleiter von">
+      <Coords points="76,1302 76,1313 149,1321 151,1321 245,1313 268,1321 270,1321 272,1321 452,1320 454,1320 456,1320 467,1311 601,1318 602,1318 658,1310 931,1316 933,1316 935,1316 936,1316 949,1308 1267,1315 1269,1315 1270,1315 1293,1305 1348,1313 1350,1313 1532,1305 1534,1292 1531,1266 1308,1256 1306,1256 1304,1256 1303,1256 1286,1266 1264,1258 1262,1258 1135,1258 1133,1258 1132,1258 1112,1266 1068,1258 1067,1258 1065,1258 1032,1268 967,1259 966,1259 964,1259 962,1259 949,1269 858,1269 834,1259 832,1259 830,1259 829,1259 796,1269 589,1261 588,1261 586,1261 558,1271 333,1263 332,1263 169,1272 87,1264 86,1264 84,1264 83,1264 74,1271 76,1302" />
+      <Word id="l_0019-w_0001" text="Celſius." error_score="0.000" />
+      <Word id="l_0019-w_0002" text="Gleicherweiſe" error_score="0.000" />
+      <Word id="l_0019-w_0003" text="beobachtete" error_score="0.000" />
+      <Word id="l_0019-w_0004" text="E." error_score="0.000" />
+      <Word id="l_0019-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0019-w_0006" text="Lenʒ," error_score="0.000" />
+      <Word id="l_0019-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0019-w_0008" text="wiſſenſchaftliche" error_score="0.000" />
+      <Word id="l_0019-w_0009" text="Begleiter" error_score="0.000" />
+      <Word id="l_0019-w_0010" text="von" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0020" text="Kotʒebue's Weltumſeglung (1823/ 26), im tropiſchen Pacific ſowie im tropiſchen">
+      <Coords points="76,1354 76,1365 161,1375 162,1375 259,1365 558,1372 560,1372 562,1372 583,1364 610,1372 612,1372 614,1372 615,1372 617,1372 630,1364 983,1368 985,1368 987,1368 1026,1359 1132,1367 1133,1367 1135,1367 1168,1357 1195,1365 1197,1365 1199,1365 1275,1357 1339,1364 1340,1364 1342,1364 1344,1364 1353,1355 1493,1364 1495,1364 1534,1354 1534,1341 1531,1315 1485,1305 1484,1305 1348,1315 1192,1307 1190,1307 1189,1307 1166,1316 1050,1308 1049,1308 1047,1308 1045,1308 1032,1316 630,1311 628,1311 627,1311 584,1321 446,1313 444,1313 443,1313 412,1323 317,1315 316,1315 314,1315 288,1323 260,1315 259,1315 257,1315 255,1315 254,1315 237,1325 87,1316 86,1316 84,1316 83,1316 74,1323 76,1354" />
+      <Word id="l_0020-w_0001" text="Kotʒebue's" error_score="0.000" />
+      <Word id="l_0020-w_0002" text="Weltumſeglung" error_score="0.000" />
+      <Word id="l_0020-w_0003" text="(1823/" error_score="0.000" />
+      <Word id="l_0020-w_0004" text="26)," error_score="0.000" />
+      <Word id="l_0020-w_0005" text="im" error_score="0.000" />
+      <Word id="l_0020-w_0006" text="tropiſchen" error_score="0.000" />
+      <Word id="l_0020-w_0007" text="Pacific" error_score="0.000" />
+      <Word id="l_0020-w_0008" text="ſowie" error_score="0.000" />
+      <Word id="l_0020-w_0009" text="im" error_score="0.000" />
+      <Word id="l_0020-w_0010" text="tropiſchen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="atlantiſchen Ocean in Tiefen von 6000 und darüber Temperaturen von 2 bis 22/,">
+      <Coords points="74,1404 74,1424 386,1414 537,1421 539,1421 540,1421 571,1412 1515,1414 1518,1395 1513,1357 1441,1365 1036,1360 1034,1360 1032,1360 997,1368 829,1362 827,1362 786,1370 677,1364 676,1364 73,1373 74,1404" />
+      <Word id="l_0021-w_0001" text="atlantiſchen" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="Ocean" error_score="0.000" />
+      <Word id="l_0021-w_0003" text="in" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="Tiefen" error_score="0.000" />
+      <Word id="l_0021-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0021-w_0006" text="6000" error_score="0.000" />
+      <Word id="l_0021-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0021-w_0008" text="darüber" error_score="0.000" />
+      <Word id="l_0021-w_0009" text="Temperaturen" error_score="0.000" />
+      <Word id="l_0021-w_0010" text="von" error_score="0.000" />
+      <Word id="l_0021-w_0011" text="2" error_score="0.000" />
+      <Word id="l_0021-w_0012" text="bis" error_score="0.000" />
+      <Word id="l_0021-w_0013" text="22/," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="Celſius, und ebenſo ſpäter (1836 3ꝰ) Du Petit Thouars (unter anderen 1. ‟ im">
+      <Coords points="78,1456 78,1468 1529,1460 1531,1443 1528,1416 1458,1406 1456,1406 1454,1406 1453,1406 1440,1414 1153,1409 1151,1409 1150,1409 1148,1409 1135,1419 1001,1419 988,1409 987,1409 985,1409 983,1409 926,1419 814,1411 812,1411 811,1411 809,1411 796,1421 622,1412 620,1412 534,1422 431,1416 430,1416 428,1416 426,1416 413,1424 325,1416 324,1416 286,1424 275,1416 273,1416 272,1416 270,1416 268,1416 267,1416 254,1425 87,1417 86,1417 84,1417 83,1417 76,1422 78,1456" />
+      <Word id="l_0022-w_0001" text="Celſius," error_score="0.000" />
+      <Word id="l_0022-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0022-w_0003" text="ebenſo" error_score="0.000" />
+      <Word id="l_0022-w_0004" text="ſpäter" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="(1836" error_score="0.000" />
+      <Word id="l_0022-w_0006" text="3ꝰ)" error_score="0.000" />
+      <Word id="l_0022-w_0007" text="Du" error_score="0.000" />
+      <Word id="l_0022-w_0008" text="Petit" error_score="0.000" />
+      <Word id="l_0022-w_0009" text="Thouars" error_score="0.000" />
+      <Word id="l_0022-w_0010" text="(unter" error_score="0.000" />
+      <Word id="l_0022-w_0011" text="anderen" error_score="0.000" />
+      <Word id="l_0022-w_0012" text="1." error_score="0.000" />
+      <Word id="l_0022-w_0013" text="‟" error_score="0.000" />
+      <Word id="l_0022-w_0014" text="im" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="Pacifie bei 12. 300 nahe dem Aequator). Aber dieſe Beobachtungen wurden nicht">
+      <Coords points="79,1504 79,1525 197,1515 255,1523 257,1523 259,1523 260,1523 272,1515 319,1521 320,1521 408,1513 506,1521 508,1521 612,1512 788,1520 790,1520 791,1520 793,1520 809,1510 983,1518 985,1518 987,1518 1019,1510 1534,1510 1536,1494 1532,1468 1480,1458 1479,1458 1417,1468 1378,1458 1376,1458 1374,1458 1288,1469 1111,1460 1109,1460 1107,1460 1106,1460 1089,1469 1052,1460 1050,1460 1049,1460 1047,1460 1045,1460 1029,1471 1001,1461 1000,1461 998,1461 922,1471 847,1461 845,1461 843,1461 804,1473 780,1463 778,1463 777,1463 713,1473 659,1463 658,1463 560,1474 487,1466 485,1466 426,1474 399,1465 397,1465 395,1465 299,1466 298,1466 296,1466 281,1476 228,1466 226,1466 224,1466 223,1466 208,1476 153,1466 151,1466 149,1466 128,1476 107,1466 105,1466 104,1466 78,1471 79,1504" />
+      <Word id="l_0023-w_0001" text="Pacifie" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="bei" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="12." error_score="0.000" />
+      <Word id="l_0023-w_0004" text="300" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="nahe" error_score="0.000" />
+      <Word id="l_0023-w_0006" text="dem" error_score="0.000" />
+      <Word id="l_0023-w_0007" text="Aequator)." error_score="0.000" />
+      <Word id="l_0023-w_0008" text="Aber" error_score="0.000" />
+      <Word id="l_0023-w_0009" text="dieſe" error_score="0.000" />
+      <Word id="l_0023-w_0010" text="Beobachtungen" error_score="0.000" />
+      <Word id="l_0023-w_0011" text="wurden" error_score="0.000" />
+      <Word id="l_0023-w_0012" text="nicht" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="weiter beachtet, ebenſo wenig der Umſtand, daß Marcet ſchon 181ꝰ publicirt hatte,">
+      <Coords points="76,1554 76,1567 1532,1562 1534,1544 1531,1518 1050,1512 1049,1512 1047,1512 1045,1512 1036,1520 589,1515 588,1515 586,1515 558,1523 127,1518 125,1518 74,1526 76,1554" />
+      <Word id="l_0024-w_0001" text="weiter" error_score="0.000" />
+      <Word id="l_0024-w_0002" text="beachtet," error_score="0.000" />
+      <Word id="l_0024-w_0003" text="ebenſo" error_score="0.000" />
+      <Word id="l_0024-w_0004" text="wenig" error_score="0.000" />
+      <Word id="l_0024-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0024-w_0006" text="Umſtand," error_score="0.000" />
+      <Word id="l_0024-w_0007" text="daß" error_score="0.000" />
+      <Word id="l_0024-w_0008" text="Marcet" error_score="0.000" />
+      <Word id="l_0024-w_0009" text="ſchon" error_score="0.000" />
+      <Word id="l_0024-w_0010" text="181ꝰ" error_score="0.000" />
+      <Word id="l_0024-w_0011" text="publicirt" error_score="0.000" />
+      <Word id="l_0024-w_0012" text="hatte," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="daß Seewaſſer erſt bei 280 Fahrenheit (—2. ‟ Celſius) gefriert und das Maximum">
+      <Coords points="76,1604 76,1618 1532,1609 1534,1595 1531,1569 1361,1559 1360,1559 1272,1569 1251,1561 1249,1561 1247,1561 1187,1569 1104,1561 1102,1561 1045,1570 1034,1562 1032,1562 1031,1562 1029,1562 1027,1562 1005,1570 920,1562 918,1562 917,1562 915,1562 904,1570 882,1562 881,1562 879,1562 878,1562 860,1570 838,1562 837,1562 835,1562 834,1562 803,1572 785,1564 783,1564 781,1564 780,1564 762,1572 690,1564 689,1564 641,1572 576,1564 575,1564 573,1564 571,1564 560,1572 501,1565 500,1565 452,1574 434,1565 433,1565 431,1565 430,1565 407,1574 386,1565 384,1565 382,1565 316,1575 169,1567 167,1567 166,1567 144,1575 127,1567 125,1567 123,1567 122,1567 105,1575 87,1567 86,1567 84,1567 83,1567 81,1567 74,1572 76,1604" />
+      <Word id="l_0025-w_0001" text="daß" error_score="0.000" />
+      <Word id="l_0025-w_0002" text="Seewaſſer" error_score="0.000" />
+      <Word id="l_0025-w_0003" text="erſt" error_score="0.000" />
+      <Word id="l_0025-w_0004" text="bei" error_score="0.000" />
+      <Word id="l_0025-w_0005" text="280" error_score="0.000" />
+      <Word id="l_0025-w_0006" text="Fahrenheit" error_score="0.000" />
+      <Word id="l_0025-w_0007" text="(—2." error_score="0.000" />
+      <Word id="l_0025-w_0008" text="‟" error_score="0.000" />
+      <Word id="l_0025-w_0009" text="Celſius)" error_score="0.000" />
+      <Word id="l_0025-w_0010" text="gefriert" error_score="0.000" />
+      <Word id="l_0025-w_0011" text="und" error_score="0.000" />
+      <Word id="l_0025-w_0012" text="das" error_score="0.000" />
+      <Word id="l_0025-w_0013" text="Maximum" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0026" text="der Dichte erſt bei 22ꝰ Fahrenheit (—5. ‟ Celſius) erreicht, was ſpäter von Ermanu">
+      <Coords points="78,1655 78,1676 135,1668 311,1674 312,1674 314,1674 316,1674 325,1666 535,1673 537,1673 643,1665 772,1671 773,1671 1534,1660 1536,1645 1532,1619 1368,1609 1366,1609 1286,1619 1181,1611 1179,1611 1177,1611 1176,1611 1163,1619 806,1613 804,1613 759,1622 742,1614 741,1614 739,1614 646,1622 591,1614 589,1614 588,1614 553,1624 529,1616 527,1616 408,1616 407,1616 405,1616 389,1624 345,1616 343,1616 342,1616 319,1626 307,1618 306,1618 304,1618 303,1618 301,1618 283,1626 185,1618 184,1618 76,1624 78,1655" />
+      <Word id="l_0026-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="Dichte" error_score="0.000" />
+      <Word id="l_0026-w_0003" text="erſt" error_score="0.000" />
+      <Word id="l_0026-w_0004" text="bei" error_score="0.000" />
+      <Word id="l_0026-w_0005" text="22ꝰ" error_score="0.000" />
+      <Word id="l_0026-w_0006" text="Fahrenheit" error_score="0.000" />
+      <Word id="l_0026-w_0007" text="(—5." error_score="0.000" />
+      <Word id="l_0026-w_0008" text="‟" error_score="0.000" />
+      <Word id="l_0026-w_0009" text="Celſius)" error_score="0.000" />
+      <Word id="l_0026-w_0010" text="erreicht," error_score="0.000" />
+      <Word id="l_0026-w_0011" text="was" error_score="0.000" />
+      <Word id="l_0026-w_0012" text="ſpäter" error_score="0.000" />
+      <Word id="l_0026-w_0013" text="von" error_score="0.000" />
+      <Word id="l_0026-w_0014" text="Ermanu" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="(182ꝰ) und Depretʒ (1837) im Allgemeinen beſtätigt wurde. Dieſen Verſuchs⸗">
+      <Coords points="78,1709 78,1718 392,1725 394,1725 482,1715 493,1723 495,1723 496,1723 498,1725 604,1725 604,1723 606,1723 607,1723 625,1714 707,1714 777,1722 778,1722 925,1712 975,1720 977,1720 1199,1709 1339,1717 1340,1717 1342,1717 1344,1717 1355,1707 1386,1715 1387,1715 1389,1717 1508,1717 1508,1715 1510,1715 1531,1705 1531,1696 1528,1670 1482,1660 1480,1660 1479,1660 1462,1668 1446,1658 1445,1658 1443,1658 1441,1658 1440,1658 1418,1668 1383,1658 1381,1658 1379,1658 1378,1658 1345,1670 1309,1660 1308,1660 1306,1660 1084,1671 1018,1661 1016,1661 957,1670 939,1663 938,1663 936,1663 935,1663 933,1663 918,1673 838,1663 837,1663 778,1674 762,1665 760,1665 759,1665 757,1665 680,1674 643,1665 641,1665 640,1665 638,1665 636,1665 619,1676 597,1666 596,1666 506,1666 505,1666 503,1666 501,1666 488,1676 451,1670 449,1670 448,1670 446,1670 434,1679 353,1679 337,1668 335,1668 333,1668 332,1668 221,1679 89,1670 87,1670 86,1670 84,1670 76,1676 78,1709" />
+      <Word id="l_0027-w_0001" text="(182ꝰ)" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="Depretʒ" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="(1837)" error_score="0.000" />
+      <Word id="l_0027-w_0005" text="im" error_score="0.000" />
+      <Word id="l_0027-w_0006" text="Allgemeinen" error_score="0.000" />
+      <Word id="l_0027-w_0007" text="beſtätigt" error_score="0.000" />
+      <Word id="l_0027-w_0008" text="wurde." error_score="0.000" />
+      <Word id="l_0027-w_0009" text="Dieſen" error_score="0.000" />
+      <Word id="l_0027-w_0010" text="Verſuchs⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="Reſultaten gegenüber, die mit der obigen Hypotheſe im Widerſpruch ſtanden, nahm">
+      <Coords points="79,1758 79,1771 438,1777 439,1777 441,1777 443,1777 456,1767 765,1774 767,1774 768,1774 806,1764 822,1772 824,1772 825,1774 966,1774 966,1772 967,1772 990,1762 1161,1771 1163,1771 1532,1762 1534,1744 1531,1720 1490,1710 1488,1710 1487,1710 1485,1710 1471,1720 1371,1720 1353,1710 1352,1710 1350,1710 1348,1710 1347,1710 1334,1720 1243,1712 1241,1712 1192,1720 1172,1712 1171,1712 1169,1712 1168,1712 1137,1722 1125,1714 1124,1714 1122,1714 1120,1714 1044,1722 1000,1714 998,1714 997,1714 995,1714 985,1723 970,1715 969,1715 967,1715 902,1723 825,1715 824,1715 822,1715 803,1725 627,1717 625,1717 623,1717 622,1717 610,1727 594,1718 592,1718 591,1718 589,1718 560,1727 503,1718 501,1718 441,1728 399,1720 397,1720 351,1728 78,1727 79,1758" />
+      <Word id="l_0028-w_0001" text="Reſultaten" error_score="0.000" />
+      <Word id="l_0028-w_0002" text="gegenüber," error_score="0.000" />
+      <Word id="l_0028-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0028-w_0004" text="mit" error_score="0.000" />
+      <Word id="l_0028-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0028-w_0006" text="obigen" error_score="0.000" />
+      <Word id="l_0028-w_0007" text="Hypotheſe" error_score="0.000" />
+      <Word id="l_0028-w_0008" text="im" error_score="0.000" />
+      <Word id="l_0028-w_0009" text="Widerſpruch" error_score="0.000" />
+      <Word id="l_0028-w_0010" text="ſtanden," error_score="0.000" />
+      <Word id="l_0028-w_0011" text="nahm" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0029" text="man an, daß das Meerwaſſer in den Oceanen ſich anders verhalten möge als wie">
+      <Coords points="78,1806 78,1819 1534,1810 1536,1795 1534,1771 1519,1762 1518,1762 1516,1762 1515,1762 1371,1771 1344,1762 1342,1762 1340,1762 1339,1762 1301,1772 1181,1764 1179,1764 998,1774 938,1766 936,1766 935,1766 907,1775 702,1767 700,1767 698,1767 697,1767 684,1777 562,1769 560,1769 558,1769 540,1777 343,1771 342,1771 340,1771 319,1779 298,1771 296,1771 294,1771 293,1771 291,1771 278,1780 262,1772 260,1772 259,1772 257,1772 255,1772 242,1782 76,1782 78,1806" />
+      <Word id="l_0029-w_0001" text="man" error_score="0.000" />
+      <Word id="l_0029-w_0002" text="an," error_score="0.000" />
+      <Word id="l_0029-w_0003" text="daß" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="das" error_score="0.000" />
+      <Word id="l_0029-w_0005" text="Meerwaſſer" error_score="0.000" />
+      <Word id="l_0029-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0029-w_0007" text="den" error_score="0.000" />
+      <Word id="l_0029-w_0008" text="Oceanen" error_score="0.000" />
+      <Word id="l_0029-w_0009" text="ſich" error_score="0.000" />
+      <Word id="l_0029-w_0010" text="anders" error_score="0.000" />
+      <Word id="l_0029-w_0011" text="verhalten" error_score="0.000" />
+      <Word id="l_0029-w_0012" text="möge" error_score="0.000" />
+      <Word id="l_0029-w_0013" text="als" error_score="0.000" />
+      <Word id="l_0029-w_0014" text="wie" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="beim Experimente, eingeſchloſſen in Gefäßen.">
+      <Coords points="79,1857 79,1868 579,1876 581,1876 583,1876 619,1867 780,1875 781,1875 837,1863 837,1852 834,1827 693,1816 692,1816 690,1816 666,1826 641,1816 640,1816 638,1816 636,1816 635,1816 635,1818 625,1826 488,1818 487,1818 485,1818 483,1818 483,1819 474,1829 441,1829 426,1818 425,1818 423,1818 421,1818 420,1818 418,1818 405,1827 351,1821 350,1821 291,1829 278,1819 276,1819 275,1819 273,1819 272,1819 237,1829 185,1819 184,1819 182,1819 156,1829 84,1819 83,1819 81,1819 79,1819 79,1821 78,1821 79,1857" />
+      <Word id="l_0030-w_0001" text="beim" error_score="0.008" />
+      <Word id="l_0030-w_0002" text="Experimente," error_score="0.008" />
+      <Word id="l_0030-w_0003" text="eingeſchloſſen" error_score="0.008" />
+      <Word id="l_0030-w_0004" text="in" error_score="0.008" />
+      <Word id="l_0030-w_0005" text="Gefäßen." error_score="0.008" />
+    </TextLine>
+    <TextLine id="l_0031" text="Die Urſache des Widerſtreits dieſer Reſultate der Beobachtungen der Tiefſee⸗">
+      <Coords points="179,1909 179,1919 592,1925 594,1925 804,1915 855,1924 856,1924 957,1914 1269,1920 1270,1920 1272,1920 1311,1911 1508,1919 1510,1919 1511,1919 1536,1909 1536,1899 1532,1871 1490,1862 1488,1862 1353,1870 1340,1862 1339,1862 1337,1862 1335,1862 1334,1862 1306,1871 1130,1863 1128,1863 1127,1863 1111,1871 1084,1863 1083,1863 1081,1863 1080,1863 1052,1873 856,1865 855,1865 796,1875 633,1867 632,1867 630,1867 628,1867 619,1876 594,1868 592,1868 591,1868 589,1868 568,1876 407,1870 405,1870 404,1870 402,1870 392,1878 192,1870 190,1870 188,1870 187,1870 177,1876 179,1909" />
+      <Word id="l_0031-w_0001" text="Die" error_score="0.400" />
+      <Word id="l_0031-w_0002" text="Urſache" error_score="0.400" />
+      <Word id="l_0031-w_0003" text="des" error_score="0.400" />
+      <Word id="l_0031-w_0004" text="Widerſtreits" error_score="0.400" />
+      <Word id="l_0031-w_0005" text="dieſer" error_score="0.400" />
+      <Word id="l_0031-w_0006" text="Reſultate" error_score="0.400" />
+      <Word id="l_0031-w_0007" text="der" error_score="0.400" />
+      <Word id="l_0031-w_0008" text="Beobachtungen" error_score="0.400" />
+      <Word id="l_0031-w_0009" text="der" error_score="0.400" />
+      <Word id="l_0031-w_0010" text="Tiefſee⸗" error_score="0.400" />
+    </TextLine>
+    <TextLine id="l_0032" text="Temperaturen liegt in der Schwierigkeit der Beſtimmung derſelben, der man erſt">
+      <Coords points="83,1959 83,1969 303,1977 304,1977 306,1977 325,1967 338,1976 340,1976 342,1976 343,1976 417,1967 534,1976 535,1976 537,1976 568,1966 579,1974 581,1974 583,1974 584,1976 734,1976 734,1974 856,1964 931,1972 933,1972 1094,1971 1096,1971 1098,1971 1109,1963 1163,1971 1164,1971 1537,1963 1539,1950 1536,1922 1303,1914 1301,1914 1300,1914 1298,1914 1285,1924 1122,1915 1120,1915 1039,1925 812,1917 811,1917 809,1917 808,1917 796,1927 778,1919 777,1919 579,1919 578,1919 576,1919 575,1919 562,1930 461,1930 448,1920 446,1920 444,1920 443,1920 441,1920 421,1928 356,1920 355,1920 353,1920 320,1930 81,1927 83,1959" />
+      <Word id="l_0032-w_0001" text="Temperaturen" error_score="0.000" />
+      <Word id="l_0032-w_0002" text="liegt" error_score="0.000" />
+      <Word id="l_0032-w_0003" text="in" error_score="0.000" />
+      <Word id="l_0032-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0032-w_0005" text="Schwierigkeit" error_score="0.000" />
+      <Word id="l_0032-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0032-w_0007" text="Beſtimmung" error_score="0.000" />
+      <Word id="l_0032-w_0008" text="derſelben," error_score="0.000" />
+      <Word id="l_0032-w_0009" text="der" error_score="0.000" />
+      <Word id="l_0032-w_0010" text="man" error_score="0.000" />
+      <Word id="l_0032-w_0011" text="erſt" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0033" text="in jüngſter Ʒeit ganʒ erfolgreich abʒuhelfen gewußt hat. Die Thermometergefäße">
+      <Coords points="79,2008 79,2021 661,2028 663,2028 664,2028 666,2028 677,2018 723,2026 724,2026 873,2018 902,2026 904,2026 905,2026 998,2016 1045,2024 1047,2024 1347,2015 1515,2023 1516,2023 1518,2023 1539,2013 1539,2000 1537,1976 1518,1966 1516,1966 1515,1966 1453,1974 1247,1966 1246,1966 1244,1966 1208,1976 1177,1967 1176,1967 1174,1967 1086,1976 1032,1967 1031,1967 1029,1967 1006,1976 967,1967 966,1967 902,1977 710,1969 708,1969 614,1979 579,1971 578,1971 576,1971 518,1979 78,1979 79,2008" />
+      <Word id="l_0033-w_0001" text="in" error_score="0.000" />
+      <Word id="l_0033-w_0002" text="jüngſter" error_score="0.000" />
+      <Word id="l_0033-w_0003" text="Ʒeit" error_score="0.000" />
+      <Word id="l_0033-w_0004" text="ganʒ" error_score="0.000" />
+      <Word id="l_0033-w_0005" text="erfolgreich" error_score="0.000" />
+      <Word id="l_0033-w_0006" text="abʒuhelfen" error_score="0.000" />
+      <Word id="l_0033-w_0007" text="gewußt" error_score="0.000" />
+      <Word id="l_0033-w_0008" text="hat." error_score="0.000" />
+      <Word id="l_0033-w_0009" text="Die" error_score="0.000" />
+      <Word id="l_0033-w_0010" text="Thermometergefäße" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="werden in großen Tiefen durch den enormen Waſſerdruck (ſchon in 2000 Faden circa">
+      <Coords points="81,2059 81,2072 1534,2067 1536,2051 1532,2026 1244,2016 1243,2016 1241,2016 1239,2016 1223,2026 1194,2018 1192,2018 1190,2018 1138,2026 1078,2018 1076,2018 1075,2018 1060,2026 1049,2018 1047,2018 1045,2018 969,2018 967,2018 858,2020 856,2020 855,2020 842,2028 400,2021 399,2021 397,2021 361,2031 327,2023 325,2023 324,2023 239,2031 221,2023 219,2023 218,2023 216,2023 215,2023 203,2031 146,2024 144,2024 79,2033 81,2059" />
+      <Word id="l_0034-w_0001" text="werden" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="in" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="großen" error_score="0.000" />
+      <Word id="l_0034-w_0004" text="Tiefen" error_score="0.000" />
+      <Word id="l_0034-w_0005" text="durch" error_score="0.000" />
+      <Word id="l_0034-w_0006" text="den" error_score="0.000" />
+      <Word id="l_0034-w_0007" text="enormen" error_score="0.000" />
+      <Word id="l_0034-w_0008" text="Waſſerdruck" error_score="0.000" />
+      <Word id="l_0034-w_0009" text="(ſchon" error_score="0.000" />
+      <Word id="l_0034-w_0010" text="in" error_score="0.000" />
+      <Word id="l_0034-w_0011" text="2000" error_score="0.000" />
+      <Word id="l_0034-w_0012" text="Faden" error_score="0.000" />
+      <Word id="l_0034-w_0013" text="circa" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="400 Atmoſphären) ʒuſammengepreßt und die Jndices regiſtriren dann eine höhere">
+      <Coords points="81,2107 81,2119 487,2129 488,2129 685,2127 687,2127 708,2117 886,2117 899,2125 900,2125 902,2125 904,2125 1210,2116 1415,2116 1431,2125 1433,2125 1435,2125 1436,2127 1490,2127 1490,2125 1537,2116 1539,2103 1536,2078 1488,2068 1487,2068 1317,2077 1238,2068 1236,2068 1234,2068 1205,2077 1096,2068 1094,2068 1044,2078 827,2070 825,2070 824,2070 796,2078 775,2070 773,2070 772,2070 710,2078 676,2070 674,2070 672,2070 671,2070 669,2070 656,2080 560,2080 270,2072 268,2072 221,2080 185,2072 184,2072 182,2072 180,2072 154,2080 97,2072 96,2072 94,2072 92,2072 79,2078 81,2107" />
+      <Word id="l_0035-w_0001" text="400" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="Atmoſphären)" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="ʒuſammengepreßt" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0035-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0035-w_0006" text="Jndices" error_score="0.000" />
+      <Word id="l_0035-w_0007" text="regiſtriren" error_score="0.000" />
+      <Word id="l_0035-w_0008" text="dann" error_score="0.000" />
+      <Word id="l_0035-w_0009" text="eine" error_score="0.000" />
+      <Word id="l_0035-w_0010" text="höhere" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="Temperatur als die wirklich daſelbſt herrſchende. Der Schutʒ durch bloße Verdickung">
+      <Coords points="83,2161 83,2173 1536,2174 1539,2155 1536,2127 1247,2117 1246,2117 1244,2117 1243,2117 1229,2125 1205,2117 1203,2117 1202,2117 1127,2127 935,2119 933,2119 869,2127 858,2119 856,2119 855,2119 853,2119 852,2119 827,2127 814,2119 812,2119 811,2119 809,2119 742,2129 723,2120 721,2120 720,2120 718,2120 700,2129 614,2120 612,2120 557,2129 495,2120 493,2120 443,2132 128,2132 110,2122 109,2122 107,2122 105,2122 81,2129 83,2161" />
+      <Word id="l_0036-w_0001" text="Temperatur" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="als" error_score="0.000" />
+      <Word id="l_0036-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0036-w_0004" text="wirklich" error_score="0.000" />
+      <Word id="l_0036-w_0005" text="daſelbſt" error_score="0.000" />
+      <Word id="l_0036-w_0006" text="herrſchende." error_score="0.000" />
+      <Word id="l_0036-w_0007" text="Der" error_score="0.000" />
+      <Word id="l_0036-w_0008" text="Schutʒ" error_score="0.000" />
+      <Word id="l_0036-w_0009" text="durch" error_score="0.000" />
+      <Word id="l_0036-w_0010" text="bloße" error_score="0.000" />
+      <Word id="l_0036-w_0011" text="Verdickung" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="der Thermometergefäße genügt für große Tiefen nicht.">
+      <Coords points="83,2212 83,2225 384,2233 386,2233 467,2223 483,2231 485,2231 487,2233 579,2233 579,2231 581,2231 583,2231 596,2223 689,2231 690,2231 692,2231 715,2221 733,2230 734,2230 736,2230 737,2230 767,2221 842,2230 843,2230 997,2220 998,2207 997,2182 979,2173 977,2173 975,2173 869,2181 860,2173 858,2173 856,2173 788,2173 786,2173 785,2173 767,2181 736,2173 734,2173 733,2173 682,2182 640,2174 638,2174 465,2182 405,2174 404,2174 402,2174 382,2184 158,2176 156,2176 105,2184 89,2176 87,2176 86,2176 84,2176 83,2176 83,2177 81,2177 83,2212" />
+      <Word id="l_0037-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0037-w_0002" text="Thermometergefäße" error_score="0.000" />
+      <Word id="l_0037-w_0003" text="genügt" error_score="0.000" />
+      <Word id="l_0037-w_0004" text="für" error_score="0.000" />
+      <Word id="l_0037-w_0005" text="große" error_score="0.000" />
+      <Word id="l_0037-w_0006" text="Tiefen" error_score="0.000" />
+      <Word id="l_0037-w_0007" text="nicht." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="Lenʒ, welcher Waſſer aus der Tiefe heraufholte und dann erſt deſſen Temperatur">
+      <Coords points="180,2265 180,2277 1539,2267 1541,2254 1537,2228 1347,2218 1345,2218 1344,2218 1342,2218 1330,2228 1199,2220 1197,2220 1146,2230 1034,2221 1032,2221 990,2230 894,2223 892,2223 891,2223 889,2223 878,2231 806,2223 804,2223 803,2223 786,2231 764,2223 762,2223 760,2223 690,2233 650,2225 648,2225 563,2234 373,2226 371,2226 369,2226 335,2236 188,2228 187,2228 185,2228 184,2228 184,2230 179,2233 180,2265" />
+      <Word id="l_0038-w_0001" text="Lenʒ," error_score="0.493" />
+      <Word id="l_0038-w_0002" text="welcher" error_score="0.493" />
+      <Word id="l_0038-w_0003" text="Waſſer" error_score="0.493" />
+      <Word id="l_0038-w_0004" text="aus" error_score="0.493" />
+      <Word id="l_0038-w_0005" text="der" error_score="0.493" />
+      <Word id="l_0038-w_0006" text="Tiefe" error_score="0.493" />
+      <Word id="l_0038-w_0007" text="heraufholte" error_score="0.493" />
+      <Word id="l_0038-w_0008" text="und" error_score="0.493" />
+      <Word id="l_0038-w_0009" text="dann" error_score="0.493" />
+      <Word id="l_0038-w_0010" text="erſt" error_score="0.493" />
+      <Word id="l_0038-w_0011" text="deſſen" error_score="0.493" />
+      <Word id="l_0038-w_0012" text="Temperatur" error_score="0.493" />
+    </TextLine>
+    <TextLine id="l_0039" text="beſtimmte, blieb von dieſem Jrrthum frei, Du Petit Thouars aber hatte ſchon">
+      <Coords points="83,2314 83,2326 320,2334 322,2334 324,2334 351,2324 524,2332 526,2332 527,2332 568,2322 591,2330 592,2330 594,2330 728,2322 809,2330 811,2330 812,2330 814,2330 825,2321 858,2329 860,2329 861,2329 863,2329 881,2321 933,2329 935,2329 1037,2321 1107,2327 1109,2327 1111,2327 1133,2319 1537,2321 1541,2304 1537,2278 1298,2270 1296,2270 1295,2270 1267,2278 1055,2272 1054,2272 1052,2272 1050,2272 1039,2280 845,2274 843,2274 781,2282 591,2275 589,2275 588,2275 565,2283 330,2277 329,2277 81,2285 83,2314" />
+      <Word id="l_0039-w_0001" text="beſtimmte," error_score="0.000" />
+      <Word id="l_0039-w_0002" text="blieb" error_score="0.000" />
+      <Word id="l_0039-w_0003" text="von" error_score="0.000" />
+      <Word id="l_0039-w_0004" text="dieſem" error_score="0.000" />
+      <Word id="l_0039-w_0005" text="Jrrthum" error_score="0.000" />
+      <Word id="l_0039-w_0006" text="frei," error_score="0.000" />
+      <Word id="l_0039-w_0007" text="Du" error_score="0.000" />
+      <Word id="l_0039-w_0008" text="Petit" error_score="0.000" />
+      <Word id="l_0039-w_0009" text="Thouars" error_score="0.000" />
+      <Word id="l_0039-w_0010" text="aber" error_score="0.000" />
+      <Word id="l_0039-w_0011" text="hatte" error_score="0.000" />
+      <Word id="l_0039-w_0012" text="ſchon" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0040" text="gegen den Druck geſchütʒte Thermometer, nicht ſo Wilkes und James Roſs,">
+      <Coords points="84,2366 84,2379 1537,2373 1539,2357 1537,2330 1502,2321 1500,2321 1498,2321 1497,2321 1474,2329 1427,2321 1425,2321 1423,2321 1422,2321 1412,2329 1386,2322 1384,2322 1383,2322 1296,2330 1283,2322 1282,2322 1280,2322 1278,2322 1148,2330 1135,2322 1133,2322 1132,2322 1130,2322 1128,2322 1127,2322 1115,2330 1054,2322 1052,2322 987,2332 951,2324 949,2324 948,2324 808,2334 576,2326 575,2326 573,2326 571,2326 558,2335 438,2327 436,2327 386,2335 363,2327 361,2327 360,2327 83,2339 84,2366" />
+      <Word id="l_0040-w_0001" text="gegen" error_score="0.000" />
+      <Word id="l_0040-w_0002" text="den" error_score="0.000" />
+      <Word id="l_0040-w_0003" text="Druck" error_score="0.000" />
+      <Word id="l_0040-w_0004" text="geſchütʒte" error_score="0.000" />
+      <Word id="l_0040-w_0005" text="Thermometer," error_score="0.000" />
+      <Word id="l_0040-w_0006" text="nicht" error_score="0.000" />
+      <Word id="l_0040-w_0007" text="ſo" error_score="0.000" />
+      <Word id="l_0040-w_0008" text="Wilkes" error_score="0.000" />
+      <Word id="l_0040-w_0009" text="und" error_score="0.000" />
+      <Word id="l_0040-w_0010" text="James" error_score="0.000" />
+      <Word id="l_0040-w_0011" text="Roſs," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0041" text="auf deren Beobachtungen ſich die oben angeführte Theorie ſtütʒte. Erſt ſeit 186ꝰ ver⸗">
+      <Coords points="84,2413 84,2427 443,2435 444,2435 754,2425 809,2433 811,2433 928,2423 1148,2431 1150,2431 1151,2431 1190,2422 1254,2430 1256,2430 1257,2430 1278,2422 1298,2430 1300,2430 1301,2430 1539,2420 1541,2407 1537,2383 1448,2373 1446,2373 1361,2381 1345,2373 1344,2373 1213,2373 1212,2373 1210,2373 1208,2373 1195,2381 1091,2374 1089,2374 1088,2374 1086,2374 1075,2383 1057,2374 1055,2374 1054,2374 925,2383 834,2374 832,2374 830,2374 801,2384 544,2376 542,2376 540,2376 522,2386 311,2386 283,2378 281,2378 280,2378 278,2378 276,2378 263,2387 154,2387 136,2378 135,2378 133,2378 83,2387 84,2413" />
+      <Word id="l_0041-w_0001" text="auf" error_score="0.000" />
+      <Word id="l_0041-w_0002" text="deren" error_score="0.000" />
+      <Word id="l_0041-w_0003" text="Beobachtungen" error_score="0.000" />
+      <Word id="l_0041-w_0004" text="ſich" error_score="0.000" />
+      <Word id="l_0041-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0041-w_0006" text="oben" error_score="0.000" />
+      <Word id="l_0041-w_0007" text="angeführte" error_score="0.000" />
+      <Word id="l_0041-w_0008" text="Theorie" error_score="0.000" />
+      <Word id="l_0041-w_0009" text="ſtütʒte." error_score="0.000" />
+      <Word id="l_0041-w_0010" text="Erſt" error_score="0.000" />
+      <Word id="l_0041-w_0011" text="ſeit" error_score="0.000" />
+      <Word id="l_0041-w_0012" text="186ꝰ" error_score="0.000" />
+      <Word id="l_0041-w_0013" text="ver⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0042" text="wendet man allgemein gegen den Waſſerdruck geſchütʒte Thermometer ʒur Beſtimmung">
+      <Coords points="84,2466 84,2480 1539,2479 1541,2457 1537,2433 1414,2423 1412,2423 1247,2433 1208,2425 1207,2425 1137,2433 902,2427 900,2427 899,2427 897,2427 884,2435 667,2427 666,2427 664,2427 663,2427 648,2436 589,2428 588,2428 586,2428 584,2428 571,2438 446,2438 428,2428 426,2428 425,2428 371,2438 345,2430 343,2430 342,2430 340,2430 316,2438 94,2431 92,2431 91,2431 89,2431 83,2436 84,2466" />
+      <Word id="l_0042-w_0001" text="wendet" error_score="0.000" />
+      <Word id="l_0042-w_0002" text="man" error_score="0.000" />
+      <Word id="l_0042-w_0003" text="allgemein" error_score="0.000" />
+      <Word id="l_0042-w_0004" text="gegen" error_score="0.000" />
+      <Word id="l_0042-w_0005" text="den" error_score="0.000" />
+      <Word id="l_0042-w_0006" text="Waſſerdruck" error_score="0.000" />
+      <Word id="l_0042-w_0007" text="geſchütʒte" error_score="0.000" />
+      <Word id="l_0042-w_0008" text="Thermometer" error_score="0.000" />
+      <Word id="l_0042-w_0009" text="ʒur" error_score="0.000" />
+      <Word id="l_0042-w_0010" text="Beſtimmung" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0043" text="der Tiefſee⸗Temperaturen. Das Thermometergefäß wird ʒu dieſem Ʒwecke in eine">
+      <Coords points="86,2516 86,2529 373,2537 374,2537 1541,2523 1541,2508 1539,2483 1502,2474 1500,2474 1498,2474 1497,2474 1479,2482 1366,2474 1365,2474 1363,2474 1340,2482 1291,2474 1290,2474 1288,2474 1286,2474 1273,2482 1159,2475 1158,2475 1156,2475 1155,2475 1141,2483 1016,2475 1014,2475 1013,2475 987,2483 912,2477 910,2477 909,2477 907,2477 896,2485 667,2477 666,2477 664,2477 663,2477 650,2487 581,2479 579,2479 578,2479 552,2487 84,2487 86,2516" />
+      <Word id="l_0043-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0043-w_0002" text="Tiefſee⸗Temperaturen." error_score="0.000" />
+      <Word id="l_0043-w_0003" text="Das" error_score="0.000" />
+      <Word id="l_0043-w_0004" text="Thermometergefäß" error_score="0.000" />
+      <Word id="l_0043-w_0005" text="wird" error_score="0.000" />
+      <Word id="l_0043-w_0006" text="ʒu" error_score="0.000" />
+      <Word id="l_0043-w_0007" text="dieſem" error_score="0.000" />
+      <Word id="l_0043-w_0008" text="Ʒwecke" error_score="0.000" />
+      <Word id="l_0043-w_0009" text="in" error_score="0.000" />
+      <Word id="l_0043-w_0010" text="eine" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0044" text="108">
+      <Coords points="1332,2555 1334,2560 1334,2571 1358,2580 1360,2580 1361,2580 1363,2580 1391,2568 1391,2557 1387,2534 1337,2536 1332,2555" />
+      <Word id="l_0044-w_0001" text="108" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="1485,286 1532,293 1532,330 1500,349 1449,323 1485,286" />
+    <TextLine id="l_0045" text="147">
+      <Coords points="1462,306 1462,319 1462,332 1526,332 1526,319 1524,293 1475,293 1462,306" />
+      <Word id="l_0045-w_0001" text="147" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

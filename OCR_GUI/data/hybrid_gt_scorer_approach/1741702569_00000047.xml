@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1741702569_00000047.bin.png" imageHeight="3206" imageWidth="2094" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="390,1261 397,1301 377,1301 377,1268 390,1261" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="397,443 404,461 384,468 384,448 397,443" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="397,614 404,632 392,653 384,626 397,614" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="1987,1667 2001,1667 2001,1715 1974,1686 1987,1667" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="1994,1298 2001,1323 1981,1330 1981,1303 1994,1298" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="2001,1398 2008,1465 1981,1472 1981,1417 2001,1398" />
+    <TextLine id="l_0001" text="">
+      <Coords points="1981,1439 1981,1455 1990,1458 2006,1455 1997,1435 1994,1435 1981,1432 1981,1439" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="2001,1246 2008,1273 1988,1280 1981,1261 2001,1246" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="383,1953 383,1964 377,1964 377,1952 383,1953" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="1974,2899 1979,2899 1979,2947 1967,2919 1974,2899" />
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="1979,2880 1979,2890 1974,2890 1974,2878 1979,2880" />
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="1994,2188 2022,2286 2022,2570 2001,2579 2022,2684 2001,2707 2001,2855 1974,2862 1953,2286 1994,2188" />
+    <TextLine id="l_0002" text="">
+      <Coords points="1963,2605 1965,2623 1965,2641 1965,2659 1967,2677 1967,2694 1967,2712 1969,2730 1969,2748 1971,2766 1971,2783 1971,2801 1972,2819 1972,2837 1978,2839 1995,2839 2004,2744 2004,2742 1990,2602 1983,2602 1963,2600 1963,2605" />
+    </TextLine>
+    <TextLine id="l_0003" text="">
+      <Coords points="2004,2570 2006,2320 1987,2320 1962,2319 1962,2566 1985,2570 2004,2570" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="1995,1887 2008,2035 1981,2099 1974,1916 1995,1887" />
+    <TextLine id="l_0004" text="A">
+      <Coords points="1990,2035 2003,2034 2003,2023 2001,2005 1999,1987 1997,1969 1990,1969 1974,1969 1979,2035 1990,2035" />
+      <Word id="l_0004-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="2001,1740 2008,1786 1995,1879 1981,1759 2001,1740" />
+  </TextRegion>
+</Page>

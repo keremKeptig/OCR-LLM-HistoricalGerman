@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1738583856_00000218.bin.png" imageHeight="2949" imageWidth="1843" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="8,13 11,13 11,96 6,96 8,13" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="737,249 811,249 831,286 811,306 655,299 668,262 737,249" />
+    <TextLine id="l_0001" text="— 207">
+      <Coords points="810,257 749,250 747,250 746,250 744,250 744,252 732,263 672,263 673,286 673,293 803,303 805,303 806,303 808,303 808,301 819,289 819,285 816,267 810,257" />
+      <Word id="l_0001-w_0001" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0002" text="207" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="672,340 1474,360 1474,2521 1272,2527 1237,2560 1178,2567 104,2560 91,353 672,340" />
+    <TextLine id="l_0002" text="Preßfreiheit, Schwurgerichte, Bürgerwehren u. m. a. ʒu genehmigen, und die">
+      <Coords points="1456,358 1439,358 1423,358 1406,358 1390,357 1374,357 1357,357 1341,357 1324,355 1308,355 1292,355 1275,355 1259,353 1242,353 1226,353 1210,353 1193,352 1177,352 1160,352 1144,352 1139,350 1114,358 847,358 790,347 788,347 718,358 659,348 614,348 613,348 611,348 609,348 598,358 547,348 546,348 432,360 385,350 339,350 337,350 336,350 334,350 323,360 285,350 283,350 282,350 95,355 96,391 96,403 1114,406 1116,406 1118,406 1152,398 1290,404 1292,404 1462,394 1462,385 1459,358 1456,358" />
+      <Word id="l_0002-w_0001" text="Preßfreiheit," error_score="0.000" />
+      <Word id="l_0002-w_0002" text="Schwurgerichte," error_score="0.000" />
+      <Word id="l_0002-w_0003" text="Bürgerwehren" error_score="0.000" />
+      <Word id="l_0002-w_0004" text="u." error_score="0.000" />
+      <Word id="l_0002-w_0005" text="m." error_score="0.000" />
+      <Word id="l_0002-w_0006" text="a." error_score="0.000" />
+      <Word id="l_0002-w_0007" text="ʒu" error_score="0.000" />
+      <Word id="l_0002-w_0008" text="genehmigen," error_score="0.000" />
+      <Word id="l_0002-w_0009" text="und" error_score="0.000" />
+      <Word id="l_0002-w_0010" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0003" text="deutſchen Fürſten kamen dem Wunſche vielfach nach; ſie erſetʒten die reaktio⸗">
+      <Coords points="96,443 96,455 1457,447 1459,435 1456,407 1264,398 1262,398 1260,398 1259,398 1246,406 1147,399 1146,399 1144,399 1142,399 1129,407 1052,399 1051,399 1005,407 982,399 980,399 978,399 913,409 901,401 900,401 898,401 896,401 895,401 870,409 857,401 855,401 854,401 852,401 762,409 706,401 705,401 703,401 673,409 642,401 641,401 639,401 637,401 609,411 541,403 539,403 537,403 536,403 523,412 442,412 431,403 429,403 427,403 426,403 367,412 354,404 352,404 350,404 349,404 347,404 323,412 313,404 311,404 309,404 308,404 255,412 203,404 201,404 95,409 96,443" />
+      <Word id="l_0003-w_0001" text="deutſchen" error_score="0.000" />
+      <Word id="l_0003-w_0002" text="Fürſten" error_score="0.000" />
+      <Word id="l_0003-w_0003" text="kamen" error_score="0.000" />
+      <Word id="l_0003-w_0004" text="dem" error_score="0.000" />
+      <Word id="l_0003-w_0005" text="Wunſche" error_score="0.000" />
+      <Word id="l_0003-w_0006" text="vielfach" error_score="0.000" />
+      <Word id="l_0003-w_0007" text="nach;" error_score="0.000" />
+      <Word id="l_0003-w_0008" text="ſie" error_score="0.000" />
+      <Word id="l_0003-w_0009" text="erſetʒten" error_score="0.000" />
+      <Word id="l_0003-w_0010" text="die" error_score="0.000" />
+      <Word id="l_0003-w_0011" text="reaktio⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0004" text="nären Miniſter durch liberale Männer („Märʒminiſter‟) und der Bundestag">
+      <Coords points="96,498 96,507 1457,509 1460,491 1457,462 1274,452 1272,452 1216,460 1198,452 1196,452 1195,452 1193,452 1172,460 1151,452 1149,452 1147,452 1146,452 1105,462 1070,453 1069,453 1067,453 1026,462 1006,453 1005,453 795,453 793,453 791,453 790,453 772,463 493,455 491,455 490,455 472,463 455,455 454,455 452,455 450,455 449,455 432,465 222,457 221,457 150,465 134,457 132,457 131,457 129,457 95,466 96,498" />
+      <Word id="l_0004-w_0001" text="nären" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="Miniſter" error_score="0.000" />
+      <Word id="l_0004-w_0003" text="durch" error_score="0.000" />
+      <Word id="l_0004-w_0004" text="liberale" error_score="0.000" />
+      <Word id="l_0004-w_0005" text="Männer" error_score="0.000" />
+      <Word id="l_0004-w_0006" text="(„Märʒminiſter‟)" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0004-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0004-w_0009" text="Bundestag" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0005" text="bewilligte die Wahl von Abgeordneten in eine konſtituierende deutſche">
+      <Coords points="96,550 96,560 427,568 429,568 431,568 432,568 447,558 467,566 468,566 470,566 527,558 690,566 691,566 780,557 975,557 1008,565 1010,565 1011,565 1142,555 1375,563 1377,563 1459,555 1460,543 1457,516 1383,506 1382,506 1306,514 1287,506 1285,506 1283,506 1244,514 1223,506 1221,506 1219,506 1142,514 1121,506 1119,506 1118,506 978,516 855,507 854,507 852,507 819,516 793,507 791,507 790,507 788,507 787,507 772,517 544,509 542,509 541,509 539,509 527,519 452,519 441,509 439,509 437,509 436,509 337,519 172,511 170,511 168,511 137,519 106,511 104,511 103,511 101,511 100,511 100,512 95,516 96,550" />
+      <Word id="l_0005-w_0001" text="bewilligte" error_score="0.000" />
+      <Word id="l_0005-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0005-w_0003" text="Wahl" error_score="0.000" />
+      <Word id="l_0005-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0005-w_0005" text="Abgeordneten" error_score="0.000" />
+      <Word id="l_0005-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0005-w_0007" text="eine" error_score="0.000" />
+      <Word id="l_0005-w_0008" text="konſtituierende" error_score="0.000" />
+      <Word id="l_0005-w_0009" text="deutſche" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0006" text="Nationalverſammlung mit der Aufgabe, eine neue Reichsverfaſſung">
+      <Coords points="98,602 98,614 1456,616 1459,601 1457,570 1301,558 1300,558 1298,558 1260,570 1082,560 1080,560 990,570 937,560 936,560 934,560 932,560 918,570 864,561 862,561 860,561 859,561 844,571 829,561 828,561 826,561 764,561 762,561 760,561 759,561 746,571 693,561 691,561 690,561 688,561 673,571 650,561 649,561 647,561 646,561 644,561 632,571 529,571 508,561 506,561 505,561 503,561 501,561 486,575 408,575 393,563 391,563 390,563 388,563 386,563 364,573 300,565 298,565 213,573 198,563 196,563 195,563 193,563 145,573 108,563 106,563 104,563 103,563 101,563 101,565 96,568 98,602" />
+      <Word id="l_0006-w_0001" text="Nationalverſammlung" error_score="0.000" />
+      <Word id="l_0006-w_0002" text="mit" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0006-w_0004" text="Aufgabe," error_score="0.000" />
+      <Word id="l_0006-w_0005" text="eine" error_score="0.000" />
+      <Word id="l_0006-w_0006" text="neue" error_score="0.000" />
+      <Word id="l_0006-w_0007" text="Reichsverfaſſung" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0007" text="ʒu entwerfen. Dieſes erſte deutſche Parlament trat am 18. Mai 1848 in der">
+      <Coords points="98,658 98,674 1459,660 1460,648 1457,620 1249,611 1247,611 1246,611 1244,611 1231,620 1221,612 1219,612 1218,612 1216,612 1121,620 1073,612 1072,612 1070,612 1069,612 1057,620 923,614 921,614 919,614 900,622 888,614 887,614 885,614 883,614 813,622 790,614 788,614 787,614 785,614 765,624 641,616 639,616 590,624 580,616 578,616 577,616 575,616 573,616 547,625 526,617 524,617 523,617 441,625 360,617 359,617 357,617 321,627 280,619 278,619 277,619 275,619 263,627 206,620 204,620 96,629 98,658" />
+      <Word id="l_0007-w_0001" text="ʒu" error_score="0.000" />
+      <Word id="l_0007-w_0002" text="entwerfen." error_score="0.000" />
+      <Word id="l_0007-w_0003" text="Dieſes" error_score="0.000" />
+      <Word id="l_0007-w_0004" text="erſte" error_score="0.000" />
+      <Word id="l_0007-w_0005" text="deutſche" error_score="0.000" />
+      <Word id="l_0007-w_0006" text="Parlament" error_score="0.000" />
+      <Word id="l_0007-w_0007" text="trat" error_score="0.000" />
+      <Word id="l_0007-w_0008" text="am" error_score="0.000" />
+      <Word id="l_0007-w_0009" text="18." error_score="0.000" />
+      <Word id="l_0007-w_0010" text="Mai" error_score="0.000" />
+      <Word id="l_0007-w_0011" text="1848" error_score="0.000" />
+      <Word id="l_0007-w_0012" text="in" error_score="0.000" />
+      <Word id="l_0007-w_0013" text="der" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="Paulskirche ʒu Frankfurt am Main ʒuſammen, ʒählte 586 Abgeordnete und">
+      <Coords points="100,712 100,724 1005,725 1006,725 1008,725 1026,717 1231,724 1233,724 1459,714 1460,702 1457,674 1329,674 1292,663 1290,663 1288,663 1287,663 1285,663 1269,673 1083,665 1082,665 1080,665 1055,674 1006,665 1005,665 1003,665 959,676 798,666 796,666 795,666 772,678 639,668 637,668 636,668 634,668 619,679 550,679 486,670 485,670 483,670 449,679 398,670 396,670 324,681 272,671 270,671 268,671 267,671 250,681 232,671 231,671 229,671 98,678 100,712" />
+      <Word id="l_0008-w_0001" text="Paulskirche" error_score="0.000" />
+      <Word id="l_0008-w_0002" text="ʒu" error_score="0.000" />
+      <Word id="l_0008-w_0003" text="Frankfurt" error_score="0.000" />
+      <Word id="l_0008-w_0004" text="am" error_score="0.000" />
+      <Word id="l_0008-w_0005" text="Main" error_score="0.000" />
+      <Word id="l_0008-w_0006" text="ʒuſammen," error_score="0.000" />
+      <Word id="l_0008-w_0007" text="ʒählte" error_score="0.000" />
+      <Word id="l_0008-w_0008" text="586" error_score="0.000" />
+      <Word id="l_0008-w_0009" text="Abgeordnete" error_score="0.000" />
+      <Word id="l_0008-w_0010" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="war reich an Gelehrten und Dichtern, edeln, begeiſterten Männern, aber arm">
+      <Coords points="98,765 98,776 1460,766 1462,755 1459,729 1347,729 1319,717 1318,717 1316,717 1315,717 1313,717 1296,727 1100,719 1098,719 1096,719 1095,719 1078,729 1032,719 1031,719 1029,719 1001,727 964,720 962,720 960,720 959,720 946,730 896,720 895,720 893,720 862,730 795,720 793,720 791,720 790,720 773,732 614,722 613,722 611,722 591,732 577,722 575,722 573,722 572,722 570,722 546,733 357,724 355,724 354,724 314,735 227,725 226,725 224,725 222,725 208,735 109,729 108,729 106,729 104,729 96,733 98,765" />
+      <Word id="l_0009-w_0001" text="war" error_score="0.000" />
+      <Word id="l_0009-w_0002" text="reich" error_score="0.000" />
+      <Word id="l_0009-w_0003" text="an" error_score="0.000" />
+      <Word id="l_0009-w_0004" text="Gelehrten" error_score="0.000" />
+      <Word id="l_0009-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0009-w_0006" text="Dichtern," error_score="0.000" />
+      <Word id="l_0009-w_0007" text="edeln," error_score="0.000" />
+      <Word id="l_0009-w_0008" text="begeiſterten" error_score="0.000" />
+      <Word id="l_0009-w_0009" text="Männern," error_score="0.000" />
+      <Word id="l_0009-w_0010" text="aber" error_score="0.000" />
+      <Word id="l_0009-w_0011" text="arm" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0010" text="an gewiegten Politikern; Mandat hatten ſie nur von der öffentlichen Meinung.">
+      <Coords points="100,819 100,830 1459,824 1460,810 1457,783 1378,783 1357,771 1356,771 1292,771 1290,771 1288,771 1287,771 1274,781 1188,771 1187,771 1185,771 1162,779 1096,773 1095,773 1049,781 1032,773 1031,773 1029,773 882,784 849,774 847,774 846,774 844,774 801,784 708,774 706,774 705,774 703,774 691,783 634,776 632,776 631,776 611,786 591,776 590,776 588,776 508,786 457,776 455,776 388,784 375,776 373,776 372,776 370,776 368,776 334,788 236,779 234,779 232,779 231,779 219,789 98,789 100,819" />
+      <Word id="l_0010-w_0001" text="an" error_score="0.000" />
+      <Word id="l_0010-w_0002" text="gewiegten" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="Politikern;" error_score="0.000" />
+      <Word id="l_0010-w_0004" text="Mandat" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="hatten" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="ſie" error_score="0.000" />
+      <Word id="l_0010-w_0007" text="nur" error_score="0.000" />
+      <Word id="l_0010-w_0008" text="von" error_score="0.000" />
+      <Word id="l_0010-w_0009" text="der" error_score="0.000" />
+      <Word id="l_0010-w_0010" text="öffentlichen" error_score="0.000" />
+      <Word id="l_0010-w_0011" text="Meinung." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0011" text="Ernſt Moritʒ Arndt und Jakob Grimm, Ludwig Uhland und Anaſtaſius Grün">
+      <Coords points="100,869 100,883 1460,876 1462,861 1459,833 1292,824 1290,824 1288,824 1272,832 1247,824 1246,824 1244,824 1242,824 1219,832 1192,824 1190,824 1188,824 1126,833 967,825 965,825 964,825 941,833 918,825 916,825 914,825 913,825 911,825 901,835 875,827 873,827 872,827 870,827 855,835 846,827 844,827 842,827 841,827 747,835 677,827 675,827 673,827 672,827 659,835 555,828 554,828 552,828 550,828 539,837 418,830 416,830 341,838 224,830 222,830 145,838 113,830 111,830 109,830 108,830 106,830 98,837 100,869" />
+      <Word id="l_0011-w_0001" text="Ernſt" error_score="0.000" />
+      <Word id="l_0011-w_0002" text="Moritʒ" error_score="0.000" />
+      <Word id="l_0011-w_0003" text="Arndt" error_score="0.000" />
+      <Word id="l_0011-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0011-w_0005" text="Jakob" error_score="0.000" />
+      <Word id="l_0011-w_0006" text="Grimm," error_score="0.000" />
+      <Word id="l_0011-w_0007" text="Ludwig" error_score="0.000" />
+      <Word id="l_0011-w_0008" text="Uhland" error_score="0.000" />
+      <Word id="l_0011-w_0009" text="und" error_score="0.000" />
+      <Word id="l_0011-w_0010" text="Anaſtaſius" error_score="0.000" />
+      <Word id="l_0011-w_0011" text="Grün" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0012" text="ſaßen da, auch der wackere Turnvater Jahn; das allgemeine Vertrauen hob">
+      <Coords points="101,927 101,938 1460,925 1462,915 1459,887 1292,887 1269,878 1267,878 1265,878 1264,878 1244,887 1234,879 1233,879 1231,879 1229,879 1174,887 1124,879 1123,879 1069,889 1052,881 1051,881 1049,881 941,889 921,881 919,881 918,881 916,881 873,891 724,883 723,883 721,883 700,891 509,884 508,884 506,884 483,896 401,896 390,886 388,886 386,886 385,886 383,886 367,894 355,886 354,886 352,886 350,886 290,896 219,887 218,887 216,887 214,887 203,896 157,887 155,887 100,892 101,927" />
+      <Word id="l_0012-w_0001" text="ſaßen" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="da," error_score="0.000" />
+      <Word id="l_0012-w_0003" text="auch" error_score="0.000" />
+      <Word id="l_0012-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0012-w_0005" text="wackere" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="Turnvater" error_score="0.000" />
+      <Word id="l_0012-w_0007" text="Jahn;" error_score="0.000" />
+      <Word id="l_0012-w_0008" text="das" error_score="0.000" />
+      <Word id="l_0012-w_0009" text="allgemeine" error_score="0.000" />
+      <Word id="l_0012-w_0010" text="Vertrauen" error_score="0.000" />
+      <Word id="l_0012-w_0011" text="hob" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="den liberalen Staatsmann Heinrich von Gagern auf den Präſidentenſtuhl.">
+      <Coords points="101,978 101,989 1459,983 1460,969 1459,943 1423,932 1421,932 1419,932 1418,932 1416,932 1401,942 1372,932 1370,932 1369,932 1367,932 1344,942 1324,933 1323,933 1188,932 1187,932 1185,932 1155,943 1051,933 1049,933 910,945 888,935 887,935 885,935 883,935 847,946 750,946 736,935 734,935 732,935 731,935 682,943 655,935 654,935 652,935 593,946 464,938 462,938 460,938 437,946 406,937 405,937 403,937 401,937 367,948 303,938 301,938 300,938 277,948 236,938 234,938 232,938 231,938 188,948 114,938 113,938 111,938 100,943 101,978" />
+      <Word id="l_0013-w_0001" text="den" error_score="0.000" />
+      <Word id="l_0013-w_0002" text="liberalen" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="Staatsmann" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="Heinrich" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="Gagern" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="auf" error_score="0.000" />
+      <Word id="l_0013-w_0008" text="den" error_score="0.000" />
+      <Word id="l_0013-w_0009" text="Präſidentenſtuhl." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="Da der verhaßte Bundestag ſich nunmehr auflöſte, und weil nebſt der">
+      <Coords points="101,1033 101,1043 326,1051 327,1051 418,1041 711,1048 713,1048 714,1048 716,1048 729,1040 877,1046 878,1046 919,1038 1006,1046 1008,1046 1072,1037 1360,1043 1362,1043 1364,1043 1397,1035 1447,1043 1449,1043 1451,1043 1452,1043 1464,1033 1464,1023 1460,997 1329,986 1328,986 1277,996 1237,986 1236,986 1234,986 1183,997 1154,987 1152,987 1151,987 1051,997 1013,987 1011,987 1010,987 954,999 862,989 860,989 769,1001 659,991 657,991 608,1001 582,991 580,991 578,991 577,991 544,1001 531,992 529,992 527,992 526,992 414,1002 393,992 391,992 327,992 326,992 324,992 295,1005 218,1005 204,994 203,994 201,994 200,994 198,994 178,1004 137,994 136,994 134,994 100,1001 101,1033" />
+      <Word id="l_0014-w_0001" text="Da" error_score="0.000" />
+      <Word id="l_0014-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="verhaßte" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="Bundestag" error_score="0.000" />
+      <Word id="l_0014-w_0005" text="ſich" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="nunmehr" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="auflöſte," error_score="0.000" />
+      <Word id="l_0014-w_0008" text="und" error_score="0.000" />
+      <Word id="l_0014-w_0009" text="weil" error_score="0.000" />
+      <Word id="l_0014-w_0010" text="nebſt" error_score="0.000" />
+      <Word id="l_0014-w_0011" text="der" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="verfaſſunggebenden auch eine vollʒiehende Ʒentralgewalt nötig war, wählte das">
+      <Coords points="100,1086 100,1099 1462,1089 1464,1076 1460,1050 1306,1040 1305,1040 1215,1050 1108,1041 1106,1041 1105,1041 1070,1050 1044,1041 1042,1041 1041,1041 982,1051 960,1043 959,1043 957,1043 916,1051 841,1043 839,1043 800,1051 783,1043 782,1043 780,1043 778,1043 757,1053 739,1045 737,1045 736,1045 587,1053 555,1045 554,1045 552,1045 550,1045 549,1045 537,1055 500,1046 498,1046 496,1046 495,1046 480,1056 386,1056 367,1046 365,1046 364,1046 362,1046 360,1046 350,1055 327,1046 326,1046 324,1046 323,1046 295,1056 160,1048 159,1048 98,1058 100,1086" />
+      <Word id="l_0015-w_0001" text="verfaſſunggebenden" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="auch" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="eine" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="vollʒiehende" error_score="0.000" />
+      <Word id="l_0015-w_0005" text="Ʒentralgewalt" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="nötig" error_score="0.000" />
+      <Word id="l_0015-w_0007" text="war," error_score="0.000" />
+      <Word id="l_0015-w_0008" text="wählte" error_score="0.000" />
+      <Word id="l_0015-w_0009" text="das" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="Parlament den volkstümlichen, bejahrten Erʒherʒog Johann, einen Bruder">
+      <Coords points="101,1140 101,1151 1006,1155 1008,1155 1465,1141 1465,1130 1462,1104 1333,1094 1331,1094 1283,1102 1252,1094 1251,1094 1249,1094 1247,1094 1246,1094 1233,1104 1042,1096 1041,1096 1039,1096 1006,1105 813,1097 811,1097 810,1097 770,1107 647,1099 646,1099 600,1107 568,1099 567,1099 565,1099 519,1109 496,1100 495,1100 493,1100 100,1107 101,1140" />
+      <Word id="l_0016-w_0001" text="Parlament" error_score="0.000" />
+      <Word id="l_0016-w_0002" text="den" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="volkstümlichen," error_score="0.000" />
+      <Word id="l_0016-w_0004" text="bejahrten" error_score="0.000" />
+      <Word id="l_0016-w_0005" text="Erʒherʒog" error_score="0.000" />
+      <Word id="l_0016-w_0006" text="Johann," error_score="0.000" />
+      <Word id="l_0016-w_0007" text="einen" error_score="0.000" />
+      <Word id="l_0016-w_0008" text="Bruder" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="des Siegers von Aſpern, ʒum Reichsverweſer, der ſich mit einem Reichs⸗">
+      <Coords points="101,1192 103,1215 124,1207 263,1214 265,1214 309,1205 470,1212 472,1212 1459,1195 1460,1181 1457,1156 1331,1146 1329,1146 1277,1155 1242,1148 1241,1148 1239,1148 1237,1148 1226,1156 1087,1148 1085,1148 1083,1148 1082,1148 1065,1158 926,1150 924,1150 872,1159 713,1151 711,1151 636,1163 100,1163 101,1192" />
+      <Word id="l_0017-w_0001" text="des" error_score="0.000" />
+      <Word id="l_0017-w_0002" text="Siegers" error_score="0.000" />
+      <Word id="l_0017-w_0003" text="von" error_score="0.000" />
+      <Word id="l_0017-w_0004" text="Aſpern," error_score="0.000" />
+      <Word id="l_0017-w_0005" text="ʒum" error_score="0.000" />
+      <Word id="l_0017-w_0006" text="Reichsverweſer," error_score="0.000" />
+      <Word id="l_0017-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0017-w_0008" text="ſich" error_score="0.000" />
+      <Word id="l_0017-w_0009" text="mit" error_score="0.000" />
+      <Word id="l_0017-w_0010" text="einem" error_score="0.000" />
+      <Word id="l_0017-w_0011" text="Reichs⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0018" text="miniſterium umgab.">
+      <Coords points="101,1246 101,1259 452,1259 452,1246 452,1218 432,1210 431,1210 429,1210 303,1218 239,1210 237,1210 236,1210 219,1218 173,1210 172,1210 170,1210 168,1210 159,1218 144,1210 142,1210 141,1210 101,1218 101,1246" />
+      <Word id="l_0018-w_0001" text="miniſterium" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="umgab." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Wie einſt die franʒöſiſche Nationalverſammlung mit dem Ergründen der">
+      <Coords points="204,1318 204,1331 1464,1323 1465,1310 1462,1281 708,1276 706,1276 705,1276 683,1284 216,1279 214,1279 213,1279 211,1279 203,1284 204,1318" />
+      <Word id="l_0019-w_0001" text="Wie" error_score="0.286" />
+      <Word id="l_0019-w_0002" text="einſt" error_score="0.286" />
+      <Word id="l_0019-w_0003" text="die" error_score="0.286" />
+      <Word id="l_0019-w_0004" text="franʒöſiſche" error_score="0.286" />
+      <Word id="l_0019-w_0005" text="Nationalverſammlung" error_score="0.286" />
+      <Word id="l_0019-w_0006" text="mit" error_score="0.286" />
+      <Word id="l_0019-w_0007" text="dem" error_score="0.286" />
+      <Word id="l_0019-w_0008" text="Ergründen" error_score="0.286" />
+      <Word id="l_0019-w_0009" text="der" error_score="0.286" />
+    </TextLine>
+    <TextLine id="l_0020" text="Menſchenrechte viel koſtbare Ʒeit ʒubrachte, ſo beriet jetʒt die deutſche ebenſo">
+      <Coords points="101,1371 101,1384 1462,1376 1464,1363 1462,1335 1436,1325 1434,1325 1433,1325 1313,1333 1265,1325 1264,1325 1188,1335 1172,1327 1170,1327 1169,1327 1167,1327 1165,1327 1154,1336 1042,1336 1024,1327 1023,1327 1021,1327 980,1335 967,1327 965,1327 964,1327 962,1327 960,1327 937,1335 919,1327 918,1327 916,1327 914,1327 913,1327 896,1336 716,1328 714,1328 664,1336 647,1328 646,1328 644,1328 588,1338 398,1330 396,1330 395,1330 370,1340 113,1331 111,1331 109,1331 108,1331 100,1336 101,1371" />
+      <Word id="l_0020-w_0001" text="Menſchenrechte" error_score="0.000" />
+      <Word id="l_0020-w_0002" text="viel" error_score="0.000" />
+      <Word id="l_0020-w_0003" text="koſtbare" error_score="0.000" />
+      <Word id="l_0020-w_0004" text="Ʒeit" error_score="0.000" />
+      <Word id="l_0020-w_0005" text="ʒubrachte," error_score="0.000" />
+      <Word id="l_0020-w_0006" text="ſo" error_score="0.000" />
+      <Word id="l_0020-w_0007" text="beriet" error_score="0.000" />
+      <Word id="l_0020-w_0008" text="jetʒt" error_score="0.000" />
+      <Word id="l_0020-w_0009" text="die" error_score="0.000" />
+      <Word id="l_0020-w_0010" text="deutſche" error_score="0.000" />
+      <Word id="l_0020-w_0011" text="ebenſo" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="ausführlich über die Grundrechte des Volkes‟). Erſt 184ꝰ kamen eigentliche">
+      <Coords points="103,1423 103,1436 1464,1428 1465,1415 1464,1389 1433,1379 1431,1379 1429,1379 1370,1387 1175,1381 1174,1381 1172,1381 1170,1381 1157,1389 970,1381 969,1381 918,1390 901,1382 900,1382 770,1382 769,1382 767,1382 765,1382 754,1390 742,1382 741,1382 739,1382 737,1382 736,1382 713,1390 701,1382 700,1382 698,1382 696,1382 614,1392 409,1384 408,1384 406,1384 368,1394 352,1386 350,1386 349,1386 296,1394 285,1386 283,1386 282,1386 170,1386 168,1386 101,1395 103,1423" />
+      <Word id="l_0021-w_0001" text="ausführlich" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="über" error_score="0.000" />
+      <Word id="l_0021-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="Grundrechte" error_score="0.000" />
+      <Word id="l_0021-w_0005" text="des" error_score="0.000" />
+      <Word id="l_0021-w_0006" text="Volkes‟)." error_score="0.000" />
+      <Word id="l_0021-w_0007" text="Erſt" error_score="0.000" />
+      <Word id="l_0021-w_0008" text="184ꝰ" error_score="0.000" />
+      <Word id="l_0021-w_0009" text="kamen" error_score="0.000" />
+      <Word id="l_0021-w_0010" text="eigentliche" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="Verfaſſungsfragen ʒur Sprache. Für das Oberhaupt des Geſamtſtaates ſollte">
+      <Coords points="103,1479 103,1490 372,1499 373,1499 414,1490 1180,1494 1182,1494 1465,1482 1465,1471 1462,1443 1377,1433 1375,1433 1374,1433 1372,1433 1360,1443 1272,1443 1246,1433 1244,1433 1242,1433 1190,1443 1180,1435 1178,1435 1177,1435 1175,1435 960,1443 932,1435 931,1435 929,1435 928,1435 926,1435 910,1445 895,1436 893,1436 891,1436 739,1445 675,1436 673,1436 672,1436 644,1446 513,1438 511,1438 509,1438 508,1438 496,1448 101,1448 103,1479" />
+      <Word id="l_0022-w_0001" text="Verfaſſungsfragen" error_score="0.000" />
+      <Word id="l_0022-w_0002" text="ʒur" error_score="0.000" />
+      <Word id="l_0022-w_0003" text="Sprache." error_score="0.000" />
+      <Word id="l_0022-w_0004" text="Für" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="das" error_score="0.000" />
+      <Word id="l_0022-w_0006" text="Oberhaupt" error_score="0.000" />
+      <Word id="l_0022-w_0007" text="des" error_score="0.000" />
+      <Word id="l_0022-w_0008" text="Geſamtſtaates" error_score="0.000" />
+      <Word id="l_0022-w_0009" text="ſollte" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="die alte Kaiſerwürde wieder aufleben. Aber gegen Oſterreich ſprach die Ʒu⸗">
+      <Coords points="101,1533 101,1544 326,1553 327,1553 600,1543 644,1551 646,1551 757,1541 916,1549 918,1549 1000,1540 1175,1548 1177,1548 1178,1548 1180,1548 1192,1540 1300,1546 1301,1546 1375,1538 1418,1546 1419,1546 1462,1536 1464,1525 1460,1499 1328,1487 1326,1487 1324,1487 1323,1487 1310,1497 1288,1487 1287,1487 1285,1487 1236,1497 1213,1487 1211,1487 1210,1487 1208,1487 1188,1499 1172,1489 1170,1489 1169,1489 1167,1489 1093,1499 1014,1489 1013,1489 1011,1489 1010,1489 995,1500 914,1500 650,1490 649,1490 647,1490 646,1490 631,1503 557,1503 542,1492 541,1492 539,1492 537,1492 473,1502 432,1492 431,1492 429,1492 367,1502 326,1494 262,1494 260,1494 259,1494 257,1494 244,1503 211,1494 209,1494 208,1494 206,1494 177,1503 141,1494 139,1494 137,1494 100,1500 101,1533" />
+      <Word id="l_0023-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="alte" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="Kaiſerwürde" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="wieder" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="aufleben." error_score="0.000" />
+      <Word id="l_0023-w_0006" text="Aber" error_score="0.000" />
+      <Word id="l_0023-w_0007" text="gegen" error_score="0.000" />
+      <Word id="l_0023-w_0008" text="Oſterreich" error_score="0.000" />
+      <Word id="l_0023-w_0009" text="ſprach" error_score="0.000" />
+      <Word id="l_0023-w_0010" text="die" error_score="0.000" />
+      <Word id="l_0023-w_0011" text="Ʒu⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="ſammenſetʒung mit undeutſchen Ländern, gegen Preußen die materielle und">
+      <Coords points="103,1585 103,1600 345,1607 347,1607 349,1607 350,1607 362,1597 460,1597 613,1605 614,1605 682,1595 828,1603 829,1603 831,1603 847,1595 916,1603 918,1603 919,1603 959,1594 1078,1602 1080,1602 1123,1594 1149,1600 1151,1600 1152,1600 1193,1592 1462,1592 1464,1577 1462,1553 1444,1543 1442,1543 1441,1543 1374,1551 1362,1543 1360,1543 1359,1543 1270,1543 1269,1543 1188,1553 1170,1544 1169,1544 1167,1544 1114,1553 975,1544 973,1544 914,1554 760,1546 685,1546 683,1546 682,1546 680,1546 668,1554 101,1554 103,1585" />
+      <Word id="l_0024-w_0001" text="ſammenſetʒung" error_score="0.000" />
+      <Word id="l_0024-w_0002" text="mit" error_score="0.000" />
+      <Word id="l_0024-w_0003" text="undeutſchen" error_score="0.000" />
+      <Word id="l_0024-w_0004" text="Ländern," error_score="0.000" />
+      <Word id="l_0024-w_0005" text="gegen" error_score="0.000" />
+      <Word id="l_0024-w_0006" text="Preußen" error_score="0.000" />
+      <Word id="l_0024-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0024-w_0008" text="materielle" error_score="0.000" />
+      <Word id="l_0024-w_0009" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="ideale Vormacht Oſterreichs. Die „kleindeutſche‟ Partei drang mit ihrem Plan,">
+      <Coords points="103,1639 103,1653 1462,1653 1464,1635 1460,1607 1365,1595 1364,1595 1362,1595 1360,1595 1347,1607 1293,1607 1264,1595 1262,1595 1260,1595 1259,1595 1257,1595 1244,1605 1223,1595 1221,1595 1219,1595 1218,1595 1216,1595 1205,1605 1114,1605 1055,1595 1054,1595 1052,1595 1008,1607 987,1597 985,1597 983,1597 808,1607 724,1597 723,1597 672,1607 619,1597 618,1597 616,1597 614,1597 601,1607 527,1599 526,1599 524,1599 523,1599 508,1610 467,1610 452,1599 450,1599 449,1599 405,1599 403,1599 401,1599 400,1599 386,1608 355,1600 354,1600 352,1600 350,1600 349,1600 337,1610 270,1610 229,1599 227,1599 226,1599 224,1599 200,1608 185,1599 183,1599 182,1599 180,1599 178,1599 141,1608 113,1599 111,1599 109,1599 108,1599 106,1599 106,1600 101,1603 103,1639" />
+      <Word id="l_0025-w_0001" text="ideale" error_score="0.000" />
+      <Word id="l_0025-w_0002" text="Vormacht" error_score="0.000" />
+      <Word id="l_0025-w_0003" text="Oſterreichs." error_score="0.000" />
+      <Word id="l_0025-w_0004" text="Die" error_score="0.000" />
+      <Word id="l_0025-w_0005" text="„kleindeutſche‟" error_score="0.000" />
+      <Word id="l_0025-w_0006" text="Partei" error_score="0.000" />
+      <Word id="l_0025-w_0007" text="drang" error_score="0.000" />
+      <Word id="l_0025-w_0008" text="mit" error_score="0.000" />
+      <Word id="l_0025-w_0009" text="ihrem" error_score="0.000" />
+      <Word id="l_0025-w_0010" text="Plan," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0026" text="Oſterreich aus dem politiſchen Verband mit dem übrigen Deutſchland losʒu⸗">
+      <Coords points="103,1692 103,1705 1464,1698 1465,1685 1462,1659 1218,1649 1216,1649 1170,1657 1139,1649 1137,1649 1136,1649 1134,1649 1133,1649 1119,1659 995,1651 993,1651 916,1659 896,1651 895,1651 893,1651 891,1651 870,1659 847,1651 846,1651 844,1651 783,1661 772,1653 770,1653 769,1653 767,1653 765,1653 764,1653 750,1661 719,1653 718,1653 716,1653 714,1653 693,1661 672,1653 670,1653 668,1653 667,1653 632,1661 580,1653 578,1653 441,1662 375,1654 373,1654 372,1654 370,1654 359,1664 277,1664 265,1654 263,1654 262,1654 260,1654 101,1659 103,1692" />
+      <Word id="l_0026-w_0001" text="Oſterreich" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="aus" error_score="0.000" />
+      <Word id="l_0026-w_0003" text="dem" error_score="0.000" />
+      <Word id="l_0026-w_0004" text="politiſchen" error_score="0.000" />
+      <Word id="l_0026-w_0005" text="Verband" error_score="0.000" />
+      <Word id="l_0026-w_0006" text="mit" error_score="0.000" />
+      <Word id="l_0026-w_0007" text="dem" error_score="0.000" />
+      <Word id="l_0026-w_0008" text="übrigen" error_score="0.000" />
+      <Word id="l_0026-w_0009" text="Deutſchland" error_score="0.000" />
+      <Word id="l_0026-w_0010" text="losʒu⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="löſen und nachträglich in ein Bundesverhältnis mit dem geeinten Reiche ʒu">
+      <Coords points="103,1744 103,1757 1465,1753 1467,1739 1464,1715 1298,1703 1296,1703 1242,1713 1187,1703 1185,1703 1183,1703 1182,1703 1169,1715 1108,1715 1046,1703 1044,1703 1042,1703 1041,1703 1029,1713 1005,1705 1003,1705 1001,1705 1000,1705 967,1715 929,1705 928,1705 926,1705 800,1715 657,1705 655,1705 654,1705 652,1705 641,1715 596,1707 595,1707 549,1716 524,1707 523,1707 521,1707 519,1707 495,1716 439,1707 437,1707 382,1715 354,1707 352,1707 350,1707 349,1707 347,1707 334,1716 255,1708 254,1708 188,1716 111,1707 109,1707 108,1707 106,1707 106,1708 101,1712 103,1744" />
+      <Word id="l_0027-w_0001" text="löſen" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="nachträglich" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="in" error_score="0.000" />
+      <Word id="l_0027-w_0005" text="ein" error_score="0.000" />
+      <Word id="l_0027-w_0006" text="Bundesverhältnis" error_score="0.000" />
+      <Word id="l_0027-w_0007" text="mit" error_score="0.000" />
+      <Word id="l_0027-w_0008" text="dem" error_score="0.000" />
+      <Word id="l_0027-w_0009" text="geeinten" error_score="0.000" />
+      <Word id="l_0027-w_0010" text="Reiche" error_score="0.000" />
+      <Word id="l_0027-w_0011" text="ʒu" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="bringen, nicht durch; denn die „Großdeutſchen‟ wollten kein Glied des Ge⸗">
+      <Coords points="104,1800 104,1811 331,1820 332,1820 334,1820 350,1811 468,1818 470,1818 472,1818 496,1810 523,1818 524,1818 526,1818 701,1808 713,1816 714,1816 716,1816 718,1818 919,1818 919,1816 921,1816 942,1807 1172,1815 1174,1815 1175,1815 1195,1805 1221,1813 1223,1813 1224,1813 1464,1803 1465,1792 1464,1766 1428,1756 1426,1756 1424,1756 1341,1764 1328,1756 1326,1756 1324,1756 1323,1756 1321,1756 1303,1764 1219,1756 1218,1756 1216,1756 1188,1766 1032,1757 1031,1757 969,1766 946,1757 944,1757 942,1757 836,1767 708,1759 706,1759 705,1759 703,1759 691,1767 377,1761 375,1761 373,1761 354,1771 344,1762 342,1762 341,1762 339,1762 103,1769 104,1800" />
+      <Word id="l_0028-w_0001" text="bringen," error_score="0.000" />
+      <Word id="l_0028-w_0002" text="nicht" error_score="0.000" />
+      <Word id="l_0028-w_0003" text="durch;" error_score="0.000" />
+      <Word id="l_0028-w_0004" text="denn" error_score="0.000" />
+      <Word id="l_0028-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0028-w_0006" text="„Großdeutſchen‟" error_score="0.000" />
+      <Word id="l_0028-w_0007" text="wollten" error_score="0.000" />
+      <Word id="l_0028-w_0008" text="kein" error_score="0.000" />
+      <Word id="l_0028-w_0009" text="Glied" error_score="0.000" />
+      <Word id="l_0028-w_0010" text="des" error_score="0.000" />
+      <Word id="l_0028-w_0011" text="Ge⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0029" text="ſamtſtaates aufgeben, am wenigſten das größte. Dennoch einigte man ſich">
+      <Coords points="104,1852 104,1867 396,1874 398,1874 573,1864 685,1872 687,1872 826,1862 914,1870 916,1870 1000,1862 1124,1870 1126,1870 1128,1870 1155,1861 1228,1869 1229,1869 1465,1861 1467,1846 1465,1820 1454,1811 1452,1811 1451,1811 1449,1811 1280,1820 1187,1811 1185,1811 1183,1811 1151,1820 1128,1811 1126,1811 1124,1811 1123,1811 1093,1821 882,1813 880,1813 826,1821 814,1813 813,1813 811,1813 810,1813 747,1823 644,1815 642,1815 641,1815 639,1815 627,1825 103,1825 104,1852" />
+      <Word id="l_0029-w_0001" text="ſamtſtaates" error_score="0.000" />
+      <Word id="l_0029-w_0002" text="aufgeben," error_score="0.000" />
+      <Word id="l_0029-w_0003" text="am" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="wenigſten" error_score="0.000" />
+      <Word id="l_0029-w_0005" text="das" error_score="0.000" />
+      <Word id="l_0029-w_0006" text="größte." error_score="0.000" />
+      <Word id="l_0029-w_0007" text="Dennoch" error_score="0.000" />
+      <Word id="l_0029-w_0008" text="einigte" error_score="0.000" />
+      <Word id="l_0029-w_0009" text="man" error_score="0.000" />
+      <Word id="l_0029-w_0010" text="ſich" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="über folgende Grundʒüge der neuen Verfaſſung: Die geſetʒgebende">
+      <Coords points="106,1907 106,1918 585,1925 587,1925 588,1925 608,1916 742,1923 744,1923 934,1915 957,1923 959,1923 960,1925 1124,1925 1124,1923 1126,1923 1128,1923 1146,1913 1234,1913 1246,1921 1247,1921 1249,1921 1251,1921 1465,1911 1467,1900 1465,1874 1433,1864 1431,1864 1429,1864 1224,1872 1162,1864 1160,1864 1159,1864 1123,1874 880,1866 878,1866 775,1877 657,1877 639,1867 637,1867 636,1867 567,1875 541,1867 539,1867 537,1867 536,1867 514,1875 491,1867 490,1867 488,1867 431,1877 405,1869 403,1869 401,1869 329,1877 318,1869 316,1869 314,1869 206,1869 204,1869 203,1869 186,1877 114,1869 113,1869 111,1869 109,1869 109,1870 104,1874 106,1907" />
+      <Word id="l_0030-w_0001" text="über" error_score="0.000" />
+      <Word id="l_0030-w_0002" text="folgende" error_score="0.000" />
+      <Word id="l_0030-w_0003" text="Grundʒüge" error_score="0.000" />
+      <Word id="l_0030-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0030-w_0005" text="neuen" error_score="0.000" />
+      <Word id="l_0030-w_0006" text="Verfaſſung:" error_score="0.000" />
+      <Word id="l_0030-w_0007" text="Die" error_score="0.000" />
+      <Word id="l_0030-w_0008" text="geſetʒgebende" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0031" text="Gewalt ſollte einem Reichstage ʒuſtehen, in deſſen „Staatenhaus‟ Mitglieder">
+      <Coords points="106,1957 106,1970 1465,1966 1467,1952 1464,1926 1415,1916 1413,1916 1083,1925 1029,1916 1028,1916 1026,1916 1024,1916 1008,1926 705,1918 703,1918 701,1918 683,1926 478,1920 477,1920 396,1928 380,1920 378,1920 377,1920 334,1928 260,1920 259,1920 257,1920 237,1928 219,1920 218,1920 216,1920 155,1928 124,1920 122,1920 121,1920 119,1920 118,1920 104,1926 106,1957" />
+      <Word id="l_0031-w_0001" text="Gewalt" error_score="0.000" />
+      <Word id="l_0031-w_0002" text="ſollte" error_score="0.000" />
+      <Word id="l_0031-w_0003" text="einem" error_score="0.000" />
+      <Word id="l_0031-w_0004" text="Reichstage" error_score="0.000" />
+      <Word id="l_0031-w_0005" text="ʒuſtehen," error_score="0.000" />
+      <Word id="l_0031-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0031-w_0007" text="deſſen" error_score="0.000" />
+      <Word id="l_0031-w_0008" text="„Staatenhaus‟" error_score="0.000" />
+      <Word id="l_0031-w_0009" text="Mitglieder" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0032" text="der Regierung und Vertreter der Einʒelſtaaten Sitʒ und Stimme hatten, in">
+      <Coords points="106,2013 106,2024 1464,2018 1465,2006 1464,1980 1437,1970 1436,1970 1434,1970 1433,1970 1413,1979 1295,1970 1293,1970 1292,1970 1290,1970 1278,1980 1206,1980 1141,1970 1139,1970 1137,1970 1136,1970 1121,1980 1098,1972 1096,1972 1095,1972 921,1980 877,1972 875,1972 873,1972 852,1980 801,1972 800,1972 798,1972 796,1972 782,1982 749,1974 747,1974 746,1974 698,1982 634,1974 632,1974 631,1974 629,1974 616,1982 565,1974 564,1974 562,1974 560,1974 549,1982 486,1974 485,1974 483,1974 444,1984 423,1975 421,1975 419,1975 418,1975 416,1975 403,1984 262,1975 260,1975 259,1975 231,1984 218,1975 216,1975 214,1975 213,1975 104,1980 106,2013" />
+      <Word id="l_0032-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0032-w_0002" text="Regierung" error_score="0.000" />
+      <Word id="l_0032-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0032-w_0004" text="Vertreter" error_score="0.000" />
+      <Word id="l_0032-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0032-w_0006" text="Einʒelſtaaten" error_score="0.000" />
+      <Word id="l_0032-w_0007" text="Sitʒ" error_score="0.000" />
+      <Word id="l_0032-w_0008" text="und" error_score="0.000" />
+      <Word id="l_0032-w_0009" text="Stimme" error_score="0.000" />
+      <Word id="l_0032-w_0010" text="hatten," error_score="0.000" />
+      <Word id="l_0032-w_0011" text="in" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0033" text="deſſen „Volkshaus‟ das ganʒe deutſche Volk ſeine Abgeordneten durch Wahl">
+      <Coords points="104,2069 104,2080 1465,2070 1467,2059 1464,2029 1372,2021 1370,2021 1369,2021 1349,2029 1329,2021 1328,2021 1326,2021 1233,2031 1014,2023 1013,2023 1011,2023 1010,2023 998,2033 823,2024 821,2024 819,2024 818,2024 806,2033 744,2026 742,2026 741,2026 709,2034 687,2026 685,2026 683,2026 554,2038 488,2038 477,2028 475,2028 473,2028 472,2028 470,2028 468,2028 459,2036 439,2028 437,2028 436,2028 390,2036 357,2028 355,2028 354,2028 249,2029 247,2029 245,2029 234,2038 103,2034 104,2069" />
+      <Word id="l_0033-w_0001" text="deſſen" error_score="0.000" />
+      <Word id="l_0033-w_0002" text="„Volkshaus‟" error_score="0.000" />
+      <Word id="l_0033-w_0003" text="das" error_score="0.000" />
+      <Word id="l_0033-w_0004" text="ganʒe" error_score="0.000" />
+      <Word id="l_0033-w_0005" text="deutſche" error_score="0.000" />
+      <Word id="l_0033-w_0006" text="Volk" error_score="0.000" />
+      <Word id="l_0033-w_0007" text="ſeine" error_score="0.000" />
+      <Word id="l_0033-w_0008" text="Abgeordneten" error_score="0.000" />
+      <Word id="l_0033-w_0009" text="durch" error_score="0.000" />
+      <Word id="l_0033-w_0010" text="Wahl" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="ʒu entſenden hätte. Mit geringer Mehrheit erwählte das Parlament (28. Märʒ">
+      <Coords points="103,2123 103,2134 1465,2131 1465,2113 1462,2082 1310,2074 1308,2074 1306,2074 1287,2083 1131,2083 1092,2075 1090,2075 1032,2083 1014,2075 1013,2075 1011,2075 1010,2075 1008,2075 996,2085 973,2077 972,2077 970,2077 850,2085 791,2077 790,2077 788,2077 787,2077 777,2087 765,2079 764,2079 762,2079 760,2079 621,2087 595,2079 593,2079 591,2079 590,2079 550,2088 347,2080 345,2080 344,2080 323,2090 219,2082 218,2082 101,2090 103,2123" />
+      <Word id="l_0034-w_0001" text="ʒu" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="entſenden" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="hätte." error_score="0.000" />
+      <Word id="l_0034-w_0004" text="Mit" error_score="0.000" />
+      <Word id="l_0034-w_0005" text="geringer" error_score="0.000" />
+      <Word id="l_0034-w_0006" text="Mehrheit" error_score="0.000" />
+      <Word id="l_0034-w_0007" text="erwählte" error_score="0.000" />
+      <Word id="l_0034-w_0008" text="das" error_score="0.000" />
+      <Word id="l_0034-w_0009" text="Parlament" error_score="0.000" />
+      <Word id="l_0034-w_0010" text="(28." error_score="0.000" />
+      <Word id="l_0034-w_0011" text="Märʒ" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="184ꝰ) den König Friedrich Wilhelm IV. von Preußen ʒum „erblichen Kaiſer">
+      <Coords points="108,2175 108,2188 1465,2178 1467,2165 1464,2138 1367,2128 1365,2128 1303,2136 1287,2128 1285,2128 1283,2128 1218,2139 1046,2139 1014,2129 1013,2129 1011,2129 1010,2129 1008,2129 996,2139 929,2131 928,2131 926,2131 924,2131 913,2141 826,2141 787,2131 785,2131 783,2131 749,2141 603,2133 601,2133 600,2133 583,2141 567,2133 565,2133 564,2133 562,2133 529,2142 509,2134 508,2134 506,2134 405,2142 385,2134 383,2134 382,2134 380,2134 378,2134 367,2142 344,2134 342,2134 341,2134 339,2134 303,2144 121,2136 119,2136 118,2136 116,2136 106,2142 108,2175" />
+      <Word id="l_0035-w_0001" text="184ꝰ)" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="den" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="König" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="Friedrich" error_score="0.000" />
+      <Word id="l_0035-w_0005" text="Wilhelm" error_score="0.000" />
+      <Word id="l_0035-w_0006" text="IV." error_score="0.000" />
+      <Word id="l_0035-w_0007" text="von" error_score="0.000" />
+      <Word id="l_0035-w_0008" text="Preußen" error_score="0.000" />
+      <Word id="l_0035-w_0009" text="ʒum" error_score="0.000" />
+      <Word id="l_0035-w_0010" text="„erblichen" error_score="0.000" />
+      <Word id="l_0035-w_0011" text="Kaiſer" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="der Deutſchen‟, erfuhr aber eine Abſage, da der König weder die Volks⸗">
+      <Coords points="106,2229 106,2239 296,2249 298,2249 401,2237 491,2247 493,2247 495,2247 496,2247 514,2236 544,2244 546,2244 547,2244 616,2236 670,2244 672,2244 673,2244 708,2234 855,2244 857,2244 859,2244 885,2233 985,2241 987,2241 988,2241 1016,2233 1133,2241 1134,2241 1136,2241 1137,2241 1149,2233 1187,2241 1188,2241 1254,2231 1313,2237 1315,2237 1316,2237 1318,2237 1329,2229 1437,2239 1439,2239 1441,2239 1465,2228 1465,2218 1464,2193 1426,2182 1424,2182 1423,2182 1323,2192 1280,2182 1278,2182 1277,2182 1275,2182 1274,2182 1274,2183 1260,2193 1075,2183 1073,2183 1019,2195 962,2185 960,2185 959,2185 926,2195 893,2185 891,2185 890,2185 888,2185 887,2185 887,2187 873,2197 736,2187 734,2187 732,2187 731,2187 718,2197 657,2188 655,2188 654,2188 652,2188 639,2198 570,2188 568,2188 567,2188 542,2198 486,2190 485,2190 409,2200 362,2190 360,2190 104,2197 106,2229" />
+      <Word id="l_0036-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="Deutſchen‟," error_score="0.000" />
+      <Word id="l_0036-w_0003" text="erfuhr" error_score="0.000" />
+      <Word id="l_0036-w_0004" text="aber" error_score="0.000" />
+      <Word id="l_0036-w_0005" text="eine" error_score="0.000" />
+      <Word id="l_0036-w_0006" text="Abſage," error_score="0.000" />
+      <Word id="l_0036-w_0007" text="da" error_score="0.000" />
+      <Word id="l_0036-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0036-w_0009" text="König" error_score="0.000" />
+      <Word id="l_0036-w_0010" text="weder" error_score="0.000" />
+      <Word id="l_0036-w_0011" text="die" error_score="0.000" />
+      <Word id="l_0036-w_0012" text="Volks⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="ſouveränität anerkennen, noch einen Krieg gegen Oſterreich heraufbeſchwören">
+      <Coords points="108,2280 108,2298 1465,2288 1467,2275 1464,2249 1398,2237 1397,2237 1395,2237 1377,2246 1270,2237 1269,2237 1267,2237 1242,2246 1178,2237 1177,2237 1175,2237 1174,2237 1165,2246 1155,2237 1154,2237 1152,2237 1014,2237 1013,2237 1011,2237 975,2249 775,2239 773,2239 772,2239 770,2239 757,2251 703,2251 678,2239 677,2239 675,2239 673,2239 632,2249 616,2239 614,2239 613,2239 611,2239 557,2252 436,2252 421,2241 419,2241 418,2241 416,2241 414,2241 390,2252 321,2252 298,2241 296,2241 295,2241 142,2251 118,2241 116,2241 114,2241 113,2241 111,2241 111,2242 106,2246 108,2280" />
+      <Word id="l_0037-w_0001" text="ſouveränität" error_score="0.000" />
+      <Word id="l_0037-w_0002" text="anerkennen," error_score="0.000" />
+      <Word id="l_0037-w_0003" text="noch" error_score="0.000" />
+      <Word id="l_0037-w_0004" text="einen" error_score="0.000" />
+      <Word id="l_0037-w_0005" text="Krieg" error_score="0.000" />
+      <Word id="l_0037-w_0006" text="gegen" error_score="0.000" />
+      <Word id="l_0037-w_0007" text="Oſterreich" error_score="0.000" />
+      <Word id="l_0037-w_0008" text="heraufbeſchwören" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="*) Dieſe wurden ʒu Weihnachten 1848 vom Reichsverweſer kundgetan; beſonders wichtig">
+      <Coords points="209,2365 209,2377 1465,2378 1469,2360 1465,2336 1059,2328 1057,2328 1003,2336 714,2329 713,2329 608,2337 221,2331 219,2331 218,2331 216,2331 208,2336 209,2365" />
+      <Word id="l_0038-w_0001" text="*)" error_score="0.464" />
+      <Word id="l_0038-w_0002" text="Dieſe" error_score="0.464" />
+      <Word id="l_0038-w_0003" text="wurden" error_score="0.464" />
+      <Word id="l_0038-w_0004" text="ʒu" error_score="0.464" />
+      <Word id="l_0038-w_0005" text="Weihnachten" error_score="0.464" />
+      <Word id="l_0038-w_0006" text="1848" error_score="0.464" />
+      <Word id="l_0038-w_0007" text="vom" error_score="0.464" />
+      <Word id="l_0038-w_0008" text="Reichsverweſer" error_score="0.464" />
+      <Word id="l_0038-w_0009" text="kundgetan;" error_score="0.464" />
+      <Word id="l_0038-w_0010" text="beſonders" error_score="0.464" />
+      <Word id="l_0038-w_0011" text="wichtig" error_score="0.464" />
+    </TextLine>
+    <TextLine id="l_0039" text="erſchienen allgemeines deutſches Staatsbürgerrecht, Freiʒügigkeit, Gewerbefreiheit, gleiches Recht">
+      <Coords points="104,2411 104,2424 1467,2418 1469,2405 1465,2380 787,2373 785,2373 783,2373 782,2373 770,2382 141,2377 139,2377 137,2377 103,2385 104,2411" />
+      <Word id="l_0039-w_0001" text="erſchienen" error_score="0.000" />
+      <Word id="l_0039-w_0002" text="allgemeines" error_score="0.000" />
+      <Word id="l_0039-w_0003" text="deutſches" error_score="0.000" />
+      <Word id="l_0039-w_0004" text="Staatsbürgerrecht," error_score="0.000" />
+      <Word id="l_0039-w_0005" text="Freiʒügigkeit," error_score="0.000" />
+      <Word id="l_0039-w_0006" text="Gewerbefreiheit," error_score="0.000" />
+      <Word id="l_0039-w_0007" text="gleiches" error_score="0.000" />
+      <Word id="l_0039-w_0008" text="Recht" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0040" text="aller auf alle Staatsämter, gleiche Wehrpflicht, Freiheit der Perſon, Unverletʒlichkeit der">
+      <Coords points="108,2455 108,2467 623,2473 624,2473 626,2473 655,2465 764,2473 765,2473 834,2464 854,2472 855,2472 857,2472 1467,2462 1469,2449 1465,2426 447,2421 445,2421 336,2429 131,2423 129,2423 127,2423 106,2431 108,2455" />
+      <Word id="l_0040-w_0001" text="aller" error_score="0.000" />
+      <Word id="l_0040-w_0002" text="auf" error_score="0.000" />
+      <Word id="l_0040-w_0003" text="alle" error_score="0.000" />
+      <Word id="l_0040-w_0004" text="Staatsämter," error_score="0.000" />
+      <Word id="l_0040-w_0005" text="gleiche" error_score="0.000" />
+      <Word id="l_0040-w_0006" text="Wehrpflicht," error_score="0.000" />
+      <Word id="l_0040-w_0007" text="Freiheit" error_score="0.000" />
+      <Word id="l_0040-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0040-w_0009" text="Perſon," error_score="0.000" />
+      <Word id="l_0040-w_0010" text="Unverletʒlichkeit" error_score="0.000" />
+      <Word id="l_0040-w_0011" text="der" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0041" text="Wohnung und des Briefgeheimniſſes, Freiheit der Preſſe, der Wiſſenſchaft und ihrer Lehre,">
+      <Coords points="109,2501 109,2514 1465,2514 1467,2498 1464,2472 118,2465 116,2465 114,2465 113,2465 113,2467 108,2470 109,2501" />
+      <Word id="l_0041-w_0001" text="Wohnung" error_score="0.000" />
+      <Word id="l_0041-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0041-w_0003" text="des" error_score="0.000" />
+      <Word id="l_0041-w_0004" text="Briefgeheimniſſes," error_score="0.000" />
+      <Word id="l_0041-w_0005" text="Freiheit" error_score="0.000" />
+      <Word id="l_0041-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0041-w_0007" text="Preſſe," error_score="0.000" />
+      <Word id="l_0041-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0041-w_0009" text="Wiſſenſchaft" error_score="0.000" />
+      <Word id="l_0041-w_0010" text="und" error_score="0.000" />
+      <Word id="l_0041-w_0011" text="ihrer" error_score="0.000" />
+      <Word id="l_0041-w_0012" text="Lehre," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0042" text="gleichheitliche Rechtspflege, Trennung der Juſtiʒ von der Verwaltung u. ſ. w.">
+      <Coords points="108,2549 108,2562 1224,2555 1224,2539 1221,2516 1152,2508 1151,2508 982,2516 931,2508 929,2508 928,2508 926,2508 926,2509 918,2516 870,2509 869,2509 778,2518 708,2509 706,2509 705,2509 703,2509 693,2519 557,2519 496,2511 495,2511 442,2521 431,2513 429,2513 427,2513 306,2513 304,2513 303,2513 301,2513 290,2523 278,2514 277,2514 275,2514 131,2514 129,2514 127,2514 106,2523 108,2549" />
+      <Word id="l_0042-w_0001" text="gleichheitliche" error_score="0.000" />
+      <Word id="l_0042-w_0002" text="Rechtspflege," error_score="0.000" />
+      <Word id="l_0042-w_0003" text="Trennung" error_score="0.000" />
+      <Word id="l_0042-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0042-w_0005" text="Juſtiʒ" error_score="0.000" />
+      <Word id="l_0042-w_0006" text="von" error_score="0.000" />
+      <Word id="l_0042-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0042-w_0008" text="Verwaltung" error_score="0.000" />
+      <Word id="l_0042-w_0009" text="u." error_score="0.000" />
+      <Word id="l_0042-w_0010" text="ſ." error_score="0.000" />
+      <Word id="l_0042-w_0011" text="w." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

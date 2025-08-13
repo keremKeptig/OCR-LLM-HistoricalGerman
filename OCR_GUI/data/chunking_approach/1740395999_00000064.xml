@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740395999_00000064.bin.png" imageHeight="2718" imageWidth="1723" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="81,102 101,308 89,693 72,687 66,530 81,102" />
+    <TextLine id="l_0001" text="A">
+      <Coords points="89,560 90,545 90,530 90,514 90,499 92,484 92,469 92,454 93,439 93,424 93,409 95,394 95,379 95,363 96,348 96,333 96,318 96,303 80,305 60,305 61,569 81,570 89,569 89,560" />
+      <Word id="l_0001-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="83,773 89,779 89,795 78,795 83,773" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="89,821 89,832 84,832 84,821 89,821" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="87,863 101,948 95,1212 78,1170 87,863" />
+    <TextLine id="l_0002" text="">
+      <Coords points="92,1171 92,1156 93,1141 87,1141 69,1141 69,1170 87,1171 92,1171" />
+    </TextLine>
+    <TextLine id="l_0003" text="1">
+      <Coords points="93,1127 93,1121 93,1106 93,1091 87,1091 69,1091 70,1126 87,1127 93,1127" />
+      <Word id="l_0003-w_0001" text="1" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0004" text="A">
+      <Coords points="84,860 87,1001 87,1029 84,889" />
+      <Word id="l_0004-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="119,2621 252,2639 276,2656 120,2662 102,2644 119,2621" />
+    <TextLine id="l_0005" text="">
+      <Coords points="268,2648 253,2640 238,2636 223,2634 208,2633 193,2630 188,2628 111,2628 102,2645 102,2650 102,2665 326,2665 326,2650 326,2631 268,2630 268,2648" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="933,241 1047,253 1035,306 1073,314 1584,326 1608,1955 1578,2033 1511,2052 1602,2077 1602,2209 1354,2263 344,2269 320,338 812,320 856,300 862,253 933,241" />
+    <TextLine id="l_0006" text="— 60 —">
+      <Coords points="863,276 863,288 1038,282 1038,276 1038,258 928,247 927,247 925,247 924,247 924,249 915,258 863,258 863,276" />
+      <Word id="l_0006-w_0001" text="—" error_score="0.191" />
+      <Word id="l_0006-w_0002" text="60" error_score="0.191" />
+      <Word id="l_0006-w_0003" text="—" error_score="0.191" />
+    </TextLine>
+    <TextLine id="l_0007" text="der die Szamostaler Bahn Apahida-Beszterce (Bistritz) und die Neben-">
+      <Coords points="1561,324 1546,324 1531,324 1516,323 1501,323 1485,323 1470,323 1455,323 1440,321 1431,321 1428,323 1413,321 1410,321 1395,321 1380,320 1365,320 1350,320 1336,320 1322,324 1212,317 1211,317 1209,317 1208,317 1197,324 1144,318 1143,318 1072,327 960,320 958,320 957,320 955,320 945,329 844,321 842,321 841,321 821,330 723,323 721,323 664,332 629,326 625,326 616,326 605,332 597,326 594,327 579,327 572,327 490,333 481,330 474,332 459,332 448,332 445,335 434,332 428,333 413,333 398,335 383,335 369,335 368,335 353,336 338,336 323,336 324,362 324,374 1576,359 1576,347 1573,324 1561,324" />
+      <Word id="l_0007-w_0001" text="der" error_score="0.191" />
+      <Word id="l_0007-w_0002" text="die" error_score="0.191" />
+      <Word id="l_0007-w_0003" text="Szamostaler" error_score="0.191" />
+      <Word id="l_0007-w_0004" text="Bahn" error_score="0.191" />
+      <Word id="l_0007-w_0005" text="Apahida-Beszterce" error_score="0.191" />
+      <Word id="l_0007-w_0006" text="(Bistritz)" error_score="0.191" />
+      <Word id="l_0007-w_0007" text="und" error_score="0.191" />
+      <Word id="l_0007-w_0008" text="die" error_score="0.063" />
+      <Word id="l_0007-w_0009" text="Neben-" error_score="0.063" />
+    </TextLine>
+    <TextLine id="l_0008" text="bahn Marosludas--Beszterce (Bistritz) abzweigt.">
+      <Coords points="326,416 326,427 539,433 540,433 655,424 736,430 738,430 1206,416 1206,404 1203,380 1146,371 1144,371 1082,380 1072,372 1070,372 1069,372 1067,372 1022,380 1005,372 1004,372 1002,372 954,382 874,374 872,374 871,374 869,374 869,375 860,383 679,377 678,377 676,377 650,386 545,379 543,379 542,379 540,379 527,388 436,380 434,380 433,380 431,380 431,382 430,382 424,389 382,382 380,382 324,388 326,416" />
+      <Word id="l_0008-w_0001" text="bahn" error_score="0.063" />
+      <Word id="l_0008-w_0002" text="Marosludas--Beszterce" error_score="0.063" />
+      <Word id="l_0008-w_0003" text="(Bistritz)" error_score="0.063" />
+      <Word id="l_0008-w_0004" text="abzweigt." error_score="0.063" />
+    </TextLine>
+    <TextLine id="l_0009" text="Der Vorort des Komitates Kolozsvar (Klausenburg), (städt.">
+      <Coords points="425,469 425,480 1575,463 1576,453 1575,425 1558,416 1556,416 1555,416 1553,416 1488,424 1473,416 1472,416 1470,416 1469,416 1467,416 1467,418 1455,427 1424,418 1422,418 1420,418 1360,428 1348,419 1346,419 1345,419 1343,419 1259,430 1194,421 1192,421 1147,431 1137,422 1135,422 1134,422 1132,422 1131,422 1129,422 1118,433 1046,433 948,424 946,424 945,424 921,434 826,427 824,427 822,427 783,436 741,427 739,427 738,427 736,427 736,428 724,437 670,428 668,428 667,428 665,428 655,437 631,431 629,431 628,431 569,439 531,430 530,430 528,430 527,430 504,440 457,431 456,431 424,437 425,469" />
+      <Word id="l_0009-w_0001" text="Der" error_score="0.063" />
+      <Word id="l_0009-w_0002" text="Vorort" error_score="0.063" />
+      <Word id="l_0009-w_0003" text="des" error_score="0.063" />
+      <Word id="l_0009-w_0004" text="Komitates" error_score="0.063" />
+      <Word id="l_0009-w_0005" text="Kolozsvar" error_score="0.013" />
+      <Word id="l_0009-w_0006" text="(Klausenburg)," error_score="0.013" />
+      <Word id="l_0009-w_0007" text="(städt." error_score="0.013" />
+    </TextLine>
+    <TextLine id="l_0010" text="Munizipium, kgl. Freistadt, 50000 E. ), [Bild 31) liegt am Fusse">
+      <Coords points="320,520 320,533 830,534 832,534 833,534 835,534 845,525 927,531 928,531 980,523 1049,531 1051,531 1195,520 1259,528 1260,528 1262,528 1288,520 1357,526 1359,526 1360,526 1362,526 1375,517 1431,523 1433,523 1575,514 1576,502 1573,477 1475,468 1473,468 1472,468 1470,468 1457,478 1260,471 1259,471 1208,481 1161,472 1159,472 1106,474 1105,474 1103,474 1091,483 1055,474 1054,474 1052,474 1004,475 1002,475 1001,475 989,484 946,475 945,475 943,475 910,486 869,477 868,477 866,477 838,487 795,478 794,478 792,478 791,478 779,487 726,480 724,480 723,480 697,489 667,480 665,480 664,480 662,480 661,480 650,489 623,481 622,481 620,481 619,481 617,481 604,490 585,481 584,481 582,481 523,492 445,483 443,483 380,493 359,484 357,484 356,484 318,487 320,520" />
+      <Word id="l_0010-w_0001" text="Munizipium," error_score="0.013" />
+      <Word id="l_0010-w_0002" text="kgl." error_score="0.013" />
+      <Word id="l_0010-w_0003" text="Freistadt," error_score="0.013" />
+      <Word id="l_0010-w_0004" text="50000" error_score="0.013" />
+      <Word id="l_0010-w_0005" text="E." error_score="0.013" />
+      <Word id="l_0010-w_0006" text=")," error_score="0.013" />
+      <Word id="l_0010-w_0007" text="[Bild" error_score="0.013" />
+      <Word id="l_0010-w_0008" text="31)" error_score="0.005" />
+      <Word id="l_0010-w_0009" text="liegt" error_score="0.005" />
+      <Word id="l_0010-w_0010" text="am" error_score="0.005" />
+      <Word id="l_0010-w_0011" text="Fusse" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0011" text="des Felegvar, und zwar auf dem rechten Ufer des Kleinen Szamos">
+      <Coords points="318,573 318,585 1579,567 1579,555 1576,530 1005,530 1004,530 940,539 865,531 863,531 862,531 860,531 851,539 842,531 841,531 839,531 838,531 727,542 644,534 643,534 641,534 607,543 534,536 533,536 531,536 530,536 516,545 418,537 416,537 415,537 395,546 332,539 330,539 329,539 327,539 317,543 318,573" />
+      <Word id="l_0011-w_0001" text="des" error_score="0.005" />
+      <Word id="l_0011-w_0002" text="Felegvar," error_score="0.005" />
+      <Word id="l_0011-w_0003" text="und" error_score="0.005" />
+      <Word id="l_0011-w_0004" text="zwar" error_score="0.005" />
+      <Word id="l_0011-w_0005" text="auf" error_score="0.005" />
+      <Word id="l_0011-w_0006" text="dem" error_score="0.005" />
+      <Word id="l_0011-w_0007" text="rechten" error_score="0.006" />
+      <Word id="l_0011-w_0008" text="Ufer" error_score="0.006" />
+      <Word id="l_0011-w_0009" text="des" error_score="0.006" />
+      <Word id="l_0011-w_0010" text="Kleinen" error_score="0.006" />
+      <Word id="l_0011-w_0011" text="Szamos" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0012" text="an der Stelle, wo sich einst die römische Kolonie Napoca aus-">
+      <Coords points="318,626 318,634 596,640 597,640 599,640 601,640 611,631 761,637 762,637 764,637 765,637 776,629 949,634 951,634 952,634 977,626 989,634 990,634 992,634 993,634 1147,623 1186,631 1188,631 1301,628 1303,628 1304,628 1313,620 1336,628 1337,628 1339,628 1464,626 1466,626 1467,626 1481,617 1552,625 1553,625 1555,625 1576,614 1576,607 1571,584 1381,584 1345,576 1343,576 1342,576 1306,585 1286,576 1285,576 1283,576 1282,576 1250,587 1188,578 1186,578 1185,578 1155,588 1100,579 1099,579 1097,579 1096,579 1084,590 1067,581 1066,581 1005,581 1004,581 1002,581 983,591 912,582 910,582 909,582 907,582 893,593 810,584 809,584 807,584 806,584 791,594 714,585 712,585 711,585 709,585 694,597 582,597 536,588 534,588 486,590 484,590 483,590 471,599 415,590 413,590 412,590 410,590 392,602 317,602 318,626" />
+      <Word id="l_0012-w_0001" text="an" error_score="0.006" />
+      <Word id="l_0012-w_0002" text="der" error_score="0.006" />
+      <Word id="l_0012-w_0003" text="Stelle," error_score="0.006" />
+      <Word id="l_0012-w_0004" text="wo" error_score="0.006" />
+      <Word id="l_0012-w_0005" text="sich" error_score="0.006" />
+      <Word id="l_0012-w_0006" text="einst" error_score="0.004" />
+      <Word id="l_0012-w_0007" text="die" error_score="0.004" />
+      <Word id="l_0012-w_0008" text="römische" error_score="0.004" />
+      <Word id="l_0012-w_0009" text="Kolonie" error_score="0.004" />
+      <Word id="l_0012-w_0010" text="Napoca" error_score="0.004" />
+      <Word id="l_0012-w_0011" text="aus-" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0013" text="breitete. Diese Stadt war zeitweilig die Hauptstadt des Grossfürsten-">
+      <Coords points="321,677 321,690 1575,671 1576,659 1573,635 1440,626 1439,626 1437,626 1417,635 1342,628 1340,628 1300,637 1276,628 1274,628 1272,628 1271,628 1269,628 1269,629 1257,638 1221,629 1220,629 1218,629 1217,629 1215,629 1205,638 1183,631 1182,631 1180,631 1179,631 1140,640 1052,631 1051,631 1049,631 1028,640 992,632 990,632 989,632 987,632 975,641 910,634 909,634 866,643 845,634 844,634 842,634 794,646 697,646 670,637 668,637 667,637 665,637 664,637 652,646 607,638 605,638 604,638 602,638 590,649 551,649 531,638 530,638 528,638 480,649 437,641 436,641 434,641 433,641 422,650 398,641 397,641 395,641 394,641 371,650 320,647 321,677" />
+      <Word id="l_0013-w_0001" text="breitete." error_score="0.004" />
+      <Word id="l_0013-w_0002" text="Diese" error_score="0.004" />
+      <Word id="l_0013-w_0003" text="Stadt" error_score="0.004" />
+      <Word id="l_0013-w_0004" text="war" error_score="0.004" />
+      <Word id="l_0013-w_0005" text="zeitweilig" error_score="0.001" />
+      <Word id="l_0013-w_0006" text="die" error_score="0.001" />
+      <Word id="l_0013-w_0007" text="Hauptstadt" error_score="0.001" />
+      <Word id="l_0013-w_0008" text="des" error_score="0.001" />
+      <Word id="l_0013-w_0009" text="Grossfürsten-" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0014" text="tums Siebenbürgen und der Sitz der Landesbehörden; hier fand">
+      <Coords points="321,729 321,738 546,744 548,744 687,735 762,741 764,741 765,741 767,741 779,733 996,738 998,738 1037,730 1106,736 1108,736 1578,723 1578,712 1573,681 1455,688 1401,681 1399,681 1345,690 1233,682 1232,682 1230,682 1229,682 1214,691 1141,684 1140,684 1138,684 1111,693 989,687 987,687 986,687 984,687 974,694 890,687 889,687 887,687 886,687 872,696 809,688 807,688 806,688 804,688 795,696 762,690 761,690 759,690 758,690 747,699 656,699 555,691 554,691 552,691 531,700 442,693 440,693 439,693 437,693 427,702 333,694 332,694 330,694 329,694 320,700 321,729" />
+      <Word id="l_0014-w_0001" text="tums" error_score="0.001" />
+      <Word id="l_0014-w_0002" text="Siebenbürgen" error_score="0.001" />
+      <Word id="l_0014-w_0003" text="und" error_score="0.001" />
+      <Word id="l_0014-w_0004" text="der" error_score="0.001" />
+      <Word id="l_0014-w_0005" text="Sitz" error_score="0.001" />
+      <Word id="l_0014-w_0006" text="der" error_score="0.001" />
+      <Word id="l_0014-w_0007" text="Landesbehörden;" error_score="0.001" />
+      <Word id="l_0014-w_0008" text="hier" error_score="0.001" />
+      <Word id="l_0014-w_0009" text="fand" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0015" text="auch der letzte Landtag statt. Unter den zahlreichen Bauwerken">
+      <Coords points="324,782 324,791 1579,774 1579,765 1576,739 1507,730 1505,730 1419,741 1375,732 1374,732 1372,732 1371,732 1357,742 1306,742 1254,733 1253,733 1251,733 1235,741 1185,735 1183,735 1097,745 1070,736 1069,736 1067,736 1066,736 1064,736 1051,747 978,747 930,738 928,738 927,738 925,738 912,747 836,739 835,739 768,750 721,741 720,741 718,741 685,750 664,741 662,741 661,741 659,741 625,751 594,742 593,742 591,742 551,750 527,744 525,744 523,744 522,744 520,744 508,753 453,744 451,744 450,744 430,755 392,745 391,745 389,745 388,745 386,745 374,756 323,756 324,782" />
+      <Word id="l_0015-w_0001" text="auch" error_score="0.001" />
+      <Word id="l_0015-w_0002" text="der" error_score="0.001" />
+      <Word id="l_0015-w_0003" text="letzte" error_score="0.001" />
+      <Word id="l_0015-w_0004" text="Landtag" error_score="0.001" />
+      <Word id="l_0015-w_0005" text="statt." error_score="0.001" />
+      <Word id="l_0015-w_0006" text="Unter" error_score="0.001" />
+      <Word id="l_0015-w_0007" text="den" error_score="0.004" />
+      <Word id="l_0015-w_0008" text="zahlreichen" error_score="0.004" />
+      <Word id="l_0015-w_0009" text="Bauwerken" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0016" text="und Palästen ragen hervor: auf dem Marktplatz die röm. -kath.">
+      <Coords points="326,833 326,842 1578,828 1578,816 1576,792 1553,783 1552,783 1485,783 1484,783 1482,783 1481,783 1469,792 1416,785 1414,785 1413,785 1392,794 1346,785 1345,785 1343,785 1307,795 1232,786 1230,786 1147,795 1120,788 1118,788 1117,788 1064,798 1005,789 1004,789 1002,789 1001,789 987,800 954,791 952,791 951,791 887,801 738,794 736,794 735,794 733,794 721,804 650,804 434,797 433,797 431,797 430,797 416,807 388,798 386,798 385,798 324,807 326,833" />
+      <Word id="l_0016-w_0001" text="und" error_score="0.004" />
+      <Word id="l_0016-w_0002" text="Palästen" error_score="0.004" />
+      <Word id="l_0016-w_0003" text="ragen" error_score="0.004" />
+      <Word id="l_0016-w_0004" text="hervor:" error_score="0.004" />
+      <Word id="l_0016-w_0005" text="auf" error_score="0.004" />
+      <Word id="l_0016-w_0006" text="dem" error_score="0.004" />
+      <Word id="l_0016-w_0007" text="Marktplatz" error_score="0.004" />
+      <Word id="l_0016-w_0008" text="die" error_score="0.765" error_type="error" />
+      <Word id="l_0016-w_0009" text="röm." error_score="0.765" error_type="error" />
+      <Word id="l_0016-w_0010" text="-kath." error_score="0.765" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0017" text="Michaelskirche im gotischen Stile und davor das von Fadrusz aus-">
+      <Coords points="329,886 329,898 1579,878 1581,866 1576,844 1436,844 1392,835 1390,835 1389,835 1387,835 1387,836 1375,845 1339,836 1337,836 1336,836 1283,848 1217,848 1195,838 1194,838 1192,838 1191,838 1170,850 1096,850 1069,841 1067,841 1066,841 1064,841 1046,850 1025,841 1023,841 1022,841 966,851 906,842 904,842 854,853 730,845 729,845 727,845 684,856 629,847 628,847 626,847 602,857 567,848 566,848 564,848 563,848 540,856 327,856 329,886" />
+      <Word id="l_0017-w_0001" text="Michaelskirche" error_score="0.765" error_type="error" />
+      <Word id="l_0017-w_0002" text="im" error_score="0.765" error_type="error" />
+      <Word id="l_0017-w_0003" text="gotischen" error_score="0.765" error_type="error" />
+      <Word id="l_0017-w_0004" text="Stile" error_score="0.765" error_type="error" />
+      <Word id="l_0017-w_0005" text="und" error_score="0.765" error_type="error" />
+      <Word id="l_0017-w_0006" text="davor" error_score="0.765" error_type="error" />
+      <Word id="l_0017-w_0007" text="das" error_score="0.765" error_type="error" />
+      <Word id="l_0017-w_0008" text="von" error_score="0.895" error_type="error" />
+      <Word id="l_0017-w_0009" text="Fadrusz" error_score="0.895" error_type="error" />
+      <Word id="l_0017-w_0010" text="aus-" error_score="0.895" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0018" text="geführte Denkmal des Konigs Matthias Corvinus [Bild 32), das">
+      <Coords points="329,939 329,952 761,943 896,949 898,949 900,949 901,949 916,940 1061,946 1063,946 1064,946 1100,937 1153,945 1155,945 1282,936 1383,942 1384,942 1386,942 1405,933 1482,940 1484,940 1485,940 1505,931 1567,939 1568,939 1570,939 1571,939 1582,930 1582,919 1579,895 1529,884 1528,884 1526,884 1525,884 1511,893 1427,886 1425,886 1424,886 1407,895 1392,886 1390,886 1389,886 1387,886 1310,887 1309,887 1288,898 1208,889 1206,889 1159,899 1128,890 1126,890 1125,890 1123,890 1096,901 1051,892 1049,892 990,901 942,893 940,893 939,893 937,893 925,902 810,895 809,895 807,895 774,906 712,896 711,896 709,896 708,896 708,898 697,907 668,898 667,898 665,898 664,898 638,907 520,899 519,899 517,899 493,910 380,902 379,902 327,913 329,939" />
+      <Word id="l_0018-w_0001" text="geführte" error_score="0.895" error_type="error" />
+      <Word id="l_0018-w_0002" text="Denkmal" error_score="0.895" error_type="error" />
+      <Word id="l_0018-w_0003" text="des" error_score="0.895" error_type="error" />
+      <Word id="l_0018-w_0004" text="Konigs" error_score="0.895" error_type="error" />
+      <Word id="l_0018-w_0005" text="Matthias" error_score="0.895" error_type="error" />
+      <Word id="l_0018-w_0006" text="Corvinus" error_score="0.895" error_type="error" />
+      <Word id="l_0018-w_0007" text="[Bild" error_score="0.895" error_type="error" />
+      <Word id="l_0018-w_0008" text="32)," error_score="0.026" />
+      <Word id="l_0018-w_0009" text="das" error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0019" text="renovierte Geburtshaus desselben Königs, die neue Franz-Josef-">
+      <Coords points="323,989 323,999 1121,998 1123,998 1125,998 1137,990 1236,996 1238,996 1316,989 1350,995 1351,995 1582,983 1582,972 1579,948 1472,940 1470,940 1469,940 1467,940 1457,951 1402,951 1350,942 1348,942 1346,942 1327,952 1200,952 1158,945 1156,945 1106,954 1007,946 1005,946 954,955 890,948 889,948 887,948 865,957 798,949 797,949 795,949 774,958 678,951 676,951 632,960 549,952 548,952 546,952 545,952 534,961 433,954 431,954 430,954 409,964 321,964 323,989" />
+      <Word id="l_0019-w_0001" text="renovierte" error_score="0.026" />
+      <Word id="l_0019-w_0002" text="Geburtshaus" error_score="0.026" />
+      <Word id="l_0019-w_0003" text="desselben" error_score="0.026" />
+      <Word id="l_0019-w_0004" text="Königs," error_score="0.026" />
+      <Word id="l_0019-w_0005" text="die" error_score="0.026" />
+      <Word id="l_0019-w_0006" text="neue" error_score="0.026" />
+      <Word id="l_0019-w_0007" text="Franz-Josef-" error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0020" text="Universität, das Nationaltheater u. a. m. Kolozsvar (Klausenburg)">
+      <Coords points="327,1043 327,1053 1578,1043 1579,1025 1573,989 1543,999 1479,990 1478,990 1476,990 1475,990 1458,1001 1365,992 1363,992 1362,992 1319,1002 1279,995 1277,995 1276,995 1257,1004 1156,995 1155,995 1046,1008 912,1008 889,999 887,999 886,999 884,999 862,1008 794,1001 792,1001 791,1001 776,1008 655,1002 653,1002 652,1002 631,1013 590,1004 588,1004 587,1004 563,1013 514,1005 513,1005 424,1016 401,1007 400,1007 398,1007 326,1010 327,1043" />
+      <Word id="l_0020-w_0001" text="Universität," error_score="0.026" />
+      <Word id="l_0020-w_0002" text="das" error_score="0.134" />
+      <Word id="l_0020-w_0003" text="Nationaltheater" error_score="0.134" />
+      <Word id="l_0020-w_0004" text="u." error_score="0.134" />
+      <Word id="l_0020-w_0005" text="a." error_score="0.134" />
+      <Word id="l_0020-w_0006" text="m." error_score="0.134" />
+      <Word id="l_0020-w_0007" text="Kolozsvar" error_score="0.134" />
+      <Word id="l_0020-w_0008" text="(Klausenburg)" error_score="0.134" />
+    </TextLine>
+    <TextLine id="l_0021" text="ist der Sitz einer kgl. Tafel, eines ref. und eines unit. Bischofs,">
+      <Coords points="327,1094 327,1103 1579,1096 1581,1079 1578,1053 1449,1044 1448,1044 1446,1044 1404,1055 1363,1046 1362,1046 1360,1046 1316,1057 1227,1047 1226,1047 1224,1047 1195,1058 1167,1049 1165,1049 1164,1049 1090,1058 1076,1049 1075,1049 1073,1049 1072,1049 1070,1049 1044,1060 930,1052 928,1052 887,1061 877,1052 875,1052 874,1052 835,1052 833,1052 785,1053 783,1053 782,1053 771,1063 761,1053 759,1053 758,1053 756,1053 755,1053 726,1061 706,1053 705,1053 703,1053 702,1053 700,1053 687,1064 607,1055 605,1055 604,1055 569,1066 496,1057 495,1057 493,1057 492,1057 480,1066 419,1058 418,1058 416,1058 382,1067 336,1058 335,1058 333,1058 332,1058 326,1061 327,1094" />
+      <Word id="l_0021-w_0001" text="ist" error_score="0.134" />
+      <Word id="l_0021-w_0002" text="der" error_score="0.134" />
+      <Word id="l_0021-w_0003" text="Sitz" error_score="0.134" />
+      <Word id="l_0021-w_0004" text="einer" error_score="0.386" />
+      <Word id="l_0021-w_0005" text="kgl." error_score="0.386" />
+      <Word id="l_0021-w_0006" text="Tafel," error_score="0.386" />
+      <Word id="l_0021-w_0007" text="eines" error_score="0.386" />
+      <Word id="l_0021-w_0008" text="ref." error_score="0.386" />
+      <Word id="l_0021-w_0009" text="und" error_score="0.386" />
+      <Word id="l_0021-w_0010" text="eines" error_score="0.386" />
+      <Word id="l_0021-w_0011" text="unit." error_score="0.386" />
+      <Word id="l_0021-w_0012" text="Bischofs," error_score="0.386" />
+    </TextLine>
+    <TextLine id="l_0022" text="hat eine ref. theologische Fakultät und viele höhere Schulanstalten.">
+      <Coords points="327,1147 327,1156 1584,1140 1584,1130 1581,1103 1473,1096 1472,1096 1470,1096 1452,1105 1354,1097 1353,1097 1351,1097 1350,1097 1342,1105 1318,1099 1316,1099 1315,1099 1238,1108 1227,1100 1226,1100 1224,1100 1223,1100 1150,1108 1128,1100 1126,1100 1125,1100 1007,1111 903,1103 901,1103 900,1103 898,1103 887,1112 813,1105 812,1105 810,1105 779,1114 770,1106 768,1106 767,1106 765,1106 685,1114 667,1106 665,1106 664,1106 662,1106 640,1115 552,1108 551,1108 549,1108 527,1117 439,1109 437,1109 436,1109 415,1118 326,1117 327,1147" />
+      <Word id="l_0022-w_0001" text="hat" error_score="0.386" />
+      <Word id="l_0022-w_0002" text="eine" error_score="0.226" />
+      <Word id="l_0022-w_0003" text="ref." error_score="0.226" />
+      <Word id="l_0022-w_0004" text="theologische" error_score="0.226" />
+      <Word id="l_0022-w_0005" text="Fakultät" error_score="0.226" />
+      <Word id="l_0022-w_0006" text="und" error_score="0.226" />
+      <Word id="l_0022-w_0007" text="viele" error_score="0.226" />
+      <Word id="l_0022-w_0008" text="höhere" error_score="0.226" />
+      <Word id="l_0022-w_0009" text="Schulanstalten." error_score="0.226" />
+    </TextLine>
+    <TextLine id="l_0023" text="Zu erwähnen ist auch die landwirtschaftliche Schule zu Kolozs-">
+      <Coords points="327,1200 327,1211 1579,1192 1581,1182 1578,1158 1475,1147 1473,1147 1369,1159 1313,1150 1312,1150 1310,1150 1288,1159 1268,1150 1266,1150 1265,1150 1214,1161 1162,1152 1161,1152 1159,1152 1158,1152 1147,1161 1097,1153 1096,1153 1094,1153 1075,1162 1061,1153 1060,1153 1058,1153 1057,1153 1055,1153 1035,1164 978,1155 977,1155 918,1165 869,1156 868,1156 866,1156 845,1167 803,1158 801,1158 800,1158 768,1167 745,1158 744,1158 742,1158 741,1158 739,1158 723,1168 616,1161 614,1161 613,1161 611,1161 597,1171 519,1171 483,1162 481,1162 480,1162 415,1173 357,1164 356,1164 326,1170 327,1200" />
+      <Word id="l_0023-w_0001" text="Zu" error_score="0.226" />
+      <Word id="l_0023-w_0002" text="erwähnen" error_score="0.226" />
+      <Word id="l_0023-w_0003" text="ist" error_score="0.830" error_type="error" />
+      <Word id="l_0023-w_0004" text="auch" error_score="0.830" error_type="error" />
+      <Word id="l_0023-w_0005" text="die" error_score="0.830" error_type="error" />
+      <Word id="l_0023-w_0006" text="landwirtschaftliche" error_score="0.830" error_type="error" />
+      <Word id="l_0023-w_0007" text="Schule" error_score="0.830" error_type="error" />
+      <Word id="l_0023-w_0008" text="zu" error_score="0.830" error_type="error" />
+      <Word id="l_0023-w_0009" text="Kolozs-" error_score="0.830" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0024" text="monostor und auf dem froien Felde gegen Szamosfalva eine staatliche">
+      <Coords points="329,1253 329,1265 1582,1247 1584,1235 1581,1209 1488,1201 1487,1201 1485,1201 1463,1211 1343,1204 1342,1204 1289,1212 1268,1204 1266,1204 1265,1204 1040,1217 868,1211 866,1211 865,1211 835,1220 756,1212 755,1212 753,1212 752,1212 738,1221 638,1214 637,1214 635,1214 613,1223 566,1215 564,1215 511,1224 454,1218 453,1218 327,1226 329,1253" />
+      <Word id="l_0024-w_0001" text="monostor" error_score="0.830" error_type="error" />
+      <Word id="l_0024-w_0002" text="und" error_score="0.830" error_type="error" />
+      <Word id="l_0024-w_0003" text="auf" error_score="0.830" error_type="error" />
+      <Word id="l_0024-w_0004" text="dem" error_score="0.817" error_type="error" />
+      <Word id="l_0024-w_0005" text="froien" error_score="0.817" error_type="error" />
+      <Word id="l_0024-w_0006" text="Felde" error_score="0.817" error_type="error" />
+      <Word id="l_0024-w_0007" text="gegen" error_score="0.817" error_type="error" />
+      <Word id="l_0024-w_0008" text="Szamosfalva" error_score="0.817" error_type="error" />
+      <Word id="l_0024-w_0009" text="eine" error_score="0.817" error_type="error" />
+      <Word id="l_0024-w_0010" text="staatliche" error_score="0.817" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0025" text="Besserungsanstalt. Die Stadt ist der Sitz mehrerer wissenschaftlicher">
+      <Coords points="330,1304 330,1315 1584,1300 1585,1288 1581,1260 329,1274 330,1304" />
+      <Word id="l_0025-w_0001" text="Besserungsanstalt." error_score="0.817" error_type="error" />
+      <Word id="l_0025-w_0002" text="Die" error_score="0.817" error_type="error" />
+      <Word id="l_0025-w_0003" text="Stadt" error_score="0.817" error_type="error" />
+      <Word id="l_0025-w_0004" text="ist" error_score="0.028" />
+      <Word id="l_0025-w_0005" text="der" error_score="0.028" />
+      <Word id="l_0025-w_0006" text="Sitz" error_score="0.028" />
+      <Word id="l_0025-w_0007" text="mehrerer" error_score="0.028" />
+      <Word id="l_0025-w_0008" text="wissenschaftlicher" error_score="0.028" />
+    </TextLine>
+    <TextLine id="l_0026" text="und Kulturvereine und hat aufblühende Industrie (Tabakfabrik,">
+      <Coords points="329,1359 329,1368 1582,1359 1584,1340 1581,1313 1476,1306 1475,1306 1427,1313 1374,1307 1372,1307 1371,1307 1345,1316 1288,1309 1286,1309 1285,1309 1251,1318 1202,1310 1200,1310 1199,1310 1197,1310 1188,1318 1165,1310 1164,1310 1162,1310 1161,1310 1140,1319 955,1313 954,1313 952,1313 951,1313 937,1322 869,1315 868,1315 866,1315 847,1324 829,1316 827,1316 826,1316 739,1325 641,1318 640,1318 638,1318 619,1327 436,1321 434,1321 433,1321 431,1321 422,1330 394,1322 392,1322 391,1322 327,1330 329,1359" />
+      <Word id="l_0026-w_0001" text="und" error_score="0.028" />
+      <Word id="l_0026-w_0002" text="Kulturvereine" error_score="0.028" />
+      <Word id="l_0026-w_0003" text="und" error_score="0.028" />
+      <Word id="l_0026-w_0004" text="hat" error_score="0.028" />
+      <Word id="l_0026-w_0005" text="aufblühende" error_score="0.028" />
+      <Word id="l_0026-w_0006" text="Industrie" error_score="0.001" />
+      <Word id="l_0026-w_0007" text="(Tabakfabrik," error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0027" text="Töpferei, Möbeltischlerei, Steinmetzindustrie).">
+      <Coords points="332,1408 332,1420 1161,1410 1161,1398 1158,1371 1106,1363 1105,1363 1103,1363 1102,1363 1102,1365 1094,1371 1025,1365 1023,1365 1022,1365 998,1372 981,1365 980,1365 978,1365 977,1365 963,1372 955,1365 954,1365 952,1365 951,1365 949,1365 912,1374 809,1366 807,1366 806,1366 804,1366 792,1375 678,1368 676,1368 675,1368 673,1368 673,1369 664,1377 605,1369 604,1369 602,1369 581,1377 566,1369 564,1369 563,1369 502,1378 477,1371 475,1371 474,1371 472,1371 439,1380 415,1372 413,1372 412,1372 410,1372 409,1372 397,1380 376,1372 374,1372 372,1372 330,1377 332,1408" />
+      <Word id="l_0027-w_0001" text="Töpferei," error_score="0.001" />
+      <Word id="l_0027-w_0002" text="Möbeltischlerei," error_score="0.001" />
+      <Word id="l_0027-w_0003" text="Steinmetzindustrie)." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0028" text="Bei der kleinen Stadt Kolozs bestand ein jetzt aufgelassenes">
+      <Coords points="437,1461 437,1473 940,1473 940,1472 1220,1461 1262,1467 1263,1467 1331,1460 1375,1466 1377,1466 1585,1455 1587,1445 1582,1419 1466,1419 1443,1411 1442,1411 1440,1411 1439,1411 1424,1419 1393,1411 1392,1411 1390,1411 1389,1411 1387,1411 1374,1420 1318,1413 1316,1413 1215,1422 1185,1414 1183,1414 1182,1414 1180,1414 1179,1414 1165,1423 1134,1416 1132,1416 1131,1416 1129,1416 1111,1423 1063,1417 1061,1417 1020,1425 1004,1417 1002,1417 1001,1417 946,1426 863,1419 862,1419 860,1419 859,1419 859,1420 850,1428 756,1420 755,1420 753,1420 752,1420 752,1422 742,1429 656,1422 655,1422 591,1431 542,1423 540,1423 539,1423 537,1423 522,1432 445,1425 443,1425 442,1425 440,1425 440,1426 436,1429 437,1461" />
+      <Word id="l_0028-w_0001" text="Bei" error_score="0.001" />
+      <Word id="l_0028-w_0002" text="der" error_score="0.001" />
+      <Word id="l_0028-w_0003" text="kleinen" error_score="0.001" />
+      <Word id="l_0028-w_0004" text="Stadt" error_score="0.001" />
+      <Word id="l_0028-w_0005" text="Kolozs" error_score="0.001" />
+      <Word id="l_0028-w_0006" text="bestand" error_score="0.004" />
+      <Word id="l_0028-w_0007" text="ein" error_score="0.004" />
+      <Word id="l_0028-w_0008" text="jetzt" error_score="0.004" />
+      <Word id="l_0028-w_0009" text="aufgelassenes" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0029" text="Salzbergwerk. In Verwendung sind noch die dadurch entstandenen">
+      <Coords points="330,1516 330,1525 848,1526 850,1526 1002,1517 1159,1522 1161,1522 1162,1522 1164,1522 1173,1514 1549,1516 1550,1516 1587,1506 1587,1497 1584,1470 1484,1463 1482,1463 1481,1463 1479,1463 1467,1472 1395,1466 1393,1466 1324,1473 1304,1466 1303,1466 1301,1466 1300,1466 1268,1475 1194,1467 1192,1467 1191,1467 1164,1476 1079,1469 1078,1469 1076,1469 1058,1478 983,1470 981,1470 927,1479 826,1473 824,1473 822,1473 821,1473 809,1482 723,1482 675,1475 673,1475 671,1475 670,1475 659,1482 552,1476 551,1476 549,1476 530,1487 329,1487 330,1516" />
+      <Word id="l_0029-w_0001" text="Salzbergwerk." error_score="0.004" />
+      <Word id="l_0029-w_0002" text="In" error_score="0.004" />
+      <Word id="l_0029-w_0003" text="Verwendung" error_score="0.004" />
+      <Word id="l_0029-w_0004" text="sind" error_score="0.004" />
+      <Word id="l_0029-w_0005" text="noch" error_score="0.004" />
+      <Word id="l_0029-w_0006" text="die" error_score="0.004" />
+      <Word id="l_0029-w_0007" text="dadurch" error_score="0.097" />
+      <Word id="l_0029-w_0008" text="entstandenen" error_score="0.097" />
+    </TextLine>
+    <TextLine id="l_0030" text="Teiche als Salzbad.">
+      <Coords points="335,1565 335,1576 694,1571 694,1561 693,1535 676,1526 675,1526 673,1526 671,1526 670,1526 656,1535 625,1526 623,1526 587,1526 585,1526 584,1526 582,1526 582,1528 573,1535 549,1528 548,1528 546,1528 545,1528 543,1528 543,1529 534,1537 504,1528 502,1528 501,1528 437,1538 419,1529 418,1529 416,1529 415,1529 398,1538 391,1531 391,1529 389,1529 388,1529 386,1529 333,1532 335,1565" />
+      <Word id="l_0030-w_0001" text="Teiche" error_score="0.097" />
+      <Word id="l_0030-w_0002" text="als" error_score="0.097" />
+      <Word id="l_0030-w_0003" text="Salzbad." error_score="0.097" />
+    </TextLine>
+    <TextLine id="l_0031" text="Im Westen dieses Gebietes liegt in der durch die schöne">
+      <Coords points="437,1618 437,1626 644,1632 646,1632 647,1632 649,1632 659,1624 742,1630 744,1630 788,1623 853,1629 854,1629 955,1627 957,1627 958,1627 967,1620 1063,1626 1064,1626 1066,1626 1067,1626 1067,1624 1075,1618 1271,1623 1272,1623 1588,1611 1590,1602 1587,1577 1499,1567 1497,1567 1496,1567 1494,1567 1479,1577 1392,1568 1390,1568 1389,1568 1387,1568 1387,1570 1375,1579 1333,1570 1331,1570 1330,1570 1328,1570 1313,1579 1262,1571 1260,1571 1259,1571 1257,1571 1247,1580 1173,1571 1171,1571 1170,1571 1168,1571 1168,1573 1156,1582 1102,1573 1100,1573 1099,1573 1097,1573 1087,1582 1061,1574 1060,1574 1058,1574 1057,1574 1032,1583 990,1574 989,1574 942,1585 857,1576 856,1576 804,1587 690,1579 688,1579 687,1579 685,1579 675,1590 578,1590 561,1580 560,1580 558,1580 502,1591 463,1582 462,1582 460,1582 436,1587 437,1618" />
+      <Word id="l_0031-w_0001" text="Im" error_score="0.097" />
+      <Word id="l_0031-w_0002" text="Westen" error_score="0.097" />
+      <Word id="l_0031-w_0003" text="dieses" error_score="0.097" />
+      <Word id="l_0031-w_0004" text="Gebietes" error_score="0.097" />
+      <Word id="l_0031-w_0005" text="liegt" error_score="0.097" />
+      <Word id="l_0031-w_0006" text="in" error_score="0.876" error_type="error" />
+      <Word id="l_0031-w_0007" text="der" error_score="0.876" error_type="error" />
+      <Word id="l_0031-w_0008" text="durch" error_score="0.876" error_type="error" />
+      <Word id="l_0031-w_0009" text="die" error_score="0.876" error_type="error" />
+      <Word id="l_0031-w_0010" text="schöne" error_score="0.876" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0032" text="magyarische Volkstracht bekannten Gegend von Kalatoszeg Banffy-">
+      <Coords points="336,1673 336,1685 756,1683 758,1683 789,1676 865,1682 866,1682 996,1673 1079,1679 1081,1679 1146,1670 1494,1673 1496,1673 1587,1661 1587,1651 1584,1626 1245,1623 1244,1623 1242,1623 1220,1633 1152,1633 1135,1624 1134,1624 1132,1624 1131,1624 1129,1624 1114,1633 1016,1627 1014,1627 1013,1627 1011,1627 1001,1635 848,1630 847,1630 845,1630 844,1630 833,1638 777,1630 776,1630 733,1639 687,1632 685,1632 684,1632 682,1632 673,1639 599,1633 597,1633 596,1633 566,1642 520,1635 519,1635 517,1635 516,1635 504,1644 478,1636 477,1636 475,1636 335,1645 336,1673" />
+      <Word id="l_0032-w_0001" text="magyarische" error_score="0.876" error_type="error" />
+      <Word id="l_0032-w_0002" text="Volkstracht" error_score="0.876" error_type="error" />
+      <Word id="l_0032-w_0003" text="bekannten" error_score="0.876" error_type="error" />
+      <Word id="l_0032-w_0004" text="Gegend" error_score="0.876" error_type="error" />
+      <Word id="l_0032-w_0005" text="von" error_score="0.876" error_type="error" />
+      <Word id="l_0032-w_0006" text="Kalatoszeg" error_score="0.991" error_type="error" />
+      <Word id="l_0032-w_0007" text="Banffy-" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0033" text="hunyad, ein wichtiger Handels- und Verkehrsmittelpunkt. Bei Bone-">
+      <Coords points="336,1725 336,1736 1585,1716 1587,1706 1584,1679 1482,1671 1481,1671 1443,1679 1407,1673 1405,1673 1404,1673 1386,1682 1337,1674 1336,1674 1288,1683 1203,1676 1202,1676 1200,1676 1199,1676 1188,1685 1115,1677 1114,1677 1112,1677 1096,1686 1087,1679 1085,1679 1084,1679 1082,1679 1081,1679 1054,1686 1008,1679 1007,1679 906,1689 841,1682 839,1682 838,1682 807,1691 755,1683 753,1683 708,1692 617,1685 616,1685 614,1685 581,1694 537,1686 536,1686 534,1686 511,1695 475,1688 474,1688 410,1697 335,1694 336,1725" />
+      <Word id="l_0033-w_0001" text="hunyad," error_score="0.991" error_type="error" />
+      <Word id="l_0033-w_0002" text="ein" error_score="0.991" error_type="error" />
+      <Word id="l_0033-w_0003" text="wichtiger" error_score="0.991" error_type="error" />
+      <Word id="l_0033-w_0004" text="Handels-" error_score="0.991" error_type="error" />
+      <Word id="l_0033-w_0005" text="und" error_score="0.991" error_type="error" />
+      <Word id="l_0033-w_0006" text="Verkehrsmittelpunkt." error_score="0.991" error_type="error" />
+      <Word id="l_0033-w_0007" text="Bei" error_score="0.991" error_type="error" />
+      <Word id="l_0033-w_0008" text="Bone-" error_score="0.991" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0034" text="hida breitet sich um das Kastell des Grafen Georg Banffy der grösste">
+      <Coords points="335,1775 335,1787 533,1792 534,1792 536,1792 564,1784 629,1790 631,1790 928,1780 989,1786 990,1786 1134,1777 1244,1783 1245,1783 1587,1771 1588,1759 1585,1734 1507,1724 1505,1724 1504,1724 1463,1734 1410,1725 1408,1725 1407,1725 1384,1734 1263,1727 1262,1727 1260,1727 1227,1738 1149,1728 1147,1728 1146,1728 1144,1728 1129,1739 1082,1730 1081,1730 1079,1730 1058,1739 1020,1730 1019,1730 1017,1730 1016,1730 1014,1730 1014,1731 1002,1741 904,1731 903,1731 853,1742 809,1733 807,1733 806,1733 786,1744 744,1734 742,1734 665,1745 587,1736 585,1736 584,1736 558,1747 499,1738 498,1738 496,1738 495,1738 480,1747 440,1739 439,1739 437,1739 436,1739 424,1748 345,1739 344,1739 342,1739 341,1739 333,1744 335,1775" />
+      <Word id="l_0034-w_0001" text="hida" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0002" text="breitet" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0003" text="sich" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0004" text="um" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0005" text="das" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0006" text="Kastell" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0007" text="des" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0008" text="Grafen" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0009" text="Georg" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0010" text="Banffy" error_score="0.989" error_type="error" />
+      <Word id="l_0034-w_0011" text="der" error_score="0.988" error_type="error" />
+      <Word id="l_0034-w_0012" text="grösste" error_score="0.988" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0035" text="Park des südöstlichen Hochlandes aus.">
+      <Coords points="338,1830 338,1839 1063,1833 1064,1818 1060,1792 952,1793 927,1784 925,1784 924,1784 922,1784 887,1793 842,1784 841,1784 839,1784 816,1795 788,1784 786,1784 785,1784 783,1784 756,1796 637,1787 635,1787 634,1787 632,1787 623,1795 554,1790 552,1790 551,1790 511,1801 471,1790 469,1790 468,1790 466,1790 446,1801 415,1792 413,1792 412,1792 410,1792 388,1802 368,1792 366,1792 365,1792 336,1796 338,1830" />
+      <Word id="l_0035-w_0001" text="Park" error_score="0.988" error_type="error" />
+      <Word id="l_0035-w_0002" text="des" error_score="0.988" error_type="error" />
+      <Word id="l_0035-w_0003" text="südöstlichen" error_score="0.988" error_type="error" />
+      <Word id="l_0035-w_0004" text="Hochlandes" error_score="0.988" error_type="error" />
+      <Word id="l_0035-w_0005" text="aus." error_score="0.988" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0036" text="Der zum Komitate Kolozs gehörige Teil der Mezöség ist arm">
+      <Coords points="442,1879 442,1892 1587,1876 1588,1861 1584,1837 1476,1837 1458,1828 1457,1828 1455,1828 1454,1828 1416,1837 1405,1828 1404,1828 1402,1828 1401,1828 1399,1828 1398,1828 1384,1839 1304,1830 1303,1830 1301,1830 1271,1840 1223,1831 1221,1831 1220,1831 1218,1831 1202,1842 1188,1833 1186,1833 1185,1833 1183,1833 1182,1833 1158,1840 1126,1833 1125,1833 1123,1833 1121,1833 1120,1833 1106,1843 1055,1834 1054,1834 1052,1834 1051,1834 1040,1842 995,1836 993,1836 992,1836 990,1836 975,1845 824,1837 822,1837 821,1837 819,1837 803,1848 718,1840 717,1840 715,1840 681,1849 634,1840 632,1840 631,1840 629,1840 629,1842 619,1852 496,1852 475,1843 474,1843 472,1843 440,1849 442,1879" />
+      <Word id="l_0036-w_0001" text="Der" error_score="0.988" error_type="error" />
+      <Word id="l_0036-w_0002" text="zum" error_score="0.988" error_type="error" />
+      <Word id="l_0036-w_0003" text="Komitate" error_score="0.988" error_type="error" />
+      <Word id="l_0036-w_0004" text="Kolozs" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0005" text="gehörige" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0006" text="Teil" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0007" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0008" text="Mezöség" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0009" text="ist" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0010" text="arm" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0037" text="an grössern Orten. Nur im äussersten Osten finden sich die Gross-">
+      <Coords points="336,1934 336,1944 1587,1926 1588,1916 1585,1890 1481,1882 1479,1882 1478,1882 1476,1882 1463,1892 1414,1884 1413,1884 1411,1884 1395,1892 1380,1884 1378,1884 1377,1884 1325,1893 1093,1889 1091,1889 1051,1898 1029,1890 1028,1890 1026,1890 952,1899 898,1892 896,1892 816,1901 752,1893 750,1893 748,1893 714,1902 591,1896 590,1896 588,1896 587,1896 576,1905 492,1905 456,1898 454,1898 335,1907 336,1934" />
+      <Word id="l_0037-w_0001" text="an" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0002" text="grössern" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0003" text="Orten." error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0004" text="Nur" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0005" text="im" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0006" text="äussersten" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0007" text="Osten" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0008" text="finden" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0009" text="sich" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0010" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0011" text="Gross-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0038" text="gemeinden Teke (Tekendorf), Bâtos (Botsch) und Dedräd (Deutsch-">
+      <Coords points="338,1985 338,2002 1594,1982 1594,1969 1591,1941 1553,1934 1552,1934 1467,1943 1434,1935 1433,1935 1431,1935 1430,1935 1407,1943 1369,1935 1368,1935 1366,1935 1365,1935 1353,1944 1272,1937 1271,1937 1269,1937 1268,1937 1257,1944 1236,1938 1235,1938 1233,1938 1165,1946 1135,1938 1134,1938 1132,1938 1131,1938 1111,1947 1028,1940 1026,1940 1025,1940 1023,1940 1011,1949 907,1941 906,1941 904,1941 886,1950 792,1943 791,1943 789,1943 788,1943 777,1952 678,1944 676,1944 675,1944 647,1953 564,1946 563,1946 561,1946 543,1955 483,1947 481,1947 480,1947 478,1947 468,1955 442,1949 440,1949 439,1949 437,1949 421,1958 336,1958 338,1985" />
+      <Word id="l_0038-w_0001" text="gemeinden" error_score="1.000" error_type="error" />
+      <Word id="l_0038-w_0002" text="Teke" error_score="1.000" error_type="error" />
+      <Word id="l_0038-w_0003" text="(Tekendorf)," error_score="0.961" error_type="error" />
+      <Word id="l_0038-w_0004" text="Bâtos" error_score="0.961" error_type="error" />
+      <Word id="l_0038-w_0005" text="(Botsch)" error_score="0.961" error_type="error" />
+      <Word id="l_0038-w_0006" text="und" error_score="0.961" error_type="error" />
+      <Word id="l_0038-w_0007" text="Dedräd" error_score="0.961" error_type="error" />
+      <Word id="l_0038-w_0008" text="(Deutsch-" error_score="0.961" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0039" text="Zepling).">
+      <Coords points="339,2038 338,2050 342,2055 342,2056 344,2056 345,2056 454,2061 456,2061 511,2050 513,2041 513,2012 486,2002 484,2002 483,2002 481,2002 456,2012 427,2000 425,2000 424,2000 422,2000 392,2011 366,2000 365,2000 363,2000 362,2000 339,2006 339,2038" />
+      <Word id="l_0039-w_0001" text="Zepling)." error_score="0.961" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0040" text="1) Darunter der Muttersprache nach: 40850 Magyaren, 1780 Deutsche,">
+      <Coords points="443,2118 443,2130 1591,2121 1593,2103 1590,2080 903,2080 901,2080 900,2080 880,2088 457,2086 456,2086 454,2086 453,2086 442,2091 443,2118" />
+      <Word id="l_0040-w_0001" text="1)" error_score="0.961" error_type="error" />
+      <Word id="l_0040-w_0002" text="Darunter" error_score="0.961" error_type="error" />
+      <Word id="l_0040-w_0003" text="der" error_score="0.961" error_type="error" />
+      <Word id="l_0040-w_0004" text="Muttersprache" error_score="0.003" />
+      <Word id="l_0040-w_0005" text="nach:" error_score="0.003" />
+      <Word id="l_0040-w_0006" text="40850" error_score="0.003" />
+      <Word id="l_0040-w_0007" text="Magyaren," error_score="0.003" />
+      <Word id="l_0040-w_0008" text="1780" error_score="0.003" />
+      <Word id="l_0040-w_0009" text="Deutsche," error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0041" text="80 Slovaken, 6040 Rumänen, 10 Ruthenen, 10 Kroaten, 20 Serben und 500 andere;">
+      <Coords points="339,2162 339,2174 1593,2165 1594,2147 1591,2124 1393,2118 1392,2118 1301,2127 1291,2120 1289,2120 1288,2120 1217,2120 1215,2120 1214,2120 1177,2129 1007,2123 1005,2123 1004,2123 1002,2123 992,2132 913,2132 842,2124 841,2124 785,2133 608,2127 607,2127 543,2136 475,2129 474,2129 472,2129 471,2129 459,2138 354,2130 353,2130 351,2130 338,2136 339,2162" />
+      <Word id="l_0041-w_0001" text="80" error_score="0.003" />
+      <Word id="l_0041-w_0002" text="Slovaken," error_score="0.003" />
+      <Word id="l_0041-w_0003" text="6040" error_score="0.003" />
+      <Word id="l_0041-w_0004" text="Rumänen," error_score="0.003" />
+      <Word id="l_0041-w_0005" text="10" error_score="0.001" />
+      <Word id="l_0041-w_0006" text="Ruthenen," error_score="0.001" />
+      <Word id="l_0041-w_0007" text="10" error_score="0.001" />
+      <Word id="l_0041-w_0008" text="Kroaten," error_score="0.001" />
+      <Word id="l_0041-w_0009" text="20" error_score="0.001" />
+      <Word id="l_0041-w_0010" text="Serben" error_score="0.001" />
+      <Word id="l_0041-w_0011" text="und" error_score="0.001" />
+      <Word id="l_0041-w_0012" text="500" error_score="0.001" />
+      <Word id="l_0041-w_0013" text="andere;" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0042" text="dem Bekenntnisse nach 16. 040 röm. -kath, 7210 gr.-katb, ꝰ70 gr. -orient, 1720">
+      <Coords points="342,2209 342,2219 1594,2201 1594,2189 1590,2157 1488,2168 1431,2160 1430,2160 1334,2169 1301,2162 1300,2162 1298,2162 1297,2162 1268,2171 1215,2163 1214,2163 1212,2163 1189,2172 1177,2165 1176,2165 1174,2165 1173,2165 1171,2165 1170,2165 1158,2172 1032,2166 1031,2166 1029,2166 1005,2175 931,2168 930,2168 928,2168 910,2177 818,2169 816,2169 736,2171 735,2171 718,2180 706,2172 705,2172 703,2172 702,2172 614,2181 546,2174 545,2174 543,2174 522,2183 433,2175 431,2175 430,2175 428,2175 416,2184 359,2177 357,2177 356,2177 341,2183 342,2209" />
+      <Word id="l_0042-w_0001" text="dem" error_score="0.001" />
+      <Word id="l_0042-w_0002" text="Bekenntnisse" error_score="0.003" />
+      <Word id="l_0042-w_0003" text="nach" error_score="0.003" />
+      <Word id="l_0042-w_0004" text="16." error_score="0.003" />
+      <Word id="l_0042-w_0005" text="040" error_score="0.003" />
+      <Word id="l_0042-w_0006" text="röm." error_score="0.003" />
+      <Word id="l_0042-w_0007" text="-kath," error_score="0.003" />
+      <Word id="l_0042-w_0008" text="7210" error_score="0.003" />
+      <Word id="l_0042-w_0009" text="gr.-katb," error_score="0.003" />
+      <Word id="l_0042-w_0010" text="ꝰ70" error_score="0.003" />
+      <Word id="l_0042-w_0011" text="gr." error_score="0.003" />
+      <Word id="l_0042-w_0012" text="-orient," error_score="0.003" />
+      <Word id="l_0042-w_0013" text="1720" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0043" text="ev. A. B., 16. ꝰ00 ev. H. B., 1700 unit, 4730 israelit. und 30 andere.">
+      <Coords points="342,2251 342,2263 1437,2249 1437,2237 1434,2215 1369,2207 1368,2207 1318,2215 1306,2207 1304,2207 1303,2207 1301,2207 1300,2207 1269,2216 1257,2209 1256,2209 1254,2209 1253,2209 1251,2209 1250,2209 1238,2216 1147,2210 1146,2210 1144,2210 1143,2210 1134,2218 1078,2210 1076,2210 1075,2210 1073,2210 1064,2218 996,2212 995,2212 960,2219 939,2212 937,2212 936,2212 887,2221 878,2213 877,2213 875,2213 815,2213 813,2213 812,2213 810,2213 800,2222 748,2215 747,2215 745,2215 744,2215 733,2222 699,2215 697,2215 696,2215 694,2215 684,2224 572,2216 570,2216 516,2225 463,2218 462,2218 460,2218 459,2218 445,2228 341,2228 342,2251" />
+      <Word id="l_0043-w_0001" text="ev." error_score="0.003" />
+      <Word id="l_0043-w_0002" text="A." error_score="0.003" />
+      <Word id="l_0043-w_0003" text="B.," error_score="0.003" />
+      <Word id="l_0043-w_0004" text="16." error_score="0.003" />
+      <Word id="l_0043-w_0005" text="ꝰ00" error_score="0.003" />
+      <Word id="l_0043-w_0006" text="ev." error_score="0.003" />
+      <Word id="l_0043-w_0007" text="H." error_score="0.003" />
+      <Word id="l_0043-w_0008" text="B.," error_score="0.003" />
+      <Word id="l_0043-w_0009" text="1700" error_score="0.005" />
+      <Word id="l_0043-w_0010" text="unit," error_score="0.005" />
+      <Word id="l_0043-w_0011" text="4730" error_score="0.005" />
+      <Word id="l_0043-w_0012" text="israelit." error_score="0.005" />
+      <Word id="l_0043-w_0013" text="und" error_score="0.005" />
+      <Word id="l_0043-w_0014" text="30" error_score="0.005" />
+      <Word id="l_0043-w_0015" text="andere." error_score="0.005" />
+    </TextLine>
+  </TextRegion>
+</Page>

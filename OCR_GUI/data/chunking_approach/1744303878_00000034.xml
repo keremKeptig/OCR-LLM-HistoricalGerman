@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1744303878_00000034.bin.png" imageHeight="2802" imageWidth="1711" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="630,448 1343,460 1394,523 1642,541 1642,2115 1636,2476 1617,2520 330,2501 330,610 354,566 448,523 583,504 630,448" />
+    <TextLine id="l_0001" text="§ 15. Klima, Brodukte, Bewohner.">
+      <Coords points="1349,471 1345,467 1282,467 1271,459 1271,459 1256,459 1250,457 1234,467 1191,467 1181,457 1178,457 1162,457 1133,467 1091,456 1089,456 1088,456 1038,467 1013,456 1011,456 1010,456 1008,456 1007,456 990,467 966,456 965,456 929,456 927,456 926,456 924,456 924,457 912,468 834,457 783,457 781,457 779,457 778,457 778,459 765,471 725,471 713,459 713,457 711,457 709,457 674,457 672,457 671,457 669,457 669,459 658,468 625,457 624,457 622,457 621,457 618,460 619,499 619,509 1105,515 1106,515 1108,515 1125,505 1141,513 1142,513 1144,515 1340,515 1340,513 1342,513 1343,513 1352,504 1352,495 1349,471 1349,471" />
+      <Word id="l_0001-w_0001" text="§" error_score="0.370" />
+      <Word id="l_0001-w_0002" text="15." error_score="0.370" />
+      <Word id="l_0001-w_0003" text="Klima," error_score="0.370" />
+      <Word id="l_0001-w_0004" text="Brodukte," error_score="0.370" />
+      <Word id="l_0001-w_0005" text="Bewohner." error_score="0.370" />
+    </TextLine>
+    <TextLine id="l_0002" text="Aſien gehört dem heißen, dem nördlichen gemäßigten und kalten">
+      <Coords points="1626,540 1611,538 1595,537 1580,537 1564,535 1549,533 1541,532 1513,537 1494,529 1486,529 1468,537 1338,529 1337,529 1273,538 1175,538 1158,529 1156,529 1155,529 955,535 945,527 943,527 941,527 940,527 938,527 918,535 856,527 789,527 787,527 786,527 784,527 773,535 708,527 706,527 705,527 686,535 639,527 638,527 445,532 445,563 443,574 477,585 479,585 481,585 546,577 558,585 560,585 562,585 563,585 1019,577 1138,586 1139,586 1633,577 1634,566 1633,540 1626,540" />
+      <Word id="l_0002-w_0001" text="Aſien" error_score="0.370" />
+      <Word id="l_0002-w_0002" text="gehört" error_score="0.370" />
+      <Word id="l_0002-w_0003" text="dem" error_score="0.370" />
+      <Word id="l_0002-w_0004" text="heißen," error_score="0.370" />
+      <Word id="l_0002-w_0005" text="dem" error_score="0.370" />
+      <Word id="l_0002-w_0006" text="nördlichen" error_score="0.097" />
+      <Word id="l_0002-w_0007" text="gemäßigten" error_score="0.097" />
+      <Word id="l_0002-w_0008" text="und" error_score="0.097" />
+      <Word id="l_0002-w_0009" text="kalten" error_score="0.097" />
+    </TextLine>
+    <TextLine id="l_0003" text="Erdgürtel an. Jm ganʒen hat Aſien ſcharf ansgeprägtes Landklima:">
+      <Coords points="339,591 339,616 337,627 409,638 411,638 523,630 655,638 656,638 702,630 776,639 778,639 845,632 860,639 862,639 864,639 920,632 1147,639 1148,639 1150,639 1169,632 1233,641 1234,641 1633,632 1634,621 1633,594 1555,583 1553,583 1471,591 1432,583 1430,583 1429,583 1427,583 1415,593 1329,583 1328,583 1326,583 1306,593 1176,593 1164,582 1162,582 1161,582 1159,582 1117,591 1097,582 1096,582 1094,582 1041,591 993,582 943,582 941,582 940,582 938,582 926,591 879,582 878,582 876,582 848,591 674,589 656,580 655,580 653,580 652,580 624,591 534,591 519,580 518,580 516,580 515,580 513,580 490,588 449,580 448,580 446,580 428,588 406,580 404,580 403,580 340,586 339,591" />
+      <Word id="l_0003-w_0001" text="Erdgürtel" error_score="0.097" />
+      <Word id="l_0003-w_0002" text="an." error_score="0.097" />
+      <Word id="l_0003-w_0003" text="Jm" error_score="0.097" />
+      <Word id="l_0003-w_0004" text="ganʒen" error_score="0.097" />
+      <Word id="l_0003-w_0005" text="hat" error_score="0.097" />
+      <Word id="l_0003-w_0006" text="Aſien" error_score="0.097" />
+      <Word id="l_0003-w_0007" text="ſcharf" error_score="0.012" />
+      <Word id="l_0003-w_0008" text="ansgeprägtes" error_score="0.012" />
+      <Word id="l_0003-w_0009" text="Landklima:" error_score="0.012" />
+    </TextLine>
+    <TextLine id="l_0004" text="heiße Sommer und kalte Winter. Jn europäiſchem Sinne gemäßigt">
+      <Coords points="339,670 339,684 811,684 831,692 832,692 834,692 1077,684 1206,694 1208,694 1309,686 1612,694 1614,694 1616,694 1633,684 1634,675 1634,647 1619,638 1617,638 1616,638 1614,638 1391,647 1335,638 1334,638 1332,638 1301,647 1201,636 1200,636 1046,646 999,636 997,636 996,636 994,636 980,647 926,647 823,636 822,636 820,636 797,646 769,635 767,635 717,635 716,635 714,635 713,635 702,644 691,635 689,635 688,635 686,635 628,644 339,636 339,670" />
+      <Word id="l_0004-w_0001" text="heiße" error_score="0.012" />
+      <Word id="l_0004-w_0002" text="Sommer" error_score="0.012" />
+      <Word id="l_0004-w_0003" text="und" error_score="0.012" />
+      <Word id="l_0004-w_0004" text="kalte" error_score="0.012" />
+      <Word id="l_0004-w_0005" text="Winter." error_score="0.012" />
+      <Word id="l_0004-w_0006" text="Jn" error_score="0.012" />
+      <Word id="l_0004-w_0007" text="europäiſchem" error_score="0.012" />
+      <Word id="l_0004-w_0008" text="Sinne" error_score="0.062" />
+      <Word id="l_0004-w_0009" text="gemäßigt" error_score="0.062" />
+    </TextLine>
+    <TextLine id="l_0005" text="iſt nur das öſtliche Küſtengebiet (China) und die Japaniſchen Jnſeln.">
+      <Coords points="339,725 337,736 353,745 354,745 356,745 358,745 359,745 386,737 572,737 593,745 594,745 596,745 706,737 770,747 772,747 1195,739 1278,748 1279,748 1480,740 1563,748 1564,748 1630,739 1631,730 1631,700 1594,689 1592,689 1591,689 1536,697 1510,689 1508,689 1507,689 1505,689 1503,689 1491,698 1435,689 1390,689 1388,689 1387,689 1385,689 1371,700 1306,700 1285,689 1284,689 1282,689 1281,689 1262,698 1229,689 1228,689 1226,689 1170,697 1158,688 1156,688 1155,688 1153,688 1152,688 1131,698 1086,698 1074,688 1072,688 1071,688 1069,688 1068,688 1047,697 1021,688 1019,688 960,688 959,688 957,688 955,688 945,697 893,688 892,688 890,688 853,697 733,686 731,686 730,686 706,695 669,686 667,686 582,686 580,686 579,686 558,697 512,697 498,686 496,686 495,686 493,686 491,686 490,686 477,695 339,691 339,725" />
+      <Word id="l_0005-w_0001" text="iſt" error_score="0.062" />
+      <Word id="l_0005-w_0002" text="nur" error_score="0.062" />
+      <Word id="l_0005-w_0003" text="das" error_score="0.062" />
+      <Word id="l_0005-w_0004" text="öſtliche" error_score="0.062" />
+      <Word id="l_0005-w_0005" text="Küſtengebiet" error_score="0.062" />
+      <Word id="l_0005-w_0006" text="(China)" error_score="0.062" />
+      <Word id="l_0005-w_0007" text="und" error_score="0.062" />
+      <Word id="l_0005-w_0008" text="die" error_score="0.062" />
+      <Word id="l_0005-w_0009" text="Japaniſchen" error_score="0.042" />
+      <Word id="l_0005-w_0010" text="Jnſeln." error_score="0.042" />
+    </TextLine>
+    <TextLine id="l_0006" text="Man kann Aſien in vier Wärmegebiete ʒerlegen: das kalte Gebiet">
+      <Coords points="339,776 337,787 484,797 485,797 661,790 691,798 692,798 694,798 1633,793 1634,783 1634,754 1617,745 1616,745 1614,745 1612,745 1611,745 1602,753 1581,745 1580,745 1578,745 1435,753 1404,745 1402,745 1401,745 1399,745 1384,753 1354,745 1352,745 1351,745 1349,745 1328,753 1275,744 1273,744 1271,744 1250,753 1169,753 1156,744 1155,744 1153,744 1152,744 1150,744 1128,751 1018,744 1016,744 910,750 879,742 878,742 876,742 812,750 762,742 761,742 759,742 730,750 611,740 610,740 551,748 339,745 339,776" />
+      <Word id="l_0006-w_0001" text="Man" error_score="0.042" />
+      <Word id="l_0006-w_0002" text="kann" error_score="0.042" />
+      <Word id="l_0006-w_0003" text="Aſien" error_score="0.042" />
+      <Word id="l_0006-w_0004" text="in" error_score="0.042" />
+      <Word id="l_0006-w_0005" text="vier" error_score="0.042" />
+      <Word id="l_0006-w_0006" text="Wärmegebiete" error_score="0.042" />
+      <Word id="l_0006-w_0007" text="ʒerlegen:" error_score="0.042" />
+      <Word id="l_0006-w_0008" text="das" error_score="0.042" />
+      <Word id="l_0006-w_0009" text="kalte" error_score="0.002" />
+      <Word id="l_0006-w_0010" text="Gebiet" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0007" text="(im äußerſten Norden), das Waldgebiet (ſüdlich davon bis ʒu den">
+      <Coords points="339,832 337,843 887,853 888,853 1141,846 1211,854 1212,854 1630,846 1631,837 1630,807 1426,798 1424,798 1422,798 1421,798 1410,807 1323,807 1303,798 1301,798 1299,798 1298,798 1296,798 1285,806 1197,797 1195,797 1148,804 879,797 878,797 814,804 797,797 795,797 794,797 792,797 770,804 748,795 747,795 745,795 744,795 719,803 692,795 691,795 689,795 688,795 663,803 641,795 639,795 638,795 599,803 540,795 538,795 537,795 515,803 488,795 487,795 485,795 484,795 459,803 437,795 435,795 434,795 432,795 431,795 418,803 370,795 368,795 339,801 339,832" />
+      <Word id="l_0007-w_0001" text="(im" error_score="0.002" />
+      <Word id="l_0007-w_0002" text="äußerſten" error_score="0.002" />
+      <Word id="l_0007-w_0003" text="Norden)," error_score="0.002" />
+      <Word id="l_0007-w_0004" text="das" error_score="0.002" />
+      <Word id="l_0007-w_0005" text="Waldgebiet" error_score="0.002" />
+      <Word id="l_0007-w_0006" text="(ſüdlich" error_score="0.002" />
+      <Word id="l_0007-w_0007" text="davon" error_score="0.002" />
+      <Word id="l_0007-w_0008" text="bis" error_score="0.002" />
+      <Word id="l_0007-w_0009" text="ʒu" error_score="0.002" />
+      <Word id="l_0007-w_0010" text="den" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0008" text="Gebirgen), das Steppen⸗ und Wüſtengebiet (das ʒuſammen⸗">
+      <Coords points="339,881 337,893 364,904 365,904 367,905 529,905 529,904 530,904 557,896 775,905 776,905 854,898 893,905 895,905 1318,901 1331,909 1332,909 1334,909 1335,909 1412,902 1482,910 1483,910 1630,901 1631,888 1630,865 1469,854 1468,854 1413,863 1357,853 1356,853 1354,853 1324,862 1296,853 1295,853 1206,853 1205,853 1203,853 1201,853 1187,863 1130,863 1097,851 1096,851 1001,851 999,851 997,851 996,851 985,860 957,851 955,851 954,851 952,851 915,860 734,853 733,853 731,853 705,859 678,849 677,849 675,849 625,859 568,848 566,848 565,848 546,857 513,848 512,848 510,848 449,857 431,848 429,848 354,848 353,848 351,848 350,848 339,854 339,881" />
+      <Word id="l_0008-w_0001" text="Gebirgen)," error_score="0.002" />
+      <Word id="l_0008-w_0002" text="das" error_score="0.002" />
+      <Word id="l_0008-w_0003" text="Steppen⸗" error_score="0.002" />
+      <Word id="l_0008-w_0004" text="und" error_score="0.002" />
+      <Word id="l_0008-w_0005" text="Wüſtengebiet" error_score="0.002" />
+      <Word id="l_0008-w_0006" text="(das" error_score="0.002" />
+      <Word id="l_0008-w_0007" text="ʒuſammen⸗" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0009" text="hängende Hochland von Hinter⸗ und Vorderaſien und einige anliegende">
+      <Coords points="339,938 337,954 345,960 347,960 348,960 350,960 920,954 1150,963 1152,963 1306,955 1374,965 1376,965 1630,955 1631,944 1631,916 1595,907 1594,907 1592,907 1591,907 1570,915 1483,907 1482,907 1480,907 1479,907 1468,916 1393,916 1371,907 1370,907 1368,907 1366,907 1365,907 1356,915 1337,907 1335,907 1334,907 1332,907 1309,915 1287,905 1285,905 1284,905 1282,905 1262,913 1152,905 1150,905 1099,913 1080,905 1078,905 1077,905 1075,905 1046,913 1008,905 1007,905 1005,905 1004,905 994,912 985,904 983,904 982,904 980,904 979,904 957,912 786,904 784,904 714,912 661,902 660,902 658,902 656,902 647,910 619,902 618,902 471,902 470,902 468,902 467,902 456,910 339,904 339,938" />
+      <Word id="l_0009-w_0001" text="hängende" error_score="0.002" />
+      <Word id="l_0009-w_0002" text="Hochland" error_score="0.002" />
+      <Word id="l_0009-w_0003" text="von" error_score="0.005" />
+      <Word id="l_0009-w_0004" text="Hinter⸗" error_score="0.005" />
+      <Word id="l_0009-w_0005" text="und" error_score="0.005" />
+      <Word id="l_0009-w_0006" text="Vorderaſien" error_score="0.005" />
+      <Word id="l_0009-w_0007" text="und" error_score="0.005" />
+      <Word id="l_0009-w_0008" text="einige" error_score="0.005" />
+      <Word id="l_0009-w_0009" text="anliegende" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0010" text="Tiefländer) und das heiße Gebiet.">
+      <Coords points="340,993 339,1004 358,1011 359,1011 361,1011 779,1007 800,1014 801,1014 803,1014 1032,1007 1033,997 1033,968 1011,958 1010,958 1008,958 1007,958 985,966 976,958 976,957 974,957 973,957 971,957 915,966 901,957 899,957 898,957 896,957 826,966 794,955 792,955 790,955 789,955 765,965 751,955 750,955 748,955 747,955 745,955 722,965 703,957 702,957 700,957 699,957 669,965 660,957 660,955 658,955 656,955 655,955 653,955 652,955 641,965 616,955 614,955 613,955 611,955 610,955 593,965 543,965 532,954 530,954 529,954 527,954 526,954 524,954 513,963 481,954 479,954 477,954 476,954 474,954 459,963 429,954 428,954 426,954 340,960 340,993" />
+      <Word id="l_0010-w_0001" text="Tiefländer)" error_score="0.005" />
+      <Word id="l_0010-w_0002" text="und" error_score="0.005" />
+      <Word id="l_0010-w_0003" text="das" error_score="0.005" />
+      <Word id="l_0010-w_0004" text="heiße" error_score="0.004" />
+      <Word id="l_0010-w_0005" text="Gebiet." error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0011" text="Das kalte Gebiet umfaßt den nördlichen Küſtenſtreifen etwa bis ʒum 60.">
+      <Coords points="445,1050 443,1060 1236,1072 1237,1072 1628,1064 1630,1055 1628,1030 1253,1030 1236,1021 1234,1021 1233,1021 445,1024 445,1050" />
+      <Word id="l_0011-w_0001" text="Das" error_score="0.004" />
+      <Word id="l_0011-w_0002" text="kalte" error_score="0.004" />
+      <Word id="l_0011-w_0003" text="Gebiet" error_score="0.004" />
+      <Word id="l_0011-w_0004" text="umfaßt" error_score="0.004" />
+      <Word id="l_0011-w_0005" text="den" error_score="0.004" />
+      <Word id="l_0011-w_0006" text="nördlichen" error_score="0.004" />
+      <Word id="l_0011-w_0007" text="Küſtenſtreifen" error_score="0.004" />
+      <Word id="l_0011-w_0008" text="etwa" error_score="0.004" />
+      <Word id="l_0011-w_0009" text="bis" error_score="0.018" />
+      <Word id="l_0011-w_0010" text="ʒum" error_score="0.018" />
+      <Word id="l_0011-w_0011" text="60." error_score="0.018" />
+    </TextLine>
+    <TextLine id="l_0012" text="Parallelkreis. Das Klima iſt überaus rauh: Winter mit 50‟ C. Kälte kommen nicht">
+      <Coords points="337,1105 347,1111 348,1111 350,1111 351,1111 552,1105 577,1113 579,1113 580,1113 753,1106 769,1114 770,1114 772,1114 1630,1111 1631,1102 1631,1077 1605,1067 1603,1067 1602,1067 1451,1075 1435,1067 1433,1067 1432,1067 1430,1067 1415,1075 1349,1066 1348,1066 1281,1074 1229,1066 1228,1066 1226,1066 1209,1074 1194,1064 1192,1064 1191,1064 1189,1064 1187,1064 1186,1064 1173,1072 1058,1064 1057,1064 1055,1064 1032,1072 916,1064 915,1064 794,1070 767,1061 765,1061 764,1061 762,1061 761,1061 750,1069 691,1061 689,1061 652,1069 586,1061 585,1061 583,1061 582,1061 571,1069 510,1061 509,1061 507,1061 488,1067 477,1060 476,1060 474,1060 473,1060 378,1067 340,1058 339,1092 337,1105" />
+      <Word id="l_0012-w_0001" text="Parallelkreis." error_score="0.018" />
+      <Word id="l_0012-w_0002" text="Das" error_score="0.018" />
+      <Word id="l_0012-w_0003" text="Klima" error_score="0.018" />
+      <Word id="l_0012-w_0004" text="iſt" error_score="0.018" />
+      <Word id="l_0012-w_0005" text="überaus" error_score="0.018" />
+      <Word id="l_0012-w_0006" text="rauh:" error_score="0.018" />
+      <Word id="l_0012-w_0007" text="Winter" error_score="0.018" />
+      <Word id="l_0012-w_0008" text="mit" error_score="0.024" />
+      <Word id="l_0012-w_0009" text="50‟" error_score="0.024" />
+      <Word id="l_0012-w_0010" text="C." error_score="0.024" />
+      <Word id="l_0012-w_0011" text="Kälte" error_score="0.024" />
+      <Word id="l_0012-w_0012" text="kommen" error_score="0.024" />
+      <Word id="l_0012-w_0013" text="nicht" error_score="0.024" />
+    </TextLine>
+    <TextLine id="l_0013" text="ſelten vor. Doch wurde die größte Kälte nicht an der Küſte, ſondern ſüdlicher, in">
+      <Coords points="337,1137 336,1150 1438,1164 1440,1164 1628,1156 1630,1145 1628,1122 337,1113 337,1137" />
+      <Word id="l_0013-w_0001" text="ſelten" error_score="0.024" />
+      <Word id="l_0013-w_0002" text="vor." error_score="0.024" />
+      <Word id="l_0013-w_0003" text="Doch" error_score="0.024" />
+      <Word id="l_0013-w_0004" text="wurde" error_score="0.024" />
+      <Word id="l_0013-w_0005" text="die" error_score="0.002" />
+      <Word id="l_0013-w_0006" text="größte" error_score="0.002" />
+      <Word id="l_0013-w_0007" text="Kälte" error_score="0.002" />
+      <Word id="l_0013-w_0008" text="nicht" error_score="0.002" />
+      <Word id="l_0013-w_0009" text="an" error_score="0.002" />
+      <Word id="l_0013-w_0010" text="der" error_score="0.002" />
+      <Word id="l_0013-w_0011" text="Küſte," error_score="0.002" />
+      <Word id="l_0013-w_0012" text="ſondern" error_score="0.002" />
+      <Word id="l_0013-w_0013" text="ſüdlicher," error_score="0.002" />
+      <Word id="l_0013-w_0014" text="in" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0014" text="der Nähe der Lena, beobachtet. Auf den ſtrengen, faſt 10⸗monatlichen Winter folgt">
+      <Coords points="336,1181 334,1193 347,1201 348,1201 350,1201 351,1201 551,1195 769,1204 770,1204 1628,1201 1630,1190 1628,1167 336,1156 336,1181" />
+      <Word id="l_0014-w_0001" text="der" error_score="0.002" />
+      <Word id="l_0014-w_0002" text="Nähe" error_score="0.002" />
+      <Word id="l_0014-w_0003" text="der" error_score="0.002" />
+      <Word id="l_0014-w_0004" text="Lena," error_score="0.002" />
+      <Word id="l_0014-w_0005" text="beobachtet." error_score="0.002" />
+      <Word id="l_0014-w_0006" text="Auf" error_score="0.002" />
+      <Word id="l_0014-w_0007" text="den" error_score="0.002" />
+      <Word id="l_0014-w_0008" text="ſtrengen," error_score="0.002" />
+      <Word id="l_0014-w_0009" text="faſt" error_score="0.002" />
+      <Word id="l_0014-w_0010" text="10⸗monatlichen" error_score="0.002" />
+      <Word id="l_0014-w_0011" text="Winter" error_score="0.003" />
+      <Word id="l_0014-w_0012" text="folgt" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0015" text="ein ʒiemlich warmer Sommer, der jedoch nicht andauernd genug iſt, um den auf">
+      <Coords points="337,1228 336,1239 1625,1248 1628,1235 1626,1207 337,1204 337,1228" />
+      <Word id="l_0015-w_0001" text="ein" error_score="0.003" />
+      <Word id="l_0015-w_0002" text="ʒiemlich" error_score="0.003" />
+      <Word id="l_0015-w_0003" text="warmer" error_score="0.003" />
+      <Word id="l_0015-w_0004" text="Sommer," error_score="0.003" />
+      <Word id="l_0015-w_0005" text="der" error_score="0.003" />
+      <Word id="l_0015-w_0006" text="jedoch" error_score="0.003" />
+      <Word id="l_0015-w_0007" text="nicht" error_score="0.003" />
+      <Word id="l_0015-w_0008" text="andauernd" error_score="0.003" />
+      <Word id="l_0015-w_0009" text="genug" error_score="0.010" />
+      <Word id="l_0015-w_0010" text="iſt," error_score="0.010" />
+      <Word id="l_0015-w_0011" text="um" error_score="0.010" />
+      <Word id="l_0015-w_0012" text="den" error_score="0.010" />
+      <Word id="l_0015-w_0013" text="auf" error_score="0.010" />
+    </TextLine>
+    <TextLine id="l_0016" text="hunderte von Metern gefrorenen Boden tiefer als 1 m aufʒutauen. Jnfolge deſſen">
+      <Coords points="336,1271 334,1284 597,1293 599,1293 960,1288 999,1296 1001,1296 1195,1290 1239,1298 1240,1298 1396,1292 1412,1299 1413,1299 1415,1299 1628,1292 1630,1281 1628,1257 336,1246 336,1271" />
+      <Word id="l_0016-w_0001" text="hunderte" error_score="0.010" />
+      <Word id="l_0016-w_0002" text="von" error_score="0.010" />
+      <Word id="l_0016-w_0003" text="Metern" error_score="0.010" />
+      <Word id="l_0016-w_0004" text="gefrorenen" error_score="0.010" />
+      <Word id="l_0016-w_0005" text="Boden" error_score="0.010" />
+      <Word id="l_0016-w_0006" text="tiefer" error_score="0.009" />
+      <Word id="l_0016-w_0007" text="als" error_score="0.009" />
+      <Word id="l_0016-w_0008" text="1" error_score="0.009" />
+      <Word id="l_0016-w_0009" text="m" error_score="0.009" />
+      <Word id="l_0016-w_0010" text="aufʒutauen." error_score="0.009" />
+      <Word id="l_0016-w_0011" text="Jnfolge" error_score="0.009" />
+      <Word id="l_0016-w_0012" text="deſſen" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0017" text="können Pflanʒen mit tief in die Erde gehenden Wurʒeln, ʒ. B. Bäume, nicht mehr">
+      <Coords points="334,1318 333,1329 1626,1335 1630,1324 1630,1301 1600,1292 1598,1292 1597,1292 1595,1292 1575,1299 1477,1292 1475,1292 1474,1292 1472,1292 1461,1301 1371,1301 1324,1292 1323,1292 1321,1292 1306,1299 1289,1290 1287,1290 1285,1290 1284,1290 1254,1298 1072,1290 1071,1290 1018,1298 962,1288 960,1288 959,1288 937,1296 874,1288 873,1288 823,1296 800,1288 798,1288 797,1288 795,1288 767,1296 739,1288 737,1288 736,1288 661,1296 639,1287 638,1287 636,1287 599,1295 334,1290 334,1318" />
+      <Word id="l_0017-w_0001" text="können" error_score="0.009" />
+      <Word id="l_0017-w_0002" text="Pflanʒen" error_score="0.009" />
+      <Word id="l_0017-w_0003" text="mit" error_score="0.009" />
+      <Word id="l_0017-w_0004" text="tief" error_score="0.001" />
+      <Word id="l_0017-w_0005" text="in" error_score="0.001" />
+      <Word id="l_0017-w_0006" text="die" error_score="0.001" />
+      <Word id="l_0017-w_0007" text="Erde" error_score="0.001" />
+      <Word id="l_0017-w_0008" text="gehenden" error_score="0.001" />
+      <Word id="l_0017-w_0009" text="Wurʒeln," error_score="0.001" />
+      <Word id="l_0017-w_0010" text="ʒ." error_score="0.001" />
+      <Word id="l_0017-w_0011" text="B." error_score="0.001" />
+      <Word id="l_0017-w_0012" text="Bäume," error_score="0.001" />
+      <Word id="l_0017-w_0013" text="nicht" error_score="0.001" />
+      <Word id="l_0017-w_0014" text="mehr" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0018" text="fortkommen. Nur Mooſe und Flechten bedecken den Boden ſtellenweiſe mit einem">
+      <Coords points="336,1362 334,1376 1625,1380 1628,1369 1626,1346 1558,1337 1556,1337 1555,1337 1539,1344 1413,1337 1412,1337 1410,1337 1377,1344 1340,1335 1338,1335 1337,1335 1273,1343 1169,1335 1167,1335 1119,1343 1106,1334 1105,1334 1103,1334 1102,1334 1100,1334 1099,1334 1088,1341 1041,1334 1039,1334 951,1341 851,1332 850,1332 809,1340 790,1332 789,1332 787,1332 742,1340 636,1332 635,1332 633,1332 616,1340 582,1330 580,1330 579,1330 540,1338 336,1337 336,1362" />
+      <Word id="l_0018-w_0001" text="fortkommen." error_score="0.002" />
+      <Word id="l_0018-w_0002" text="Nur" error_score="0.002" />
+      <Word id="l_0018-w_0003" text="Mooſe" error_score="0.002" />
+      <Word id="l_0018-w_0004" text="und" error_score="0.002" />
+      <Word id="l_0018-w_0005" text="Flechten" error_score="0.002" />
+      <Word id="l_0018-w_0006" text="bedecken" error_score="0.002" />
+      <Word id="l_0018-w_0007" text="den" error_score="0.002" />
+      <Word id="l_0018-w_0008" text="Boden" error_score="0.002" />
+      <Word id="l_0018-w_0009" text="ſtellenweiſe" error_score="0.002" />
+      <Word id="l_0018-w_0010" text="mit" error_score="0.001" />
+      <Word id="l_0018-w_0011" text="einem" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0019" text="grünen Teppich. Daʒwiſchen breiten ſich ausgedehnte, im Winter gefrorene, im">
+      <Coords points="336,1407 334,1421 1398,1424 1408,1433 1410,1433 1412,1433 1413,1433 1626,1425 1628,1416 1626,1393 1472,1393 1451,1383 1449,1383 1447,1383 1446,1383 1412,1391 1329,1382 1328,1382 1198,1390 1170,1380 1169,1380 1167,1380 991,1388 980,1379 979,1379 977,1379 976,1379 913,1386 862,1379 860,1379 859,1379 857,1379 846,1386 818,1379 817,1379 815,1379 814,1379 786,1386 751,1377 750,1377 748,1377 586,1385 552,1376 551,1376 549,1376 336,1382 336,1407" />
+      <Word id="l_0019-w_0001" text="grünen" error_score="0.001" />
+      <Word id="l_0019-w_0002" text="Teppich." error_score="0.001" />
+      <Word id="l_0019-w_0003" text="Daʒwiſchen" error_score="0.001" />
+      <Word id="l_0019-w_0004" text="breiten" error_score="0.001" />
+      <Word id="l_0019-w_0005" text="ſich" error_score="0.001" />
+      <Word id="l_0019-w_0006" text="ausgedehnte," error_score="0.001" />
+      <Word id="l_0019-w_0007" text="im" error_score="0.001" />
+      <Word id="l_0019-w_0008" text="Winter" error_score="0.001" />
+      <Word id="l_0019-w_0009" text="gefrorene," error_score="0.029" />
+      <Word id="l_0019-w_0010" text="im" error_score="0.029" />
+    </TextLine>
+    <TextLine id="l_0020" text="Sommer in undurchdringlichen Moraſt verwandelte Sumpfſtrecken, die ſchreckliche">
+      <Coords points="336,1452 334,1463 1374,1478 1376,1478 1628,1471 1630,1460 1628,1436 1483,1427 1482,1427 1480,1427 1449,1435 1433,1427 1432,1427 1430,1427 1374,1435 1345,1425 1343,1425 1342,1425 1147,1433 1085,1424 1083,1424 1082,1424 1060,1433 949,1433 931,1424 929,1424 927,1424 926,1424 892,1432 853,1422 851,1422 850,1422 848,1422 826,1430 642,1422 641,1422 604,1430 593,1421 591,1421 590,1421 588,1421 586,1421 568,1429 501,1421 499,1421 498,1421 482,1429 412,1421 411,1421 336,1427 336,1452" />
+      <Word id="l_0020-w_0001" text="Sommer" error_score="0.029" />
+      <Word id="l_0020-w_0002" text="in" error_score="0.029" />
+      <Word id="l_0020-w_0003" text="undurchdringlichen" error_score="0.029" />
+      <Word id="l_0020-w_0004" text="Moraſt" error_score="0.029" />
+      <Word id="l_0020-w_0005" text="verwandelte" error_score="0.029" />
+      <Word id="l_0020-w_0006" text="Sumpfſtrecken," error_score="0.029" />
+      <Word id="l_0020-w_0007" text="die" error_score="0.029" />
+      <Word id="l_0020-w_0008" text="ſchreckliche" error_score="0.029" />
+    </TextLine>
+    <TextLine id="l_0021" text="Tundra, aus. — Jn der warmen Jahresʒeit ſchweben über den Sümpfen dichte,">
+      <Coords points="334,1497 333,1506 445,1516 446,1516 591,1509 618,1517 619,1517 621,1517 755,1511 898,1519 899,1520 1625,1520 1626,1505 1625,1481 334,1471 334,1497" />
+      <Word id="l_0021-w_0001" text="Tundra," error_score="0.133" />
+      <Word id="l_0021-w_0002" text="aus." error_score="0.133" />
+      <Word id="l_0021-w_0003" text="—" error_score="0.133" />
+      <Word id="l_0021-w_0004" text="Jn" error_score="0.133" />
+      <Word id="l_0021-w_0005" text="der" error_score="0.133" />
+      <Word id="l_0021-w_0006" text="warmen" error_score="0.133" />
+      <Word id="l_0021-w_0007" text="Jahresʒeit" error_score="0.133" />
+      <Word id="l_0021-w_0008" text="ſchweben" error_score="0.133" />
+      <Word id="l_0021-w_0009" text="über" error_score="0.133" />
+      <Word id="l_0021-w_0010" text="den" error_score="0.133" />
+      <Word id="l_0021-w_0011" text="Sümpfen" error_score="0.017" />
+      <Word id="l_0021-w_0012" text="dichte," error_score="0.017" />
+    </TextLine>
+    <TextLine id="l_0022" text="wolkenartige Schwärme von Stechmücken, die über Menſchen und Tiere herfallen und">
+      <Coords points="334,1542 333,1553 1623,1561 1626,1550 1625,1525 334,1517 334,1542" />
+      <Word id="l_0022-w_0001" text="wolkenartige" error_score="0.017" />
+      <Word id="l_0022-w_0002" text="Schwärme" error_score="0.017" />
+      <Word id="l_0022-w_0003" text="von" error_score="0.017" />
+      <Word id="l_0022-w_0004" text="Stechmücken," error_score="0.017" />
+      <Word id="l_0022-w_0005" text="die" error_score="0.017" />
+      <Word id="l_0022-w_0006" text="über" error_score="0.017" />
+      <Word id="l_0022-w_0007" text="Menſchen" error_score="0.017" />
+      <Word id="l_0022-w_0008" text="und" error_score="0.017" />
+      <Word id="l_0022-w_0009" text="Tiere" error_score="0.012" />
+      <Word id="l_0022-w_0010" text="herfallen" error_score="0.012" />
+      <Word id="l_0022-w_0011" text="und" error_score="0.012" />
+    </TextLine>
+    <TextLine id="l_0023" text="ihnen den Aufenthalt in der Tnndra faſt unmöglich machen.">
+      <Coords points="334,1586 333,1598 347,1606 348,1606 350,1606 1247,1603 1248,1592 1247,1569 334,1562 334,1586" />
+      <Word id="l_0023-w_0001" text="ihnen" error_score="0.012" />
+      <Word id="l_0023-w_0002" text="den" error_score="0.012" />
+      <Word id="l_0023-w_0003" text="Aufenthalt" error_score="0.012" />
+      <Word id="l_0023-w_0004" text="in" error_score="0.012" />
+      <Word id="l_0023-w_0005" text="der" error_score="0.012" />
+      <Word id="l_0023-w_0006" text="Tnndra" error_score="0.012" />
+      <Word id="l_0023-w_0007" text="faſt" error_score="0.012" />
+      <Word id="l_0023-w_0008" text="unmöglich" error_score="0.003" />
+      <Word id="l_0023-w_0009" text="machen." error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0024" text="Das Waldgebiet umfaßt die ſüdliche Hälfte Sibiriens bis ʒu den Gebirgen.">
+      <Coords points="443,1632 442,1643 1626,1651 1630,1640 1630,1615 1558,1615 1549,1606 1547,1606 1545,1606 1544,1606 1394,1614 1338,1604 1337,1604 1335,1604 1307,1612 1173,1604 1172,1604 1170,1604 1169,1604 1156,1612 1131,1603 1130,1603 1068,1603 1066,1603 1064,1603 1063,1603 1054,1611 943,1603 941,1603 940,1603 926,1611 913,1601 912,1601 910,1601 909,1601 907,1601 881,1609 856,1601 854,1601 853,1601 794,1609 691,1601 689,1601 628,1608 610,1600 608,1600 607,1600 605,1600 586,1608 560,1600 558,1600 557,1600 443,1604 443,1632" />
+      <Word id="l_0024-w_0001" text="Das" error_score="0.003" />
+      <Word id="l_0024-w_0002" text="Waldgebiet" error_score="0.003" />
+      <Word id="l_0024-w_0003" text="umfaßt" error_score="0.003" />
+      <Word id="l_0024-w_0004" text="die" error_score="0.003" />
+      <Word id="l_0024-w_0005" text="ſüdliche" error_score="0.003" />
+      <Word id="l_0024-w_0006" text="Hälfte" error_score="0.003" />
+      <Word id="l_0024-w_0007" text="Sibiriens" error_score="0.003" />
+      <Word id="l_0024-w_0008" text="bis" error_score="0.003" />
+      <Word id="l_0024-w_0009" text="ʒu" error_score="0.001" />
+      <Word id="l_0024-w_0010" text="den" error_score="0.001" />
+      <Word id="l_0024-w_0011" text="Gebirgen." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0025" text="Die dichten Urwälder ſind jedoch ſtellenweiſe ſchon gelichtet und haben dem Ackerbau">
+      <Coords points="336,1676 334,1687 1625,1696 1628,1685 1626,1660 336,1651 336,1676" />
+      <Word id="l_0025-w_0001" text="Die" error_score="0.001" />
+      <Word id="l_0025-w_0002" text="dichten" error_score="0.001" />
+      <Word id="l_0025-w_0003" text="Urwälder" error_score="0.001" />
+      <Word id="l_0025-w_0004" text="ſind" error_score="0.001" />
+      <Word id="l_0025-w_0005" text="jedoch" error_score="0.001" />
+      <Word id="l_0025-w_0006" text="ſtellenweiſe" error_score="0.001" />
+      <Word id="l_0025-w_0007" text="ſchon" error_score="0.001" />
+      <Word id="l_0025-w_0008" text="gelichtet" error_score="0.003" />
+      <Word id="l_0025-w_0009" text="und" error_score="0.003" />
+      <Word id="l_0025-w_0010" text="haben" error_score="0.003" />
+      <Word id="l_0025-w_0011" text="dem" error_score="0.003" />
+      <Word id="l_0025-w_0012" text="Ackerbau" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0026" text="Platʒ gemacht, der infolge der warmen Sommer und reichen Bewäſſerung mit viel">
+      <Coords points="336,1723 334,1734 347,1741 348,1741 350,1741 351,1743 1628,1743 1630,1732 1628,1704 336,1695 336,1723" />
+      <Word id="l_0026-w_0001" text="Platʒ" error_score="0.003" />
+      <Word id="l_0026-w_0002" text="gemacht," error_score="0.003" />
+      <Word id="l_0026-w_0003" text="der" error_score="0.003" />
+      <Word id="l_0026-w_0004" text="infolge" error_score="0.003" />
+      <Word id="l_0026-w_0005" text="der" error_score="0.003" />
+      <Word id="l_0026-w_0006" text="warmen" error_score="0.009" />
+      <Word id="l_0026-w_0007" text="Sommer" error_score="0.009" />
+      <Word id="l_0026-w_0008" text="und" error_score="0.009" />
+      <Word id="l_0026-w_0009" text="reichen" error_score="0.009" />
+      <Word id="l_0026-w_0010" text="Bewäſſerung" error_score="0.009" />
+      <Word id="l_0026-w_0011" text="mit" error_score="0.009" />
+      <Word id="l_0026-w_0012" text="viel" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0027" text="Erfolg betrieben wird. Da das Land auch hier den Nordwinden preisgegeben iſt,">
+      <Coords points="334,1765 333,1774 348,1783 350,1783 479,1785 481,1785 764,1780 781,1788 783,1788 784,1788 1162,1785 1483,1796 1485,1796 1625,1788 1626,1779 1625,1754 1449,1745 1447,1745 1352,1751 1310,1743 1309,1743 1215,1749 1197,1741 1195,1741 1194,1741 1061,1748 1049,1740 1047,1740 1046,1740 334,1740 334,1765" />
+      <Word id="l_0027-w_0001" text="Erfolg" error_score="0.009" />
+      <Word id="l_0027-w_0002" text="betrieben" error_score="0.009" />
+      <Word id="l_0027-w_0003" text="wird." error_score="0.009" />
+      <Word id="l_0027-w_0004" text="Da" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0005" text="das" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0006" text="Land" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0007" text="auch" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0008" text="hier" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0009" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0010" text="Nordwinden" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0011" text="preisgegeben" error_score="1.000" error_type="error" />
+      <Word id="l_0027-w_0012" text="iſt," error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0028" text="ſo ſind die Winter lang und ſtreng. Jm Waldgebiet iſt die Heimat der ſibiriſchen">
+      <Coords points="334,1813 333,1825 1480,1839 1482,1839 1628,1832 1630,1821 1628,1797 1581,1788 1580,1788 1394,1796 1332,1787 1331,1787 1208,1794 1181,1787 1180,1787 1178,1787 1176,1787 1155,1794 1106,1785 1105,1785 1103,1785 1085,1793 987,1785 985,1785 946,1793 921,1785 920,1785 918,1785 853,1793 800,1783 798,1783 797,1783 778,1791 758,1783 756,1783 755,1783 714,1791 646,1783 644,1783 642,1783 625,1791 557,1782 555,1782 504,1790 482,1782 481,1782 479,1782 477,1782 448,1790 428,1782 426,1782 425,1782 334,1783 334,1813" />
+      <Word id="l_0028-w_0001" text="ſo" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0002" text="ſind" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0003" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0004" text="Winter" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0005" text="lang" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0006" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0007" text="ſtreng." error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0008" text="Jm" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0009" text="Waldgebiet" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0010" text="iſt" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0011" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0012" text="Heimat" error_score="0.058" />
+      <Word id="l_0028-w_0013" text="der" error_score="0.058" />
+      <Word id="l_0028-w_0014" text="ſibiriſchen" error_score="0.058" />
+    </TextLine>
+    <TextLine id="l_0029" text="Pelʒtiere: Bär, Marder, Fuchs, Ʒobel, Hermelin u. ſ. w.">
+      <Coords points="336,1858 334,1872 344,1878 345,1878 347,1878 348,1878 502,1872 558,1880 560,1880 1225,1875 1226,1864 1225,1841 1169,1841 1161,1833 1161,1832 1159,1832 1158,1832 1156,1832 1155,1832 1138,1839 1052,1832 1050,1832 1013,1839 969,1830 968,1830 966,1830 946,1838 848,1830 846,1830 845,1830 817,1838 751,1829 750,1829 748,1829 717,1836 660,1829 658,1829 656,1829 639,1836 621,1829 619,1829 618,1829 577,1836 543,1827 541,1827 540,1827 490,1835 336,1830 336,1858" />
+      <Word id="l_0029-w_0001" text="Pelʒtiere:" error_score="0.058" />
+      <Word id="l_0029-w_0002" text="Bär," error_score="0.058" />
+      <Word id="l_0029-w_0003" text="Marder," error_score="0.058" />
+      <Word id="l_0029-w_0004" text="Fuchs," error_score="0.058" />
+      <Word id="l_0029-w_0005" text="Ʒobel," error_score="0.058" />
+      <Word id="l_0029-w_0006" text="Hermelin" error_score="0.058" />
+      <Word id="l_0029-w_0007" text="u." error_score="0.058" />
+      <Word id="l_0029-w_0008" text="ſ." error_score="0.001" />
+      <Word id="l_0029-w_0009" text="w." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0030" text="Ʒum Steppen⸗ und Wüſtengebiet rechnet man: das ʒuſammenhängende Hoch⸗">
+      <Coords points="442,1903 440,1917 856,1927 857,1927 959,1920 1039,1928 1041,1928 1229,1922 1239,1930 1240,1930 1242,1930 1438,1931 1440,1931 1626,1924 1628,1913 1626,1889 442,1880 442,1903" />
+      <Word id="l_0030-w_0001" text="Ʒum" error_score="0.001" />
+      <Word id="l_0030-w_0002" text="Steppen⸗" error_score="0.001" />
+      <Word id="l_0030-w_0003" text="und" error_score="0.001" />
+      <Word id="l_0030-w_0004" text="Wüſtengebiet" error_score="0.001" />
+      <Word id="l_0030-w_0005" text="rechnet" error_score="0.001" />
+      <Word id="l_0030-w_0006" text="man:" error_score="0.001" />
+      <Word id="l_0030-w_0007" text="das" error_score="0.001" />
+      <Word id="l_0030-w_0008" text="ʒuſammenhängende" error_score="0.001" />
+      <Word id="l_0030-w_0009" text="Hoch⸗" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0031" text="land, die Tiefebene Turan, Meſopotamien, das Tafelland Arabien und die Ebene des">
+      <Coords points="331,1961 1623,1970 1626,1958 1625,1933 1276,1924 1275,1924 1195,1930 1147,1922 1145,1922 980,1928 929,1920 927,1920 798,1927 764,1919 762,1919 761,1919 577,1925 540,1917 538,1917 364,1924 334,1916 333,1948 331,1961" />
+      <Word id="l_0031-w_0001" text="land," error_score="0.001" />
+      <Word id="l_0031-w_0002" text="die" error_score="0.001" />
+      <Word id="l_0031-w_0003" text="Tiefebene" error_score="0.001" />
+      <Word id="l_0031-w_0004" text="Turan," error_score="0.001" />
+      <Word id="l_0031-w_0005" text="Meſopotamien," error_score="0.001" />
+      <Word id="l_0031-w_0006" text="das" error_score="0.001" />
+      <Word id="l_0031-w_0007" text="Tafelland" error_score="0.001" />
+      <Word id="l_0031-w_0008" text="Arabien" error_score="0.001" />
+      <Word id="l_0031-w_0009" text="und" error_score="0.001" />
+      <Word id="l_0031-w_0010" text="die" error_score="0.001" />
+      <Word id="l_0031-w_0011" text="Ebene" error_score="0.002" />
+      <Word id="l_0031-w_0012" text="des" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0032" text="Jndus. Dies ganʒe Gebiet iſt ſpärlich bewäſſert. Die nördlichen Teile ſind kälter;">
+      <Coords points="334,1997 333,2009 342,2015 344,2015 345,2015 347,2017 1625,2017 1626,2003 1625,1978 1563,1969 1561,1969 1317,1976 1306,1967 1304,1967 1303,1967 1301,1967 1242,1975 1226,1967 1225,1967 1223,1967 1222,1967 1220,1967 1208,1975 1161,1967 1159,1967 1120,1975 1022,1967 1021,1967 983,1975 957,1966 955,1966 954,1966 952,1966 951,1966 940,1973 921,1966 920,1966 918,1966 876,1973 860,1966 859,1966 857,1966 814,1973 798,1966 797,1966 795,1966 794,1966 769,1973 730,1966 728,1966 660,1973 557,1973 546,1964 544,1964 543,1964 541,1964 334,1967 334,1997" />
+      <Word id="l_0032-w_0001" text="Jndus." error_score="0.002" />
+      <Word id="l_0032-w_0002" text="Dies" error_score="0.002" />
+      <Word id="l_0032-w_0003" text="ganʒe" error_score="0.002" />
+      <Word id="l_0032-w_0004" text="Gebiet" error_score="0.002" />
+      <Word id="l_0032-w_0005" text="iſt" error_score="0.002" />
+      <Word id="l_0032-w_0006" text="ſpärlich" error_score="0.002" />
+      <Word id="l_0032-w_0007" text="bewäſſert." error_score="0.002" />
+      <Word id="l_0032-w_0008" text="Die" error_score="0.002" />
+      <Word id="l_0032-w_0009" text="nördlichen" error_score="0.003" />
+      <Word id="l_0032-w_0010" text="Teile" error_score="0.003" />
+      <Word id="l_0032-w_0011" text="ſind" error_score="0.003" />
+      <Word id="l_0032-w_0012" text="kälter;" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0033" text="hier treten gewaltige Steppen (die Gobi und die turaniſche Steppe) auf. Der Süden">
+      <Coords points="333,2039 331,2051 1622,2059 1625,2047 1623,2023 333,2011 333,2039" />
+      <Word id="l_0033-w_0001" text="hier" error_score="0.003" />
+      <Word id="l_0033-w_0002" text="treten" error_score="0.003" />
+      <Word id="l_0033-w_0003" text="gewaltige" error_score="0.003" />
+      <Word id="l_0033-w_0004" text="Steppen" error_score="0.003" />
+      <Word id="l_0033-w_0005" text="(die" error_score="0.003" />
+      <Word id="l_0033-w_0006" text="Gobi" error_score="0.003" />
+      <Word id="l_0033-w_0007" text="und" error_score="0.003" />
+      <Word id="l_0033-w_0008" text="die" error_score="0.003" />
+      <Word id="l_0033-w_0009" text="turaniſche" error_score="0.003" />
+      <Word id="l_0033-w_0010" text="Steppe)" error_score="0.003" />
+      <Word id="l_0033-w_0011" text="auf." error_score="0.003" />
+      <Word id="l_0033-w_0012" text="Der" error_score="0.003" />
+      <Word id="l_0033-w_0013" text="Süden" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0034" text="iſt heißer; hier liegen überaus dürre Sand⸗ und Salʒwüſten (in Arabien, Syrien,">
+      <Coords points="333,2084 331,2095 345,2104 347,2104 348,2104 350,2104 351,2104 372,2096 381,2104 382,2104 384,2104 386,2106 481,2106 481,2104 482,2104 484,2104 496,2096 516,2106 518,2106 519,2106 685,2098 699,2106 700,2106 702,2106 703,2106 831,2099 963,2109 965,2109 1043,2101 1128,2110 1313,2112 1315,2112 1357,2104 1608,2113 1609,2113 1611,2113 1612,2113 1623,2104 1625,2095 1623,2071 1578,2062 1577,2062 1471,2070 1440,2061 1438,2061 1436,2061 1264,2068 1245,2059 1243,2059 1242,2059 1102,2067 1091,2059 1089,2059 1088,2059 1086,2059 1085,2059 1083,2059 1071,2067 997,2057 996,2057 901,2065 842,2056 840,2056 839,2056 837,2056 825,2065 741,2065 703,2054 702,2054 700,2054 699,2054 683,2062 333,2056 333,2084" />
+      <Word id="l_0034-w_0001" text="iſt" error_score="0.003" />
+      <Word id="l_0034-w_0002" text="heißer;" error_score="0.003" />
+      <Word id="l_0034-w_0003" text="hier" error_score="0.003" />
+      <Word id="l_0034-w_0004" text="liegen" error_score="0.054" />
+      <Word id="l_0034-w_0005" text="überaus" error_score="0.054" />
+      <Word id="l_0034-w_0006" text="dürre" error_score="0.054" />
+      <Word id="l_0034-w_0007" text="Sand⸗" error_score="0.054" />
+      <Word id="l_0034-w_0008" text="und" error_score="0.054" />
+      <Word id="l_0034-w_0009" text="Salʒwüſten" error_score="0.054" />
+      <Word id="l_0034-w_0010" text="(in" error_score="0.054" />
+      <Word id="l_0034-w_0011" text="Arabien," error_score="0.054" />
+      <Word id="l_0034-w_0012" text="Syrien," error_score="0.054" />
+    </TextLine>
+    <TextLine id="l_0035" text="im Jran und in der Ebene des Jndus). Doch finden ſich gerade in den die Wüſte">
+      <Coords points="333,2129 331,2140 395,2149 397,2149 761,2145 772,2152 773,2152 775,2152 776,2152 1167,2148 1192,2155 1194,2155 1195,2155 1623,2149 1625,2138 1623,2115 333,2103 333,2129" />
+      <Word id="l_0035-w_0001" text="im" error_score="0.054" />
+      <Word id="l_0035-w_0002" text="Jran" error_score="0.071" />
+      <Word id="l_0035-w_0003" text="und" error_score="0.071" />
+      <Word id="l_0035-w_0004" text="in" error_score="0.071" />
+      <Word id="l_0035-w_0005" text="der" error_score="0.071" />
+      <Word id="l_0035-w_0006" text="Ebene" error_score="0.071" />
+      <Word id="l_0035-w_0007" text="des" error_score="0.071" />
+      <Word id="l_0035-w_0008" text="Jndus)." error_score="0.071" />
+      <Word id="l_0035-w_0009" text="Doch" error_score="0.071" />
+      <Word id="l_0035-w_0010" text="finden" error_score="0.071" />
+      <Word id="l_0035-w_0011" text="ſich" error_score="0.071" />
+      <Word id="l_0035-w_0012" text="gerade" error_score="0.003" />
+      <Word id="l_0035-w_0013" text="in" error_score="0.003" />
+      <Word id="l_0035-w_0014" text="den" error_score="0.003" />
+      <Word id="l_0035-w_0015" text="die" error_score="0.003" />
+      <Word id="l_0035-w_0016" text="Wüſte" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0036" text="durchʒiehenden Gebirgen einʒelne gut bewäſſerte fruchtbare Landſtriche. Hier haben">
+      <Coords points="333,2173 331,2185 656,2198 658,2198 1444,2198 1461,2205 1463,2205 1465,2205 1623,2198 1625,2185 1623,2162 333,2148 333,2173" />
+      <Word id="l_0036-w_0001" text="durchʒiehenden" error_score="0.003" />
+      <Word id="l_0036-w_0002" text="Gebirgen" error_score="0.003" />
+      <Word id="l_0036-w_0003" text="einʒelne" error_score="0.003" />
+      <Word id="l_0036-w_0004" text="gut" error_score="0.003" />
+      <Word id="l_0036-w_0005" text="bewäſſerte" error_score="0.003" />
+      <Word id="l_0036-w_0006" text="fruchtbare" error_score="0.001" />
+      <Word id="l_0036-w_0007" text="Landſtriche." error_score="0.001" />
+      <Word id="l_0036-w_0008" text="Hier" error_score="0.001" />
+      <Word id="l_0036-w_0009" text="haben" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0037" text="die meiſten unſerer Haustiere, ʒ. B. Pferd, Eſel, Rind, Schaf ihre Urheimat. Jn">
+      <Coords points="333,2218 331,2229 546,2240 548,2240 625,2233 655,2241 656,2241 658,2241 1226,2240 1299,2247 1301,2247 1622,2241 1623,2230 1622,2207 333,2191 333,2218" />
+      <Word id="l_0037-w_0001" text="die" error_score="0.001" />
+      <Word id="l_0037-w_0002" text="meiſten" error_score="0.001" />
+      <Word id="l_0037-w_0003" text="unſerer" error_score="0.001" />
+      <Word id="l_0037-w_0004" text="Haustiere," error_score="0.001" />
+      <Word id="l_0037-w_0005" text="ʒ." error_score="0.001" />
+      <Word id="l_0037-w_0006" text="B." error_score="0.001" />
+      <Word id="l_0037-w_0007" text="Pferd," error_score="0.003" />
+      <Word id="l_0037-w_0008" text="Eſel," error_score="0.003" />
+      <Word id="l_0037-w_0009" text="Rind," error_score="0.003" />
+      <Word id="l_0037-w_0010" text="Schaf" error_score="0.003" />
+      <Word id="l_0037-w_0011" text="ihre" error_score="0.003" />
+      <Word id="l_0037-w_0012" text="Urheimat." error_score="0.003" />
+      <Word id="l_0037-w_0013" text="Jn" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0038" text="den heißeren Strichen wird das Kamel als wichtigſtes Haustier geʒüchtet. Unter">
+      <Coords points="333,2264 331,2275 417,2286 418,2286 546,2278 618,2288 619,2288 846,2282 860,2289 862,2289 864,2289 865,2289 965,2282 977,2289 979,2289 980,2289 982,2289 1200,2285 1212,2292 1214,2292 1215,2292 1217,2292 1352,2285 1408,2294 1410,2294 1623,2285 1625,2274 1623,2250 333,2236 333,2264" />
+      <Word id="l_0038-w_0001" text="den" error_score="0.003" />
+      <Word id="l_0038-w_0002" text="heißeren" error_score="0.003" />
+      <Word id="l_0038-w_0003" text="Strichen" error_score="0.003" />
+      <Word id="l_0038-w_0004" text="wird" error_score="0.008" />
+      <Word id="l_0038-w_0005" text="das" error_score="0.008" />
+      <Word id="l_0038-w_0006" text="Kamel" error_score="0.008" />
+      <Word id="l_0038-w_0007" text="als" error_score="0.008" />
+      <Word id="l_0038-w_0008" text="wichtigſtes" error_score="0.008" />
+      <Word id="l_0038-w_0009" text="Haustier" error_score="0.008" />
+      <Word id="l_0038-w_0010" text="geʒüchtet." error_score="0.008" />
+      <Word id="l_0038-w_0011" text="Unter" error_score="0.008" />
+    </TextLine>
+    <TextLine id="l_0039" text="dieſen Gegenden iſt durch ſein liebliches, fruchtbares Klima berürmt das Thal Schiras,">
+      <Coords points="333,2308 331,2322 1620,2333 1623,2319 1622,2296 333,2282 333,2308" />
+      <Word id="l_0039-w_0001" text="dieſen" error_score="0.008" />
+      <Word id="l_0039-w_0002" text="Gegenden" error_score="0.008" />
+      <Word id="l_0039-w_0003" text="iſt" error_score="0.048" />
+      <Word id="l_0039-w_0004" text="durch" error_score="0.048" />
+      <Word id="l_0039-w_0005" text="ſein" error_score="0.048" />
+      <Word id="l_0039-w_0006" text="liebliches," error_score="0.048" />
+      <Word id="l_0039-w_0007" text="fruchtbares" error_score="0.048" />
+      <Word id="l_0039-w_0008" text="Klima" error_score="0.048" />
+      <Word id="l_0039-w_0009" text="berürmt" error_score="0.048" />
+      <Word id="l_0039-w_0010" text="das" error_score="0.048" />
+      <Word id="l_0039-w_0011" text="Thal" error_score="0.048" />
+      <Word id="l_0039-w_0012" text="Schiras," error_score="0.048" />
+    </TextLine>
+    <TextLine id="l_0040" text="der Roſengarten Perſiens.">
+      <Coords points="333,2353 331,2364 482,2375 484,2375 593,2369 597,2375 599,2375 599,2377 600,2377 602,2377 604,2377 736,2369 737,2358 736,2335 333,2328 333,2353" />
+      <Word id="l_0040-w_0001" text="der" error_score="0.056" />
+      <Word id="l_0040-w_0002" text="Roſengarten" error_score="0.056" />
+      <Word id="l_0040-w_0003" text="Perſiens." error_score="0.056" />
+    </TextLine>
+    <TextLine id="l_0041" text="Das heiße Gebiet, mit vollſtändig tropiſcher Natur, umfaßt die ſüdlichen">
+      <Coords points="437,2401 435,2412 524,2422 526,2422 669,2415 694,2423 695,2423 697,2423 864,2417 913,2425 915,2425 1312,2420 1387,2428 1388,2428 1623,2420 1625,2409 1623,2386 1577,2377 1575,2377 1465,2384 1440,2377 1438,2377 1436,2377 1435,2377 1416,2384 1368,2375 1366,2375 1365,2375 1349,2383 1194,2375 1192,2375 1155,2383 1136,2373 1134,2373 1133,2373 1088,2383 1011,2383 1001,2373 999,2373 997,2373 996,2373 994,2373 968,2381 910,2373 909,2373 741,2380 720,2372 719,2372 717,2372 677,2380 666,2370 664,2370 663,2370 661,2370 660,2370 632,2378 599,2370 597,2370 596,2370 437,2375 437,2401" />
+      <Word id="l_0041-w_0001" text="Das" error_score="0.056" />
+      <Word id="l_0041-w_0002" text="heiße" error_score="0.056" />
+      <Word id="l_0041-w_0003" text="Gebiet," error_score="0.056" />
+      <Word id="l_0041-w_0004" text="mit" error_score="0.056" />
+      <Word id="l_0041-w_0005" text="vollſtändig" error_score="0.056" />
+      <Word id="l_0041-w_0006" text="tropiſcher" error_score="0.056" />
+      <Word id="l_0041-w_0007" text="Natur," error_score="0.056" />
+      <Word id="l_0041-w_0008" text="umfaßt" error_score="0.013" />
+      <Word id="l_0041-w_0009" text="die" error_score="0.013" />
+      <Word id="l_0041-w_0010" text="ſüdlichen" error_score="0.013" />
+    </TextLine>
+    <TextLine id="l_0042" text="Glieder des Erdteiles, alſo Vorderindien, Hinterindien und die oſtindiſche Jnſelwelt.">
+      <Coords points="333,2442 331,2454 1619,2468 1622,2456 1620,2433 1479,2423 1477,2423 1365,2429 1335,2422 1334,2422 1332,2422 1192,2428 1019,2419 333,2419 333,2442" />
+      <Word id="l_0042-w_0001" text="Glieder" error_score="0.013" />
+      <Word id="l_0042-w_0002" text="des" error_score="0.013" />
+      <Word id="l_0042-w_0003" text="Erdteiles," error_score="0.013" />
+      <Word id="l_0042-w_0004" text="alſo" error_score="0.013" />
+      <Word id="l_0042-w_0005" text="Vorderindien," error_score="0.013" />
+      <Word id="l_0042-w_0006" text="Hinterindien" error_score="0.013" />
+      <Word id="l_0042-w_0007" text="und" error_score="0.013" />
+      <Word id="l_0042-w_0008" text="die" error_score="0.022" />
+      <Word id="l_0042-w_0009" text="oſtindiſche" error_score="0.022" />
+      <Word id="l_0042-w_0010" text="Jnſelwelt." error_score="0.022" />
+    </TextLine>
+    <TextLine id="l_0043" text="Das Klima iſt warm und feucht und begünſtigt den Pflanʒenwuchs ungemein. Das">
+      <Coords points="334,2487 333,2501 979,2517 980,2517 1620,2514 1622,2500 1620,2476 334,2461 334,2487" />
+      <Word id="l_0043-w_0001" text="Das" error_score="0.022" />
+      <Word id="l_0043-w_0002" text="Klima" error_score="0.022" />
+      <Word id="l_0043-w_0003" text="iſt" error_score="0.022" />
+      <Word id="l_0043-w_0004" text="warm" error_score="0.022" />
+      <Word id="l_0043-w_0005" text="und" error_score="0.022" />
+      <Word id="l_0043-w_0006" text="feucht" error_score="0.022" />
+      <Word id="l_0043-w_0007" text="und" error_score="0.022" />
+      <Word id="l_0043-w_0008" text="begünſtigt" error_score="0.039" />
+      <Word id="l_0043-w_0009" text="den" error_score="0.039" />
+      <Word id="l_0043-w_0010" text="Pflanʒenwuchs" error_score="0.039" />
+      <Word id="l_0043-w_0011" text="ungemein." error_score="0.039" />
+      <Word id="l_0043-w_0012" text="Das" error_score="0.039" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="960,348 1075,361 1088,390 1025,409 896,396 902,367 960,348" />
+    <TextLine id="l_0044" text="— 24 —">
+      <Coords points="991,351 912,364 913,386 913,393 1069,395 1072,382 1069,364 1019,364 996,351 991,351" />
+      <Word id="l_0044-w_0001" text="—" error_score="0.000" />
+      <Word id="l_0044-w_0002" text="24" error_score="0.000" />
+      <Word id="l_0044-w_0003" text="—" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

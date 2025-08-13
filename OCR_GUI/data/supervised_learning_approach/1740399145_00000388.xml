@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740399145_00000388.bin.png" imageHeight="2960" imageWidth="1695" orientation="0.0" overwritePageError="0.024937224462881727">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="116,922 116,925 111,925 111,920 116,922" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="116,975 116,978 111,978 111,973 116,975" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="116,1389 116,1399 111,1399 111,1387 116,1389" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="118,138 136,171 136,518 116,545 130,774 111,787 98,447 118,138" />
+    <TextLine id="l_0001" text="">
+      <Coords points="115,182 113,198 111,215 111,231 110,248 110,264 108,281 106,297 116,297 134,296 138,169 116,169 115,169 115,182" />
+    </TextLine>
+    <TextLine id="l_0002" text="A">
+      <Coords points="103,342 103,356 115,361 131,361 133,340 118,338 105,335 103,342" />
+      <Word id="l_0002-w_0001" text="A" />
+    </TextLine>
+    <TextLine id="l_0003" text="A">
+      <Coords points="100,522 116,524 134,522 134,513 116,513 100,513 100,522" />
+      <Word id="l_0003-w_0001" text="A" />
+    </TextLine>
+    <TextLine id="l_0004" text="">
+      <Coords points="121,700 120,685 120,669 118,652 116,652 95,652 95,697 116,700 121,700" />
+    </TextLine>
+    <TextLine id="l_0005" text="">
+      <Coords points="133,486 133,480 133,463 133,447 133,430 133,414 116,414 98,414 100,485 116,486 133,486" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="116,817 130,892 111,906 105,868 116,817" />
+    <TextLine id="l_0006" text="">
+      <Coords points="108,886 115,888 128,888 130,871 116,871 105,869 108,886" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="118,993 123,998 111,998 111,993 118,993" />
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="118,1019 130,1149 111,1359 105,1131 118,1019" />
+    <TextLine id="l_0007" text="A">
+      <Coords points="105,1142 116,1142 131,1141 131,1134 116,1134 105,1134 105,1142" />
+      <Word id="l_0007-w_0001" text="A" />
+    </TextLine>
+    <TextLine id="l_0008" text="">
+      <Coords points="106,1190 106,1207 116,1207 128,1205 130,1184 116,1184 105,1184 106,1190" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="118,1526 123,1728 111,1787 111,1526 118,1526" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="926,296 1069,302 1089,327 1031,368 1616,388 1609,2425 860,2445 834,2471 362,2471 342,2458 342,401 355,374 918,368 867,328 926,296" />
+    <TextLine id="l_0009" text="— 368 —">
+      <Coords points="997,299 980,299 964,297 954,297 905,305 898,310 882,319 883,330 883,337 1071,337 1071,327 1068,307 1010,299 997,299" />
+      <Word id="l_0009-w_0001" text="—" />
+      <Word id="l_0009-w_0002" text="368" />
+      <Word id="l_0009-w_0003" text="—" />
+    </TextLine>
+    <TextLine id="l_0010" text="förmige Anordnung und besteht aus einem äussern, vorwiegend">
+      <Coords points="1601,386 1584,386 1568,386 1551,384 1535,384 1518,384 1502,383 1486,383 1469,383 1453,381 1436,381 1420,381 1403,379 1387,379 1370,379 1354,378 1337,378 1321,378 1306,376 1291,376 1288,376 1272,376 1267,374 1087,373 1086,373 350,381 352,409 352,422 1602,419 1604,406 1601,386 1601,386" />
+      <Word id="l_0010-w_0001" text="förmige" />
+      <Word id="l_0010-w_0002" text="Anordnung" />
+      <Word id="l_0010-w_0003" text="und" />
+      <Word id="l_0010-w_0004" text="besteht" />
+      <Word id="l_0010-w_0005" text="aus" />
+      <Word id="l_0010-w_0006" text="einem" />
+      <Word id="l_0010-w_0007" text="äussern," />
+      <Word id="l_0010-w_0008" text="vorwiegend" />
+    </TextLine>
+    <TextLine id="l_0011" text="kristallinischen Gebirgskranz und zwei, diesem am Innenrande">
+      <Coords points="352,457 350,470 1601,473 1604,460 1604,434 1592,425 1591,425 1589,425 1588,425 1212,434 1173,425 1171,425 1170,425 1135,434 1122,425 1120,425 1119,425 1117,425 1026,434 1013,425 1012,425 1010,425 1008,425 1007,425 990,434 840,434 831,424 829,424 827,424 673,424 671,424 669,424 668,424 656,432 352,425 352,457" />
+      <Word id="l_0011-w_0001" text="kristallinischen" />
+      <Word id="l_0011-w_0002" text="Gebirgskranz" />
+      <Word id="l_0011-w_0003" text="und" />
+      <Word id="l_0011-w_0004" text="zwei," />
+      <Word id="l_0011-w_0005" text="diesem" />
+      <Word id="l_0011-w_0006" text="am" />
+      <Word id="l_0011-w_0007" text="Innenrande" />
+    </TextLine>
+    <TextLine id="l_0012" text="angelagerten, grossen Senkungsfeldern. Jener äussere Wall er-">
+      <Coords points="352,513 352,527 1597,524 1599,509 1596,486 1433,476 1431,476 1430,476 1428,476 1416,486 1295,486 1273,476 1272,476 1270,476 1268,476 1267,476 1257,486 1181,486 1151,476 1150,476 1148,476 1147,476 1145,476 1133,486 1064,486 985,476 984,476 982,476 949,486 880,478 878,478 877,478 840,486 801,478 799,478 798,478 796,478 784,488 600,488 360,478 358,478 357,478 355,478 355,480 350,483 352,513" />
+      <Word id="l_0012-w_0001" text="angelagerten," />
+      <Word id="l_0012-w_0002" text="grossen" />
+      <Word id="l_0012-w_0003" text="Senkungsfeldern." />
+      <Word id="l_0012-w_0004" text="Jener" />
+      <Word id="l_0012-w_0005" text="äussere" />
+      <Word id="l_0012-w_0006" text="Wall" />
+      <Word id="l_0012-w_0007" text="er-" />
+    </TextLine>
+    <TextLine id="l_0013" text="streckt sich in weiter Ausdehnung von dem Thüringer Wald">
+      <Coords points="350,562 348,575 362,583 363,583 365,583 366,583 812,575 824,583 826,583 827,583 979,585 980,587 1063,587 1063,585 1064,585 1066,585 1076,577 1119,585 1120,587 1120,585 1165,577 1186,585 1188,585 1189,585 1601,575 1602,565 1599,531 987,539 949,527 947,527 946,527 896,537 742,527 740,527 738,527 719,536 622,529 620,529 618,529 585,537 536,527 534,527 533,527 493,537 452,527 450,527 449,527 447,527 445,527 431,537 385,529 383,529 350,536 350,562" />
+      <Word id="l_0013-w_0001" text="streckt" />
+      <Word id="l_0013-w_0002" text="sich" />
+      <Word id="l_0013-w_0003" text="in" />
+      <Word id="l_0013-w_0004" text="weiter" />
+      <Word id="l_0013-w_0005" text="Ausdehnung" />
+      <Word id="l_0013-w_0006" text="von" />
+      <Word id="l_0013-w_0007" text="dem" />
+      <Word id="l_0013-w_0008" text="Thüringer" />
+      <Word id="l_0013-w_0009" text="Wald" />
+    </TextLine>
+    <TextLine id="l_0014" text="und dem Fichtelgebirge über das Böhmisch-Sächsische Erz-">
+      <Coords points="352,616 352,629 817,638 819,638 821,638 842,629 1209,636 1211,636 1273,628 1283,636 1285,636 1286,636 1288,638 1486,638 1486,636 1487,636 1509,628 1535,636 1537,636 1538,636 1597,626 1599,613 1596,590 1543,580 1541,580 1540,580 1504,588 1286,580 1285,580 1283,580 1262,588 1245,580 1244,580 1242,580 1240,580 1217,588 1193,580 1191,580 1189,580 1148,588 1077,580 1076,580 1031,588 1003,580 1002,580 1000,580 998,580 970,590 564,582 562,582 561,582 536,590 467,582 465,582 464,582 441,590 417,582 416,582 414,582 350,592 352,616" />
+      <Word id="l_0014-w_0001" text="und" />
+      <Word id="l_0014-w_0002" text="dem" />
+      <Word id="l_0014-w_0003" text="Fichtelgebirge" />
+      <Word id="l_0014-w_0004" text="über" />
+      <Word id="l_0014-w_0005" text="das" />
+      <Word id="l_0014-w_0006" text="Böhmisch-Sächsische" />
+      <Word id="l_0014-w_0007" text="Erz-" />
+    </TextLine>
+    <TextLine id="l_0015" text="gebirge und die Sudeten bis zur Odersenke bei Ostrau und bis">
+      <Coords points="352,670 352,685 1601,680 1602,667 1601,642 1579,633 1578,633 1576,633 1530,641 1520,633 1518,633 1517,633 1515,633 1513,633 1512,633 1497,642 1336,642 1308,633 1306,633 1304,633 1303,633 1301,633 1291,641 1281,633 1280,633 1278,633 1277,633 1275,633 1250,641 1232,633 1230,633 1229,633 1227,633 1193,641 1173,633 1171,633 1170,633 1086,641 1017,633 1015,633 956,642 870,634 868,634 867,634 847,642 626,634 625,634 623,634 607,642 582,634 580,634 579,634 500,642 401,634 399,634 350,644 352,670" />
+      <Word id="l_0015-w_0001" text="gebirge" />
+      <Word id="l_0015-w_0002" text="und" />
+      <Word id="l_0015-w_0003" text="die" />
+      <Word id="l_0015-w_0004" text="Sudeten" />
+      <Word id="l_0015-w_0005" text="bis" />
+      <Word id="l_0015-w_0006" text="zur" />
+      <Word id="l_0015-w_0007" text="Odersenke" />
+      <Word id="l_0015-w_0008" text="bei" />
+      <Word id="l_0015-w_0009" text="Ostrau" />
+      <Word id="l_0015-w_0010" text="und" />
+      <Word id="l_0015-w_0011" text="bis" />
+    </TextLine>
+    <TextLine id="l_0016" text="zu dem Hügellande bei Brünn.">
+      <Coords points="352,720 350,735 352,736 353,736 353,738 355,738 357,738 358,738 518,731 663,740 664,740 974,731 975,723 974,695 840,685 839,685 837,685 835,685 826,693 809,685 808,685 806,685 804,685 784,693 763,685 761,685 760,685 758,685 737,693 709,685 707,685 705,685 668,693 648,684 646,684 645,684 605,692 574,684 572,684 571,684 352,690 352,720" />
+      <Word id="l_0016-w_0001" text="zu" />
+      <Word id="l_0016-w_0002" text="dem" />
+      <Word id="l_0016-w_0003" text="Hügellande" />
+      <Word id="l_0016-w_0004" text="bei" />
+      <Word id="l_0016-w_0005" text="Brünn." />
+    </TextLine>
+    <TextLine id="l_0017" text="Von dem äussern Gebirgskranz werden die beiden Sen-">
+      <Coords points="459,774 459,786 1599,782 1601,771 1597,746 1532,736 1530,736 1528,736 1502,744 1439,736 1438,736 1400,744 1370,736 1369,736 1367,736 1365,736 1364,736 1352,744 1314,736 1313,736 1311,736 1285,744 1207,736 1206,736 1204,736 1186,746 1012,746 1000,738 998,738 997,738 995,738 946,746 926,738 924,738 840,738 839,738 837,738 835,738 826,746 457,743 459,774" />
+      <Word id="l_0017-w_0001" text="Von" />
+      <Word id="l_0017-w_0002" text="dem" />
+      <Word id="l_0017-w_0003" text="äussern" />
+      <Word id="l_0017-w_0004" text="Gebirgskranz" />
+      <Word id="l_0017-w_0005" text="werden" />
+      <Word id="l_0017-w_0006" text="die" />
+      <Word id="l_0017-w_0007" text="beiden" />
+      <Word id="l_0017-w_0008" text="Sen-" />
+    </TextLine>
+    <TextLine id="l_0018" text="kungsfelder, das westliche kleinere und das östliche grössere,">
+      <Coords points="350,828 350,838 1601,840 1604,825 1601,799 1321,789 1319,789 1318,789 1288,797 1277,789 1275,789 1273,789 1272,789 1219,797 1191,789 1189,789 1188,789 1186,789 1165,797 1145,789 1143,789 1142,789 1140,789 1138,789 1128,799 1002,799 979,789 977,789 975,789 895,799 855,790 854,790 666,799 631,790 630,790 628,790 587,799 358,790 357,790 355,790 353,790 353,792 348,795 350,828" />
+      <Word id="l_0018-w_0001" text="kungsfelder," />
+      <Word id="l_0018-w_0002" text="das" />
+      <Word id="l_0018-w_0003" text="westliche" />
+      <Word id="l_0018-w_0004" text="kleinere" />
+      <Word id="l_0018-w_0005" text="und" />
+      <Word id="l_0018-w_0006" text="das" />
+      <Word id="l_0018-w_0007" text="östliche" />
+      <Word id="l_0018-w_0008" text="grössere," />
+    </TextLine>
+    <TextLine id="l_0019" text="durch zwei grosse, in einem stumpfen Winkel sich treffende">
+      <Coords points="352,878 352,889 735,897 737,897 806,888 961,888 974,896 975,896 977,896 979,897 1137,897 1137,896 1138,896 1166,888 1178,896 1179,896 1181,896 1183,896 1184,896 1206,888 1293,894 1295,894 1296,894 1298,894 1308,886 1336,894 1337,894 1339,894 1416,886 1430,894 1431,894 1433,894 1434,896 1589,896 1589,894 1591,894 1592,894 1602,884 1602,873 1601,850 1576,840 1574,840 1573,840 1571,840 1553,848 1354,840 1352,840 1313,848 1295,840 1293,840 1291,840 1290,840 1267,848 1184,840 1183,840 1181,840 1151,850 845,841 844,841 806,850 770,841 768,841 766,841 765,841 763,841 752,851 370,843 368,843 366,843 365,843 350,850 352,878" />
+      <Word id="l_0019-w_0001" text="durch" />
+      <Word id="l_0019-w_0002" text="zwei" />
+      <Word id="l_0019-w_0003" text="grosse," />
+      <Word id="l_0019-w_0004" text="in" />
+      <Word id="l_0019-w_0005" text="einem" />
+      <Word id="l_0019-w_0006" text="stumpfen" />
+      <Word id="l_0019-w_0007" text="Winkel" />
+      <Word id="l_0019-w_0008" text="sich" />
+      <Word id="l_0019-w_0009" text="treffende" />
+    </TextLine>
+    <TextLine id="l_0020" text="Bruchspalten abgetrennt. Jene breiten sich bis zum Nordrande">
+      <Coords points="352,932 352,943 1601,938 1602,927 1599,901 350,899 352,932" />
+      <Word id="l_0020-w_0001" text="Bruchspalten" />
+      <Word id="l_0020-w_0002" text="abgetrennt." />
+      <Word id="l_0020-w_0003" text="Jene" />
+      <Word id="l_0020-w_0004" text="breiten" />
+      <Word id="l_0020-w_0005" text="sich" />
+      <Word id="l_0020-w_0006" text="bis" />
+      <Word id="l_0020-w_0007" text="zum" />
+      <Word id="l_0020-w_0008" text="Nordrande" />
+    </TextLine>
+    <TextLine id="l_0021" text="des südböhmischen Massivs aus. Die eine der beiden grossen">
+      <Coords points="352,983 352,994 1601,991 1602,980 1599,955 1352,945 1351,945 1349,945 1323,953 1309,945 1308,945 1306,945 1304,945 1303,945 1273,953 1244,945 1242,945 1240,945 1183,953 1151,945 1150,945 1148,945 1102,953 1036,945 1035,945 954,955 469,947 467,947 421,955 368,947 366,947 365,947 363,947 350,953 352,983" />
+      <Word id="l_0021-w_0001" text="des" />
+      <Word id="l_0021-w_0002" text="südböhmischen" />
+      <Word id="l_0021-w_0003" text="Massivs" />
+      <Word id="l_0021-w_0004" text="aus." />
+      <Word id="l_0021-w_0005" text="Die" />
+      <Word id="l_0021-w_0006" text="eine" />
+      <Word id="l_0021-w_0007" text="der" />
+      <Word id="l_0021-w_0008" text="beiden" />
+      <Word id="l_0021-w_0009" text="grossen" />
+    </TextLine>
+    <TextLine id="l_0022" text="Bruchspalten, der Erzgebirgsbruch, ist bezeichnet durch den">
+      <Coords points="352,1036 352,1047 1602,1044 1604,1032 1601,1008 1550,998 1548,998 1546,998 1528,1006 1484,998 1482,998 1481,998 1456,1006 1411,998 1410,998 1408,998 1392,1006 1359,998 1357,998 1356,998 1354,998 1331,1006 1290,998 1288,998 1227,1006 1171,998 1170,998 1168,998 1148,1006 1130,998 1128,998 1127,998 961,1008 947,999 946,999 944,999 942,999 895,1008 873,999 872,999 870,999 794,1008 758,999 756,999 755,999 712,1008 669,999 668,999 666,999 641,1008 562,999 561,999 350,1004 352,1036" />
+      <Word id="l_0022-w_0001" text="Bruchspalten," />
+      <Word id="l_0022-w_0002" text="der" />
+      <Word id="l_0022-w_0003" text="Erzgebirgsbruch," />
+      <Word id="l_0022-w_0004" text="ist" />
+      <Word id="l_0022-w_0005" text="bezeichnet" />
+      <Word id="l_0022-w_0006" text="durch" />
+      <Word id="l_0022-w_0007" text="den" />
+    </TextLine>
+    <TextLine id="l_0023" text="Südrand des Erzgebirges und verläuft von Eger über Komotau">
+      <Coords points="352,1090 352,1100 1569,1105 1571,1105 1573,1105 1604,1095 1604,1085 1601,1059 1428,1049 1426,1049 1364,1057 1352,1049 1351,1049 1349,1049 1347,1049 1263,1057 1211,1049 1209,1049 1207,1049 1170,1059 1021,1050 1020,1050 946,1059 928,1050 926,1050 924,1050 923,1050 921,1050 910,1060 350,1060 352,1090" />
+      <Word id="l_0023-w_0001" text="Südrand" />
+      <Word id="l_0023-w_0002" text="des" />
+      <Word id="l_0023-w_0003" text="Erzgebirges" />
+      <Word id="l_0023-w_0004" text="und" />
+      <Word id="l_0023-w_0005" text="verläuft" />
+      <Word id="l_0023-w_0006" text="von" />
+      <Word id="l_0023-w_0007" text="Eger" />
+      <Word id="l_0023-w_0008" text="über" />
+      <Word id="l_0023-w_0009" text="Komotau" />
+    </TextLine>
+    <TextLine id="l_0024" text="nach Teschen an der Elbe. Auf ihm liegen die Braunkohlenlager">
+      <Coords points="352,1139 352,1152 1601,1147 1602,1134 1599,1110 773,1103 771,1103 770,1103 768,1103 758,1111 422,1105 421,1105 350,1113 352,1139" />
+      <Word id="l_0024-w_0001" text="nach" />
+      <Word id="l_0024-w_0002" text="Teschen" />
+      <Word id="l_0024-w_0003" text="an" />
+      <Word id="l_0024-w_0004" text="der" />
+      <Word id="l_0024-w_0005" text="Elbe." />
+      <Word id="l_0024-w_0006" text="Auf" />
+      <Word id="l_0024-w_0007" text="ihm" />
+      <Word id="l_0024-w_0008" text="liegen" />
+      <Word id="l_0024-w_0009" text="die" />
+      <Word id="l_0024-w_0010" text="Braunkohlenlager" />
+    </TextLine>
+    <TextLine id="l_0025" text="von Eger, Falkenau und Komotau-Teplitz. Längs des Erzgebirgs-">
+      <Coords points="352,1190 352,1205 1597,1202 1599,1187 1596,1162 1015,1154 1013,1154 970,1162 437,1156 436,1156 350,1164 352,1190" />
+      <Word id="l_0025-w_0001" text="von" />
+      <Word id="l_0025-w_0002" text="Eger," />
+      <Word id="l_0025-w_0003" text="Falkenau" />
+      <Word id="l_0025-w_0004" text="und" />
+      <Word id="l_0025-w_0005" text="Komotau-Teplitz." />
+      <Word id="l_0025-w_0006" text="Längs" />
+      <Word id="l_0025-w_0007" text="des" />
+      <Word id="l_0025-w_0008" text="Erzgebirgs-" />
+    </TextLine>
+    <TextLine id="l_0026" text="bruches sind tertiäre Eruptivgesteine emporgedrungen (Basalt,">
+      <Coords points="352,1241 350,1253 1599,1256 1602,1244 1601,1216 352,1211 352,1241" />
+      <Word id="l_0026-w_0001" text="bruches" />
+      <Word id="l_0026-w_0002" text="sind" />
+      <Word id="l_0026-w_0003" text="tertiäre" />
+      <Word id="l_0026-w_0004" text="Eruptivgesteine" />
+      <Word id="l_0026-w_0005" text="emporgedrungen" />
+      <Word id="l_0026-w_0006" text="(Basalt," />
+    </TextLine>
+    <TextLine id="l_0027" text="Phonolit), aus denen ein kleiner Teil des Fichtelgebirges, das">
+      <Coords points="350,1295 350,1307 538,1315 539,1315 541,1315 543,1315 552,1307 1599,1307 1601,1292 1597,1266 1550,1256 1548,1256 1546,1256 1545,1256 1532,1266 1385,1258 1383,1258 1382,1258 1352,1266 1332,1256 1331,1256 1329,1256 1328,1256 1306,1266 1273,1256 1272,1256 1270,1256 1161,1266 1137,1256 1135,1256 1133,1256 1132,1256 1109,1266 1097,1256 1095,1256 1094,1256 1021,1256 1020,1256 962,1267 936,1258 934,1258 868,1258 867,1258 865,1258 863,1258 852,1267 817,1258 816,1258 814,1258 812,1258 788,1267 674,1258 673,1258 671,1258 650,1269 544,1269 531,1258 529,1258 528,1258 526,1258 348,1261 350,1295" />
+      <Word id="l_0027-w_0001" text="Phonolit)," />
+      <Word id="l_0027-w_0002" text="aus" />
+      <Word id="l_0027-w_0003" text="denen" />
+      <Word id="l_0027-w_0004" text="ein" />
+      <Word id="l_0027-w_0005" text="kleiner" />
+      <Word id="l_0027-w_0006" text="Teil" />
+      <Word id="l_0027-w_0007" text="des" />
+      <Word id="l_0027-w_0008" text="Fichtelgebirges," />
+      <Word id="l_0027-w_0009" text="das" />
+    </TextLine>
+    <TextLine id="l_0028" text="Dupauer Gebirge und das Böhmische Mittelgebirge sich auf-">
+      <Coords points="350,1348 350,1359 1602,1359 1602,1348 1602,1318 1578,1310 1576,1310 1574,1310 1573,1310 1571,1310 1558,1318 1481,1310 1479,1310 1477,1310 1476,1310 1464,1318 1449,1310 1448,1310 1446,1310 1444,1310 1425,1318 1328,1310 1326,1310 1278,1318 1250,1310 1249,1310 1142,1310 1140,1310 1138,1310 1137,1310 1127,1318 1082,1310 1081,1310 1079,1310 1054,1318 1031,1310 1030,1310 1028,1310 982,1318 972,1310 970,1310 969,1310 967,1310 896,1318 842,1310 840,1310 839,1310 819,1318 788,1310 786,1310 784,1310 783,1310 763,1320 654,1320 635,1310 633,1310 631,1310 350,1313 350,1348" />
+      <Word id="l_0028-w_0001" text="Dupauer" />
+      <Word id="l_0028-w_0002" text="Gebirge" />
+      <Word id="l_0028-w_0003" text="und" />
+      <Word id="l_0028-w_0004" text="das" />
+      <Word id="l_0028-w_0005" text="Böhmische" />
+      <Word id="l_0028-w_0006" text="Mittelgebirge" />
+      <Word id="l_0028-w_0007" text="sich" />
+      <Word id="l_0028-w_0008" text="auf-" />
+    </TextLine>
+    <TextLine id="l_0029" text="bauen. Die andere der beiden grossen Bruchspalten. der Elbe-">
+      <Coords points="350,1401 350,1412 1601,1409 1602,1397 1599,1373 1541,1363 1540,1363 1486,1371 1438,1363 1436,1363 1434,1363 1418,1371 1326,1363 1324,1363 1323,1363 1298,1371 1239,1363 1237,1363 1235,1363 1206,1371 1161,1363 1160,1363 974,1373 910,1364 908,1364 855,1373 842,1364 840,1364 839,1364 837,1364 835,1364 814,1373 770,1364 768,1364 766,1364 742,1373 664,1364 663,1364 592,1373 556,1364 554,1364 552,1364 348,1369 350,1401" />
+      <Word id="l_0029-w_0001" text="bauen." />
+      <Word id="l_0029-w_0002" text="Die" />
+      <Word id="l_0029-w_0003" text="andere" />
+      <Word id="l_0029-w_0004" text="der" />
+      <Word id="l_0029-w_0005" text="beiden" />
+      <Word id="l_0029-w_0006" text="grossen" />
+      <Word id="l_0029-w_0007" text="Bruchspalten." />
+      <Word id="l_0029-w_0008" text="der" />
+      <Word id="l_0029-w_0009" text="Elbe-" />
+    </TextLine>
+    <TextLine id="l_0030" text="bruch, verläuft am Nordrande der Sudeten und ist bezeichnet">
+      <Coords points="350,1453 350,1466 1604,1466 1604,1453 1604,1424 1592,1417 1591,1417 1589,1417 1588,1417 1586,1417 1561,1425 1522,1417 1520,1417 1462,1425 1405,1417 1403,1417 1402,1417 1383,1425 1370,1417 1369,1417 1367,1417 1365,1417 1364,1417 1362,1417 1351,1425 1339,1417 1337,1417 1336,1417 1334,1417 1332,1417 1318,1425 1308,1417 1306,1417 1304,1417 1303,1417 1301,1417 1281,1425 1153,1417 1151,1417 1099,1425 1076,1417 1074,1417 1072,1417 1071,1417 1040,1425 990,1417 989,1417 987,1417 965,1425 924,1417 923,1417 921,1417 900,1425 839,1417 837,1417 796,1425 780,1417 778,1417 776,1417 729,1427 651,1427 641,1417 640,1417 638,1417 636,1417 350,1420 350,1453" />
+      <Word id="l_0030-w_0001" text="bruch," />
+      <Word id="l_0030-w_0002" text="verläuft" />
+      <Word id="l_0030-w_0003" text="am" />
+      <Word id="l_0030-w_0004" text="Nordrande" />
+      <Word id="l_0030-w_0005" text="der" />
+      <Word id="l_0030-w_0006" text="Sudeten" />
+      <Word id="l_0030-w_0007" text="und" />
+      <Word id="l_0030-w_0008" text="ist" />
+      <Word id="l_0030-w_0009" text="bezeichnet" />
+    </TextLine>
+    <TextLine id="l_0031" text="durch die Linie Dresden-Josephstadt-Zwittau.">
+      <Coords points="348,1503 347,1512 829,1524 831,1524 1309,1516 1311,1506 1309,1480 1147,1468 1145,1468 1143,1468 1109,1478 1077,1468 1076,1468 1074,1468 1072,1468 1071,1468 1061,1478 1036,1468 1035,1468 1033,1468 1031,1468 1007,1478 990,1468 989,1468 987,1468 985,1468 916,1478 885,1468 883,1468 882,1468 880,1468 878,1468 878,1470 868,1480 837,1480 793,1466 791,1466 789,1466 788,1466 786,1466 771,1476 705,1466 704,1466 702,1466 669,1476 636,1466 635,1466 566,1466 564,1466 562,1466 538,1476 500,1466 498,1466 496,1466 495,1466 460,1476 447,1466 445,1466 444,1466 442,1466 441,1466 401,1476 370,1466 368,1466 366,1466 365,1466 348,1475 348,1503" />
+      <Word id="l_0031-w_0001" text="durch" />
+      <Word id="l_0031-w_0002" text="die" />
+      <Word id="l_0031-w_0003" text="Linie" />
+      <Word id="l_0031-w_0004" text="Dresden-Josephstadt-Zwittau." />
+    </TextLine>
+    <TextLine id="l_0032" text="Das westliche, kleinere der beiden Senkungsfelder liegt">
+      <Coords points="449,1558 449,1570 1601,1567 1602,1555 1599,1529 1415,1519 1413,1519 1411,1519 1410,1519 1402,1527 1372,1519 1370,1519 1369,1519 1367,1519 1365,1519 1356,1529 1285,1529 1265,1519 1263,1519 1262,1519 1260,1519 1235,1527 1196,1519 1194,1519 1143,1527 1092,1519 1091,1519 1089,1519 1066,1527 1048,1519 1046,1519 1044,1519 1043,1519 1021,1529 975,1521 974,1521 972,1521 954,1529 636,1521 635,1521 513,1529 455,1521 454,1521 452,1521 450,1521 450,1522 449,1522 447,1522 449,1558" />
+      <Word id="l_0032-w_0001" text="Das" />
+      <Word id="l_0032-w_0002" text="westliche," />
+      <Word id="l_0032-w_0003" text="kleinere" />
+      <Word id="l_0032-w_0004" text="der" />
+      <Word id="l_0032-w_0005" text="beiden" />
+      <Word id="l_0032-w_0006" text="Senkungsfelder" />
+      <Word id="l_0032-w_0007" text="liegt" />
+    </TextLine>
+    <TextLine id="l_0033" text="zwischen dem Erzgebirgsbruch und dem durch die Linie Kolin-">
+      <Coords points="350,1609 350,1623 1596,1623 1596,1609 1596,1583 1339,1573 1337,1573 1336,1573 1334,1573 1321,1581 1283,1573 1281,1573 1280,1573 1250,1581 1237,1573 1235,1573 1234,1573 1232,1573 1181,1581 1161,1573 1160,1573 1158,1573 1092,1581 1066,1573 1064,1573 1063,1573 1061,1573 1059,1573 1048,1581 1031,1573 1030,1573 1028,1573 1026,1573 1025,1573 1015,1583 949,1583 931,1573 929,1573 928,1573 863,1581 845,1573 844,1573 842,1573 798,1581 748,1573 747,1573 701,1581 638,1573 636,1573 590,1581 562,1573 561,1573 559,1573 557,1573 556,1573 546,1583 487,1583 467,1573 465,1573 464,1573 462,1573 441,1581 416,1573 414,1573 413,1573 350,1581 350,1609" />
+      <Word id="l_0033-w_0001" text="zwischen" />
+      <Word id="l_0033-w_0002" text="dem" />
+      <Word id="l_0033-w_0003" text="Erzgebirgsbruch" />
+      <Word id="l_0033-w_0004" text="und" />
+      <Word id="l_0033-w_0005" text="dem" />
+      <Word id="l_0033-w_0006" text="durch" />
+      <Word id="l_0033-w_0007" text="die" />
+      <Word id="l_0033-w_0008" text="Linie" />
+      <Word id="l_0033-w_0009" text="Kolin-" />
+    </TextLine>
+    <TextLine id="l_0034" text="Klattau bezeichneten Nordrande des südböhmischen Massivs">
+      <Coords points="352,1657 350,1669 1599,1672 1602,1660 1601,1634 352,1626 352,1657" />
+      <Word id="l_0034-w_0001" text="Klattau" />
+      <Word id="l_0034-w_0002" text="bezeichneten" />
+      <Word id="l_0034-w_0003" text="Nordrande" />
+      <Word id="l_0034-w_0004" text="des" />
+      <Word id="l_0034-w_0005" text="südböhmischen" />
+      <Word id="l_0034-w_0006" text="Massivs" />
+    </TextLine>
+    <TextLine id="l_0035" text="und erstreckt sich von dem nördlichen, auch zum südböhmischen">
+      <Coords points="352,1710 350,1723 1597,1726 1601,1713 1599,1687 352,1683 352,1710" />
+      <Word id="l_0035-w_0001" text="und" />
+      <Word id="l_0035-w_0002" text="erstreckt" />
+      <Word id="l_0035-w_0003" text="sich" />
+      <Word id="l_0035-w_0004" text="von" />
+      <Word id="l_0035-w_0005" text="dem" />
+      <Word id="l_0035-w_0006" text="nördlichen," />
+      <Word id="l_0035-w_0007" text="auch" />
+      <Word id="l_0035-w_0008" text="zum" />
+      <Word id="l_0035-w_0009" text="südböhmischen" />
+    </TextLine>
+    <TextLine id="l_0036" text="Massiv gehörigen Teil des Böhmerwaldes bis zu den Bruch-">
+      <Coords points="350,1762 350,1777 1599,1777 1599,1762 1599,1736 1564,1728 1563,1728 1561,1728 1560,1728 1537,1736 1486,1728 1484,1728 1482,1728 1449,1736 1395,1728 1393,1728 1392,1728 1375,1736 1258,1728 1257,1728 1216,1736 1153,1728 1151,1728 1097,1738 989,1738 977,1728 975,1728 974,1728 972,1728 901,1736 849,1728 847,1728 845,1728 826,1736 796,1728 794,1728 724,1728 722,1728 720,1728 719,1728 709,1736 628,1728 626,1728 350,1733 350,1762" />
+      <Word id="l_0036-w_0001" text="Massiv" />
+      <Word id="l_0036-w_0002" text="gehörigen" />
+      <Word id="l_0036-w_0003" text="Teil" />
+      <Word id="l_0036-w_0004" text="des" />
+      <Word id="l_0036-w_0005" text="Böhmerwaldes" />
+      <Word id="l_0036-w_0006" text="bis" />
+      <Word id="l_0036-w_0007" text="zu" />
+      <Word id="l_0036-w_0008" text="den" />
+      <Word id="l_0036-w_0009" text="Bruch-" />
+    </TextLine>
+    <TextLine id="l_0037" text="spalten an der Elbe zwischen Leitmeritz-Kolin, welche es von">
+      <Coords points="350,1813 348,1825 1597,1828 1601,1817 1599,1790 350,1787 350,1813" />
+      <Word id="l_0037-w_0001" text="spalten" />
+      <Word id="l_0037-w_0002" text="an" />
+      <Word id="l_0037-w_0003" text="der" />
+      <Word id="l_0037-w_0004" text="Elbe" />
+      <Word id="l_0037-w_0005" text="zwischen" />
+      <Word id="l_0037-w_0006" text="Leitmeritz-Kolin," />
+      <Word id="l_0037-w_0007" text="welche" />
+      <Word id="l_0037-w_0008" text="es" />
+      <Word id="l_0037-w_0009" text="von" />
+    </TextLine>
+    <TextLine id="l_0038" text="dem östlichen Senkungsfelde trennen. Das westliche Senkungsfeld">
+      <Coords points="348,1866 347,1881 1597,1884 1601,1869 1597,1835 348,1836 348,1866" />
+      <Word id="l_0038-w_0001" text="dem" />
+      <Word id="l_0038-w_0002" text="östlichen" />
+      <Word id="l_0038-w_0003" text="Senkungsfelde" />
+      <Word id="l_0038-w_0004" text="trennen." />
+      <Word id="l_0038-w_0005" text="Das" />
+      <Word id="l_0038-w_0006" text="westliche" />
+      <Word id="l_0038-w_0007" text="Senkungsfeld" />
+    </TextLine>
+    <TextLine id="l_0039" text="ist von kristallinischen Gesteinen und paläozoischen Sedimenten">
+      <Coords points="348,1919 347,1933 1597,1937 1601,1922 1599,1894 348,1891 348,1919" />
+      <Word id="l_0039-w_0001" text="ist" />
+      <Word id="l_0039-w_0002" text="von" />
+      <Word id="l_0039-w_0003" text="kristallinischen" />
+      <Word id="l_0039-w_0004" text="Gesteinen" />
+      <Word id="l_0039-w_0005" text="und" />
+      <Word id="l_0039-w_0006" text="paläozoischen" />
+      <Word id="l_0039-w_0007" text="Sedimenten" />
+    </TextLine>
+    <TextLine id="l_0040" text="erfüllt und wird durch ein System von Bruchspalten weiter">
+      <Coords points="350,1971 348,1981 422,1993 424,1993 477,1984 503,1993 505,1993 506,1993 926,1984 977,1994 979,1994 1081,1986 1270,1994 1272,1994 1599,1984 1601,1974 1599,1947 350,1947 350,1971" />
+      <Word id="l_0040-w_0001" text="erfüllt" />
+      <Word id="l_0040-w_0002" text="und" />
+      <Word id="l_0040-w_0003" text="wird" />
+      <Word id="l_0040-w_0004" text="durch" />
+      <Word id="l_0040-w_0005" text="ein" />
+      <Word id="l_0040-w_0006" text="System" />
+      <Word id="l_0040-w_0007" text="von" />
+      <Word id="l_0040-w_0008" text="Bruchspalten" />
+      <Word id="l_0040-w_0009" text="weiter" />
+    </TextLine>
+    <TextLine id="l_0041" text="gegliedert, die dem Erzgebirgsbruch parallel streichen und im">
+      <Coords points="350,2027 350,2042 1601,2040 1601,2027 1601,2001 350,2001 350,2027" />
+      <Word id="l_0041-w_0001" text="gegliedert," />
+      <Word id="l_0041-w_0002" text="die" />
+      <Word id="l_0041-w_0003" text="dem" />
+      <Word id="l_0041-w_0004" text="Erzgebirgsbruch" />
+      <Word id="l_0041-w_0005" text="parallel" />
+      <Word id="l_0041-w_0006" text="streichen" />
+      <Word id="l_0041-w_0007" text="und" />
+      <Word id="l_0041-w_0008" text="im" />
+    </TextLine>
+    <TextLine id="l_0042" text="erzreichen Brdywald (857 m), der höchsten Erhebung des">
+      <Coords points="350,2076 348,2088 437,2098 439,2098 933,2091 977,2099 979,2099 1599,2091 1601,2080 1599,2053 1556,2044 1555,2044 1553,2044 1527,2052 1314,2044 1313,2044 1262,2052 1239,2044 1237,2044 1235,2044 1234,2044 1207,2052 1199,2044 1198,2044 1196,2044 1122,2044 1120,2044 1071,2052 1044,2044 1043,2044 1041,2044 995,2052 975,2042 974,2042 972,2042 970,2042 969,2042 959,2050 926,2042 924,2042 849,2042 847,2042 845,2042 844,2042 835,2050 814,2042 812,2042 811,2042 743,2050 664,2042 663,2042 661,2042 643,2050 603,2042 602,2042 600,2042 569,2052 505,2052 495,2042 493,2042 492,2042 490,2042 350,2048 350,2076" />
+      <Word id="l_0042-w_0001" text="erzreichen" />
+      <Word id="l_0042-w_0002" text="Brdywald" />
+      <Word id="l_0042-w_0003" text="(857" />
+      <Word id="l_0042-w_0004" text="m)," />
+      <Word id="l_0042-w_0005" text="der" />
+      <Word id="l_0042-w_0006" text="höchsten" />
+      <Word id="l_0042-w_0007" text="Erhebung" />
+      <Word id="l_0042-w_0008" text="des" />
+    </TextLine>
+    <TextLine id="l_0043" text="gebirge, das Erzgebirge und Teile der Sudeten an. Als äussere Zone schliessen">
+      <Coords points="350,2150 350,2167 1601,2164 1602,2147 1599,2126 975,2118 974,2118 972,2118 942,2126 362,2119 360,2119 358,2119 357,2119 348,2124 350,2150" />
+      <Word id="l_0043-w_0001" text="gebirge," />
+      <Word id="l_0043-w_0002" text="das" />
+      <Word id="l_0043-w_0003" text="Erzgebirge" />
+      <Word id="l_0043-w_0004" text="und" />
+      <Word id="l_0043-w_0005" text="Teile" />
+      <Word id="l_0043-w_0006" text="der" />
+      <Word id="l_0043-w_0007" text="Sudeten" />
+      <Word id="l_0043-w_0008" text="an." />
+      <Word id="l_0043-w_0009" text="Als" />
+      <Word id="l_0043-w_0010" text="äussere" />
+      <Word id="l_0043-w_0011" text="Zone" />
+      <Word id="l_0043-w_0012" text="schliessen" />
+    </TextLine>
+    <TextLine id="l_0044" text="sich daran die Gebirge des mittlern Rheins (Hundsrück, Taunus, Wester-">
+      <Coords points="350,2193 350,2208 1601,2208 1601,2193 1601,2170 350,2170 350,2193" />
+      <Word id="l_0044-w_0001" text="sich" />
+      <Word id="l_0044-w_0002" text="daran" />
+      <Word id="l_0044-w_0003" text="die" />
+      <Word id="l_0044-w_0004" text="Gebirge" />
+      <Word id="l_0044-w_0005" text="des" />
+      <Word id="l_0044-w_0006" text="mittlern" />
+      <Word id="l_0044-w_0007" text="Rheins" />
+      <Word id="l_0044-w_0008" text="(Hundsrück," />
+      <Word id="l_0044-w_0009" text="Taunus," />
+      <Word id="l_0044-w_0010" text="Wester-" />
+    </TextLine>
+    <TextLine id="l_0045" text="wald und Weserbergland), ein Teil des südlichen Belgien, der Harz,">
+      <Coords points="350,2234 348,2244 385,2254 386,2254 388,2254 543,2247 554,2256 556,2256 557,2256 559,2256 561,2256 579,2249 783,2257 784,2257 824,2249 847,2257 849,2257 850,2257 1091,2249 1204,2259 1206,2259 1252,2251 1275,2259 1277,2259 1278,2259 1599,2249 1601,2239 1599,2215 350,2210 350,2234" />
+      <Word id="l_0045-w_0001" text="wald" />
+      <Word id="l_0045-w_0002" text="und" />
+      <Word id="l_0045-w_0003" text="Weserbergland)," />
+      <Word id="l_0045-w_0004" text="ein" />
+      <Word id="l_0045-w_0005" text="Teil" />
+      <Word id="l_0045-w_0006" text="des" />
+      <Word id="l_0045-w_0007" text="südlichen" />
+      <Word id="l_0045-w_0008" text="Belgien," />
+      <Word id="l_0045-w_0009" text="der" />
+      <Word id="l_0045-w_0010" text="Harz," />
+    </TextLine>
+    <TextLine id="l_0046" text="von der böhmischen Masse die Aussenzone des Erzgebirges und die öst-">
+      <Coords points="352,2277 350,2289 780,2300 781,2300 1171,2294 1183,2302 1184,2302 1186,2302 1188,2302 1599,2294 1601,2282 1599,2259 352,2254 352,2277" />
+      <Word id="l_0046-w_0001" text="von" />
+      <Word id="l_0046-w_0002" text="der" />
+      <Word id="l_0046-w_0003" text="böhmischen" />
+      <Word id="l_0046-w_0004" text="Masse" />
+      <Word id="l_0046-w_0005" text="die" />
+      <Word id="l_0046-w_0006" text="Aussenzone" />
+      <Word id="l_0046-w_0007" text="des" />
+      <Word id="l_0046-w_0008" text="Erzgebirges" />
+      <Word id="l_0046-w_0009" text="und" />
+      <Word id="l_0046-w_0010" text="die" />
+      <Word id="l_0046-w_0011" text="öst-" />
+    </TextLine>
+    <TextLine id="l_0047" text="lichen Sudeten. Eine dritte, äusserste Zone des variskischen Bogens bestent">
+      <Coords points="348,2320 347,2335 1597,2338 1601,2323 1599,2298 348,2295 348,2320" />
+      <Word id="l_0047-w_0001" text="lichen" />
+      <Word id="l_0047-w_0002" text="Sudeten." />
+      <Word id="l_0047-w_0003" text="Eine" />
+      <Word id="l_0047-w_0004" text="dritte," />
+      <Word id="l_0047-w_0005" text="äusserste" />
+      <Word id="l_0047-w_0006" text="Zone" />
+      <Word id="l_0047-w_0007" text="des" />
+      <Word id="l_0047-w_0008" text="variskischen" />
+      <Word id="l_0047-w_0009" text="Bogens" />
+      <Word id="l_0047-w_0010" text="bestent" />
+    </TextLine>
+    <TextLine id="l_0048" text="aus flözreichen Karbonbildungen. Zu ihr gehört das belgische Kohlenrevier">
+      <Coords points="348,2363 347,2377 1597,2384 1601,2369 1599,2343 348,2340 348,2363" />
+      <Word id="l_0048-w_0001" text="aus" />
+      <Word id="l_0048-w_0002" text="flözreichen" />
+      <Word id="l_0048-w_0003" text="Karbonbildungen." />
+      <Word id="l_0048-w_0004" text="Zu" />
+      <Word id="l_0048-w_0005" text="ihr" />
+      <Word id="l_0048-w_0006" text="gehört" />
+      <Word id="l_0048-w_0007" text="das" />
+      <Word id="l_0048-w_0008" text="belgische" />
+      <Word id="l_0048-w_0009" text="Kohlenrevier" />
+    </TextLine>
+    <TextLine id="l_0049" text="bis Aachen, das an der Ruhr und das oberschlesische, welches bei Ostrau">
+      <Coords points="348,2405 347,2422 1596,2428 1599,2412 1597,2387 348,2381 348,2405" />
+      <Word id="l_0049-w_0001" text="bis" />
+      <Word id="l_0049-w_0002" text="Aachen," />
+      <Word id="l_0049-w_0003" text="das" />
+      <Word id="l_0049-w_0004" text="an" />
+      <Word id="l_0049-w_0005" text="der" />
+      <Word id="l_0049-w_0006" text="Ruhr" />
+      <Word id="l_0049-w_0007" text="und" />
+      <Word id="l_0049-w_0008" text="das" />
+      <Word id="l_0049-w_0009" text="oberschlesische," />
+      <Word id="l_0049-w_0010" text="welches" />
+      <Word id="l_0049-w_0011" text="bei" />
+      <Word id="l_0049-w_0012" text="Ostrau" />
+    </TextLine>
+    <TextLine id="l_0050" text="nach Osterreich hereinreicht.">
+      <Coords points="348,2450 347,2465 822,2471 826,2456 824,2432 348,2425 348,2450" />
+      <Word id="l_0050-w_0001" text="nach" />
+      <Word id="l_0050-w_0002" text="Osterreich" />
+      <Word id="l_0050-w_0003" text="hereinreicht." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="116,2277 116,2300 111,2300 105,2282 116,2277" />
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="116,2363 123,2425 111,2432 98,2394 116,2363" />
+    <TextLine id="l_0051" text="A">
+      <Coords points="103,2407 111,2407 128,2405 128,2392 111,2392 98,2392 103,2407" />
+      <Word id="l_0051-w_0001" text="A" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="116,1803 116,1833 111,1833 111,1802 116,1803" />
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="116,1856 116,1866 111,1866 111,1854 116,1856" />
+  </TextRegion>
+  <TextRegion id="r_0014" type="paragraph">
+    <Coords points="116,1955 130,2090 105,2162 98,2098 116,1955" />
+    <TextLine id="l_0052" text="">
+      <Coords points="98,2095 98,2111 102,2127 111,2129 118,2129 121,2091 115,2091 98,2090 98,2095" />
+    </TextLine>
+    <TextLine id="l_0053" text="A">
+      <Coords points="120,2037 120,2030 118,2014 116,2014 92,2014 97,2035 116,2037 120,2037" />
+      <Word id="l_0053-w_0001" text="A" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0015" type="paragraph">
+    <Coords points="111,2460 123,2460 123,2465 111,2471 111,2460" />
+  </TextRegion>
+  <TextRegion id="r_0016" type="paragraph">
+    <Coords points="116,2535 116,2550 111,2550 111,2532 116,2535" />
+  </TextRegion>
+  <TextRegion id="r_0017" type="paragraph">
+    <Coords points="116,2562 116,2583 111,2583 111,2558 116,2562" />
+  </TextRegion>
+</Page>

@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740403088_00000146.bin.png" imageHeight="2960" imageWidth="1804" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="1159,868 1218,1039 1195,1164 1350,1177 1429,1243 1430,1302 1626,1315 1646,1335 1665,1399 1608,1412 1606,1432 1632,1511 1659,1519 1632,1552 1659,1585 1632,1604 1652,1688 1586,1723 1646,1782 1639,1833 1534,1859 1226,1859 1147,1892 414,1833 394,1813 414,1743 662,1741 414,1734 388,1728 388,1690 596,1683 636,1572 667,1572 669,1545 636,1537 661,1504 545,1491 524,1452 394,1458 381,1355 361,1373 355,1346 381,1333 394,1262 667,1256 939,1164 1134,1170 1116,1091 1159,868" />
+    <TextLine id="l_0001" text="1">
+      <Coords points="580,1476 580,1496 596,1499 598,1476 598,1427 580,1424 580,1476" />
+      <Word id="l_0001-w_0001" text="1" error_score="0.972" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0002" text="">
+      <Coords points="1103,1425 1103,1443 1151,1450 1154,1424 1147,1387 1118,1401 1101,1397 1103,1425" />
+    </TextLine>
+    <TextLine id="l_0003" text="">
+      <Coords points="715,1646 715,1652 763,1662 764,1662 948,1657 1011,1646 1113,1652 1114,1652 1116,1652 1118,1652 1128,1644 1128,1634 1123,1611 873,1623 713,1613 715,1646" />
+    </TextLine>
+    <TextLine id="l_0004" text="be">
+      <Coords points="1399,1218 1358,1216 1330,1187 1330,1185 1328,1185 1327,1185 1325,1185 1323,1185 1294,1195 1277,1182 1276,1182 1274,1182 1272,1182 1271,1182 1269,1182 1253,1192 1197,1188 1193,1266 1192,1272 1289,1282 1318,1310 1318,1312 1320,1312 1322,1312 1323,1312 1399,1307 1402,1279 1402,1223 1399,1218" />
+      <Word id="l_0004-w_0001" text="be" error_score="0.972" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0005" text="">
+      <Coords points="1504,1307 1498,1305 1460,1318 1445,1308 1443,1308 1442,1308 1440,1308 1404,1317 1387,1302 1387,1300 1386,1300 1384,1300 1383,1300 1381,1300 1379,1300 1379,1302 1361,1317 1315,1317 1272,1279 1272,1277 1271,1277 1269,1277 1193,1276 1192,1343 1190,1356 1226,1356 1244,1371 1246,1371 1248,1371 1249,1371 1251,1371 1274,1361 1282,1369 1284,1369 1285,1369 1287,1369 1351,1361 1363,1373 1363,1374 1364,1374 1366,1374 1368,1374 1369,1374 1404,1361 1447,1361 1463,1376 1463,1378 1465,1378 1466,1378 1468,1379 1519,1379 1521,1353 1517,1307 1504,1307" />
+    </TextLine>
+    <TextLine id="l_0006" text="">
+      <Coords points="1512,1353 1496,1353 1480,1353 1478,1351 1476,1355 1414,1355 1415,1387 1415,1407 1425,1417 1425,1419 1427,1419 1429,1419 1430,1420 1463,1420 1463,1419 1621,1399 1621,1382 1618,1338 1517,1333 1512,1353" />
+    </TextLine>
+    <TextLine id="l_0007" text="">
+      <Coords points="1539,1578 1539,1588 1614,1588 1614,1575 1609,1552 1537,1555 1539,1578" />
+    </TextLine>
+    <TextLine id="l_0008" text="IXFiRREE">
+      <Coords points="1483,1693 1483,1708 1629,1711 1631,1693 1629,1672 1483,1672 1483,1693" />
+      <Word id="l_0008-w_0001" text="IXFiRREE" error_score="0.972" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0009" text="Abb. 62. Jm nördlichen Eismeer. Die öſterreichiſche Nordpol⸗Expedition 1872 —1874.">
+      <Coords points="401,1782 402,1807 402,1822 1632,1820 1634,1803 1631,1780 412,1774 411,1774 409,1774 407,1774 401,1777 401,1782" />
+      <Word id="l_0009-w_0001" text="Abb." error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0002" text="62." error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0003" text="Jm" error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0004" text="nördlichen" error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0005" text="Eismeer." error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0006" text="Die" error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0007" text="öſterreichiſche" error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0008" text="Nordpol⸗Expedition" error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0009" text="1872" error_score="0.972" error_type="error" />
+      <Word id="l_0009-w_0010" text="—1874." error_score="0.972" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0010" text="(Nach einem Wandbild. )">
+      <Coords points="838,1850 838,1864 1195,1864 1195,1850 1195,1825 838,1825 838,1850" />
+      <Word id="l_0010-w_0001" text="(Nach" error_score="0.972" error_type="error" />
+      <Word id="l_0010-w_0002" text="einem" error_score="0.972" error_type="error" />
+      <Word id="l_0010-w_0003" text="Wandbild." error_score="0.972" error_type="error" />
+      <Word id="l_0010-w_0004" text=")" error_score="0.972" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="922,302 1725,315 1725,662 1397,682 1369,715 309,708 322,348 366,348 414,309 922,302" />
+    <TextLine id="l_0011" text="Den Schiffern am gefährlichſten ſind die ſchwimmenden Eisberge. Das">
+      <Coords points="1647,314 1631,314 1623,312 1591,312 1581,312 1565,312 1549,312 1532,312 1516,310 1499,310 1483,310 1466,310 1450,310 1433,310 1417,309 1401,309 1374,315 1330,307 1320,307 1258,315 1154,307 1152,307 1151,307 1124,315 1085,307 1083,307 1082,307 1062,317 1045,309 1044,309 1042,309 981,317 799,309 797,309 795,309 794,309 781,319 661,319 526,309 524,309 522,309 488,317 424,309 422,309 420,309 419,309 419,310 414,314 416,346 416,356 920,365 922,365 980,356 1006,365 1008,365 1009,365 1067,355 1137,355 1149,363 1151,363 1152,363 1154,363 1715,355 1716,343 1713,315 1652,314 1647,314" />
+      <Word id="l_0011-w_0001" text="Den" error_score="0.003" />
+      <Word id="l_0011-w_0002" text="Schiffern" error_score="0.003" />
+      <Word id="l_0011-w_0003" text="am" error_score="0.003" />
+      <Word id="l_0011-w_0004" text="gefährlichſten" error_score="0.003" />
+      <Word id="l_0011-w_0005" text="ſind" error_score="0.003" />
+      <Word id="l_0011-w_0006" text="die" error_score="0.003" />
+      <Word id="l_0011-w_0007" text="ſchwimmenden" error_score="0.003" />
+      <Word id="l_0011-w_0008" text="Eisberge." error_score="0.003" />
+      <Word id="l_0011-w_0009" text="Das" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0012" text="ſind koloſſale Trümmer von Polargletſchern, die, kilometerweit ins Meer ragend, von">
+      <Coords points="314,389 314,402 1715,401 1716,386 1713,361 1629,361 1616,351 1614,351 1613,351 1611,351 1609,351 1608,351 1593,361 1471,361 1453,351 1452,351 1450,351 1384,360 1364,351 1363,351 1361,351 1359,351 1345,360 1333,351 1332,351 1330,351 1328,351 1327,351 1299,360 1236,351 1235,351 1233,351 1211,360 1172,351 1170,351 1123,360 1083,351 1082,351 1080,351 1044,360 907,353 906,353 904,353 884,361 853,353 851,353 850,353 774,361 312,358 314,389" />
+      <Word id="l_0012-w_0001" text="ſind" error_score="0.003" />
+      <Word id="l_0012-w_0002" text="koloſſale" error_score="0.007" />
+      <Word id="l_0012-w_0003" text="Trümmer" error_score="0.007" />
+      <Word id="l_0012-w_0004" text="von" error_score="0.007" />
+      <Word id="l_0012-w_0005" text="Polargletſchern," error_score="0.007" />
+      <Word id="l_0012-w_0006" text="die," error_score="0.007" />
+      <Word id="l_0012-w_0007" text="kilometerweit" error_score="0.007" />
+      <Word id="l_0012-w_0008" text="ins" error_score="0.007" />
+      <Word id="l_0012-w_0009" text="Meer" error_score="0.007" />
+      <Word id="l_0012-w_0010" text="ragend," error_score="0.007" />
+      <Word id="l_0012-w_0011" text="von" error_score="0.007" />
+    </TextLine>
+    <TextLine id="l_0013" text="den Küſten der Eismeere durch Wellenſchlag abgetrennt werden und weithin nach">
+      <Coords points="312,434 312,445 1713,447 1716,429 1711,401 310,402 312,434" />
+      <Word id="l_0013-w_0001" text="den" error_score="0.005" />
+      <Word id="l_0013-w_0002" text="Küſten" error_score="0.005" />
+      <Word id="l_0013-w_0003" text="der" error_score="0.005" />
+      <Word id="l_0013-w_0004" text="Eismeere" error_score="0.005" />
+      <Word id="l_0013-w_0005" text="durch" error_score="0.005" />
+      <Word id="l_0013-w_0006" text="Wellenſchlag" error_score="0.005" />
+      <Word id="l_0013-w_0007" text="abgetrennt" error_score="0.005" />
+      <Word id="l_0013-w_0008" text="werden" error_score="0.005" />
+      <Word id="l_0013-w_0009" text="und" error_score="0.005" />
+      <Word id="l_0013-w_0010" text="weithin" error_score="0.005" />
+      <Word id="l_0013-w_0011" text="nach" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0014" text="Süden (oder Norden) ſchwimmen. Sie ſind von ungeheurer Größe (bis 200 m tief">
+      <Coords points="314,476 314,488 1710,493 1713,473 1710,440 325,440 323,440 322,440 320,440 312,445 314,476" />
+      <Word id="l_0014-w_0001" text="Süden" error_score="0.001" />
+      <Word id="l_0014-w_0002" text="(oder" error_score="0.001" />
+      <Word id="l_0014-w_0003" text="Norden)" error_score="0.001" />
+      <Word id="l_0014-w_0004" text="ſchwimmen." error_score="0.001" />
+      <Word id="l_0014-w_0005" text="Sie" error_score="0.001" />
+      <Word id="l_0014-w_0006" text="ſind" error_score="0.001" />
+      <Word id="l_0014-w_0007" text="von" error_score="0.001" />
+      <Word id="l_0014-w_0008" text="ungeheurer" error_score="0.001" />
+      <Word id="l_0014-w_0009" text="Größe" error_score="0.001" />
+      <Word id="l_0014-w_0010" text="(bis" error_score="0.000" />
+      <Word id="l_0014-w_0011" text="200" error_score="0.000" />
+      <Word id="l_0014-w_0012" text="m" error_score="0.000" />
+      <Word id="l_0014-w_0013" text="tief" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="eingetaucht, bis 50 m über das Meer emporragend) und von wunderlichen Formen">
+      <Coords points="310,516 310,529 971,529 1016,537 1017,537 1716,529 1718,519 1718,494 1619,485 1618,485 310,488 310,516" />
+      <Word id="l_0015-w_0001" text="eingetaucht," error_score="0.000" />
+      <Word id="l_0015-w_0002" text="bis" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="50" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="m" error_score="0.000" />
+      <Word id="l_0015-w_0005" text="über" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="das" error_score="0.000" />
+      <Word id="l_0015-w_0007" text="Meer" error_score="0.020" />
+      <Word id="l_0015-w_0008" text="emporragend)" error_score="0.020" />
+      <Word id="l_0015-w_0009" text="und" error_score="0.020" />
+      <Word id="l_0015-w_0010" text="von" error_score="0.020" />
+      <Word id="l_0015-w_0011" text="wunderlichen" error_score="0.020" />
+      <Word id="l_0015-w_0012" text="Formen" error_score="0.020" />
+    </TextLine>
+    <TextLine id="l_0016" text="mit Spitʒen und Hörnern, durchbrochen von Höhlen und Gewölben. Von ihren">
+      <Coords points="312,564 312,573 1713,577 1716,560 1713,536 1655,526 1654,526 1652,526 1621,534 1330,526 1328,526 1327,526 1302,534 1281,526 1279,526 1277,526 1207,534 1105,526 1103,526 1009,536 947,527 945,527 476,536 396,527 394,527 393,527 376,536 348,527 346,527 345,527 343,527 310,537 312,564" />
+      <Word id="l_0016-w_0001" text="mit" error_score="0.020" />
+      <Word id="l_0016-w_0002" text="Spitʒen" error_score="0.020" />
+      <Word id="l_0016-w_0003" text="und" error_score="0.020" />
+      <Word id="l_0016-w_0004" text="Hörnern," error_score="0.020" />
+      <Word id="l_0016-w_0005" text="durchbrochen" error_score="0.036" />
+      <Word id="l_0016-w_0006" text="von" error_score="0.036" />
+      <Word id="l_0016-w_0007" text="Höhlen" error_score="0.036" />
+      <Word id="l_0016-w_0008" text="und" error_score="0.036" />
+      <Word id="l_0016-w_0009" text="Gewölben." error_score="0.036" />
+      <Word id="l_0016-w_0010" text="Von" error_score="0.036" />
+      <Word id="l_0016-w_0011" text="ihren" error_score="0.036" />
+    </TextLine>
+    <TextLine id="l_0017" text="Seiten ſtürʒen Ströme des auftauenden Waſſers herab und verſetʒen die gewaltigen">
+      <Coords points="314,605 314,618 1716,619 1718,605 1718,580 1641,570 1639,570 1637,570 1613,578 1376,570 1374,570 1310,578 1290,570 1289,570 1287,570 1233,578 1213,570 1211,570 1210,570 1172,578 1146,570 1144,570 1142,570 1095,578 996,570 994,570 952,578 924,570 922,570 920,570 863,578 827,570 825,570 823,570 735,578 716,570 715,570 713,570 657,578 580,570 578,570 493,578 447,570 445,570 396,578 327,570 325,570 323,570 322,570 314,575 314,605" />
+      <Word id="l_0017-w_0001" text="Seiten" error_score="0.036" />
+      <Word id="l_0017-w_0002" text="ſtürʒen" error_score="0.036" />
+      <Word id="l_0017-w_0003" text="Ströme" error_score="0.036" />
+      <Word id="l_0017-w_0004" text="des" error_score="0.007" />
+      <Word id="l_0017-w_0005" text="auftauenden" error_score="0.007" />
+      <Word id="l_0017-w_0006" text="Waſſers" error_score="0.007" />
+      <Word id="l_0017-w_0007" text="herab" error_score="0.007" />
+      <Word id="l_0017-w_0008" text="und" error_score="0.007" />
+      <Word id="l_0017-w_0009" text="verſetʒen" error_score="0.007" />
+      <Word id="l_0017-w_0010" text="die" error_score="0.007" />
+      <Word id="l_0017-w_0011" text="gewaltigen" error_score="0.007" />
+    </TextLine>
+    <TextLine id="l_0018" text="Koloſſe in drehende Bewegung. (Abb. 62. ) Schiffe, die ʒwiſchen Europa und">
+      <Coords points="310,649 310,662 843,670 845,670 886,662 912,670 914,670 915,670 991,662 1068,669 1070,669 1072,669 1073,669 1085,661 1161,669 1162,670 1235,670 1235,669 1236,669 1238,669 1249,661 1325,661 1338,669 1340,669 1341,669 1343,669 1715,661 1715,646 1710,619 1545,621 1514,611 1512,611 1511,611 1509,611 1507,611 1494,621 1391,613 1389,613 1315,621 1274,611 1272,611 1271,611 1225,621 1211,611 1210,611 1208,611 1129,611 1128,611 1082,621 1019,611 1017,611 1016,611 1014,611 1001,623 970,613 968,613 966,613 753,623 685,613 684,613 682,613 659,623 634,613 633,613 522,613 521,613 519,613 491,623 463,613 462,613 460,613 458,613 430,623 417,613 416,613 414,613 322,613 320,613 319,613 317,613 309,618 310,649" />
+      <Word id="l_0018-w_0001" text="Koloſſe" error_score="0.007" />
+      <Word id="l_0018-w_0002" text="in" error_score="0.007" />
+      <Word id="l_0018-w_0003" text="drehende" error_score="0.009" />
+      <Word id="l_0018-w_0004" text="Bewegung." error_score="0.009" />
+      <Word id="l_0018-w_0005" text="(Abb." error_score="0.009" />
+      <Word id="l_0018-w_0006" text="62." error_score="0.009" />
+      <Word id="l_0018-w_0007" text=")" error_score="0.009" />
+      <Word id="l_0018-w_0008" text="Schiffe," error_score="0.009" />
+      <Word id="l_0018-w_0009" text="die" error_score="0.009" />
+      <Word id="l_0018-w_0010" text="ʒwiſchen" error_score="0.009" />
+      <Word id="l_0018-w_0011" text="Europa" error_score="0.009" />
+      <Word id="l_0018-w_0012" text="und" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0019" text="Amerika fahren, werden oft durch die Eisberge ſtark gefährdet.">
+      <Coords points="312,695 312,707 1363,708 1364,695 1364,667 1315,657 1243,657 1241,657 1239,657 1238,657 1228,666 1188,657 1187,657 1185,657 1161,666 1139,657 1137,657 1136,657 1134,657 1110,666 1034,657 965,657 963,657 962,657 960,657 960,659 952,666 925,657 924,657 922,657 920,657 886,666 873,657 871,657 869,657 868,657 866,657 838,666 797,657 795,657 794,657 792,657 781,666 758,657 756,657 754,657 753,657 735,667 675,667 667,659 667,657 666,657 664,657 662,657 661,657 639,666 511,657 509,657 312,664 312,695" />
+      <Word id="l_0019-w_0001" text="Amerika" error_score="0.003" />
+      <Word id="l_0019-w_0002" text="fahren," error_score="0.003" />
+      <Word id="l_0019-w_0003" text="werden" error_score="0.003" />
+      <Word id="l_0019-w_0004" text="oft" error_score="0.003" />
+      <Word id="l_0019-w_0005" text="durch" error_score="0.003" />
+      <Word id="l_0019-w_0006" text="die" error_score="0.003" />
+      <Word id="l_0019-w_0007" text="Eisberge" error_score="0.003" />
+      <Word id="l_0019-w_0008" text="ſtark" error_score="0.003" />
+      <Word id="l_0019-w_0009" text="gefährdet." error_score="0.003" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="1093,1907 1731,1933 1725,2576 302,2570 309,1979 480,1920 1093,1907" />
+    <TextLine id="l_0020" text="Das Meer iſt von unʒähligen organiſchen Weſen belebt. Die Pflanʒenwelt">
+      <Coords points="1715,1932 1698,1932 1683,1930 1682,1932 1655,1930 1649,1930 1636,1928 1629,1928 1616,1928 1600,1927 1583,1927 1567,1925 1550,1925 1535,1925 1483,1932 1470,1922 1468,1922 1466,1922 1465,1922 1379,1932 1292,1922 1290,1922 1289,1922 1254,1932 1164,1922 1162,1922 1161,1922 1139,1932 1070,1922 1068,1922 1067,1922 1032,1933 833,1924 832,1924 830,1924 828,1924 810,1935 670,1935 633,1924 631,1924 629,1924 628,1924 603,1933 519,1924 518,1924 516,1924 514,1924 499,1933 455,1925 448,1928 432,1935 416,1940 417,1963 417,1974 1723,1974 1725,1960 1723,1932 1721,1932 1715,1932" />
+      <Word id="l_0020-w_0001" text="Das" error_score="0.002" />
+      <Word id="l_0020-w_0002" text="Meer" error_score="0.002" />
+      <Word id="l_0020-w_0003" text="iſt" error_score="0.002" />
+      <Word id="l_0020-w_0004" text="von" error_score="0.002" />
+      <Word id="l_0020-w_0005" text="unʒähligen" error_score="0.002" />
+      <Word id="l_0020-w_0006" text="organiſchen" error_score="0.002" />
+      <Word id="l_0020-w_0007" text="Weſen" error_score="0.002" />
+      <Word id="l_0020-w_0008" text="belebt." error_score="0.002" />
+      <Word id="l_0020-w_0009" text="Die" error_score="0.002" />
+      <Word id="l_0020-w_0010" text="Pflanʒenwelt" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0021" text="vertreten viele Arten von Tangen und Algen, mannigfaltige wirbelloſe Tiere">
+      <Coords points="310,2006 310,2017 769,2017 883,2025 884,2025 1019,2016 1096,2024 1098,2025 1174,2025 1174,2024 1175,2024 1177,2024 1188,2016 1302,2024 1304,2024 1721,2016 1723,2002 1720,1979 1674,1970 1672,1970 1626,1978 1590,1970 1588,1970 1586,1970 1402,1978 1389,1970 1387,1970 1386,1970 1294,1970 1292,1970 1118,1978 1047,1970 1045,1970 953,1979 503,1971 501,1971 455,1979 370,1971 368,1971 309,1981 310,2006" />
+      <Word id="l_0021-w_0001" text="vertreten" error_score="0.002" />
+      <Word id="l_0021-w_0002" text="viele" error_score="0.002" />
+      <Word id="l_0021-w_0003" text="Arten" error_score="0.002" />
+      <Word id="l_0021-w_0004" text="von" error_score="0.002" />
+      <Word id="l_0021-w_0005" text="Tangen" error_score="0.002" />
+      <Word id="l_0021-w_0006" text="und" error_score="0.002" />
+      <Word id="l_0021-w_0007" text="Algen," error_score="0.002" />
+      <Word id="l_0021-w_0008" text="mannigfaltige" error_score="0.002" />
+      <Word id="l_0021-w_0009" text="wirbelloſe" error_score="0.002" />
+      <Word id="l_0021-w_0010" text="Tiere" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0022" text="bedecken den Boden des Meeres: Kruſtentiere, Würmer, Weichtiere, Schwämme. —">
+      <Coords points="310,2052 310,2063 1363,2067 1364,2067 1715,2057 1716,2045 1713,2021 1468,2011 1466,2011 1389,2019 1378,2011 1376,2011 1374,2011 1373,2011 1310,2021 1277,2011 1276,2011 1274,2011 1272,2011 1271,2011 1254,2022 1182,2022 1126,2011 1124,2011 1070,2021 1016,2011 1014,2011 1013,2011 991,2021 950,2012 948,2012 947,2012 945,2012 932,2022 907,2012 906,2012 904,2012 851,2022 838,2012 837,2012 835,2012 833,2012 832,2012 799,2021 731,2012 730,2012 728,2012 726,2012 715,2021 662,2012 661,2012 659,2012 657,2012 644,2024 596,2014 541,2014 539,2014 537,2014 518,2024 462,2014 460,2014 458,2014 457,2014 440,2024 320,2014 319,2014 317,2014 315,2014 309,2019 310,2052" />
+      <Word id="l_0022-w_0001" text="bedecken" error_score="0.003" />
+      <Word id="l_0022-w_0002" text="den" error_score="0.003" />
+      <Word id="l_0022-w_0003" text="Boden" error_score="0.003" />
+      <Word id="l_0022-w_0004" text="des" error_score="0.003" />
+      <Word id="l_0022-w_0005" text="Meeres:" error_score="0.003" />
+      <Word id="l_0022-w_0006" text="Kruſtentiere," error_score="0.003" />
+      <Word id="l_0022-w_0007" text="Würmer," error_score="0.003" />
+      <Word id="l_0022-w_0008" text="Weichtiere," error_score="0.003" />
+      <Word id="l_0022-w_0009" text="Schwämme." error_score="0.003" />
+      <Word id="l_0022-w_0010" text="—" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0023" text="Ʒahlloſe Heere von Fiſchen erfüllen die Oʒeane — in den nördlichen Meeren ſind">
+      <Coords points="310,2096 310,2108 1720,2104 1721,2090 1718,2065 1674,2055 1672,2055 1670,2055 1649,2063 1519,2055 1517,2055 1470,2063 1392,2055 1391,2055 1289,2065 1264,2055 1262,2055 1261,2055 1259,2055 1258,2055 1243,2065 993,2057 991,2057 989,2057 970,2067 924,2057 922,2057 920,2057 901,2067 815,2057 814,2057 764,2067 662,2057 661,2057 659,2057 638,2068 322,2058 320,2058 319,2058 317,2058 309,2065 310,2096" />
+      <Word id="l_0023-w_0001" text="Ʒahlloſe" error_score="0.068" />
+      <Word id="l_0023-w_0002" text="Heere" error_score="0.068" />
+      <Word id="l_0023-w_0003" text="von" error_score="0.068" />
+      <Word id="l_0023-w_0004" text="Fiſchen" error_score="0.068" />
+      <Word id="l_0023-w_0005" text="erfüllen" error_score="0.068" />
+      <Word id="l_0023-w_0006" text="die" error_score="0.068" />
+      <Word id="l_0023-w_0007" text="Oʒeane" error_score="0.068" />
+      <Word id="l_0023-w_0008" text="—" error_score="0.068" />
+      <Word id="l_0023-w_0009" text="in" error_score="0.068" />
+      <Word id="l_0023-w_0010" text="den" error_score="0.068" />
+      <Word id="l_0023-w_0011" text="nördlichen" error_score="0.047" />
+      <Word id="l_0023-w_0012" text="Meeren" error_score="0.047" />
+      <Word id="l_0023-w_0013" text="ſind" error_score="0.047" />
+    </TextLine>
+    <TextLine id="l_0024" text="es Heringe und Stockfiſche, deren Fang Tauſende von Menſchen ernährt.">
+      <Coords points="312,2139 312,2150 1723,2150 1725,2136 1721,2111 1672,2099 1670,2099 1621,2109 1491,2099 1489,2099 1488,2099 1466,2109 1420,2099 1419,2099 1417,2099 1415,2099 1401,2111 1294,2111 1216,2099 1215,2099 1213,2099 1190,2109 1152,2099 1151,2099 1149,2099 1147,2099 1113,2109 1037,2099 1036,2099 1034,2099 1032,2099 1014,2111 927,2101 925,2101 874,2111 848,2101 846,2101 845,2101 721,2109 670,2101 669,2101 667,2101 641,2111 618,2101 616,2101 615,2101 498,2111 457,2101 455,2101 453,2101 452,2101 429,2111 383,2101 381,2101 379,2101 378,2101 365,2111 342,2103 340,2103 338,2103 337,2103 310,2113 312,2139" />
+      <Word id="l_0024-w_0001" text="es" error_score="0.047" />
+      <Word id="l_0024-w_0002" text="Heringe" error_score="0.047" />
+      <Word id="l_0024-w_0003" text="und" error_score="0.047" />
+      <Word id="l_0024-w_0004" text="Stockfiſche," error_score="0.047" />
+      <Word id="l_0024-w_0005" text="deren" error_score="0.047" />
+      <Word id="l_0024-w_0006" text="Fang" error_score="0.047" />
+      <Word id="l_0024-w_0007" text="Tauſende" error_score="0.047" />
+      <Word id="l_0024-w_0008" text="von" error_score="0.004" />
+      <Word id="l_0024-w_0009" text="Menſchen" error_score="0.004" />
+      <Word id="l_0024-w_0010" text="ernährt." error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0025" text="Walfiſche, Walroſſe und Seehunde haben ihren Aufenthaltsort gleichfalls in den">
+      <Coords points="310,2183 310,2195 613,2203 615,2203 664,2193 807,2201 809,2201 902,2193 1011,2200 1013,2200 1014,2200 1016,2200 1026,2192 1063,2200 1065,2200 1134,2192 1197,2200 1198,2201 1369,2201 1369,2200 1371,2200 1396,2190 1409,2198 1410,2198 1412,2198 1414,2198 1721,2192 1723,2177 1720,2152 1447,2142 1445,2142 1443,2142 1427,2150 1305,2144 1304,2144 1302,2144 1287,2152 1274,2144 1272,2144 1271,2144 1269,2144 1226,2152 1161,2142 1159,2142 1157,2142 1126,2152 1054,2142 1052,2142 1050,2142 1049,2142 1034,2152 751,2144 749,2144 748,2144 746,2144 730,2154 707,2144 705,2144 703,2144 702,2144 659,2155 623,2146 621,2146 496,2146 494,2146 493,2146 465,2155 444,2146 442,2146 320,2146 319,2146 317,2146 315,2146 309,2149 310,2183" />
+      <Word id="l_0025-w_0001" text="Walfiſche," error_score="0.004" />
+      <Word id="l_0025-w_0002" text="Walroſſe" error_score="0.004" />
+      <Word id="l_0025-w_0003" text="und" error_score="0.004" />
+      <Word id="l_0025-w_0004" text="Seehunde" error_score="0.004" />
+      <Word id="l_0025-w_0005" text="haben" error_score="0.004" />
+      <Word id="l_0025-w_0006" text="ihren" error_score="0.004" />
+      <Word id="l_0025-w_0007" text="Aufenthaltsort" error_score="0.004" />
+      <Word id="l_0025-w_0008" text="gleichfalls" error_score="0.004" />
+      <Word id="l_0025-w_0009" text="in" error_score="0.004" />
+      <Word id="l_0025-w_0010" text="den" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0026" text="polaren Meeren.">
+      <Coords points="309,2228 309,2239 590,2236 592,2223 588,2196 494,2188 493,2188 447,2198 350,2192 348,2192 307,2200 309,2228" />
+      <Word id="l_0026-w_0001" text="polaren" error_score="0.004" />
+      <Word id="l_0026-w_0002" text="Meeren." error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0027" text="17ꝰ. Das Meer iſt in raſtloſer Bewegung. Man unterſcheidet: 1. Wellen⸗">
+      <Coords points="414,2287 414,2300 1721,2297 1723,2284 1720,2257 1667,2257 1654,2246 1652,2246 1651,2246 1649,2246 1647,2246 1611,2254 1558,2246 1557,2246 1555,2246 1554,2246 1540,2257 1402,2257 1363,2246 1361,2246 1359,2246 1358,2246 1356,2246 1341,2257 1235,2257 1182,2246 1180,2246 1179,2246 1177,2246 1164,2257 1065,2257 998,2247 996,2247 994,2247 955,2257 861,2247 860,2247 809,2257 786,2247 784,2247 782,2247 713,2256 596,2247 595,2247 593,2247 573,2256 542,2247 541,2247 539,2247 537,2247 513,2257 499,2247 498,2247 496,2247 429,2247 427,2247 425,2247 424,2247 412,2256 414,2287" />
+      <Word id="l_0027-w_0001" text="17ꝰ." error_score="0.004" />
+      <Word id="l_0027-w_0002" text="Das" error_score="0.004" />
+      <Word id="l_0027-w_0003" text="Meer" error_score="0.004" />
+      <Word id="l_0027-w_0004" text="iſt" error_score="0.004" />
+      <Word id="l_0027-w_0005" text="in" error_score="0.004" />
+      <Word id="l_0027-w_0006" text="raſtloſer" error_score="0.001" />
+      <Word id="l_0027-w_0007" text="Bewegung." error_score="0.001" />
+      <Word id="l_0027-w_0008" text="Man" error_score="0.001" />
+      <Word id="l_0027-w_0009" text="unterſcheidet:" error_score="0.001" />
+      <Word id="l_0027-w_0010" text="1." error_score="0.001" />
+      <Word id="l_0027-w_0011" text="Wellen⸗" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0028" text="bewegung. Die Wellen werden vom Winde hervorgebracht, ſie erreichen bei">
+      <Coords points="307,2341 307,2351 1715,2358 1716,2358 1718,2358 1720,2358 1728,2349 1728,2338 1725,2307 1679,2300 1677,2300 1628,2310 1577,2300 1575,2300 1491,2310 1460,2300 1458,2300 1457,2300 1455,2300 1422,2310 1396,2300 1394,2300 1392,2300 1391,2300 1356,2310 1327,2300 1325,2300 1323,2300 1322,2300 1320,2300 1304,2312 1238,2312 1184,2300 1182,2300 1136,2310 1123,2300 1121,2300 1119,2300 1045,2300 1044,2300 1042,2300 1040,2300 1026,2310 868,2302 866,2302 779,2312 667,2302 666,2302 664,2302 662,2302 646,2312 583,2302 582,2302 580,2302 578,2302 564,2313 397,2313 317,2302 315,2302 314,2302 312,2302 305,2305 307,2341" />
+      <Word id="l_0028-w_0001" text="bewegung." error_score="0.001" />
+      <Word id="l_0028-w_0002" text="Die" error_score="0.001" />
+      <Word id="l_0028-w_0003" text="Wellen" error_score="0.001" />
+      <Word id="l_0028-w_0004" text="werden" error_score="0.001" />
+      <Word id="l_0028-w_0005" text="vom" error_score="0.001" />
+      <Word id="l_0028-w_0006" text="Winde" error_score="0.004" />
+      <Word id="l_0028-w_0007" text="hervorgebracht," error_score="0.004" />
+      <Word id="l_0028-w_0008" text="ſie" error_score="0.004" />
+      <Word id="l_0028-w_0009" text="erreichen" error_score="0.004" />
+      <Word id="l_0028-w_0010" text="bei" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0029" text="Sturm eine Höhe von 10 m. Wo ſie heftig an eine Felſenküſte ſchlagen, da">
+      <Coords points="309,2394 309,2404 536,2404 550,2414 552,2414 554,2414 555,2415 615,2415 615,2414 616,2414 638,2404 985,2404 999,2414 1001,2414 1003,2414 1004,2414 1006,2414 1042,2402 1062,2412 1063,2412 1065,2412 1211,2410 1213,2410 1215,2410 1226,2402 1323,2412 1325,2412 1723,2407 1725,2391 1721,2364 1524,2353 1522,2353 1521,2353 1496,2363 1432,2353 1430,2353 1429,2353 1406,2363 1391,2353 1389,2353 1387,2353 1328,2353 1327,2353 1325,2353 1285,2363 1261,2353 1259,2353 1258,2353 1256,2353 1254,2353 1239,2364 1152,2364 1136,2353 1134,2353 1133,2353 1068,2353 1067,2353 1065,2353 1040,2363 1017,2353 1016,2353 1014,2353 1013,2353 986,2364 950,2354 948,2354 947,2354 894,2364 771,2354 769,2354 767,2354 766,2354 749,2366 638,2366 616,2354 615,2354 554,2354 552,2354 550,2354 529,2364 481,2354 480,2354 432,2364 325,2354 323,2354 322,2354 320,2354 307,2363 309,2394" />
+      <Word id="l_0029-w_0001" text="Sturm" error_score="0.004" />
+      <Word id="l_0029-w_0002" text="eine" error_score="0.004" />
+      <Word id="l_0029-w_0003" text="Höhe" error_score="0.004" />
+      <Word id="l_0029-w_0004" text="von" error_score="0.004" />
+      <Word id="l_0029-w_0005" text="10" error_score="0.004" />
+      <Word id="l_0029-w_0006" text="m." error_score="0.021" />
+      <Word id="l_0029-w_0007" text="Wo" error_score="0.021" />
+      <Word id="l_0029-w_0008" text="ſie" error_score="0.021" />
+      <Word id="l_0029-w_0009" text="heftig" error_score="0.021" />
+      <Word id="l_0029-w_0010" text="an" error_score="0.021" />
+      <Word id="l_0029-w_0011" text="eine" error_score="0.021" />
+      <Word id="l_0029-w_0012" text="Felſenküſte" error_score="0.021" />
+      <Word id="l_0029-w_0013" text="ſchlagen," error_score="0.021" />
+      <Word id="l_0029-w_0014" text="da" error_score="0.021" />
+    </TextLine>
+    <TextLine id="l_0030" text="entſteht eine Brandung.">
+      <Coords points="309,2446 309,2456 361,2466 363,2466 442,2458 710,2458 740,2466 741,2466 743,2466 776,2458 776,2446 776,2420 682,2420 661,2409 659,2409 657,2409 601,2418 544,2409 542,2409 541,2409 508,2418 476,2409 475,2409 473,2409 471,2409 440,2418 368,2409 366,2409 309,2418 309,2446" />
+      <Word id="l_0030-w_0001" text="entſteht" error_score="0.021" />
+      <Word id="l_0030-w_0002" text="eine" error_score="0.003" />
+      <Word id="l_0030-w_0003" text="Brandung." error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0031" text="2. Ebbe und Flut (die Geʒeiten); ʒweimal in 24 Stunden hebt und">
+      <Coords points="412,2507 412,2519 1063,2525 1065,2525 1067,2525 1068,2525 1080,2516 1116,2524 1118,2524 1236,2516 1521,2522 1522,2522 1524,2522 1545,2514 1558,2522 1560,2522 1562,2522 1563,2522 1641,2514 1708,2522 1710,2522 1711,2522 1713,2522 1725,2512 1725,2501 1723,2473 1708,2463 1706,2463 1705,2463 1703,2463 1702,2463 1700,2463 1687,2473 1575,2463 1573,2463 1572,2463 1570,2463 1555,2474 1504,2474 1489,2463 1488,2463 1486,2463 1484,2463 1483,2463 1445,2473 1404,2463 1402,2463 1401,2463 1399,2463 1397,2463 1397,2465 1384,2474 1345,2465 1343,2465 1341,2465 1340,2465 1318,2474 1267,2466 1266,2466 1264,2466 1243,2474 1226,2465 1225,2465 1223,2465 1221,2465 1220,2465 1198,2474 1164,2465 1162,2465 1161,2465 1159,2465 1157,2465 1144,2476 1065,2476 981,2466 980,2466 978,2466 976,2466 962,2476 925,2466 924,2466 922,2466 920,2466 886,2476 858,2466 856,2466 855,2466 809,2476 692,2468 690,2468 689,2468 687,2468 675,2478 661,2468 659,2468 657,2468 656,2468 578,2478 555,2468 554,2468 478,2468 476,2468 411,2479 412,2507" />
+      <Word id="l_0031-w_0001" text="2." error_score="0.003" />
+      <Word id="l_0031-w_0002" text="Ebbe" error_score="0.003" />
+      <Word id="l_0031-w_0003" text="und" error_score="0.003" />
+      <Word id="l_0031-w_0004" text="Flut" error_score="0.003" />
+      <Word id="l_0031-w_0005" text="(die" error_score="0.003" />
+      <Word id="l_0031-w_0006" text="Geʒeiten);" error_score="0.003" />
+      <Word id="l_0031-w_0007" text="ʒweimal" error_score="0.003" />
+      <Word id="l_0031-w_0008" text="in" error_score="0.003" />
+      <Word id="l_0031-w_0009" text="24" error_score="0.002" />
+      <Word id="l_0031-w_0010" text="Stunden" error_score="0.002" />
+      <Word id="l_0031-w_0011" text="hebt" error_score="0.002" />
+      <Word id="l_0031-w_0012" text="und" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0032" text="ſenkt ſich das Waſſer des Meeres. Ʒweimal im Tage (in je 6 Stunden) tritt">
+      <Coords points="310,2562 310,2578 1726,2570 1726,2555 1725,2527 1692,2517 1690,2517 1688,2517 1687,2517 1685,2517 1674,2527 1527,2527 1486,2517 1484,2517 1483,2517 1461,2525 1452,2517 1450,2517 1448,2517 1447,2517 1445,2517 1410,2525 1392,2517 1391,2517 1389,2517 1387,2517 1368,2527 1216,2519 1215,2519 1169,2527 1156,2519 1154,2519 1152,2519 1151,2519 1149,2519 1133,2527 1116,2519 1114,2519 1113,2519 1068,2527 1052,2519 1050,2519 1049,2519 1047,2519 1016,2529 998,2520 996,2520 994,2520 993,2520 966,2529 799,2520 797,2520 744,2529 725,2520 723,2520 721,2520 720,2520 718,2520 705,2530 309,2530 310,2562" />
+      <Word id="l_0032-w_0001" text="ſenkt" error_score="0.002" />
+      <Word id="l_0032-w_0002" text="ſich" error_score="0.002" />
+      <Word id="l_0032-w_0003" text="das" error_score="0.002" />
+      <Word id="l_0032-w_0004" text="Waſſer" error_score="0.002" />
+      <Word id="l_0032-w_0005" text="des" error_score="0.002" />
+      <Word id="l_0032-w_0006" text="Meeres." error_score="0.002" />
+      <Word id="l_0032-w_0007" text="Ʒweimal" error_score="0.005" />
+      <Word id="l_0032-w_0008" text="im" error_score="0.005" />
+      <Word id="l_0032-w_0009" text="Tage" error_score="0.005" />
+      <Word id="l_0032-w_0010" text="(in" error_score="0.005" />
+      <Word id="l_0032-w_0011" text="je" error_score="0.005" />
+      <Word id="l_0032-w_0012" text="6" error_score="0.005" />
+      <Word id="l_0032-w_0013" text="Stunden)" error_score="0.005" />
+      <Word id="l_0032-w_0014" text="tritt" error_score="0.005" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="988,210 1114,217 1147,241 1068,274 899,254 988,210" />
+    <TextLine id="l_0033" text="118">
+      <Coords points="1037,212 971,223 971,249 971,258 989,268 991,268 993,268 1073,256 1073,249 1073,223 1040,212 1037,212" />
+      <Word id="l_0033-w_0001" text="118" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="—">
+      <Coords points="1098,248 1098,258 1119,259 1121,246 1116,225 1095,225 1098,248" />
+      <Word id="l_0034-w_0001" text="—" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

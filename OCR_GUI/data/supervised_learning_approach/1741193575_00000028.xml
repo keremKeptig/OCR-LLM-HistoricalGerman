@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1741193575_00000028.bin.png" imageHeight="4279" imageWidth="2858" orientation="0.0" overwritePageError="0.513726277771066">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="2,599 2,601 0,601 0,599 2,599" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="2,791 0,791 0,789 2,789 2,791" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="2,1048 0,1048 0,1045 2,1045 2,1048" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="2,1314 0,1314 0,1312 2,1312 2,1314" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="2,1447 0,1447 0,1445 2,1445 2,1447" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="2,1647 0,1647 0,1645 2,1645 2,1647" />
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="2,1866 0,1866 0,1863 2,1863 2,1866" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="297,589 539,646 511,786 558,939 473,1005 558,1026 568,1167 492,1214 606,1245 625,1376 501,1433 634,1454 663,1502 644,1595 482,1635 634,1664 653,1804 454,1844 634,1873 653,2013 454,2080 644,2110 682,2175 606,2222 437,2232 425,2279 758,2348 767,2412 501,2488 758,2557 767,2622 444,2650 313,2650 294,2622 313,2529 494,2507 492,2479 389,2498 285,2460 285,2339 370,2279 275,2222 304,2080 275,1873 304,1854 275,1813 266,836 297,589" />
+    <TextLine id="l_0001" text="22 Elba">
+      <Coords points="316,682 316,698 511,703 513,677 508,644 418,632 416,632 413,632 411,632 411,634 408,634 401,644 342,634 340,634 337,634 313,644 316,682" />
+      <Word id="l_0001-w_0001" text="22" />
+      <Word id="l_0001-w_0002" text="Elba" />
+    </TextLine>
+    <TextLine id="l_0002" text="37 Malta">
+      <Coords points="532,874 525,851 423,843 420,843 318,855 320,893 320,908 425,919 427,919 525,917 527,917 530,917 530,915 539,903 539,889 534,872 532,874" />
+      <Word id="l_0002-w_0001" text="37" />
+      <Word id="l_0002-w_0002" text="Malta" />
+    </TextLine>
+    <TextLine id="l_0003" text="41 Veglia">
+      <Coords points="320,1105 320,1119 513,1133 515,1133 518,1133 554,1117 554,1100 549,1067 435,1055 432,1055 430,1055 394,1069 318,1048 320,1105" />
+      <Word id="l_0003-w_0001" text="41" />
+      <Word id="l_0003-w_0002" text="Veglia" />
+    </TextLine>
+    <TextLine id="l_0004" text="37 Euboea">
+      <Coords points="603,1276 356,1283 359,1321 359,1338 546,1345 549,1345 615,1328 615,1312 613,1305 603,1276" />
+      <Word id="l_0004-w_0001" text="37" />
+      <Word id="l_0004-w_0002" text="Euboea" />
+    </TextLine>
+    <TextLine id="l_0005" text="70 Seeland">
+      <Coords points="382,1533 382,1547 649,1545 649,1528 641,1492 380,1495 382,1533" />
+      <Word id="l_0005-w_0001" text="70" />
+      <Word id="l_0005-w_0002" text="Seeland" />
+    </TextLine>
+    <TextLine id="l_0006" text="80 Kandia">
+      <Coords points="387,1744 387,1761 641,1759 641,1740 634,1704 385,1706 387,1744" />
+      <Word id="l_0006-w_0001" text="80" />
+      <Word id="l_0006-w_0002" text="Kandia" />
+    </TextLine>
+    <TextLine id="l_0007" text="ꝰ0 Corsica">
+      <Coords points="639,1925 389,1925 389,1958 389,1980 646,1980 646,1958 646,1956 639,1925" />
+      <Word id="l_0007-w_0001" text="ꝰ0" />
+      <Word id="l_0007-w_0002" text="Corsica" />
+    </TextLine>
+    <TextLine id="l_0008" text="100 Rugen">
+      <Coords points="653,2134 530,2127 527,2127 408,2139 411,2177 411,2196 651,2201 653,2201 656,2201 658,2201 670,2189 670,2170 668,2160 653,2134" />
+      <Word id="l_0008-w_0001" text="100" />
+      <Word id="l_0008-w_0002" text="Rugen" />
+    </TextLine>
+    <TextLine id="l_0009" text="240">
+      <Coords points="361,2393 361,2403 456,2415 458,2415 461,2415 515,2400 515,2391 511,2360 382,2346 380,2346 378,2346 375,2346 359,2355 361,2393" />
+      <Word id="l_0009-w_0001" text="240" />
+    </TextLine>
+    <TextLine id="l_0010" text="2ꝰ0">
+      <Coords points="380,2605 380,2619 404,2631 406,2631 408,2631 518,2617 518,2605 515,2560 380,2567 380,2605" />
+      <Word id="l_0010-w_0001" text="2ꝰ0" />
+    </TextLine>
+    <TextLine id="l_0011" text="Sardinien">
+      <Coords points="534,2391 534,2408 746,2410 748,2389 744,2355 558,2343 556,2343 554,2343 532,2353 534,2391" />
+      <Word id="l_0011-w_0001" text="Sardinien" />
+    </TextLine>
+    <TextLine id="l_0012" text="Sicilien">
+      <Coords points="760,2584 746,2565 613,2555 611,2555 608,2555 606,2555 594,2562 596,2603 596,2622 763,2619 765,2598 760,2567 758,2565 760,2584" />
+      <Word id="l_0012-w_0001" text="Sicilien" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="2235,323 2382,323 2430,361 2382,418 2420,511 2372,570 2372,653 2410,656 2372,758 2147,758 2128,627 2166,615 2192,511 1842,530 1830,558 1906,627 1868,663 1944,748 1880,758 1840,853 1566,815 1528,599 1697,589 1754,530 1207,520 1112,511 1072,463 865,463 777,530 580,520 589,446 691,427 732,342 1973,342 2030,361 2042,418 2182,418 2235,323" />
+    <TextLine id="l_0013" text="Dis wichtigsten lnseln und Halbinseln Europas">
+      <Coords points="1773,342 1771,342 1769,342 1769,344 1757,354 1490,344 1488,344 1421,358 1283,347 1281,347 1279,347 1226,361 1074,349 1072,349 1069,349 1036,361 977,349 974,349 972,349 970,349 970,351 967,351 960,361 896,351 894,351 891,351 889,351 874,363 741,351 739,351 737,351 734,351 722,361 725,418 725,437 2004,425 2006,406 2002,356 1776,342 1773,342" />
+      <Word id="l_0013-w_0001" text="Dis" />
+      <Word id="l_0013-w_0002" text="wichtigsten" />
+      <Word id="l_0013-w_0003" text="lnseln" />
+      <Word id="l_0013-w_0004" text="und" />
+      <Word id="l_0013-w_0005" text="Halbinseln" />
+      <Word id="l_0013-w_0006" text="Europas" />
+    </TextLine>
+    <TextLine id="l_0014" text="a) Inseln">
+      <Coords points="806,458 622,451 620,451 618,451 594,458 582,482 584,501 584,520 777,530 779,530 782,530 815,515 815,496 813,492 806,458" />
+      <Word id="l_0014-w_0001" text="a)" />
+      <Word id="l_0014-w_0002" text="Inseln" />
+    </TextLine>
+    <TextLine id="l_0015" text="in Quadrat-Hyriametern.">
+      <Coords points="1134,482 1134,503 1612,503 1612,482 1612,446 1134,446 1134,482" />
+      <Word id="l_0015-w_0001" text="in" />
+      <Word id="l_0015-w_0002" text="Quadrat-Hyriametern." />
+    </TextLine>
+    <TextLine id="l_0016" text="Istrien 50">
+      <Coords points="1538,637 1538,658 1764,658 1764,637 1761,599 1538,599 1538,637" />
+      <Word id="l_0016-w_0001" text="Istrien" />
+      <Word id="l_0016-w_0002" text="50" />
+    </TextLine>
+    <TextLine id="l_0017" text="b) Halbinseln.">
+      <Coords points="1816,492 1816,511 2156,508 2158,487 2154,449 2009,435 2006,435 1873,449 1837,437 1835,437 1833,437 1830,437 1828,437 1814,446 1816,492" />
+      <Word id="l_0017-w_0001" text="b)" />
+      <Word id="l_0017-w_0002" text="Halbinseln." />
+    </TextLine>
+    <TextLine id="l_0018" text="von ſuo">
+      <Coords points="1574,796 1574,824 1676,824 1714,858 1714,860 1716,860 1719,860 1721,862 1826,862 1826,860 1828,860 1830,860 1830,858 1833,858 1840,848 1840,791 1837,720 1823,706 1823,703 1821,703 1818,703 1721,703 1719,703 1716,703 1714,703 1714,706 1669,753 1571,753 1574,796" />
+      <Word id="l_0018-w_0001" text="von" />
+      <Word id="l_0018-w_0002" text="ſuo" />
+    </TextLine>
+    <TextLine id="l_0019" text="Bretgne.">
+      <Coords points="2213,356 2216,375 2216,389 2380,387 2380,370 2372,342 2218,344 2213,356" />
+      <Word id="l_0019-w_0001" text="Bretgne." />
+    </TextLine>
+    <TextLine id="l_0020" text="180">
+      <Coords points="2258,416 2258,439 2349,439 2349,416 2349,382 2258,382 2258,416" />
+      <Word id="l_0020-w_0001" text="180" />
+    </TextLine>
+    <TextLine id="l_0021" text="Krim">
+      <Coords points="2242,542 2242,563 2363,563 2363,542 2363,511 2242,511 2242,542" />
+      <Word id="l_0021-w_0001" text="Krim" />
+    </TextLine>
+    <TextLine id="l_0022" text="200">
+      <Coords points="2249,589 2249,606 2349,606 2349,584 2342,551 2246,553 2249,589" />
+      <Word id="l_0022-w_0001" text="200" />
+    </TextLine>
+    <TextLine id="l_0023" text="Jntanã">
+      <Coords points="2206,703 2206,725 2368,722 2368,696 2361,639 2201,641 2206,703" />
+      <Word id="l_0023-w_0001" text="Jntanã" />
+    </TextLine>
+    <TextLine id="l_0024" text="250">
+      <Coords points="2235,751 2235,770 2342,770 2342,751 2342,715 2235,715 2235,751" />
+      <Word id="l_0024-w_0001" text="250" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="1769,1169 2182,1169 2201,1224 2032,1233 2002,1245 2021,1309 1890,1319 1861,1300 1878,1243 1681,1224 1690,1179 1769,1169" />
+    <TextLine id="l_0025" text="Apenninische Halbinsel">
+      <Coords points="2170,1176 1690,1181 1692,1217 1692,1250 2187,1250 2187,1210 2182,1190 2170,1176" />
+      <Word id="l_0025-w_0001" text="Apenninische" />
+      <Word id="l_0025-w_0002" text="Halbinsel" />
+    </TextLine>
+    <TextLine id="l_0026" text="2000">
+      <Coords points="2006,1259 1873,1259 1873,1293 1873,1314 2013,1314 2013,1293 2013,1281 2006,1259" />
+      <Word id="l_0026-w_0001" text="2000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="1807,1626 2125,1635 2144,1680 1738,1671 1807,1626" />
+    <TextLine id="l_0027" text="Balkan-Halbinsel">
+      <Coords points="2125,1649 2101,1633 2078,1633 2054,1633 2030,1630 2006,1630 1983,1630 1959,1628 1935,1628 1911,1628 1887,1628 1864,1626 1840,1626 1816,1626 1792,1630 1769,1647 1759,1649 1747,1664 1747,1690 2137,1685 2137,1659 2132,1616 2125,1616 2125,1649" />
+      <Word id="l_0027-w_0001" text="Balkan-Halbinsel" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="1892,1730 2173,1740 2173,1842 1719,1842 1738,1787 1823,1785 1747,1759 1892,1730" />
+    <TextLine id="l_0028" text="4400">
+      <Coords points="2132,1737 2109,1737 2085,1735 2061,1735 2037,1735 2013,1732 1990,1732 1966,1732 1942,1730 1918,1730 1895,1730 1871,1732 1873,1759 1873,1775 1944,1787 1947,1787 2025,1771 2170,1773 2173,1749 2156,1737 2132,1737" />
+      <Word id="l_0028-w_0001" text="4400" />
+    </TextLine>
+    <TextLine id="l_0029" text="Quadrat-Myriameter">
+      <Coords points="1730,1804 1730,1828 1730,1851 2161,1851 2161,1828 2161,1794 1742,1794 1730,1804" />
+      <Word id="l_0029-w_0001" text="Quadrat-Myriameter" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="1835,960 2068,969 2087,1015 1823,1034 1835,960" />
+    <TextLine id="l_0030" text="Kola 1200">
+      <Coords points="2054,969 1816,972 1818,1010 1818,1024 2075,1022 2075,1005 2070,991 2054,969" />
+      <Word id="l_0030-w_0001" text="Kola" />
+      <Word id="l_0030-w_0002" text="1200" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0014" type="paragraph">
+    <Coords points="1730,2253 2201,2253 2230,2308 1690,2308 1730,2253" />
+    <TextLine id="l_0031" text="Pyrenäische Halbinsel">
+      <Coords points="2199,2258 2175,2253 2151,2253 2128,2253 2104,2253 2080,2253 2056,2253 2032,2253 2009,2253 1985,2253 1961,2253 1937,2253 1914,2253 1890,2253 1866,2253 1842,2253 1818,2253 1795,2253 1771,2253 1747,2253 1723,2258 1707,2277 1702,2294 1702,2317 2213,2308 2213,2284 2211,2282 2199,2258" />
+      <Word id="l_0031-w_0001" text="Pyrenäische" />
+      <Word id="l_0031-w_0002" text="Halbinsel" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0015" type="paragraph">
+    <Coords points="2463,199 2487,209 2487,216 2451,225 2463,199" />
+  </TextRegion>
+  <TextRegion id="r_0016" type="paragraph">
+    <Coords points="2,2605 2,2607 0,2607 0,2605 2,2605" />
+  </TextRegion>
+  <TextRegion id="r_0017" type="paragraph">
+    <Coords points="35,2857 35,2869 28,2869 28,2852 35,2857" />
+  </TextRegion>
+  <TextRegion id="r_0018" type="paragraph">
+    <Coords points="45,2819 38,2821 38,2814 45,2814 45,2819" />
+  </TextRegion>
+  <TextRegion id="r_0019" type="paragraph">
+    <Coords points="344,3014 359,3014 378,3040 332,3040 344,3014" />
+  </TextRegion>
+  <TextRegion id="r_0020" type="paragraph">
+    <Coords points="306,3794 587,3794 606,3848 171,3848 199,3803 306,3794" />
+    <TextLine id="l_0032" text="Bearbeitet von Ic oohaug.">
+      <Coords points="587,3803 199,3801 178,3824 178,3829 175,3851 594,3855 599,3834 596,3822 587,3803" />
+      <Word id="l_0032-w_0001" text="Bearbeitet" />
+      <Word id="l_0032-w_0002" text="von" />
+      <Word id="l_0032-w_0003" text="Ic" />
+      <Word id="l_0032-w_0004" text="oohaug." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0021" type="paragraph">
+    <Coords points="420,3756 425,3763 408,3763 408,3756 420,3756" />
+  </TextRegion>
+  <TextRegion id="r_0022" type="paragraph">
+    <Coords points="630,3537 929,3546 977,3687 958,3715 596,3744 199,3706 209,3632 332,3620 266,3575 630,3537" />
+    <TextLine id="l_0033" text="Groß-Britannien">
+      <Coords points="608,3582 608,3603 943,3599 943,3577 936,3544 606,3546 608,3582" />
+      <Word id="l_0033-w_0001" text="Groß-Britannien" />
+    </TextLine>
+    <TextLine id="l_0034" text="2800">
+      <Coords points="699,3637 699,3660 753,3672 756,3672 858,3656 858,3637 858,3608 699,3608 699,3637" />
+      <Word id="l_0034-w_0001" text="2800" />
+    </TextLine>
+    <TextLine id="l_0035" text="">
+      <Coords points="865,3637 865,3649 939,3649 939,3634 932,3606 863,3606 865,3637" />
+    </TextLine>
+    <TextLine id="l_0036" text="Quadrat-Myriameter">
+      <Coords points="584,3696 584,3715 958,3710 958,3689 951,3658 582,3663 584,3696" />
+      <Word id="l_0036-w_0001" text="Quadrat-Myriameter" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0023" type="paragraph">
+    <Coords points="592,2748 806,2757 834,2831 551,2831 551,2776 592,2748" />
+    <TextLine id="l_0037" text="Irland 840">
+      <Coords points="806,2771 691,2762 689,2762 687,2762 684,2762 670,2774 580,2764 577,2764 575,2764 573,2764 573,2767 565,2771 568,2812 568,2826 822,2824 822,2807 820,2795 806,2771" />
+      <Word id="l_0037-w_0001" text="Irland" />
+      <Word id="l_0037-w_0002" text="840" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0024" type="paragraph">
+    <Coords points="677,3166 939,3185 939,3278 570,3297 589,3252 504,3230 677,3166" />
+    <TextLine id="l_0038" text="Island 1000">
+      <Coords points="625,3218 625,3240 898,3235 901,3214 894,3183 622,3185 625,3218" />
+      <Word id="l_0038-w_0001" text="Island" />
+      <Word id="l_0038-w_0002" text="1000" />
+    </TextLine>
+    <TextLine id="l_0039" text="(S il. Standinavlen)">
+      <Coords points="618,3259 618,3278 910,3275 913,3254 905,3225 615,3228 618,3259" />
+      <Word id="l_0039-w_0001" text="(S" />
+      <Word id="l_0039-w_0002" text="il." />
+      <Word id="l_0039-w_0003" text="Standinavlen)" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0025" type="paragraph">
+    <Coords points="554,2957 948,2976 986,3030 542,3068 485,3014 554,2957" />
+    <TextLine id="l_0040" text="Nowaja-Semlja ꝰ00">
+      <Coords points="951,2988 523,2990 525,3026 525,3042 960,3040 960,3021 953,2990 951,2988" />
+      <Word id="l_0040-w_0001" text="Nowaja-Semlja" />
+      <Word id="l_0040-w_0002" text="ꝰ00" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0026" type="paragraph">
+    <Coords points="1096,3803 1659,3813 1716,3858 1017,3858 1096,3803" />
+    <TextLine id="l_0041" text="Kartogr. Anst. von CFreytag 4 Berndt. Men.">
+      <Coords points="1697,3843 1673,3824 1662,3817 1072,3817 1055,3829 1031,3839 1031,3846 1031,3870 1709,3870 1709,3846 1709,3817 1697,3817 1697,3843" />
+      <Word id="l_0041-w_0001" text="Kartogr." />
+      <Word id="l_0041-w_0002" text="Anst." />
+      <Word id="l_0041-w_0003" text="von" />
+      <Word id="l_0041-w_0004" text="CFreytag" />
+      <Word id="l_0041-w_0005" text="4" />
+      <Word id="l_0041-w_0006" text="Berndt." />
+      <Word id="l_0041-w_0007" text="Men." />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0027" type="paragraph">
+    <Coords points="1635,3204 1650,3204 1650,3211 1623,3211 1635,3204" />
+  </TextRegion>
+  <TextRegion id="r_0028" type="paragraph">
+    <Coords points="1892,3223 2106,3271 2182,3318 2182,3354 1728,3363 1728,3299 1697,3287 1462,3278 1792,3261 1892,3223" />
+    <TextLine id="l_0042" text="- 8000">
+      <Coords points="2061,3261 2037,3254 2013,3249 1990,3244 1978,3242 1835,3242 1823,3247 1799,3256 1776,3261 1752,3261 1728,3263 1704,3263 1681,3266 1657,3266 1633,3268 1609,3268 1585,3266 1585,3271 1585,3294 2078,3297 2080,3271 2080,3263 2061,3261" />
+      <Word id="l_0042-w_0001" text="-" />
+      <Word id="l_0042-w_0002" text="8000" />
+    </TextLine>
+    <TextLine id="l_0043" text="Quadrat-Myriameter">
+      <Coords points="2163,3309 2156,3301 1842,3297 1840,3297 1837,3297 1835,3297 1835,3299 1823,3309 1752,3299 1749,3299 1747,3299 1745,3299 1735,3306 1738,3344 1738,3363 2168,3356 2168,3335 2163,3309 2163,3309" />
+      <Word id="l_0043-w_0001" text="Quadrat-Myriameter" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0029" type="paragraph">
+    <Coords points="1954,3123 2249,3128 2287,3164 2021,3202 1452,3183 1604,3128 1954,3123" />
+    <TextLine id="l_0044" text="Skandinavische Halbinsel">
+      <Coords points="2263,3145 2239,3126 2216,3126 2192,3126 2168,3126 2144,3126 2120,3126 2104,3123 1980,3123 1978,3123 1954,3123 1930,3123 1906,3123 1883,3123 1859,3123 1835,3123 1811,3123 1788,3123 1764,3126 1740,3126 1716,3126 1692,3126 1669,3126 1671,3166 1671,3197 2296,3185 2299,3159 2294,3126 2263,3123 2263,3145" />
+      <Word id="l_0044-w_0001" text="Skandinavische" />
+      <Word id="l_0044-w_0002" text="Halbinsel" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0030" type="paragraph">
+    <Coords points="1883,2358 2268,2367 2344,2393 2185,2412 2211,2460 2163,2479 1719,2469 1719,2386 1883,2358" />
+    <TextLine id="l_0045" text="5000">
+      <Coords points="2299,2379 2275,2370 2251,2365 2227,2365 2204,2365 2180,2365 2156,2362 2132,2362 2109,2362 2085,2362 2061,2360 2037,2360 2013,2360 1990,2360 1983,2358 1859,2358 1847,2362 1849,2389 1849,2410 2325,2410 2325,2386 2323,2381 2299,2379" />
+      <Word id="l_0045-w_0001" text="5000" />
+    </TextLine>
+    <TextLine id="l_0046" text="Quadrat-Myriameter">
+      <Coords points="1730,2455 1730,2479 2168,2479 2168,2455 2168,2422 1730,2422 1730,2455" />
+      <Word id="l_0046-w_0001" text="Quadrat-Myriameter" />
+    </TextLine>
+  </TextRegion>
+</Page>

@@ -1,0 +1,518 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1737359839_00000247.bin.png" imageHeight="2821" imageWidth="1826" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="189,288 1261,288 1518,332 1518,393 1474,412 1238,405 974,438 1075,457 1089,507 1206,526 1238,608 1493,614 1499,656 1032,662 999,694 807,700 768,733 788,902 1100,927 1087,1013 1133,1034 1506,1046 1506,1089 1382,1101 1330,1170 1083,1189 1081,1277 993,1310 1025,1365 974,1434 943,1441 1037,1473 1032,1560 1125,1586 1144,1722 1037,1761 1039,1874 1493,1905 1506,1941 1158,1954 1131,1985 957,2010 956,2079 1050,2125 1068,2223 882,2242 862,2305 794,2317 749,2380 625,2380 581,2411 169,2411 189,288" />
+    <TextLine id="l_0001" text="Pölitz, Osterreichische Geschichte, neu herausgegeben von Ottokar Lorenz.">
+      <Coords points="1326,299 1310,296 1302,294 1246,294 1239,288 1231,288 1216,288 1210,288 1177,293 1170,288 1169,288 1155,288 1147,294 826,294 813,288 808,288 793,288 788,288 755,294 692,288 683,288 667,288 652,288 636,288 620,288 605,288 589,288 573,288 557,288 554,288 539,294 521,288 510,288 495,288 479,288 463,288 448,288 432,288 416,288 401,288 385,288 369,288 354,288 338,288 322,288 311,288 296,294 211,288 197,288 195,286 191,286 189,286 188,286 186,286 186,288 181,291 183,318 183,330 1333,329 1335,315 1332,299 1326,299" />
+      <Word id="l_0001-w_0001" text="Pölitz," error_score="0.091" />
+      <Word id="l_0001-w_0002" text="Osterreichische" error_score="0.091" />
+      <Word id="l_0001-w_0003" text="Geschichte," error_score="0.091" />
+      <Word id="l_0001-w_0004" text="neu" error_score="0.091" />
+      <Word id="l_0001-w_0005" text="herausgegeben" error_score="0.091" />
+      <Word id="l_0001-w_0006" text="von" error_score="0.091" />
+      <Word id="l_0001-w_0007" text="Ottokar" error_score="0.091" />
+      <Word id="l_0001-w_0008" text="Lorenz." error_score="0.091" />
+    </TextLine>
+    <TextLine id="l_0002" text="Teuffenbach, Reichsfreiherr von, Vaterländisches Ehrenbuch. (Eine Auswahl prosaischer">
+      <Coords points="184,352 184,366 1512,366 1512,352 1512,330 184,330 184,352" />
+      <Word id="l_0002-w_0001" text="Teuffenbach," error_score="0.000" />
+      <Word id="l_0002-w_0002" text="Reichsfreiherr" error_score="0.000" />
+      <Word id="l_0002-w_0003" text="von," error_score="0.000" />
+      <Word id="l_0002-w_0004" text="Vaterländisches" error_score="0.000" />
+      <Word id="l_0002-w_0005" text="Ehrenbuch." error_score="0.000" />
+      <Word id="l_0002-w_0006" text="(Eine" error_score="0.000" />
+      <Word id="l_0002-w_0007" text="Auswahl" error_score="0.000" />
+      <Word id="l_0002-w_0008" text="prosaischer" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0003" text="und poetischer Darstellungen, welche die österreichische Geschichte zum Gegen-">
+      <Coords points="283,388 283,401 1512,401 1512,388 1512,366 283,366 283,388" />
+      <Word id="l_0003-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0003-w_0002" text="poetischer" error_score="0.000" />
+      <Word id="l_0003-w_0003" text="Darstellungen," error_score="0.000" />
+      <Word id="l_0003-w_0004" text="welche" error_score="0.000" />
+      <Word id="l_0003-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0003-w_0006" text="österreichische" error_score="0.000" />
+      <Word id="l_0003-w_0007" text="Geschichte" error_score="0.000" />
+      <Word id="l_0003-w_0008" text="zum" error_score="0.000" />
+      <Word id="l_0003-w_0009" text="Gegen-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0004" text="stande haben. )">
+      <Coords points="285,424 285,437 498,435 499,421 496,398 307,394 305,394 304,394 283,402 285,424" />
+      <Word id="l_0004-w_0001" text="stande" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="haben." error_score="0.000" />
+      <Word id="l_0004-w_0003" text=")" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0005" text="E. Wenisch, Vaterländisches Dichterbuch.">
+      <Coords points="181,457 181,470 855,470 855,457 855,435 181,435 181,457" />
+      <Word id="l_0005-w_0001" text="E." error_score="0.000" />
+      <Word id="l_0005-w_0002" text="Wenisch," error_score="0.000" />
+      <Word id="l_0005-w_0003" text="Vaterländisches" error_score="0.000" />
+      <Word id="l_0005-w_0004" text="Dichterbuch." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0006" text="Pennerstorfer, Osterreichische Geschichte in Gedichten.">
+      <Coords points="181,493 181,506 1070,503 1072,490 1068,470 186,463 184,463 183,463 181,463 181,465 180,465 181,493" />
+      <Word id="l_0006-w_0001" text="Pennerstorfer," error_score="0.000" />
+      <Word id="l_0006-w_0002" text="Osterreichische" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="Geschichte" error_score="0.000" />
+      <Word id="l_0006-w_0004" text="in" error_score="0.000" />
+      <Word id="l_0006-w_0005" text="Gedichten." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0007" text="2. Zur Geschichte einzelner Länder.">
+      <Coords points="1205,532 1053,525 1051,525 1050,525 1048,525 1048,526 1040,534 992,534 960,525 959,525 957,525 912,532 882,525 880,525 879,525 877,525 844,532 811,523 810,523 808,523 807,523 805,523 797,529 791,525 791,523 789,523 788,523 786,523 478,529 478,556 476,567 1206,570 1210,559 1208,537 1205,532" />
+      <Word id="l_0007-w_0001" text="2." error_score="0.018" />
+      <Word id="l_0007-w_0002" text="Zur" error_score="0.018" />
+      <Word id="l_0007-w_0003" text="Geschichte" error_score="0.018" />
+      <Word id="l_0007-w_0004" text="einzelner" error_score="0.018" />
+      <Word id="l_0007-w_0005" text="Länder." error_score="0.018" />
+    </TextLine>
+    <TextLine id="l_0008" text="Dr. Ludwig Schlesinger, Geschichte Böhmens. In 2 Bänden.">
+      <Coords points="180,608 180,620 1159,617 1161,601 1156,579 178,583 180,608" />
+      <Word id="l_0008-w_0001" text="Dr." error_score="0.000" />
+      <Word id="l_0008-w_0002" text="Ludwig" error_score="0.000" />
+      <Word id="l_0008-w_0003" text="Schlesinger," error_score="0.000" />
+      <Word id="l_0008-w_0004" text="Geschichte" error_score="0.000" />
+      <Word id="l_0008-w_0005" text="Böhmens." error_score="0.000" />
+      <Word id="l_0008-w_0006" text="In" error_score="0.000" />
+      <Word id="l_0008-w_0007" text="2" error_score="0.000" />
+      <Word id="l_0008-w_0008" text="Bänden." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="F. Palacky, Geschichte Böhmens. In 4 Bänden mit mehreren Unterabteilungen">
+      <Coords points="1495,633 1482,615 1252,609 1250,609 1167,619 178,619 180,644 180,653 1499,656 1503,637 1499,617 1495,615 1495,633" />
+      <Word id="l_0009-w_0001" text="F." error_score="0.000" />
+      <Word id="l_0009-w_0002" text="Palacky," error_score="0.000" />
+      <Word id="l_0009-w_0003" text="Geschichte" error_score="0.000" />
+      <Word id="l_0009-w_0004" text="Böhmens." error_score="0.000" />
+      <Word id="l_0009-w_0005" text="In" error_score="0.000" />
+      <Word id="l_0009-w_0006" text="4" error_score="0.000" />
+      <Word id="l_0009-w_0007" text="Bänden" error_score="0.000" />
+      <Word id="l_0009-w_0008" text="mit" error_score="0.000" />
+      <Word id="l_0009-w_0009" text="mehreren" error_score="0.000" />
+      <Word id="l_0009-w_0010" text="Unterabteilungen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0010" text="(Reicht nur bis zum Schlusse des Mittelalters. )">
+      <Coords points="283,677 283,689 1001,686 1001,673 996,653 282,655 283,677" />
+      <Word id="l_0010-w_0001" text="(Reicht" error_score="0.000" />
+      <Word id="l_0010-w_0002" text="nur" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="bis" error_score="0.000" />
+      <Word id="l_0010-w_0004" text="zum" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="Schlusse" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="des" error_score="0.000" />
+      <Word id="l_0010-w_0007" text="Mittelalters." error_score="0.000" />
+      <Word id="l_0010-w_0008" text=")" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0011" text="Dudik, Geschichte Mährens.">
+      <Coords points="180,714 180,727 622,724 623,711 620,689 186,683 184,683 183,683 181,683 181,684 180,684 178,684 180,714" />
+      <Word id="l_0011-w_0001" text="Dudik," error_score="0.000" />
+      <Word id="l_0011-w_0002" text="Geschichte" error_score="0.000" />
+      <Word id="l_0011-w_0003" text="Mährens." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0012" text="Muchar, Geschichte Steiermarks.">
+      <Coords points="180,750 180,763 695,758 697,745 692,724 178,727 180,750" />
+      <Word id="l_0012-w_0001" text="Muchar," error_score="0.000" />
+      <Word id="l_0012-w_0002" text="Geschichte" error_score="0.000" />
+      <Word id="l_0012-w_0003" text="Steiermarks." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="Ankershofen, Geschichte Kärntens.">
+      <Coords points="180,785 180,797 761,794 763,782 760,761 195,755 194,755 192,755 178,761 180,785" />
+      <Word id="l_0013-w_0001" text="Ankershofen," error_score="0.000" />
+      <Word id="l_0013-w_0002" text="Geschichte" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="Kärntens." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="Hermann, Geschichte Krains.">
+      <Coords points="180,819 180,833 656,833 656,819 656,799 180,797 180,819" />
+      <Word id="l_0014-w_0001" text="Hermann," error_score="0.000" />
+      <Word id="l_0014-w_0002" text="Geschichte" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="Krains." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="Egger, Geschichte Tirols.">
+      <Coords points="180,858 180,869 584,863 586,852 583,832 487,822 485,822 484,822 482,822 482,824 481,824 474,832 380,824 379,824 377,824 376,824 376,825 366,833 318,825 316,825 315,825 313,825 313,827 305,835 178,835 180,858" />
+      <Word id="l_0015-w_0001" text="Egger," error_score="0.000" />
+      <Word id="l_0015-w_0002" text="Geschichte" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="Tirols." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="Fessler-Klein, Geschichte Ungarns.">
+      <Coords points="180,893 180,904 769,898 769,887 766,866 628,858 626,858 625,858 623,858 623,860 615,866 473,860 471,860 470,860 452,869 178,869 180,893" />
+      <Word id="l_0016-w_0001" text="Fessler-Klein," error_score="0.000" />
+      <Word id="l_0016-w_0002" text="Geschichte" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="Ungarns." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="3. Lebensbeschreibungen.">
+      <Coords points="1092,927 932,919 931,919 890,927 869,919 868,919 866,919 865,919 827,929 647,921 645,921 644,921 625,929 598,921 597,921 595,921 594,921 592,921 592,923 590,923 589,923 590,957 590,968 1097,965 1098,954 1095,935 1092,927" />
+      <Word id="l_0017-w_0001" text="3." error_score="0.161" />
+      <Word id="l_0017-w_0002" text="Lebensbeschreibungen." error_score="0.161" />
+    </TextLine>
+    <TextLine id="l_0018" text="Lorenz O., Osterreichische Regentenhalle.">
+      <Coords points="177,1009 177,1021 840,1010 841,998 838,976 489,973 487,973 485,973 445,982 382,974 380,974 379,974 377,974 377,976 369,982 329,976 327,976 326,976 324,976 324,977 316,985 250,985 183,977 181,977 180,977 178,977 178,979 175,981 177,1009" />
+      <Word id="l_0018-w_0001" text="Lorenz" error_score="0.373" />
+      <Word id="l_0018-w_0002" text="O.," error_score="0.373" />
+      <Word id="l_0018-w_0003" text="Osterreichische" error_score="0.373" />
+      <Word id="l_0018-w_0004" text="Regentenhalle." error_score="0.373" />
+    </TextLine>
+    <TextLine id="l_0019" text="Proschko Hermine, Osterreichs Kaiserfrauen.">
+      <Coords points="178,1043 178,1054 890,1048 890,1034 887,1013 532,1009 531,1009 410,1018 183,1013 181,1013 180,1013 178,1013 178,1015 177,1015 178,1043" />
+      <Word id="l_0019-w_0001" text="Proschko" error_score="0.000" />
+      <Word id="l_0019-w_0002" text="Hermine," error_score="0.000" />
+      <Word id="l_0019-w_0003" text="Osterreichs" error_score="0.000" />
+      <Word id="l_0019-w_0004" text="Kaiserfrauen." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0020" text="Wolf, Berühmte Osterreicher der Vorzeit. In biographischen Skizzen für die Jugend.">
+      <Coords points="181,1079 181,1090 1503,1086 1504,1071 1501,1048 180,1053 181,1079" />
+      <Word id="l_0020-w_0001" text="Wolf," error_score="0.000" />
+      <Word id="l_0020-w_0002" text="Berühmte" error_score="0.000" />
+      <Word id="l_0020-w_0003" text="Osterreicher" error_score="0.000" />
+      <Word id="l_0020-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0020-w_0005" text="Vorzeit." error_score="0.000" />
+      <Word id="l_0020-w_0006" text="In" error_score="0.000" />
+      <Word id="l_0020-w_0007" text="biographischen" error_score="0.000" />
+      <Word id="l_0020-w_0008" text="Skizzen" error_score="0.000" />
+      <Word id="l_0020-w_0009" text="für" error_score="0.000" />
+      <Word id="l_0020-w_0010" text="die" error_score="0.000" />
+      <Word id="l_0020-w_0011" text="Jugend." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="— Geschichtliche Bilder aus Osterreich.">
+      <Coords points="219,1114 219,1123 849,1118 851,1108 849,1087 827,1078 826,1078 824,1078 778,1086 691,1078 689,1078 688,1078 686,1078 686,1079 684,1079 678,1087 534,1079 532,1079 531,1079 509,1089 405,1081 404,1081 217,1092 219,1114" />
+      <Word id="l_0021-w_0001" text="—" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="Geschichtliche" error_score="0.000" />
+      <Word id="l_0021-w_0003" text="Bilder" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="aus" error_score="0.000" />
+      <Word id="l_0021-w_0005" text="Osterreich." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="Eugippius, Das Leben des heiligen Severin. Ubersetzt von Rodenberg.">
+      <Coords points="177,1151 177,1162 1336,1159 1338,1145 1335,1120 1271,1120 1258,1112 1257,1112 1255,1112 1253,1112 1252,1112 1250,1112 1241,1122 1159,1122 1133,1112 1131,1112 1130,1112 1128,1112 1126,1112 1117,1122 957,1122 946,1114 945,1114 943,1114 841,1114 840,1114 838,1114 836,1114 824,1122 763,1115 761,1115 760,1115 758,1115 749,1123 573,1117 572,1117 570,1117 568,1117 559,1125 459,1117 457,1117 456,1117 454,1117 445,1125 398,1117 396,1117 394,1117 376,1126 261,1118 260,1118 258,1118 257,1118 247,1126 184,1120 183,1120 181,1120 180,1120 180,1122 175,1125 177,1151" />
+      <Word id="l_0022-w_0001" text="Eugippius," error_score="0.000" />
+      <Word id="l_0022-w_0002" text="Das" error_score="0.000" />
+      <Word id="l_0022-w_0003" text="Leben" error_score="0.000" />
+      <Word id="l_0022-w_0004" text="des" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="heiligen" error_score="0.000" />
+      <Word id="l_0022-w_0006" text="Severin." error_score="0.000" />
+      <Word id="l_0022-w_0007" text="Ubersetzt" error_score="0.000" />
+      <Word id="l_0022-w_0008" text="von" error_score="0.000" />
+      <Word id="l_0022-w_0009" text="Rodenberg." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="SEaIla, Herzog Leopold VII. der Glorreiche.">
+      <Coords points="178,1189 178,1198 879,1189 879,1178 876,1156 576,1151 575,1151 573,1151 572,1151 561,1159 525,1153 523,1153 473,1161 184,1158 183,1158 181,1158 180,1158 180,1159 178,1159 177,1161 178,1189" />
+      <Word id="l_0023-w_0001" text="SEaIla," error_score="0.000" />
+      <Word id="l_0023-w_0002" text="Herzog" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="Leopold" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="VII." error_score="0.000" />
+      <Word id="l_0023-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0023-w_0006" text="Glorreiche." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="örtel, Rudolf von Habsburg.">
+      <Coords points="178,1224 178,1234 633,1231 634,1217 631,1195 404,1189 402,1189 401,1189 366,1197 304,1191 302,1191 300,1191 299,1191 286,1198 184,1192 183,1192 181,1192 180,1192 180,1194 178,1194 177,1194 178,1224" />
+      <Word id="l_0024-w_0001" text="örtel," error_score="0.000" />
+      <Word id="l_0024-w_0002" text="Rudolf" error_score="0.000" />
+      <Word id="l_0024-w_0003" text="von" error_score="0.000" />
+      <Word id="l_0024-w_0004" text="Habsburg." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="Loserth, Das Leben und Wirken Rudolfs von Habsburg.">
+      <Coords points="178,1258 178,1271 1072,1263 1073,1249 1070,1227 625,1222 623,1222 471,1231 183,1227 181,1227 180,1227 178,1227 178,1228 177,1228 178,1258" />
+      <Word id="l_0025-w_0001" text="Loserth," error_score="0.000" />
+      <Word id="l_0025-w_0002" text="Das" error_score="0.000" />
+      <Word id="l_0025-w_0003" text="Leben" error_score="0.000" />
+      <Word id="l_0025-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0025-w_0005" text="Wirken" error_score="0.000" />
+      <Word id="l_0025-w_0006" text="Rudolfs" error_score="0.000" />
+      <Word id="l_0025-w_0007" text="von" error_score="0.000" />
+      <Word id="l_0025-w_0008" text="Habsburg." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0026" text="Bachmann A., Albrecht I.">
+      <Coords points="175,1285 177,1296 177,1308 615,1297 615,1286 612,1266 540,1258 539,1258 537,1258 536,1258 536,1260 528,1266 468,1260 467,1260 465,1260 443,1267 394,1261 393,1261 391,1261 390,1261 377,1269 247,1264 246,1264 181,1272 175,1285" />
+      <Word id="l_0026-w_0001" text="Bachmann" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="A.," error_score="0.000" />
+      <Word id="l_0026-w_0003" text="Albrecht" error_score="0.000" />
+      <Word id="l_0026-w_0004" text="I." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="Biermann, Kaiser Karl IV.">
+      <Coords points="178,1330 178,1343 626,1332 626,1321 623,1300 550,1292 548,1292 547,1292 545,1292 536,1300 489,1294 487,1294 485,1294 484,1294 471,1302 401,1296 399,1296 177,1305 178,1330" />
+      <Word id="l_0027-w_0001" text="Biermann," error_score="0.000" />
+      <Word id="l_0027-w_0002" text="Kaiser" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="Karl" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="IV." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="Jarz, Kaiser Friedrich III. und Herzog Albrecht VI.">
+      <Coords points="177,1366 177,1383 999,1365 1001,1358 999,1330 407,1330 405,1330 272,1339 184,1333 183,1333 181,1333 180,1333 180,1335 175,1338 177,1366" />
+      <Word id="l_0028-w_0001" text="Jarz," error_score="0.000" />
+      <Word id="l_0028-w_0002" text="Kaiser" error_score="0.000" />
+      <Word id="l_0028-w_0003" text="Friedrich" error_score="0.000" />
+      <Word id="l_0028-w_0004" text="III." error_score="0.000" />
+      <Word id="l_0028-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0028-w_0006" text="Herzog" error_score="0.000" />
+      <Word id="l_0028-w_0007" text="Albrecht" error_score="0.000" />
+      <Word id="l_0028-w_0008" text="VI." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0029" text="— Könie Ladislaus Posthumus.">
+      <Coords points="213,1399 213,1408 703,1405 705,1394 702,1372 539,1365 537,1365 536,1365 534,1365 534,1366 526,1372 384,1366 382,1366 380,1366 379,1366 371,1374 346,1368 344,1368 343,1368 211,1376 213,1399" />
+      <Word id="l_0029-w_0001" text="—" error_score="0.000" />
+      <Word id="l_0029-w_0002" text="Könie" error_score="0.000" />
+      <Word id="l_0029-w_0003" text="Ladislaus" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="Posthumus." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="Kraus V. von, Kaiser Maximilian I.">
+      <Coords points="177,1437 177,1449 753,1438 755,1427 752,1405 656,1397 655,1397 653,1397 636,1405 567,1399 565,1399 365,1410 183,1405 181,1405 180,1405 178,1405 178,1407 177,1407 175,1407 177,1437" />
+      <Word id="l_0030-w_0001" text="Kraus" error_score="0.000" />
+      <Word id="l_0030-w_0002" text="V." error_score="0.000" />
+      <Word id="l_0030-w_0003" text="von," error_score="0.000" />
+      <Word id="l_0030-w_0004" text="Kaiser" error_score="0.000" />
+      <Word id="l_0030-w_0005" text="Maximilian" error_score="0.000" />
+      <Word id="l_0030-w_0006" text="I." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0031" text="Schober, Siegmund Freiherr von Herberstein.">
+      <Coords points="173,1455 175,1473 175,1482 896,1471 896,1462 891,1440 177,1449 173,1455" />
+      <Word id="l_0031-w_0001" text="Schober," error_score="0.000" />
+      <Word id="l_0031-w_0002" text="Siegmund" error_score="0.000" />
+      <Word id="l_0031-w_0003" text="Freiherr" error_score="0.000" />
+      <Word id="l_0031-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0031-w_0005" text="Herberstein." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0032" text="Weller Fr, Nillas Graf Zrinyi, der Held von Szigeth.">
+      <Coords points="178,1507 178,1517 1032,1507 1032,1496 1029,1474 918,1466 916,1466 915,1466 913,1466 904,1474 799,1468 797,1468 749,1476 666,1470 664,1470 663,1470 661,1470 648,1477 562,1471 561,1471 177,1482 178,1507" />
+      <Word id="l_0032-w_0001" text="Weller" error_score="0.000" />
+      <Word id="l_0032-w_0002" text="Fr," error_score="0.000" />
+      <Word id="l_0032-w_0003" text="Nillas" error_score="0.000" />
+      <Word id="l_0032-w_0004" text="Graf" error_score="0.000" />
+      <Word id="l_0032-w_0005" text="Zrinyi," error_score="0.000" />
+      <Word id="l_0032-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0032-w_0007" text="Held" error_score="0.000" />
+      <Word id="l_0032-w_0008" text="von" error_score="0.000" />
+      <Word id="l_0032-w_0009" text="Szigeth." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0033" text="Ramdohr E., Wallenstein.">
+      <Coords points="175,1543 175,1556 608,1545 608,1534 605,1513 180,1513 178,1513 177,1513 175,1513 175,1515 173,1515 175,1543" />
+      <Word id="l_0033-w_0001" text="Ramdohr" error_score="0.000" />
+      <Word id="l_0033-w_0002" text="E.," error_score="0.000" />
+      <Word id="l_0033-w_0003" text="Wallenstein." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="Zwiedineck von Südenhorst, Wallenstein.">
+      <Coords points="173,1578 173,1589 890,1579 891,1567 888,1545 672,1540 670,1540 669,1540 667,1540 658,1548 583,1542 581,1542 579,1542 559,1549 476,1543 474,1543 473,1543 471,1543 462,1551 365,1545 363,1545 362,1545 343,1553 272,1546 271,1546 269,1546 268,1546 258,1556 172,1556 173,1578" />
+      <Word id="l_0034-w_0001" text="Zwiedineck" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="Südenhorst," error_score="0.000" />
+      <Word id="l_0034-w_0004" text="Wallenstein." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="Arneth, Prinz Eugen von Savoyen. (In 3 starken Bänden. )">
+      <Coords points="1112,1582 1106,1581 335,1581 333,1581 332,1581 315,1589 294,1582 293,1582 291,1582 178,1590 172,1603 173,1615 173,1625 1115,1617 1115,1606 1114,1582 1112,1582" />
+      <Word id="l_0035-w_0001" text="Arneth," error_score="0.000" />
+      <Word id="l_0035-w_0002" text="Prinz" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="Eugen" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0035-w_0005" text="Savoyen." error_score="0.000" />
+      <Word id="l_0035-w_0006" text="(In" error_score="0.000" />
+      <Word id="l_0035-w_0007" text="3" error_score="0.000" />
+      <Word id="l_0035-w_0008" text="starken" error_score="0.000" />
+      <Word id="l_0035-w_0009" text="Bänden." error_score="0.000" />
+      <Word id="l_0035-w_0010" text=")" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="Keym, Prinz Eugen von Savoyen. Nach Arneth bearbeitet.">
+      <Coords points="173,1650 173,1661 623,1654 652,1662 653,1662 655,1662 705,1651 945,1651 1095,1659 1097,1659 1098,1659 1100,1659 1100,1658 1108,1650 1108,1642 1106,1620 946,1612 945,1612 943,1612 941,1612 941,1614 940,1614 935,1620 733,1614 731,1614 172,1625 173,1650" />
+      <Word id="l_0036-w_0001" text="Keym," error_score="0.000" />
+      <Word id="l_0036-w_0002" text="Prinz" error_score="0.000" />
+      <Word id="l_0036-w_0003" text="Eugen" error_score="0.000" />
+      <Word id="l_0036-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0036-w_0005" text="Savoyen." error_score="0.000" />
+      <Word id="l_0036-w_0006" text="Nach" error_score="0.000" />
+      <Word id="l_0036-w_0007" text="Arneth" error_score="0.000" />
+      <Word id="l_0036-w_0008" text="bearbeitet." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="Bancalari, Prinz Eugen.">
+      <Coords points="173,1686 173,1698 573,1691 575,1678 572,1658 412,1651 410,1651 247,1662 178,1656 177,1656 175,1656 173,1656 173,1658 172,1658 173,1686" />
+      <Word id="l_0037-w_0001" text="Bancalari," error_score="0.000" />
+      <Word id="l_0037-w_0002" text="Prinz" error_score="0.000" />
+      <Word id="l_0037-w_0003" text="Eugen." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="Niedergesäß R., Prinz Eugen und das Ende der Türkennot.">
+      <Coords points="1134,1684 576,1684 575,1684 573,1684 572,1684 561,1692 479,1686 478,1686 305,1695 199,1689 197,1689 195,1689 172,1697 173,1720 173,1731 1139,1723 1139,1712 1137,1708 1134,1684" />
+      <Word id="l_0038-w_0001" text="Niedergesäß" error_score="0.000" />
+      <Word id="l_0038-w_0002" text="R.," error_score="0.000" />
+      <Word id="l_0038-w_0003" text="Prinz" error_score="0.000" />
+      <Word id="l_0038-w_0004" text="Eugen" error_score="0.000" />
+      <Word id="l_0038-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0038-w_0006" text="das" error_score="0.000" />
+      <Word id="l_0038-w_0007" text="Ende" error_score="0.000" />
+      <Word id="l_0038-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0038-w_0009" text="Türkennot." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0039" text="Roth R., Prinz Eugen, der edle Ritter.">
+      <Coords points="173,1755 173,1767 799,1761 800,1745 796,1725 172,1733 173,1755" />
+      <Word id="l_0039-w_0001" text="Roth" error_score="0.000" />
+      <Word id="l_0039-w_0002" text="R.," error_score="0.000" />
+      <Word id="l_0039-w_0003" text="Prinz" error_score="0.000" />
+      <Word id="l_0039-w_0004" text="Eugen," error_score="0.000" />
+      <Word id="l_0039-w_0005" text="der" error_score="0.000" />
+      <Word id="l_0039-w_0006" text="edle" error_score="0.000" />
+      <Word id="l_0039-w_0007" text="Ritter." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0040" text="Arneth, Geschichte Maria Theresias. In 10 Bänden.">
+      <Coords points="173,1792 173,1803 1007,1791 1007,1781 1004,1759 291,1759 289,1759 172,1769 173,1792" />
+      <Word id="l_0040-w_0001" text="Arneth," error_score="0.000" />
+      <Word id="l_0040-w_0002" text="Geschichte" error_score="0.000" />
+      <Word id="l_0040-w_0003" text="Maria" error_score="0.000" />
+      <Word id="l_0040-w_0004" text="Theresias." error_score="0.000" />
+      <Word id="l_0040-w_0005" text="In" error_score="0.000" />
+      <Word id="l_0040-w_0006" text="10" error_score="0.000" />
+      <Word id="l_0040-w_0007" text="Bänden." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0041" text="Wolf, Osterreich unter Maria Theresia.">
+      <Coords points="175,1827 175,1838 778,1830 780,1819 777,1797 658,1789 656,1789 655,1789 636,1797 543,1791 542,1791 540,1791 539,1791 539,1792 531,1799 416,1792 415,1792 413,1792 385,1800 294,1794 293,1794 291,1794 289,1794 278,1803 173,1803 175,1827" />
+      <Word id="l_0041-w_0001" text="Wolf," error_score="0.000" />
+      <Word id="l_0041-w_0002" text="Osterreich" error_score="0.000" />
+      <Word id="l_0041-w_0003" text="unter" error_score="0.000" />
+      <Word id="l_0041-w_0004" text="Maria" error_score="0.000" />
+      <Word id="l_0041-w_0005" text="Theresia." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0042" text="AIschker, Maria Theresia vor ihrer Thronbesteigune.">
+      <Coords points="173,1864 173,1877 1010,1864 1012,1857 1010,1832 181,1832 180,1832 178,1832 177,1832 177,1833 172,1836 173,1864" />
+      <Word id="l_0042-w_0001" text="AIschker," error_score="0.000" />
+      <Word id="l_0042-w_0002" text="Maria" error_score="0.000" />
+      <Word id="l_0042-w_0003" text="Theresia" error_score="0.000" />
+      <Word id="l_0042-w_0004" text="vor" error_score="0.000" />
+      <Word id="l_0042-w_0005" text="ihrer" error_score="0.000" />
+      <Word id="l_0042-w_0006" text="Thronbesteigune." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0043" text="Maria Theresia im Erbfolgekriege.">
+      <Coords points="351,1894 351,1908 876,1908 877,1890 873,1868 349,1871 351,1894" />
+      <Word id="l_0043-w_0001" text="Maria" error_score="0.000" />
+      <Word id="l_0043-w_0002" text="Theresia" error_score="0.000" />
+      <Word id="l_0043-w_0003" text="im" error_score="0.000" />
+      <Word id="l_0043-w_0004" text="Erbfolgekriege." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0044" text="Proschko Isidor, Maria Theresia. — Feldmarschall Radetzky. — Prinz Eugen von">
+      <Coords points="1501,1929 1487,1907 1148,1907 1111,1897 1109,1897 1108,1897 1078,1905 573,1901 572,1901 570,1901 568,1901 557,1908 540,1901 539,1901 537,1901 448,1908 362,1901 360,1901 324,1908 305,1901 304,1901 302,1901 172,1910 169,1924 170,1937 170,1952 706,1941 1499,1948 1503,1933 1501,1930 1501,1929" />
+      <Word id="l_0044-w_0001" text="Proschko" error_score="0.000" />
+      <Word id="l_0044-w_0002" text="Isidor," error_score="0.000" />
+      <Word id="l_0044-w_0003" text="Maria" error_score="0.000" />
+      <Word id="l_0044-w_0004" text="Theresia." error_score="0.000" />
+      <Word id="l_0044-w_0005" text="—" error_score="0.000" />
+      <Word id="l_0044-w_0006" text="Feldmarschall" error_score="0.000" />
+      <Word id="l_0044-w_0007" text="Radetzky." error_score="0.000" />
+      <Word id="l_0044-w_0008" text="—" error_score="0.000" />
+      <Word id="l_0044-w_0009" text="Prinz" error_score="0.000" />
+      <Word id="l_0044-w_0010" text="Eugen" error_score="0.000" />
+      <Word id="l_0044-w_0011" text="von" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0045" text="Savoyen. — Erzherzog Karl. — Aus dem treuen Tirol.">
+      <Coords points="274,1968 274,1979 278,1984 280,1984 282,1984 283,1984 1134,1976 1134,1963 1131,1943 283,1938 282,1938 280,1938 278,1938 272,1943 274,1968" />
+      <Word id="l_0045-w_0001" text="Savoyen." error_score="0.000" />
+      <Word id="l_0045-w_0002" text="—" error_score="0.000" />
+      <Word id="l_0045-w_0003" text="Erzherzog" error_score="0.000" />
+      <Word id="l_0045-w_0004" text="Karl." error_score="0.000" />
+      <Word id="l_0045-w_0005" text="—" error_score="0.000" />
+      <Word id="l_0045-w_0006" text="Aus" error_score="0.000" />
+      <Word id="l_0045-w_0007" text="dem" error_score="0.000" />
+      <Word id="l_0045-w_0008" text="treuen" error_score="0.000" />
+      <Word id="l_0045-w_0009" text="Tirol." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0046" text="Wolf G., Kaiser Josef II.">
+      <Coords points="173,2006 173,2017 587,2010 589,1998 586,1976 343,1971 341,1971 340,1971 338,1971 338,1973 336,1973 332,1979 178,1974 177,1974 175,1974 173,1974 173,1976 172,1976 173,2006" />
+      <Word id="l_0046-w_0001" text="Wolf" error_score="0.000" />
+      <Word id="l_0046-w_0002" text="G.," error_score="0.000" />
+      <Word id="l_0046-w_0003" text="Kaiser" error_score="0.000" />
+      <Word id="l_0046-w_0004" text="Josef" error_score="0.000" />
+      <Word id="l_0046-w_0005" text="II." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0047" text="Duller Ed., Erzherzog Karl von Osterreich.">
+      <Coords points="172,2042 172,2054 866,2045 868,2034 865,2012 310,2009 308,2009 307,2009 305,2009 293,2017 178,2010 177,2010 175,2010 173,2010 173,2012 172,2012 170,2012 172,2042" />
+      <Word id="l_0047-w_0001" text="Duller" error_score="0.000" />
+      <Word id="l_0047-w_0002" text="Ed.," error_score="0.000" />
+      <Word id="l_0047-w_0003" text="Erzherzog" error_score="0.000" />
+      <Word id="l_0047-w_0004" text="Karl" error_score="0.000" />
+      <Word id="l_0047-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0047-w_0006" text="Osterreich." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0048" text="Schneidawind, Das Buch vom Erzherzog Karl.">
+      <Coords points="172,2079 172,2087 938,2078 938,2070 935,2046 689,2040 688,2040 686,2040 684,2040 684,2042 675,2051 594,2051 576,2042 575,2042 573,2042 489,2051 448,2043 446,2043 445,2043 443,2043 443,2045 435,2051 369,2045 368,2045 366,2045 333,2053 305,2045 304,2045 302,2045 300,2045 263,2054 181,2046 180,2046 178,2046 177,2046 170,2049 172,2079" />
+      <Word id="l_0048-w_0001" text="Schneidawind," error_score="0.000" />
+      <Word id="l_0048-w_0002" text="Das" error_score="0.000" />
+      <Word id="l_0048-w_0003" text="Buch" error_score="0.000" />
+      <Word id="l_0048-w_0004" text="vom" error_score="0.000" />
+      <Word id="l_0048-w_0005" text="Erzherzog" error_score="0.000" />
+      <Word id="l_0048-w_0006" text="Karl." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0049" text="Wurzbach Konstantin von, Erzherzog Karl.">
+      <Coords points="175,2112 175,2123 882,2117 884,2104 880,2084 800,2076 799,2076 173,2087 175,2112" />
+      <Word id="l_0049-w_0001" text="Wurzbach" error_score="0.000" />
+      <Word id="l_0049-w_0002" text="Konstantin" error_score="0.000" />
+      <Word id="l_0049-w_0003" text="von," error_score="0.000" />
+      <Word id="l_0049-w_0004" text="Erzherzog" error_score="0.000" />
+      <Word id="l_0049-w_0005" text="Karl." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0050" text="Schindl R., Andreas Hofer und seine Kampfgenossen.">
+      <Coords points="172,2150 172,2159 912,2161 913,2161 1036,2151 1037,2143 1036,2120 183,2117 181,2117 180,2117 178,2117 170,2122 172,2150" />
+      <Word id="l_0050-w_0001" text="Schindl" error_score="0.000" />
+      <Word id="l_0050-w_0002" text="R.," error_score="0.000" />
+      <Word id="l_0050-w_0003" text="Andreas" error_score="0.000" />
+      <Word id="l_0050-w_0004" text="Hofer" error_score="0.000" />
+      <Word id="l_0050-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0050-w_0006" text="seine" error_score="0.000" />
+      <Word id="l_0050-w_0007" text="Kampfgenossen." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0051" text="Stampfer C, Sandwirt Andreas Hofer.">
+      <Coords points="172,2186 172,2197 788,2190 789,2176 786,2154 479,2150 478,2150 476,2150 460,2158 291,2153 289,2153 288,2153 263,2161 180,2154 178,2154 177,2154 175,2154 175,2156 170,2159 172,2186" />
+      <Word id="l_0051-w_0001" text="Stampfer" error_score="0.000" />
+      <Word id="l_0051-w_0002" text="C," error_score="0.000" />
+      <Word id="l_0051-w_0003" text="Sandwirt" error_score="0.000" />
+      <Word id="l_0051-w_0004" text="Andreas" error_score="0.000" />
+      <Word id="l_0051-w_0005" text="Hofer." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0052" text="Schlossar A., Erzherzog Johann Baptist von Osterreich.">
+      <Coords points="1057,2190 622,2186 620,2186 579,2194 217,2189 216,2189 170,2197 172,2220 172,2231 1064,2228 1064,2214 1062,2212 1057,2190" />
+      <Word id="l_0052-w_0001" text="Schlossar" error_score="0.000" />
+      <Word id="l_0052-w_0002" text="A.," error_score="0.000" />
+      <Word id="l_0052-w_0003" text="Erzherzog" error_score="0.000" />
+      <Word id="l_0052-w_0004" text="Johann" error_score="0.000" />
+      <Word id="l_0052-w_0005" text="Baptist" error_score="0.000" />
+      <Word id="l_0052-w_0006" text="von" error_score="0.000" />
+      <Word id="l_0052-w_0007" text="Osterreich." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0053" text="Emmer, Kaiser Franz Josef I.">
+      <Coords points="172,2256 172,2267 659,2259 659,2248 656,2228 462,2222 460,2222 459,2222 429,2230 371,2223 369,2223 170,2233 172,2256" />
+      <Word id="l_0053-w_0001" text="Emmer," error_score="0.000" />
+      <Word id="l_0053-w_0002" text="Kaiser" error_score="0.000" />
+      <Word id="l_0053-w_0003" text="Franz" error_score="0.000" />
+      <Word id="l_0053-w_0004" text="Josef" error_score="0.000" />
+      <Word id="l_0053-w_0005" text="I." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0054" text="—">
+      <Coords points="244,2289 244,2302 257,2302 257,2289 257,2270 244,2270 244,2289" />
+      <Word id="l_0054-w_0001" text="—" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0055" text="Erzherzog Albrecht. — Radetaky.">
+      <Coords points="319,2289 319,2299 478,2306 479,2306 854,2295 854,2285 851,2264 807,2255 805,2255 804,2255 772,2263 752,2255 750,2255 749,2255 747,2255 746,2255 746,2256 738,2263 699,2255 697,2255 695,2255 670,2264 504,2256 503,2256 501,2256 499,2256 499,2258 490,2266 330,2258 329,2258 327,2258 326,2258 318,2264 319,2289" />
+      <Word id="l_0055-w_0001" text="Erzherzog" error_score="0.000" />
+      <Word id="l_0055-w_0002" text="Albrecht." error_score="0.000" />
+      <Word id="l_0055-w_0003" text="—" error_score="0.000" />
+      <Word id="l_0055-w_0004" text="Radetaky." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0056" text="Obentraut A. Ritter von, Tegetthoff.">
+      <Coords points="170,2327 170,2339 768,2333 769,2319 766,2299 180,2297 178,2297 177,2297 175,2297 169,2302 170,2327" />
+      <Word id="l_0056-w_0001" text="Obentraut" error_score="0.000" />
+      <Word id="l_0056-w_0002" text="A." error_score="0.000" />
+      <Word id="l_0056-w_0003" text="Ritter" error_score="0.000" />
+      <Word id="l_0056-w_0004" text="von," error_score="0.000" />
+      <Word id="l_0056-w_0005" text="Tegetthoff." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0057" text="Weller, Wolfgang Amadeus Mozart.">
+      <Coords points="173,2361 173,2374 749,2369 750,2357 747,2336 556,2328 554,2328 553,2328 551,2328 551,2330 550,2330 545,2338 172,2338 173,2361" />
+      <Word id="l_0057-w_0001" text="Weller," error_score="0.000" />
+      <Word id="l_0057-w_0002" text="Wolfgang" error_score="0.000" />
+      <Word id="l_0057-w_0003" text="Amadeus" error_score="0.000" />
+      <Word id="l_0057-w_0004" text="Mozart." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0058" text="Smolle, Nikolaus Lenau.">
+      <Coords points="170,2400 170,2413 576,2407 578,2393 575,2372 471,2364 470,2364 468,2364 467,2364 467,2366 459,2374 377,2374 332,2366 330,2366 280,2375 252,2368 250,2368 249,2368 247,2368 246,2368 230,2377 178,2369 177,2369 175,2369 173,2369 173,2371 172,2371 169,2372 170,2400" />
+      <Word id="l_0058-w_0001" text="Smolle," error_score="0.000" />
+      <Word id="l_0058-w_0002" text="Nikolaus" error_score="0.000" />
+      <Word id="l_0058-w_0003" text="Lenau." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1435,181 1512,181 1512,236 1438,236 1435,181" />
+    <TextLine id="l_0059" text="237">
+      <Coords points="1434,206 1434,220 1434,231 1512,231 1512,220 1499,191 1451,183 1449,183 1448,183 1434,206" />
+      <Word id="l_0059-w_0001" text="237" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="1717,156 1731,162 1725,186 1708,180 1717,156" />
+  </TextRegion>
+</Page>

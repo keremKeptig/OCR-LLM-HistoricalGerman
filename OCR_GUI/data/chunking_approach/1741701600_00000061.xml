@@ -1,0 +1,1135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1741701600_00000061.bin.png" imageHeight="3723" imageWidth="4323" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="401,206 469,206 477,246 380,254 401,206" />
+    <TextLine id="l_0001" text="Nr. 3">
+      <Coords points="461,206 378,208 380,239 380,254 473,252 473,235 469,215 461,206" />
+      <Word id="l_0001-w_0001" text="Nr." error_score="0.726" error_type="error" />
+      <Word id="l_0001-w_0002" text="3" error_score="0.726" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="666,835 932,852 982,924 554,932 455,924 438,891 463,860 585,868 666,835" />
+    <TextLine id="l_0002" text="e">
+      <Coords points="651,839 630,848 610,856 610,864 608,893 761,893 763,868 761,841 659,837 651,839" />
+      <Word id="l_0002-w_0001" text="e" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0003" text="Augenpunkt in unendlieher Ferne.">
+      <Coords points="461,905 459,922 897,926 901,910 899,883 461,879 461,905" />
+      <Word id="l_0003-w_0001" text="Augenpunkt" error_score="1.000" error_type="error" />
+      <Word id="l_0003-w_0002" text="in" error_score="1.000" error_type="error" />
+      <Word id="l_0003-w_0003" text="unendlieher" error_score="1.000" error_type="error" />
+      <Word id="l_0003-w_0004" text="Ferne." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="717,1131 750,1247 833,1265 843,1307 1007,1307 1017,1249 1065,1216 1048,1280 1147,1429 1090,1456 1090,1495 1007,1420 941,1412 908,1437 471,1429 438,1274 717,1131" />
+    <TextLine id="l_0004" text="Artrt">
+      <Coords points="465,1325 465,1352 726,1356 730,1323 726,1296 570,1280 568,1280 566,1280 564,1280 564,1282 550,1294 537,1286 535,1286 533,1286 531,1286 463,1298 465,1325" />
+      <Word id="l_0004-w_0001" text="Artrt" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="1048,637 1090,694 1081,742 1025,717 1048,637" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="1081,918 1081,924 1067,924 1067,918 1081,918" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="1079,1174 1106,1174 1106,1181 1059,1189 1079,1174" />
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="1255,736 1280,841 1321,843 1313,874 1348,893 1412,893 1429,932 1092,924 1133,891 1133,843 1189,843 1249,792 1224,752 1255,736" />
+    <TextLine id="l_0005" text="Aquatorial Projektion.">
+      <Coords points="1400,895 1131,895 1131,920 1131,941 1418,941 1418,920 1418,916 1400,895" />
+      <Word id="l_0005-w_0001" text="Aquatorial" error_score="1.000" error_type="error" />
+      <Word id="l_0005-w_0002" text="Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="957,1009 1594,1017 1627,1065 943,1065 957,1009" />
+    <TextLine id="l_0006" text="II. Stereographische Projektionen.">
+      <Coords points="1607,1038 1586,1015 963,1011 945,1034 945,1042 943,1061 1611,1067 1615,1048 1611,1040 1607,1038" />
+      <Word id="l_0006-w_0001" text="II." error_score="0.980" error_type="error" />
+      <Word id="l_0006-w_0002" text="Stereographische" error_score="0.980" error_type="error" />
+      <Word id="l_0006-w_0003" text="Projektionen." error_score="0.980" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="1286,1249 1296,1272 1265,1263 1274,1249 1286,1249" />
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="1015,239 1586,248 1605,306 1727,314 1735,353 868,353 877,297 974,289 1015,239" />
+    <TextLine id="l_0007" text="A. Azimutale Projektionen.">
+      <Coords points="1578,250 1398,250 1394,244 1389,244 1369,244 1348,244 1327,244 1307,244 1286,241 1195,246 1172,241 1162,241 1141,239 1121,239 1100,239 1079,239 1011,244 996,260 996,279 994,299 1586,301 1590,285 1586,266 1578,250" />
+      <Word id="l_0007-w_0001" text="A." error_score="0.015" />
+      <Word id="l_0007-w_0002" text="Azimutale" error_score="0.015" />
+      <Word id="l_0007-w_0003" text="Projektionen." error_score="0.015" />
+    </TextLine>
+    <TextLine id="l_0008" text="I. Orthographische (parallele) Projektionen.">
+      <Coords points="1718,312 1698,312 1691,310 887,297 870,308 870,333 868,349 1718,359 1722,343 1720,312 1718,312" />
+      <Word id="l_0008-w_0001" text="I." error_score="0.015" />
+      <Word id="l_0008-w_0002" text="Orthographische" error_score="0.015" />
+      <Word id="l_0008-w_0003" text="(parallele)" error_score="0.015" />
+      <Word id="l_0008-w_0004" text="Projektionen." error_score="0.015" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="1327,1263 1323,1263 1323,1257 1329,1257 1327,1263" />
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="1725,653 1735,653 1735,668 1712,659 1725,653" />
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="1735,692 1729,692 1729,686 1735,686 1735,692" />
+  </TextRegion>
+  <TextRegion id="r_0014" type="paragraph">
+    <Coords points="1965,876 2008,910 2000,941 1770,932 1787,893 1965,876" />
+    <TextLine id="l_0009" text="Polar-Projettion.">
+      <Coords points="1991,899 1791,897 1780,905 1780,926 1780,943 2000,945 2002,926 2002,914 1991,899" />
+      <Word id="l_0009-w_0001" text="Polar-Projettion." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0015" type="paragraph">
+    <Coords points="1884,1100 2058,1108 2213,1158 2221,1255 2008,1282 2018,1307 2163,1323 2115,1338 1737,1338 1638,1305 1646,1241 1605,1191 1770,1108 1884,1100" />
+    <TextLine id="l_0010" text="">
+      <Coords points="1766,1321 1766,1383 1876,1356 1876,1321 1873,1280 1766,1280 1766,1321" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0016" type="paragraph">
+    <Coords points="1785,173 2593,182 2610,254 2593,279 1729,262 1745,190 1785,173" />
+    <TextLine id="l_0011" text="GRADNETZENTWURFE">
+      <Coords points="2583,184 1766,179 1751,186 1751,237 1749,252 1774,262 1776,262 1778,262 2591,260 2593,246 2591,194 2583,184" />
+      <Word id="l_0011-w_0001" text="GRADNETZENTWURFE" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0017" type="paragraph">
+    <Coords points="2451,1083 2453,1090 2438,1090 2438,1083 2451,1083" />
+  </TextRegion>
+  <TextRegion id="r_0018" type="paragraph">
+    <Coords points="2494,521 2511,529 2511,543 2471,535 2494,521" />
+  </TextRegion>
+  <TextRegion id="r_0019" type="paragraph">
+    <Coords points="2502,1083 2511,1090 2488,1090 2488,1083 2502,1083" />
+  </TextRegion>
+  <TextRegion id="r_0020" type="paragraph">
+    <Coords points="2550,1191 2577,1191 2577,1197 2537,1197 2550,1191" />
+  </TextRegion>
+  <TextRegion id="r_0021" type="paragraph">
+    <Coords points="2624,1197 2620,1197 2620,1191 2626,1191 2624,1197" />
+  </TextRegion>
+  <TextRegion id="r_0022" type="paragraph">
+    <Coords points="2682,1147 2678,1147 2678,1141 2684,1141 2682,1147" />
+  </TextRegion>
+  <TextRegion id="r_0023" type="paragraph">
+    <Coords points="2715,1141 2726,1147 2703,1147 2703,1141 2715,1141" />
+  </TextRegion>
+  <TextRegion id="r_0024" type="paragraph">
+    <Coords points="2784,486 2802,496 2858,502 2728,502 2784,486" />
+  </TextRegion>
+  <TextRegion id="r_0025" type="paragraph">
+    <Coords points="2773,446 2866,446 2891,461 2844,469 2773,446" />
+  </TextRegion>
+  <TextRegion id="r_0026" type="paragraph">
+    <Coords points="2784,595 2949,595 2957,626 2941,651 2794,651 2817,701 2775,717 2808,742 2711,734 2703,694 2736,692 2784,595" />
+  </TextRegion>
+  <TextRegion id="r_0027" type="paragraph">
+    <Coords points="2784,248 3470,256 3522,314 3834,314 3843,370 3687,370 3439,428 3462,452 3414,461 3396,502 3340,502 3330,543 3363,554 3365,603 3462,603 3481,661 3580,620 3669,637 3801,603 3834,694 3810,767 3745,783 3704,750 3694,775 3605,775 3586,742 3553,767 3489,742 3437,752 3421,816 3472,860 3925,901 3934,1090 3892,1114 3075,1106 3040,1125 3048,1164 3115,1197 3073,1207 3073,1263 3032,1298 3065,1329 2984,1354 2744,1329 3001,1305 2966,1272 2835,1288 2736,1263 2728,1199 2653,1181 2808,1166 2825,1123 2537,1106 2527,1065 2380,1073 2403,1106 2378,1123 2420,1141 2397,1166 2527,1174 2527,1197 2502,1272 2339,1280 2329,1313 2519,1329 2314,1346 2322,1290 2264,1263 2240,1189 2306,1139 2306,984 2504,959 2322,941 2306,868 2562,833 2463,709 2463,587 2560,620 2504,626 2502,676 2560,686 2560,725 2610,744 2628,835 2709,819 2711,794 2719,819 2792,819 2703,761 2833,761 2827,736 2885,725 2835,701 2858,670 2957,686 2908,711 2916,783 2866,785 2868,835 3098,843 3117,918 3357,874 3340,810 3274,750 3249,620 3299,496 3390,421 3073,312 2943,312 2875,361 2794,361 2794,397 2850,405 2800,428 2761,428 2769,380 2734,361 2480,345 2546,297 2726,306 2784,248" />
+    <TextLine id="l_0012" text="C. Konventionelle Projektionen.">
+      <Coords points="3464,254 3443,254 3423,254 3402,254 3381,254 3361,254 3340,254 3319,254 3299,254 3164,254 3156,252 3154,252 3133,252 3112,250 3092,250 3071,250 3050,250 3030,250 3009,250 2988,250 2968,250 2947,248 2926,248 2906,248 2777,250 2763,266 2763,285 2761,301 3481,310 3485,289 3479,268 3464,254" />
+      <Word id="l_0012-w_0001" text="C." error_score="1.000" error_type="error" />
+      <Word id="l_0012-w_0002" text="Konventionelle" error_score="1.000" error_type="error" />
+      <Word id="l_0012-w_0003" text="Projektionen." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0013" text="Globular-Projektion.">
+      <Coords points="2542,337 2542,353 2868,353 2870,333 2864,306 2540,308 2542,337" />
+      <Word id="l_0013-w_0001" text="Globular-Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0014" text="3">
+      <Coords points="2587,816 2583,792 2571,785 2575,819 2579,839 2589,833 2587,816" />
+      <Word id="l_0014-w_0001" text="3" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0015" text="ftreine, des den duno un dguauor und den dinelmeriohan ains">
+      <Coords points="2504,891 2484,891 2463,891 2442,891 2422,891 2401,891 2380,891 2360,891 2343,879 2324,879 2324,881 2322,924 2655,928 2657,928 2659,928 2662,928 2707,901 3075,903 3079,887 3079,860 2564,845 2562,845 2560,845 2511,866 2504,891" />
+      <Word id="l_0015-w_0001" text="ftreine," error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0002" text="des" error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0003" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0004" text="duno" error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0005" text="un" error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0006" text="dguauor" error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0007" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0008" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0009" text="dinelmeriohan" error_score="1.000" error_type="error" />
+      <Word id="l_0015-w_0010" text="ains" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0016" text="A">
+      <Coords points="2322,883 2324,854 2324,893 2322,922" />
+      <Word id="l_0016-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0017" text="Kreise, die den Mitelmeridian, Aquator und den Begrentungs.">
+      <Coords points="2955,887 2951,885 2858,885 2852,885 2831,885 2823,883 2753,883 2748,883 2728,883 2707,883 2686,883 2670,881 2645,881 2645,881 2624,881 2604,881 2583,881 2562,881 2542,881 2521,889 2504,889 2486,891 2465,891 2444,891 2424,891 2403,891 2382,891 2362,891 2345,881 2326,879 2326,881 2324,926 3071,930 3075,916 3073,889 2966,887 2955,887" />
+      <Word id="l_0017-w_0001" text="Kreise," error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0002" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0003" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0004" text="Mitelmeridian," error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0005" text="Aquator" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0006" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0007" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0008" text="Begrentungs." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0018" text="Ereis in gleiehe Teile tellen">
+      <Coords points="2854,914 2833,914 2813,914 2800,912 2748,912 2730,912 2709,912 2688,912 2668,912 2649,910 2635,910 2626,910 2606,910 2585,910 2564,910 2544,910 2523,910 2523,934 2521,951 2860,959 2864,939 2862,914 2854,914" />
+      <Word id="l_0018-w_0001" text="Ereis" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0002" text="in" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0003" text="gleiehe" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0004" text="Teile" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0005" text="tellen" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0019" text="Sanson-Flamsteed'sche (Zylinder-) Projektion.">
+      <Coords points="2417,970 2397,972 2376,974 2355,976 2335,980 2314,982 2314,996 2312,1011 3048,1019 3052,1005 3050,976 2422,967 2417,970" />
+      <Word id="l_0019-w_0001" text="Sanson-Flamsteed'sche" error_score="1.000" error_type="error" />
+      <Word id="l_0019-w_0002" text="(Zylinder-)" error_score="1.000" error_type="error" />
+      <Word id="l_0019-w_0003" text="Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0020" text="">
+      <Coords points="2326,1090 2326,1114 2341,1114 2341,1090 2341,1015 2326,1013 2326,1090" />
+    </TextLine>
+    <TextLine id="l_0021" text="6">
+      <Coords points="2819,1265 2819,1290 2839,1290 2839,1265 2837,1232 2819,1232 2819,1265" />
+      <Word id="l_0021-w_0001" text="6" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0022" text="Nels verdeneg aene Gat ne,">
+      <Coords points="3638,370 3619,366 3605,353 3584,353 3568,318 3561,314 3545,314 3526,314 3514,304 3237,310 3237,339 3235,359 3398,361 3425,388 3425,390 3427,390 3429,390 3431,392 3656,392 3659,374 3654,370 3638,370" />
+      <Word id="l_0022-w_0001" text="Nels" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0002" text="verdeneg" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0003" text="aene" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0004" text="Gat" error_score="1.000" error_type="error" />
+      <Word id="l_0022-w_0005" text="ne," error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0023" text="?">
+      <Coords points="3253,653 3288,661 3305,663 3313,599 3297,597 3263,591 3253,649 3253,653" />
+      <Word id="l_0023-w_0001" text="?" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0024" text="rojektion">
+      <Coords points="3659,347 3843,314 3843,353 3659,386" />
+      <Word id="l_0024-w_0001" text="rojektion" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0025" text="(nach Steinhauser)">
+      <Coords points="3423,345 3659,347 3659,386 3423,384" />
+      <Word id="l_0025-w_0001" text="(nach" error_score="1.000" error_type="error" />
+      <Word id="l_0025-w_0002" text="Steinhauser)" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0026" text="gon. a.">
+      <Coords points="3423,409 3425,432 3481,415 3530,424 3532,401 3526,374 3419,380 3423,409" />
+      <Word id="l_0026-w_0001" text="gon." error_score="1.000" error_type="error" />
+      <Word id="l_0026-w_0002" text="a." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0027" text="Aepen">
+      <Coords points="3456,608 3390,608 3390,634 3390,663 3414,678 3417,678 3419,678 3421,678 3462,661 3462,634 3462,614 3456,608" />
+      <Word id="l_0027-w_0001" text="Aepen" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0028" text="Man tellt den Mittelmeridian zuerst in oleiche Teile vie bei">
+      <Coords points="3915,899 3913,897 3230,895 3212,899 3191,903 3170,907 3170,922 3168,936 3632,943 3644,934 3665,934 3685,934 3706,934 3727,934 3747,934 3768,934 3779,945 3915,947 3919,928 3917,899 3915,899" />
+      <Word id="l_0028-w_0001" text="Man" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0002" text="tellt" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0003" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0004" text="Mittelmeridian" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0005" text="zuerst" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0006" text="in" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0007" text="oleiche" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0008" text="Teile" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0009" text="vie" error_score="1.000" error_type="error" />
+      <Word id="l_0028-w_0010" text="bei" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0029" text="1">
+      <Coords points="3768,928 3747,928 3727,928 3706,928 3685,928 3665,926 3644,926 3644,936 3644,949 3772,949 3772,936 3772,928 3768,928" />
+      <Word id="l_0029-w_0001" text="1" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0030" text="der Globular.Projelttion, dann nach dem Gesetze der stereo.">
+      <Coords points="3770,939 3750,939 3729,939 3708,939 3687,939 3667,939 3646,939 3630,928 3170,924 3170,951 3168,965 3913,972 3917,957 3915,932 3785,930 3770,939" />
+      <Word id="l_0030-w_0001" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0002" text="Globular.Projelttion," error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0003" text="dann" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0004" text="nach" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0005" text="dem" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0006" text="Gesetze" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0007" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0030-w_0008" text="stereo." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0031" text="graphischen Polar Proſeletion und nimmt den ͤitelpunter">
+      <Coords points="3898,957 3878,957 3857,957 3836,957 3816,957 3795,957 3774,957 3754,957 3733,957 3712,957 3692,957 3671,957 3654,955 3547,955 3526,955 3505,955 3485,955 3464,955 3443,955 3423,955 3414,953 3175,953 3175,980 3172,999 3917,1003 3921,984 3919,957 3898,955 3898,957" />
+      <Word id="l_0031-w_0001" text="graphischen" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0002" text="Polar" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0003" text="Proſeletion" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0004" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0005" text="nimmt" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0006" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0031-w_0007" text="ͤitelpunter" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0032" text="wwischen je zwei gleieh beverteten Puntten als driten fur die">
+      <Coords points="3340,982 3319,982 3299,982 3278,982 3257,982 3237,982 3216,982 3195,982 3175,982 3175,1005 3172,1021 3915,1030 3919,1013 3917,988 3359,982 3340,982" />
+      <Word id="l_0032-w_0001" text="wwischen" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0002" text="je" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0003" text="zwei" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0004" text="gleieh" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0005" text="beverteten" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0006" text="Puntten" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0007" text="als" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0008" text="driten" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0009" text="fur" error_score="1.000" error_type="error" />
+      <Word id="l_0032-w_0010" text="die" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0033" text="Konstrultion; die avel anderen Puntte verden vie bei der">
+      <Coords points="3898,1013 3878,1013 3857,1013 3836,1013 3816,1013 3795,1013 3774,1013 3754,1013 3733,1013 3714,1011 3667,1011 3650,1011 3630,1011 3609,1011 3588,1011 3568,1011 3547,1011 3534,1009 3421,1009 3402,1009 3381,1009 3361,1009 3354,1007 3175,1007 3175,1032 3172,1050 3913,1056 3917,1038 3915,1013 3898,1013" />
+      <Word id="l_0033-w_0001" text="Konstrultion;" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0002" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0003" text="avel" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0004" text="anderen" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0005" text="Puntte" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0006" text="verden" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0007" text="vie" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0008" text="bei" error_score="1.000" error_type="error" />
+      <Word id="l_0033-w_0009" text="der" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0034" text="Globular.projettion gevonnen. Geringere Verzerrungen vie">
+      <Coords points="3177,1058 3175,1075 3913,1087 3917,1067 3915,1042 3177,1034 3177,1058" />
+      <Word id="l_0034-w_0001" text="Globular.projettion" error_score="1.000" error_type="error" />
+      <Word id="l_0034-w_0002" text="gevonnen." error_score="1.000" error_type="error" />
+      <Word id="l_0034-w_0003" text="Geringere" error_score="1.000" error_type="error" />
+      <Word id="l_0034-w_0004" text="Verzerrungen" error_score="1.000" error_type="error" />
+      <Word id="l_0034-w_0005" text="vie" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0035" text="bei dieuer und der atereographisehen Polar. Proſeltion">
+      <Coords points="3201,1090 3199,1106 3876,1114 3880,1094 3878,1069 3201,1063 3201,1090" />
+      <Word id="l_0035-w_0001" text="bei" error_score="1.000" error_type="error" />
+      <Word id="l_0035-w_0002" text="dieuer" error_score="1.000" error_type="error" />
+      <Word id="l_0035-w_0003" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0035-w_0004" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0035-w_0005" text="atereographisehen" error_score="1.000" error_type="error" />
+      <Word id="l_0035-w_0006" text="Polar." error_score="1.000" error_type="error" />
+      <Word id="l_0035-w_0007" text="Proſeltion" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0028" type="paragraph">
+    <Coords points="3253,1158 3818,1158 3867,1189 3671,1214 3652,1263 3580,1247 3586,1214 3158,1197 3253,1158" />
+    <TextLine id="l_0036" text="Mollveide'sche (Zylinder-) Projektion.">
+      <Coords points="3841,1172 3820,1160 3799,1158 3779,1158 3758,1158 3737,1158 3716,1158 3696,1158 3675,1158 3654,1158 3634,1158 3613,1158 3592,1158 3572,1158 3551,1158 3530,1158 3510,1158 3489,1158 3468,1158 3448,1158 3427,1158 3406,1158 3386,1158 3365,1158 3344,1158 3323,1158 3303,1158 3282,1158 3261,1158 3241,1162 3241,1181 3239,1199 3845,1203 3849,1185 3847,1176 3841,1172" />
+      <Word id="l_0036-w_0001" text="Mollveide'sche" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0002" text="(Zylinder-)" error_score="1.000" error_type="error" />
+      <Word id="l_0036-w_0003" text="Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0029" type="paragraph">
+    <Coords points="3537,819 3545,825 3522,825 3522,819 3537,819" />
+  </TextRegion>
+  <TextRegion id="r_0030" type="paragraph">
+    <Coords points="3543,461 3539,461 3539,455 3545,455 3543,461" />
+  </TextRegion>
+  <TextRegion id="r_0031" type="paragraph">
+    <Coords points="595,1588 825,1588 916,1611 874,1644 455,1627 463,1588 595,1588" />
+    <TextLine id="l_0037" text="Augenpunxt in der Erdoberhiche.">
+      <Coords points="872,1600 856,1594 543,1588 541,1588 521,1588 500,1588 479,1588 459,1605 459,1613 457,1629 883,1640 887,1623 885,1600 872,1600" />
+      <Word id="l_0037-w_0001" text="Augenpunxt" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0002" text="in" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0003" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0037-w_0004" text="Erdoberhiche." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0032" type="paragraph">
+    <Coords points="949,2223 949,2231 943,2231 943,2217 949,2223" />
+  </TextRegion>
+  <TextRegion id="r_0033" type="paragraph">
+    <Coords points="1030,2349 1032,2355 1017,2355 1017,2349 1030,2349" />
+  </TextRegion>
+  <TextRegion id="r_0034" type="paragraph">
+    <Coords points="674,1778 965,1820 908,1836 957,1886 949,1925 899,1927 949,1977 916,2041 949,2109 924,2140 957,2173 877,2266 932,2242 984,2316 1056,2324 1166,2258 1354,2275 1445,2250 1636,2283 1644,2331 1611,2347 1644,2372 1586,2422 1174,2422 1065,2339 984,2339 965,2372 446,2355 446,2283 512,2264 502,2231 463,2231 430,2107 455,1853 512,1803 674,1778" />
+    <TextLine id="l_0038" text="">
+      <Coords points="655,1780 635,1782 614,1787 593,1789 577,1791 554,1813 529,1809 527,1809 525,1809 523,1809 523,1811 504,1830 477,1830 469,1838 469,1890 469,1940 506,1940 506,1938 508,1938 510,1938 537,1915 548,1923 550,1923 552,1923 554,1923 626,1913 672,1933 676,1890 674,1778 655,1780" />
+    </TextLine>
+    <TextLine id="l_0039" text="a">
+      <Coords points="479,2213 498,2213 498,2188 498,2138 481,2134 479,2188 479,2213" />
+      <Word id="l_0039-w_0001" text="a" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0040" text="">
+      <Coords points="616,2188 616,2293 630,2293 630,2188 626,2105 616,2109 616,2188" />
+    </TextLine>
+    <TextLine id="l_0041" text="A">
+      <Coords points="452,2314 455,2285 455,2324 452,2353" />
+      <Word id="l_0041-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0042" text="">
+      <Coords points="759,1791 748,1789 717,1789 715,1888 713,1925 798,1929 800,1929 802,1929 804,1929 804,1927 823,1911 883,1911 887,1894 887,1844 852,1844 829,1815 827,1815 827,1813 825,1813 823,1813 821,1813 798,1818 769,1791 759,1791" />
+    </TextLine>
+    <TextLine id="l_0043" text="A.">
+      <Coords points="924,1954 903,1933 889,1909 885,1904 883,1904 881,1904 879,1904 877,1904 862,1909 862,1981 862,2006 932,2000 932,1981 928,1958 924,1954" />
+      <Word id="l_0043-w_0001" text="A." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0044" text="">
+      <Coords points="814,2196 817,2258 885,2219 885,2194 879,2134 812,2136 814,2196" />
+    </TextLine>
+    <TextLine id="l_0045" text="an na h n">
+      <Coords points="883,2326 879,2293 486,2285 473,2318 455,2310 455,2312 452,2359 897,2372 901,2322 899,2320 883,2326" />
+      <Word id="l_0045-w_0001" text="an" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0002" text="na" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0003" text="h" error_score="1.000" error_type="error" />
+      <Word id="l_0045-w_0004" text="n" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0046" text="A">
+      <Coords points="901,2295 912,2322 912,2362 901,2335" />
+      <Word id="l_0046-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0047" text="">
+      <Coords points="1131,2351 1131,2376 1485,2376 1485,2345 1480,2312 1431,2299 1429,2299 1427,2299 1389,2318 1315,2318 1276,2302 1274,2302 1272,2302 1129,2322 1131,2351" />
+    </TextLine>
+    <TextLine id="l_0048" text="Augenpunkt im Erdmittelpunkte.">
+      <Coords points="1160,2397 1158,2415 1572,2419 1576,2401 1576,2374 1160,2370 1160,2397" />
+      <Word id="l_0048-w_0001" text="Augenpunkt" error_score="1.000" error_type="error" />
+      <Word id="l_0048-w_0002" text="im" error_score="1.000" error_type="error" />
+      <Word id="l_0048-w_0003" text="Erdmittelpunkte." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0035" type="paragraph">
+    <Coords points="1150,1514 1172,1536 1141,1553 1116,1522 1150,1514" />
+  </TextRegion>
+  <TextRegion id="r_0036" type="paragraph">
+    <Coords points="1214,1580 1404,1596 1412,1636 1108,1627 1125,1588 1214,1580" />
+    <TextLine id="l_0049" text="Aquatorial. Projettion.">
+      <Coords points="1389,1594 1121,1596 1123,1623 1123,1646 1404,1646 1406,1619 1400,1600 1389,1594" />
+      <Word id="l_0049-w_0001" text="Aquatorial." error_score="1.000" error_type="error" />
+      <Word id="l_0049-w_0002" text="Projettion." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0037" type="paragraph">
+    <Coords points="1603,2173 1603,2182 1588,2182 1596,2167 1603,2173" />
+  </TextRegion>
+  <TextRegion id="r_0038" type="paragraph">
+    <Coords points="1255,1770 1925,1778 2008,1787 2024,1826 1232,1826 1255,1770" />
+    <TextLine id="l_0050" text="III. Zentrale (gnomonische) Projektion.">
+      <Coords points="1987,1784 1967,1782 1946,1780 1931,1778 1789,1776 1780,1776 1760,1776 1751,1774 1681,1774 1677,1774 1656,1774 1636,1774 1615,1774 1594,1774 1574,1772 1553,1772 1532,1772 1512,1772 1491,1772 1470,1772 1449,1772 1429,1772 1408,1770 1387,1770 1367,1770 1346,1770 1325,1770 1305,1770 1284,1770 1263,1770 1245,1791 1243,1803 1241,1822 2006,1830 2010,1811 2006,1793 1987,1784" />
+      <Word id="l_0050-w_0001" text="III." error_score="1.000" error_type="error" />
+      <Word id="l_0050-w_0002" text="Zentrale" error_score="1.000" error_type="error" />
+      <Word id="l_0050-w_0003" text="(gnomonische)" error_score="1.000" error_type="error" />
+      <Word id="l_0050-w_0004" text="Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0039" type="paragraph">
+    <Coords points="1677,1381 1685,1429 1663,1437 1654,1389 1677,1381" />
+  </TextRegion>
+  <TextRegion id="r_0040" type="paragraph">
+    <Coords points="1716,2291 1751,2299 1760,2322 1696,2322 1716,2291" />
+  </TextRegion>
+  <TextRegion id="r_0041" type="paragraph">
+    <Coords points="2049,2266 2074,2322 2000,2333 2049,2374 2008,2422 1754,2413 1770,2366 1851,2366 1969,2275 2016,2291 2049,2266" />
+    <TextLine id="l_0051" text="A.">
+      <Coords points="1917,2312 1896,2326 1898,2353 1898,2374 1979,2368 1979,2351 1977,2316 1938,2299 1936,2299 1933,2299 1931,2299 1917,2312" />
+      <Word id="l_0051-w_0001" text="A." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0052" text="Polar-Projel tion.">
+      <Coords points="1770,2399 1768,2415 1991,2419 1996,2403 1993,2376 1770,2372 1770,2399" />
+      <Word id="l_0052-w_0001" text="Polar-Projel" error_score="1.000" error_type="error" />
+      <Word id="l_0052-w_0002" text="tion." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0042" type="paragraph">
+    <Coords points="1991,1456 2115,1456 2124,1470 1878,1478 1991,1456" />
+  </TextRegion>
+  <TextRegion id="r_0043" type="paragraph">
+    <Coords points="2080,1373 2132,1373 2149,1396 2051,1396 2080,1373" />
+    <TextLine id="l_0053" text="">
+      <Coords points="2134,1379 2113,1373 2093,1373 2093,1387 2095,1493 2136,1468 2136,1387 2134,1379 2134,1379" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0044" type="paragraph">
+    <Coords points="2461,1991 2455,1991 2455,1985 2461,1985 2461,1991" />
+  </TextRegion>
+  <TextRegion id="r_0045" type="paragraph">
+    <Coords points="2500,2324 2502,2339 2488,2339 2488,2324 2500,2324" />
+  </TextRegion>
+  <TextRegion id="r_0046" type="paragraph">
+    <Coords points="2618,1315 2618,1329 2595,1329 2604,1315 2618,1315" />
+  </TextRegion>
+  <TextRegion id="r_0047" type="paragraph">
+    <Coords points="2610,2242 2604,2248 2604,2233 2610,2233 2610,2242" />
+  </TextRegion>
+  <TextRegion id="r_0048" type="paragraph">
+    <Coords points="2657,1869 2659,1875 2645,1875 2645,1869 2657,1869" />
+  </TextRegion>
+  <TextRegion id="r_0049" type="paragraph">
+    <Coords points="2662,1414 2701,1414 2709,1429 2637,1429 2662,1414" />
+  </TextRegion>
+  <TextRegion id="r_0050" type="paragraph">
+    <Coords points="2726,1323 2734,1329 2711,1329 2711,1323 2726,1323" />
+  </TextRegion>
+  <TextRegion id="r_0051" type="paragraph">
+    <Coords points="3652,1313 3694,1323 3679,1389 3884,1439 3934,1563 3934,1685 3166,1685 3141,1563 3100,1561 3065,1727 2777,1727 2734,1751 3067,1778 3876,1770 3876,1818 2397,1809 2413,1844 2618,1884 2355,1884 2345,1958 2395,1977 2362,2002 2378,2157 2420,2256 2453,2258 2455,2349 2751,2349 2761,2308 2703,2297 2719,2225 2686,2215 2744,2148 2744,2018 2893,1969 3032,1985 3057,2026 3040,2140 3117,2167 3183,2148 3214,2002 3255,2206 3321,2233 3338,2297 3305,2314 3340,2341 3743,2341 3729,2308 3770,2283 3729,2250 3826,2242 3867,2266 3876,2339 3917,2382 3925,2595 3909,2661 3779,2670 3776,2728 3266,2736 3263,2670 3158,2645 3150,2390 3191,2316 3156,2248 3048,2283 3048,2347 3098,2390 3073,2488 2488,2504 2281,2471 2264,2390 2298,2308 2240,2206 2262,2148 2151,2140 2101,2248 2060,2190 2084,2151 2051,2140 2049,2240 2024,2198 1944,2190 1900,2273 1869,2264 1876,2190 1729,2190 1654,2223 1613,2173 1638,1985 1712,1911 1900,1869 2082,1935 2068,1952 2246,1969 2306,1950 2322,1803 2372,1770 2653,1751 2306,1727 2281,1646 2207,1611 2240,1602 2213,1578 2109,1594 2163,1611 2074,1644 1770,1644 1735,1586 1638,1578 1737,1561 1704,1545 1712,1497 1884,1514 1967,1489 2066,1514 2068,1563 2204,1571 2281,1553 2322,1373 2355,1414 2519,1423 2372,1437 2372,1464 2717,1464 2753,1445 2719,1437 2728,1406 2786,1389 2883,1406 2899,1429 2850,1439 2868,1456 2941,1456 2959,1439 2918,1437 2918,1406 3024,1381 3050,1464 3164,1472 3232,1389 3299,1439 3332,1406 3357,1447 3406,1414 3487,1439 3522,1389 3596,1371 3596,1323 3652,1313" />
+    <TextLine id="l_0054" text="">
+      <Coords points="1646,2078 1642,2097 1762,2117 1768,2093 1768,2055 1648,2051 1646,2078" />
+    </TextLine>
+    <TextLine id="l_0055" text="Polar-Projektion.">
+      <Coords points="1772,1623 1770,1642 1998,1646 2002,1627 2000,1600 1772,1596 1772,1623" />
+      <Word id="l_0055-w_0001" text="Polar-Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0056" text="Vx">
+      <Coords points="1706,2225 1751,2227 1754,2227 1756,2227 1758,2227 1758,2225 1799,2190 1826,2190 1851,2213 1851,2215 1853,2215 1855,2215 1857,2215 1859,2215 1861,2215 1869,2206 1871,2169 1869,2122 1770,2138 1712,2115 1710,2163 1706,2225" />
+      <Word id="l_0056-w_0001" text="Vx" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0057" text="">
+      <Coords points="1902,2169 1902,2260 1921,2262 1923,2169 1917,2080 1902,2089 1902,2169" />
+    </TextLine>
+    <TextLine id="l_0058" text="">
+      <Coords points="2753,1582 2753,1594 2813,1602 2815,1602 2883,1590 2943,1600 2945,1600 3042,1586 3044,1576 3040,1549 2751,1549 2753,1582" />
+    </TextLine>
+    <TextLine id="l_0059" text="Der Zylindermantel, der die Erdkugel im Mitelparallel too,">
+      <Coords points="2298,1613 2295,1631 3063,1631 3065,1615 3063,1588 2298,1584 2298,1613" />
+      <Word id="l_0059-w_0001" text="Der" error_score="1.000" error_type="error" />
+      <Word id="l_0059-w_0002" text="Zylindermantel," error_score="1.000" error_type="error" />
+      <Word id="l_0059-w_0003" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0059-w_0004" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0059-w_0005" text="Erdkugel" error_score="1.000" error_type="error" />
+      <Word id="l_0059-w_0006" text="im" error_score="1.000" error_type="error" />
+      <Word id="l_0059-w_0007" text="Mitelparallel" error_score="1.000" error_type="error" />
+      <Word id="l_0059-w_0008" text="too," error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0060" text="gehneidet, iat Projeltionsflache. Entatehung vie bei der">
+      <Coords points="2300,1640 2298,1656 3052,1660 3057,1642 3055,1617 2300,1615 2300,1640" />
+      <Word id="l_0060-w_0001" text="gehneidet," error_score="1.000" error_type="error" />
+      <Word id="l_0060-w_0002" text="iat" error_score="1.000" error_type="error" />
+      <Word id="l_0060-w_0003" text="Projeltionsflache." error_score="1.000" error_type="error" />
+      <Word id="l_0060-w_0004" text="Entatehung" error_score="1.000" error_type="error" />
+      <Word id="l_0060-w_0005" text="vie" error_score="1.000" error_type="error" />
+      <Word id="l_0060-w_0006" text="bei" error_score="1.000" error_type="error" />
+      <Word id="l_0060-w_0007" text="der" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0061" text="Bonne sehen Projeltion. Parallelen sind gerade, voneinander">
+      <Coords points="2666,1642 2645,1642 2624,1642 2604,1642 2583,1642 2562,1642 2542,1642 2521,1642 2500,1642 2480,1642 2459,1642 2438,1642 2417,1642 2397,1642 2376,1642 2355,1642 2335,1642 2314,1642 2312,1638 2293,1638 2293,1665 2291,1681 3061,1685 3065,1673 3065,1646 2678,1642 2666,1642" />
+      <Word id="l_0061-w_0001" text="Bonne" error_score="1.000" error_type="error" />
+      <Word id="l_0061-w_0002" text="sehen" error_score="1.000" error_type="error" />
+      <Word id="l_0061-w_0003" text="Projeltion." error_score="1.000" error_type="error" />
+      <Word id="l_0061-w_0004" text="Parallelen" error_score="1.000" error_type="error" />
+      <Word id="l_0061-w_0005" text="sind" error_score="1.000" error_type="error" />
+      <Word id="l_0061-w_0006" text="gerade," error_score="1.000" error_type="error" />
+      <Word id="l_0061-w_0007" text="voneinander" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0062" text="gleienveit abstehende parallele Linien, Heridiane Eurven">
+      <Coords points="3044,1673 3024,1673 3003,1673 2982,1673 2961,1673 2941,1673 2920,1673 2899,1673 2879,1673 2873,1671 2300,1671 2300,1698 2298,1716 3050,1718 3055,1700 3052,1673 3044,1673" />
+      <Word id="l_0062-w_0001" text="gleienveit" error_score="1.000" error_type="error" />
+      <Word id="l_0062-w_0002" text="abstehende" error_score="1.000" error_type="error" />
+      <Word id="l_0062-w_0003" text="parallele" error_score="1.000" error_type="error" />
+      <Word id="l_0062-w_0004" text="Linien," error_score="1.000" error_type="error" />
+      <Word id="l_0062-w_0005" text="Heridiane" error_score="1.000" error_type="error" />
+      <Word id="l_0062-w_0006" text="Eurven" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0063" text="20">
+      <Coords points="2314,1981 2314,2004 2337,2004 2337,1981 2337,1956 2314,1956 2314,1981" />
+      <Word id="l_0063-w_0001" text="20" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0064" text="">
+      <Coords points="2318,2341 2314,2359 2355,2372 2364,2347 2366,2316 2337,2302 2335,2302 2333,2302 2331,2302 2322,2306 2318,2341" />
+    </TextLine>
+    <TextLine id="l_0065" text="Flichentreu">
+      <Coords points="2746,1700 2726,1700 2705,1700 2684,1700 2664,1700 2643,1700 2622,1700 2602,1700 2602,1720 2600,1737 2746,1739 2751,1722 2748,1700 2746,1700" />
+      <Word id="l_0065-w_0001" text="Flichentreu" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0066" text="Bonne'sche (Kegel-) Projektion.">
+      <Coords points="2912,1766 2891,1764 2870,1762 2850,1760 2829,1758 2808,1758 2788,1756 2767,1753 2761,1751 2643,1749 2643,1751 2622,1751 2602,1753 2581,1756 2560,1756 2540,1758 2519,1760 2498,1760 2477,1762 2457,1764 2436,1764 2415,1766 2415,1776 2413,1793 2924,1801 2928,1784 2926,1766 2912,1766" />
+      <Word id="l_0066-w_0001" text="Bonne'sche" error_score="1.000" error_type="error" />
+      <Word id="l_0066-w_0002" text="(Kegel-)" error_score="1.000" error_type="error" />
+      <Word id="l_0066-w_0003" text="Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0067" text="A">
+      <Coords points="2566,1869 2546,1869 2525,1865 2504,1861 2484,1857 2463,1853 2465,1875 2467,1919 2519,1896 2635,1913 2637,1873 2633,1815 2600,1815 2597,1815 2595,1815 2593,1815 2581,1824 2566,1869" />
+      <Word id="l_0067-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0068" text="B">
+      <Coords points="2808,2233 2808,2244 2881,2248 2883,2229 2879,2169 2842,2153 2839,2153 2837,2153 2835,2153 2833,2153 2804,2171 2808,2233" />
+      <Word id="l_0068-w_0001" text="B" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0069" text="">
+      <Coords points="2877,2287 2877,2304 3001,2287 3001,2279 2993,2211 2873,2237 2877,2287" />
+    </TextLine>
+    <TextLine id="l_0070" text="Entatehung vie bei der vahren Kegelprojektion, von dieser ver-">
+      <Coords points="2289,2401 2287,2417 3055,2422 3059,2409 3059,2384 2289,2374 2289,2401" />
+      <Word id="l_0070-w_0001" text="Entatehung" error_score="1.000" error_type="error" />
+      <Word id="l_0070-w_0002" text="vie" error_score="1.000" error_type="error" />
+      <Word id="l_0070-w_0003" text="bei" error_score="1.000" error_type="error" />
+      <Word id="l_0070-w_0004" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0070-w_0005" text="vahren" error_score="1.000" error_type="error" />
+      <Word id="l_0070-w_0006" text="Kegelprojektion," error_score="1.000" error_type="error" />
+      <Word id="l_0070-w_0007" text="von" error_score="1.000" error_type="error" />
+      <Word id="l_0070-w_0008" text="dieser" error_score="1.000" error_type="error" />
+      <Word id="l_0070-w_0009" text="ver-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0071" text="gegen dureh Auftragen der vahren Langenerte au">
+      <Coords points="3030,2409 3009,2409 2988,2409 2968,2409 2947,2409 2926,2409 2906,2409 2885,2409 2864,2407 2856,2407 2844,2407 2823,2407 2802,2407 2782,2407 2761,2407 2740,2407 2719,2407 2699,2407 2678,2407 2657,2405 2637,2405 2616,2405 2595,2405 2575,2405 2554,2405 2533,2405 2513,2405 2492,2405 2471,2403 2451,2403 2430,2403 2409,2403 2389,2403 2368,2403 2347,2403 2326,2403 2306,2403 2304,2401 2285,2401 2285,2428 2283,2444 3044,2457 3048,2438 3048,2409 3030,2409" />
+      <Word id="l_0071-w_0001" text="gegen" error_score="1.000" error_type="error" />
+      <Word id="l_0071-w_0002" text="dureh" error_score="1.000" error_type="error" />
+      <Word id="l_0071-w_0003" text="Auftragen" error_score="1.000" error_type="error" />
+      <Word id="l_0071-w_0004" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0071-w_0005" text="vahren" error_score="1.000" error_type="error" />
+      <Word id="l_0071-w_0006" text="Langenerte" error_score="1.000" error_type="error" />
+      <Word id="l_0071-w_0007" text="au" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0072" text="den Parallelen. Meridiane sind Kurven. Parallelen vie bei der">
+      <Coords points="2285,2457 2283,2473 3048,2482 3052,2465 3050,2440 2285,2430 2285,2457" />
+      <Word id="l_0072-w_0001" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0072-w_0002" text="Parallelen." error_score="1.000" error_type="error" />
+      <Word id="l_0072-w_0003" text="Meridiane" error_score="1.000" error_type="error" />
+      <Word id="l_0072-w_0004" text="sind" error_score="1.000" error_type="error" />
+      <Word id="l_0072-w_0005" text="Kurven." error_score="1.000" error_type="error" />
+      <Word id="l_0072-w_0006" text="Parallelen" error_score="1.000" error_type="error" />
+      <Word id="l_0072-w_0007" text="vie" error_score="1.000" error_type="error" />
+      <Word id="l_0072-w_0008" text="bei" error_score="1.000" error_type="error" />
+      <Word id="l_0072-w_0009" text="der" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0073" text="vahren Kegelproſeltion. Flache ur eu">
+      <Coords points="2868,2488 2848,2490 2827,2490 2808,2463 2773,2463 2767,2463 2746,2463 2726,2463 2705,2463 2684,2463 2664,2461 2662,2461 2643,2461 2622,2461 2602,2461 2581,2461 2560,2461 2540,2461 2519,2461 2498,2461 2477,2461 2457,2459 2436,2459 2436,2484 2434,2500 2885,2513 2889,2492 2887,2488 2868,2488" />
+      <Word id="l_0073-w_0001" text="vahren" error_score="1.000" error_type="error" />
+      <Word id="l_0073-w_0002" text="Kegelproſeltion." error_score="1.000" error_type="error" />
+      <Word id="l_0073-w_0003" text="Flache" error_score="1.000" error_type="error" />
+      <Word id="l_0073-w_0004" text="ur" error_score="1.000" error_type="error" />
+      <Word id="l_0073-w_0005" text="eu" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0074" text="Au.">
+      <Coords points="3816,1536 3816,1567 3847,1576 3849,1576 3851,1576 3884,1561 3884,1536 3884,1505 3816,1503 3816,1536" />
+      <Word id="l_0074-w_0001" text="Au." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0075" text="Entstehung vie bei der Sanson-Flamsteed'schen Projektion.">
+      <Coords points="3175,1580 3172,1596 3917,1605 3921,1590 3921,1565 3175,1555 3175,1580" />
+      <Word id="l_0075-w_0001" text="Entstehung" error_score="1.000" error_type="error" />
+      <Word id="l_0075-w_0002" text="vie" error_score="1.000" error_type="error" />
+      <Word id="l_0075-w_0003" text="bei" error_score="0.995" error_type="error" />
+      <Word id="l_0075-w_0004" text="der" error_score="0.995" error_type="error" />
+      <Word id="l_0075-w_0005" text="Sanson-Flamsteed'schen" error_score="0.995" error_type="error" />
+      <Word id="l_0075-w_0006" text="Projektion." error_score="0.995" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0076" text="Meridiane Ellipsen, die dureh Gleichteilung der Parallelen ge">
+      <Coords points="3177,1609 3175,1627 3905,1633 3909,1617 3907,1592 3177,1584 3177,1609" />
+      <Word id="l_0076-w_0001" text="Meridiane" error_score="0.995" error_type="error" />
+      <Word id="l_0076-w_0002" text="Ellipsen," error_score="0.995" error_type="error" />
+      <Word id="l_0076-w_0003" text="die" error_score="0.995" error_type="error" />
+      <Word id="l_0076-w_0004" text="dureh" error_score="0.995" error_type="error" />
+      <Word id="l_0076-w_0005" text="Gleichteilung" error_score="0.995" error_type="error" />
+      <Word id="l_0076-w_0006" text="der" error_score="0.995" error_type="error" />
+      <Word id="l_0076-w_0007" text="Parallelen" error_score="1.000" error_type="error" />
+      <Word id="l_0076-w_0008" text="ge" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0077" text="vonnen verden. Die Parallelen nehmen aber, damit die Flachen.">
+      <Coords points="3901,1617 3880,1617 3859,1617 3838,1617 3818,1617 3797,1617 3776,1617 3756,1617 3735,1617 3714,1615 3694,1615 3673,1615 3652,1615 3632,1615 3611,1615 3590,1615 3570,1615 3549,1615 3537,1613 3177,1613 3177,1638 3175,1652 3917,1656 3921,1642 3919,1615 3901,1613 3901,1617" />
+      <Word id="l_0077-w_0001" text="vonnen" error_score="1.000" error_type="error" />
+      <Word id="l_0077-w_0002" text="verden." error_score="1.000" error_type="error" />
+      <Word id="l_0077-w_0003" text="Die" error_score="1.000" error_type="error" />
+      <Word id="l_0077-w_0004" text="Parallelen" error_score="1.000" error_type="error" />
+      <Word id="l_0077-w_0005" text="nehmen" error_score="1.000" error_type="error" />
+      <Word id="l_0077-w_0006" text="aber," error_score="1.000" error_type="error" />
+      <Word id="l_0077-w_0007" text="damit" error_score="1.000" error_type="error" />
+      <Word id="l_0077-w_0008" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0077-w_0009" text="Flachen." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0078" text="treue erreient verde. polvarts an Entfernung voneinander ab.">
+      <Coords points="3357,1640 3336,1640 3315,1640 3294,1640 3274,1640 3253,1640 3232,1640 3212,1640 3191,1640 3189,1638 3170,1638 3170,1665 3168,1681 3917,1691 3921,1673 3919,1646 3357,1640 3357,1640" />
+      <Word id="l_0078-w_0001" text="treue" error_score="1.000" error_type="error" />
+      <Word id="l_0078-w_0002" text="erreient" error_score="1.000" error_type="error" />
+      <Word id="l_0078-w_0003" text="verde." error_score="1.000" error_type="error" />
+      <Word id="l_0078-w_0004" text="polvarts" error_score="1.000" error_type="error" />
+      <Word id="l_0078-w_0005" text="an" error_score="1.000" error_type="error" />
+      <Word id="l_0078-w_0006" text="Entfernung" error_score="1.000" error_type="error" />
+      <Word id="l_0078-w_0007" text="voneinander" error_score="1.000" error_type="error" />
+      <Word id="l_0078-w_0008" text="ab." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0079" text="Lamberts flächentreue Azimutal-Projektion.">
+      <Coords points="3872,1793 3851,1770 3830,1770 3810,1770 3789,1770 3768,1770 3747,1770 3727,1770 3706,1770 3685,1770 3665,1772 3644,1772 3623,1772 3603,1772 3582,1772 3561,1772 3541,1772 3520,1772 3499,1772 3479,1772 3458,1774 3437,1774 3417,1774 3396,1774 3375,1774 3354,1774 3334,1774 3313,1774 3292,1774 3272,1774 3251,1776 3230,1776 3210,1776 3189,1776 3189,1791 3187,1805 3882,1811 3886,1797 3884,1768 3874,1766 3872,1793" />
+      <Word id="l_0079-w_0001" text="Lamberts" error_score="1.000" error_type="error" />
+      <Word id="l_0079-w_0002" text="flächentreue" error_score="1.000" error_type="error" />
+      <Word id="l_0079-w_0003" text="Azimutal-Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0080" text="2">
+      <Coords points="3216,2355 3212,2374 3243,2390 3251,2359 3251,2326 3218,2326 3216,2355" />
+      <Word id="l_0080-w_0001" text="2" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0081" text="4">
+      <Coords points="3816,2242 3787,2252 3787,2299 3787,2320 3828,2318 3828,2299 3824,2242 3816,2242" />
+      <Word id="l_0081-w_0001" text="4" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0082" text="A">
+      <Coords points="3865,2281 3863,2279 3847,2275 3845,2275 3843,2275 3841,2275 3838,2275 3838,2277 3830,2283 3824,2302 3814,2302 3805,2310 3783,2310 3783,2357 3787,2403 3799,2395 3832,2405 3834,2405 3836,2405 3838,2405 3872,2386 3872,2357 3872,2337 3865,2281" />
+      <Word id="l_0082-w_0001" text="A" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0083" text="Die Bildebene berührt die Mitte des darzustellenden Teiles">
+      <Coords points="3175,2409 3172,2428 3896,2436 3901,2417 3901,2393 3175,2384 3175,2409" />
+      <Word id="l_0083-w_0001" text="Die" error_score="1.000" error_type="error" />
+      <Word id="l_0083-w_0002" text="Bildebene" error_score="1.000" error_type="error" />
+      <Word id="l_0083-w_0003" text="berührt" error_score="1.000" error_type="error" />
+      <Word id="l_0083-w_0004" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0083-w_0005" text="Mitte" error_score="1.000" error_type="error" />
+      <Word id="l_0083-w_0006" text="des" error_score="1.000" error_type="error" />
+      <Word id="l_0083-w_0007" text="darzustellenden" error_score="1.000" error_type="error" />
+      <Word id="l_0083-w_0008" text="Teiles" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0084" text="der Kugeloberſiche (a0o n. Br, gpo det. v. Gro. ). Alle">
+      <Coords points="3175,2438 3172,2453 3898,2461 3903,2444 3901,2419 3175,2413 3175,2438" />
+      <Word id="l_0084-w_0001" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0002" text="Kugeloberſiche" error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0003" text="(a0o" error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0004" text="n." error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0005" text="Br," error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0006" text="gpo" error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0007" text="det." error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0008" text="v." error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0009" text="Gro." error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0010" text=")." error_score="1.000" error_type="error" />
+      <Word id="l_0084-w_0011" text="Alle" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0085" text="Puntte,">
+      <Coords points="3170,2467 3168,2482 3263,2488 3268,2469 3266,2444 3170,2440 3170,2467" />
+      <Word id="l_0085-w_0001" text="Puntte," error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0086" text="ſe dieh aut der Kugel in der gleiehen Enternuns">
+      <Coords points="3445,2442 3425,2442 3421,2440 3301,2440 3301,2469 3299,2484 3896,2492 3901,2475 3898,2448 3450,2442 3445,2442" />
+      <Word id="l_0086-w_0001" text="ſe" error_score="1.000" error_type="error" />
+      <Word id="l_0086-w_0002" text="dieh" error_score="1.000" error_type="error" />
+      <Word id="l_0086-w_0003" text="aut" error_score="1.000" error_type="error" />
+      <Word id="l_0086-w_0004" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0086-w_0005" text="Kugel" error_score="1.000" error_type="error" />
+      <Word id="l_0086-w_0006" text="in" error_score="1.000" error_type="error" />
+      <Word id="l_0086-w_0007" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0086-w_0008" text="gleiehen" error_score="1.000" error_type="error" />
+      <Word id="l_0086-w_0009" text="Enternuns" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0087" text="vom Beruhrungspuntte befinden, liegen im Bilde auf einen">
+      <Coords points="3874,2475 3853,2475 3832,2475 3812,2475 3791,2475 3770,2475 3750,2475 3729,2475 3708,2475 3687,2473 3667,2473 3646,2473 3625,2473 3605,2473 3584,2473 3563,2473 3543,2473 3522,2473 3501,2473 3481,2471 3460,2471 3439,2471 3419,2471 3398,2471 3377,2471 3357,2471 3336,2471 3315,2471 3313,2467 3253,2467 3253,2469 3232,2469 3212,2469 3191,2469 3170,2469 3170,2494 3168,2508 3886,2519 3890,2500 3888,2475 3874,2475" />
+      <Word id="l_0087-w_0001" text="vom" error_score="1.000" error_type="error" />
+      <Word id="l_0087-w_0002" text="Beruhrungspuntte" error_score="1.000" error_type="error" />
+      <Word id="l_0087-w_0003" text="befinden," error_score="1.000" error_type="error" />
+      <Word id="l_0087-w_0004" text="liegen" error_score="1.000" error_type="error" />
+      <Word id="l_0087-w_0005" text="im" error_score="1.000" error_type="error" />
+      <Word id="l_0087-w_0006" text="Bilde" error_score="1.000" error_type="error" />
+      <Word id="l_0087-w_0007" text="auf" error_score="1.000" error_type="error" />
+      <Word id="l_0087-w_0008" text="einen" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0088" text="Ereise um die Kartenmite und aut der Rugel und der Karte">
+      <Coords points="3650,2500 3648,2498 3175,2496 3175,2523 3172,2537 3894,2546 3898,2527 3896,2502 3654,2500 3650,2500" />
+      <Word id="l_0088-w_0001" text="Ereise" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0002" text="um" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0003" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0004" text="Kartenmite" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0005" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0006" text="aut" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0007" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0008" text="Rugel" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0009" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0010" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0088-w_0011" text="Karte" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0089" text="inderselben Riehtune. Die Paralleſlereise aind kontentrischt">
+      <Coords points="3338,2525 3317,2525 3297,2525 3276,2525 3255,2525 3235,2525 3214,2525 3193,2525 3172,2523 3172,2548 3170,2566 3892,2575 3896,2556 3894,2531 3352,2525 3338,2525" />
+      <Word id="l_0089-w_0001" text="inderselben" error_score="1.000" error_type="error" />
+      <Word id="l_0089-w_0002" text="Riehtune." error_score="1.000" error_type="error" />
+      <Word id="l_0089-w_0003" text="Die" error_score="1.000" error_type="error" />
+      <Word id="l_0089-w_0004" text="Paralleſlereise" error_score="1.000" error_type="error" />
+      <Word id="l_0089-w_0005" text="aind" error_score="1.000" error_type="error" />
+      <Word id="l_0089-w_0006" text="kontentrischt" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0090" text="Ereise, deren Entfernung voneinander polvarts vaehst, di⸗">
+      <Coords points="3172,2577 3170,2593 3892,2601 3896,2583 3894,2558 3172,2552 3172,2577" />
+      <Word id="l_0090-w_0001" text="Ereise," error_score="1.000" error_type="error" />
+      <Word id="l_0090-w_0002" text="deren" error_score="1.000" error_type="error" />
+      <Word id="l_0090-w_0003" text="Entfernung" error_score="1.000" error_type="error" />
+      <Word id="l_0090-w_0004" text="voneinander" error_score="1.000" error_type="error" />
+      <Word id="l_0090-w_0005" text="polvarts" error_score="1.000" error_type="error" />
+      <Word id="l_0090-w_0006" text="vaehst," error_score="1.000" error_type="error" />
+      <Word id="l_0090-w_0007" text="di⸗" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0091" text="Meridiane (den Mittelmeridian ausgenommen) Kurven. Mur">
+      <Coords points="3170,2606 3168,2620 3896,2628 3901,2612 3898,2587 3170,2579 3170,2606" />
+      <Word id="l_0091-w_0001" text="Meridiane" error_score="1.000" error_type="error" />
+      <Word id="l_0091-w_0002" text="(den" error_score="1.000" error_type="error" />
+      <Word id="l_0091-w_0003" text="Mittelmeridian" error_score="1.000" error_type="error" />
+      <Word id="l_0091-w_0004" text="ausgenommen)" error_score="1.000" error_type="error" />
+      <Word id="l_0091-w_0005" text="Kurven." error_score="1.000" error_type="error" />
+      <Word id="l_0091-w_0006" text="Mur" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0092" text="venn die Bilaniehe die Erdlugel an einem Pole beruhrt">
+      <Coords points="3172,2635 3170,2649 3892,2661 3896,2643 3894,2616 3172,2608 3172,2635" />
+      <Word id="l_0092-w_0001" text="venn" error_score="1.000" error_type="error" />
+      <Word id="l_0092-w_0002" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0092-w_0003" text="Bilaniehe" error_score="1.000" error_type="error" />
+      <Word id="l_0092-w_0004" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0092-w_0005" text="Erdlugel" error_score="1.000" error_type="error" />
+      <Word id="l_0092-w_0006" text="an" error_score="1.000" error_type="error" />
+      <Word id="l_0092-w_0007" text="einem" error_score="1.000" error_type="error" />
+      <Word id="l_0092-w_0008" text="Pole" error_score="1.000" error_type="error" />
+      <Word id="l_0092-w_0009" text="beruhrt" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0093" text="verden alle Meridiane au Geraden. )">
+      <Coords points="3745,2643 3725,2643 3721,2641 3311,2639 3311,2664 3309,2678 3752,2686 3756,2668 3754,2643 3745,2643" />
+      <Word id="l_0093-w_0001" text="verden" error_score="1.000" error_type="error" />
+      <Word id="l_0093-w_0002" text="alle" error_score="1.000" error_type="error" />
+      <Word id="l_0093-w_0003" text="Meridiane" error_score="1.000" error_type="error" />
+      <Word id="l_0093-w_0004" text="au" error_score="1.000" error_type="error" />
+      <Word id="l_0093-w_0005" text="Geraden." error_score="1.000" error_type="error" />
+      <Word id="l_0093-w_0006" text=")" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0094" text="Zur Lambert'schen Projektion">
+      <Coords points="3286,2713 3286,2732 3766,2736 3768,2713 3768,2686 3286,2686 3286,2713" />
+      <Word id="l_0094-w_0001" text="Zur" error_score="1.000" error_type="error" />
+      <Word id="l_0094-w_0002" text="Lambert'schen" error_score="1.000" error_type="error" />
+      <Word id="l_0094-w_0003" text="Projektion" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0052" type="paragraph">
+    <Coords points="2941,1861 3007,1892 2910,1933 2885,1886 2941,1861" />
+  </TextRegion>
+  <TextRegion id="r_0053" type="paragraph">
+    <Coords points="3065,2308 3065,2322 3059,2322 3059,2299 3065,2308" />
+  </TextRegion>
+  <TextRegion id="r_0054" type="paragraph">
+    <Coords points="3477,2266 3495,2306 3414,2306 3423,2283 3477,2266" />
+  </TextRegion>
+  <TextRegion id="r_0055" type="paragraph">
+    <Coords points="3578,2231 3572,2231 3572,2225 3578,2225 3578,2231" />
+  </TextRegion>
+  <TextRegion id="r_0056" type="paragraph">
+    <Coords points="3592,2291 3603,2306 3580,2306 3580,2291 3592,2291" />
+  </TextRegion>
+  <TextRegion id="r_0057" type="paragraph">
+    <Coords points="3716,1329 3712,1329 3712,1323 3719,1323 3716,1329" />
+  </TextRegion>
+  <TextRegion id="r_0058" type="paragraph">
+    <Coords points="3743,2076 3785,2099 3712,2115 3704,2093 3743,2076" />
+  </TextRegion>
+  <TextRegion id="r_0059" type="paragraph">
+    <Coords points="591,2581 949,2581 1015,2612 990,2645 810,2645 709,2711 438,2703 446,2622 591,2581" />
+    <TextLine id="l_0095" text="Wahre Kegelprojektion.">
+      <Coords points="965,2589 957,2585 808,2581 800,2581 779,2581 759,2581 738,2581 717,2581 697,2581 676,2581 655,2581 635,2581 614,2581 593,2581 593,2606 591,2622 970,2635 974,2616 972,2591 965,2589" />
+      <Word id="l_0095-w_0001" text="Wahre" error_score="1.000" error_type="error" />
+      <Word id="l_0095-w_0002" text="Kegelprojektion." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0096" text="">
+      <Coords points="467,2690 465,2709 500,2709 527,2734 527,2736 529,2736 531,2736 577,2740 579,2740 581,2740 622,2723 690,2723 692,2703 690,2626 666,2637 657,2626 655,2626 655,2624 653,2624 651,2624 649,2624 469,2624 467,2690" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0060" type="paragraph">
+    <Coords points="881,3116 877,3116 877,3110 883,3110 881,3116" />
+  </TextRegion>
+  <TextRegion id="r_0061" type="paragraph">
+    <Coords points="885,2970 908,3025 877,3092 860,2986 885,2970" />
+  </TextRegion>
+  <TextRegion id="r_0062" type="paragraph">
+    <Coords points="889,2879 899,2893 877,2893 877,2879 889,2879" />
+  </TextRegion>
+  <TextRegion id="r_0063" type="paragraph">
+    <Coords points="1048,2837 1081,2846 1048,2868 1090,2887 1065,2951 1106,2986 1065,3050 1123,3125 1034,3125 1040,3075 968,3075 1042,3050 984,3025 1042,2937 959,2926 943,2887 1032,2879 1048,2837" />
+  </TextRegion>
+  <TextRegion id="r_0064" type="paragraph">
+    <Coords points="1098,2672 1123,2686 1042,2686 1042,2680 1098,2672" />
+  </TextRegion>
+  <TextRegion id="r_0065" type="paragraph">
+    <Coords points="1131,2992 1131,3001 1125,3001 1125,2986 1131,2992" />
+  </TextRegion>
+  <TextRegion id="r_0066" type="paragraph">
+    <Coords points="1156,2678 1172,2680 1172,2686 1141,2686 1156,2678" />
+  </TextRegion>
+  <TextRegion id="r_0067" type="paragraph">
+    <Coords points="444,2802 469,2812 477,3017 527,3036 486,3116 494,3174 529,3193 999,3210 1081,3193 1050,3168 1098,3160 1100,3193 1280,3226 1274,2978 1290,2829 1313,2829 1363,3052 1321,3174 1381,3210 1727,3218 1760,3193 1884,3218 1967,3176 2018,3218 2124,3234 2173,3185 2486,3201 2554,3160 2659,3160 2751,3193 2833,3160 2899,3218 2908,3315 2891,3348 2693,3373 2355,3373 2151,3348 2124,3274 2068,3274 2000,3373 1530,3373 1282,3365 1265,3276 1207,3265 1131,3340 579,3348 405,3290 421,2812 444,2802" />
+    <TextLine id="l_0097" text="Der Kegelmantel, der die Erdkugel im Mitelpara">
+      <Coords points="1025,3226 424,3207 424,3236 421,3253 1028,3272 1032,3259 1032,3253 1025,3226" />
+      <Word id="l_0097-w_0001" text="Der" error_score="1.000" error_type="error" />
+      <Word id="l_0097-w_0002" text="Kegelmantel," error_score="1.000" error_type="error" />
+      <Word id="l_0097-w_0003" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0097-w_0004" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0097-w_0005" text="Erdkugel" error_score="1.000" error_type="error" />
+      <Word id="l_0097-w_0006" text="im" error_score="1.000" error_type="error" />
+      <Word id="l_0097-w_0007" text="Mitelpara" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0098" text="Ilel (a00)">
+      <Coords points="1032,3232 1150,3228 1150,3267 1032,3272" />
+      <Word id="l_0098-w_0001" text="Ilel" error_score="1.000" error_type="error" />
+      <Word id="l_0098-w_0002" text="(a00)" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0099" text="des daraustellenden Landes berufrt, ist Projelettionsniche.">
+      <Coords points="1019,3259 999,3259 978,3259 957,3257 936,3257 916,3255 895,3255 874,3255 854,3253 833,3253 812,3253 792,3251 771,3251 752,3249 740,3249 730,3249 709,3249 697,3247 659,3247 647,3247 641,3245 419,3241 419,3265 417,3280 1139,3301 1143,3282 1141,3259 1028,3255 1019,3259" />
+      <Word id="l_0099-w_0001" text="des" error_score="1.000" error_type="error" />
+      <Word id="l_0099-w_0002" text="daraustellenden" error_score="1.000" error_type="error" />
+      <Word id="l_0099-w_0003" text="Landes" error_score="1.000" error_type="error" />
+      <Word id="l_0099-w_0004" text="berufrt," error_score="1.000" error_type="error" />
+      <Word id="l_0099-w_0005" text="ist" error_score="1.000" error_type="error" />
+      <Word id="l_0099-w_0006" text="Projelettionsniche." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0100" text="Mericiane geradlinie. Parallelen gleiehveit voneinander ab.">
+      <Coords points="808,3276 788,3276 775,3274 744,3274 726,3274 705,3274 686,3272 678,3272 663,3272 643,3272 622,3272 601,3272 581,3270 560,3270 539,3270 519,3270 498,3267 477,3267 457,3267 436,3267 415,3288 415,3290 413,3307 1139,3327 1143,3311 1141,3286 810,3276 808,3276" />
+      <Word id="l_0100-w_0001" text="Mericiane" error_score="1.000" error_type="error" />
+      <Word id="l_0100-w_0002" text="geradlinie." error_score="1.000" error_type="error" />
+      <Word id="l_0100-w_0003" text="Parallelen" error_score="1.000" error_type="error" />
+      <Word id="l_0100-w_0004" text="gleiehveit" error_score="1.000" error_type="error" />
+      <Word id="l_0100-w_0005" text="voneinander" error_score="1.000" error_type="error" />
+      <Word id="l_0100-w_0006" text="ab." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0101" text="atehende konxentrische Kreisbogen">
+      <Coords points="560,3325 558,3342 994,3356 999,3336 996,3311 560,3301 560,3325" />
+      <Word id="l_0101-w_0001" text="atehende" error_score="1.000" error_type="error" />
+      <Word id="l_0101-w_0002" text="konxentrische" error_score="1.000" error_type="error" />
+      <Word id="l_0101-w_0003" text="Kreisbogen" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0102" text="Unteracheidet aieh von der vahren Kegelprojektion dadureh.">
+      <Coords points="1284,3257 1282,3274 2006,3288 2010,3267 2010,3243 1284,3232 1284,3257" />
+      <Word id="l_0102-w_0001" text="Unteracheidet" error_score="1.000" error_type="error" />
+      <Word id="l_0102-w_0002" text="aieh" error_score="1.000" error_type="error" />
+      <Word id="l_0102-w_0003" text="von" error_score="1.000" error_type="error" />
+      <Word id="l_0102-w_0004" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0102-w_0005" text="vahren" error_score="1.000" error_type="error" />
+      <Word id="l_0102-w_0006" text="Kegelprojektion" error_score="1.000" error_type="error" />
+      <Word id="l_0102-w_0007" text="dadureh." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0103" text="das die vahre Grbbe der Langenerade nlent auf den Mintel⸗">
+      <Coords points="2010,3267 1989,3267 1969,3267 1948,3267 1927,3267 1907,3267 1886,3267 1865,3267 1845,3265 1824,3265 1803,3265 1782,3265 1762,3265 1741,3265 1720,3265 1702,3263 1648,3263 1638,3263 1617,3263 1596,3263 1576,3263 1569,3261 1286,3261 1286,3288 1284,3303 2010,3309 2014,3294 2012,3265 2010,3263 2010,3267" />
+      <Word id="l_0103-w_0001" text="das" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0002" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0003" text="vahre" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0004" text="Grbbe" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0005" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0006" text="Langenerade" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0007" text="nlent" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0008" text="auf" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0009" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0103-w_0010" text="Mintel⸗" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0104" text="parallel. condern aut wee vom oberen, bav. unteren Karten.">
+      <Coords points="1987,3294 1967,3294 1946,3294 1925,3294 1905,3294 1884,3294 1863,3294 1842,3294 1822,3294 1801,3294 1780,3294 1766,3292 1646,3292 1636,3292 1615,3292 1594,3292 1574,3292 1553,3292 1532,3292 1524,3290 1284,3290 1284,3317 1282,3336 2006,3338 2010,3321 2008,3294 1987,3294" />
+      <Word id="l_0104-w_0001" text="parallel." error_score="1.000" error_type="error" />
+      <Word id="l_0104-w_0002" text="condern" error_score="1.000" error_type="error" />
+      <Word id="l_0104-w_0003" text="aut" error_score="1.000" error_type="error" />
+      <Word id="l_0104-w_0004" text="wee" error_score="1.000" error_type="error" />
+      <Word id="l_0104-w_0005" text="vom" error_score="1.000" error_type="error" />
+      <Word id="l_0104-w_0006" text="oberen," error_score="1.000" error_type="error" />
+      <Word id="l_0104-w_0007" text="bav." error_score="1.000" error_type="error" />
+      <Word id="l_0104-w_0008" text="unteren" error_score="1.000" error_type="error" />
+      <Word id="l_0104-w_0009" text="Karten." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0105" text="rande gleien aborandigen Breitentreiden auſeeragen vird">
+      <Coords points="2006,3321 1282,3319 1282,3344 1280,3363 2006,3373 2010,3350 2008,3346 2006,3321" />
+      <Word id="l_0105-w_0001" text="rande" error_score="1.000" error_type="error" />
+      <Word id="l_0105-w_0002" text="gleien" error_score="1.000" error_type="error" />
+      <Word id="l_0105-w_0003" text="aborandigen" error_score="1.000" error_type="error" />
+      <Word id="l_0105-w_0004" text="Breitentreiden" error_score="1.000" error_type="error" />
+      <Word id="l_0105-w_0005" text="auſeeragen" error_score="1.000" error_type="error" />
+      <Word id="l_0105-w_0006" text="vird" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0106" text="Der Zylindermantel, der die Erdkugel im Aquator beruhr,">
+      <Coords points="2155,3263 2153,3282 2883,3292 2887,3272 2885,3245 2155,3236 2155,3263" />
+      <Word id="l_0106-w_0001" text="Der" error_score="1.000" error_type="error" />
+      <Word id="l_0106-w_0002" text="Zylindermantel," error_score="1.000" error_type="error" />
+      <Word id="l_0106-w_0003" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0106-w_0004" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0106-w_0005" text="Erdkugel" error_score="1.000" error_type="error" />
+      <Word id="l_0106-w_0006" text="im" error_score="1.000" error_type="error" />
+      <Word id="l_0106-w_0007" text="Aquator" error_score="1.000" error_type="error" />
+      <Word id="l_0106-w_0008" text="beruhr," error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0107" text="ſet Proſeliionsliehe. Die Breitengrade vachsen im um">
+      <Coords points="2153,3294 2151,3309 2873,3317 2877,3301 2875,3276 2153,3267 2153,3294" />
+      <Word id="l_0107-w_0001" text="ſet" error_score="1.000" error_type="error" />
+      <Word id="l_0107-w_0002" text="Proſeliionsliehe." error_score="1.000" error_type="error" />
+      <Word id="l_0107-w_0003" text="Die" error_score="1.000" error_type="error" />
+      <Word id="l_0107-w_0004" text="Breitengrade" error_score="1.000" error_type="error" />
+      <Word id="l_0107-w_0005" text="vachsen" error_score="1.000" error_type="error" />
+      <Word id="l_0107-w_0006" text="im" error_score="1.000" error_type="error" />
+      <Word id="l_0107-w_0007" text="um" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0108" text="ʒekehrten Ve zu den vanren Langeneracverter">
+      <Coords points="2858,3301 2837,3301 2817,3301 2796,3301 2775,3301 2755,3301 2734,3301 2713,3301 2693,3301 2672,3301 2651,3301 2643,3298 2155,3298 2155,3325 2153,3344 2875,3346 2879,3327 2877,3301 2858,3298 2858,3301" />
+      <Word id="l_0108-w_0001" text="ʒekehrten" error_score="1.000" error_type="error" />
+      <Word id="l_0108-w_0002" text="Ve" error_score="1.000" error_type="error" />
+      <Word id="l_0108-w_0003" text="zu" error_score="1.000" error_type="error" />
+      <Word id="l_0108-w_0004" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0108-w_0005" text="vanren" error_score="1.000" error_type="error" />
+      <Word id="l_0108-w_0006" text="Langeneracverter" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0109" text="aut den Parallelen. Vinkeltreu">
+      <Coords points="2686,3327 2666,3327 2645,3327 2624,3327 2604,3327 2583,3327 2562,3327 2542,3327 2521,3327 2500,3327 2480,3327 2459,3327 2438,3327 2417,3327 2397,3327 2376,3327 2355,3327 2335,3327 2314,3327 2314,3352 2314,3371 2699,3375 2701,3352 2701,3327 2686,3327" />
+      <Word id="l_0109-w_0001" text="aut" error_score="1.000" error_type="error" />
+      <Word id="l_0109-w_0002" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0109-w_0003" text="Parallelen." error_score="1.000" error_type="error" />
+      <Word id="l_0109-w_0004" text="Vinkeltreu" error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0068" type="paragraph">
+    <Coords points="1298,2531 2049,2539 2107,2637 1439,2653 1495,2680 1480,2705 1586,2719 1298,2744 1307,2655 1224,2620 1232,2539 1298,2531" />
+    <TextLine id="l_0110" text="B. Kegel- und Zylinder-Projektionen.">
+      <Coords points="2045,2539 1909,2539 1905,2537 1900,2537 1880,2537 1859,2535 1838,2535 1822,2535 1807,2537 1803,2535 1797,2535 1776,2535 1756,2535 1754,2535 1735,2535 1714,2535 1694,2535 1679,2535 1673,2535 1652,2533 1631,2533 1613,2533 1611,2535 1609,2533 1590,2533 1569,2533 1549,2533 1534,2533 1520,2535 1443,2535 1439,2531 1425,2531 1404,2531 1385,2531 1375,2533 1369,2531 1363,2531 1342,2531 1321,2531 1301,2531 1280,2531 1259,2535 1238,2537 1238,2570 1236,2585 2060,2591 2064,2577 2060,2562 2045,2539" />
+      <Word id="l_0110-w_0001" text="B." error_score="0.005" />
+      <Word id="l_0110-w_0002" text="Kegel-" error_score="0.005" />
+      <Word id="l_0110-w_0003" text="und" error_score="0.005" />
+      <Word id="l_0110-w_0004" text="Zylinder-Projektionen." error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0111" text="Vereinfachte Kegelprojektion.">
+      <Coords points="1410,2624 1410,2643 1888,2643 1890,2622 1886,2595 1408,2595 1410,2624" />
+      <Word id="l_0111-w_0001" text="Vereinfachte" error_score="0.005" />
+      <Word id="l_0111-w_0002" text="Kegelprojektion." error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0112" text="S">
+      <Coords points="1557,2721 1536,2721 1516,2719 1495,2721 1483,2695 1474,2695 1429,2649 1429,2647 1427,2647 1425,2647 1423,2647 1329,2649 1329,2723 1332,2752 1358,2744 1371,2755 1371,2757 1373,2757 1375,2757 1377,2759 1480,2759 1480,2757 1483,2757 1530,2744 1540,2752 1540,2755 1543,2755 1545,2755 1547,2755 1549,2755 1569,2742 1569,2723 1569,2719 1557,2721" />
+      <Word id="l_0112-w_0001" text="S" error_score="0.005" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0069" type="paragraph">
+    <Coords points="1751,2994 1776,3075 1737,3100 1720,3069 1751,2994" />
+  </TextRegion>
+  <TextRegion id="r_0070" type="paragraph">
+    <Coords points="1865,3069 1884,3069 1900,3083 1853,3092 1865,3069" />
+  </TextRegion>
+  <TextRegion id="r_0071" type="paragraph">
+    <Coords points="1950,3102 1967,3102 1983,3125 1936,3133 1950,3102" />
+  </TextRegion>
+  <TextRegion id="r_0072" type="paragraph">
+    <Coords points="2066,2390 2066,2397 2051,2397 2051,2390 2066,2390" />
+  </TextRegion>
+  <TextRegion id="r_0073" type="paragraph">
+    <Coords points="2171,3075 2171,3092 2165,3092 2165,3069 2171,3075" />
+  </TextRegion>
+  <TextRegion id="r_0074" type="paragraph">
+    <Coords points="2171,3011 2165,3017 2165,3003 2171,3003 2171,3011" />
+  </TextRegion>
+  <TextRegion id="r_0075" type="paragraph">
+    <Coords points="2173,2928 2180,2951 2165,2951 2165,2920 2173,2928" />
+  </TextRegion>
+  <TextRegion id="r_0076" type="paragraph">
+    <Coords points="2211,3119 2229,3150 2165,3158 2165,3127 2211,3119" />
+  </TextRegion>
+  <TextRegion id="r_0077" type="paragraph">
+    <Coords points="2335,2926 2331,2926 2331,2920 2337,2920 2335,2926" />
+  </TextRegion>
+  <TextRegion id="r_0078" type="paragraph">
+    <Coords points="2386,2961 2420,2970 2420,3009 2331,3009 2386,2961" />
+  </TextRegion>
+  <TextRegion id="r_0079" type="paragraph">
+    <Coords points="2409,3036 2411,3050 2405,3050 2397,3036 2409,3036" />
+  </TextRegion>
+  <TextRegion id="r_0080" type="paragraph">
+    <Coords points="2411,3069 2411,3075 2420,3083 2405,3083 2411,3069" />
+  </TextRegion>
+  <TextRegion id="r_0081" type="paragraph">
+    <Coords points="2271,2597 2775,2597 2792,2645 2446,2645 2486,2678 2436,2686 2339,2678 2355,2655 2320,2645 2248,2653 2221,2703 2287,2730 2246,2769 2295,2829 2320,2920 2304,2968 2256,2968 2231,2934 2256,2788 2213,2843 2159,2835 2159,2721 2190,2697 2165,2686 2182,2647 2142,2630 2271,2597" />
+    <TextLine id="l_0113" text="Mercators (Zylinder-) Projektion.">
+      <Coords points="2775,2608 2755,2597 2734,2597 2713,2597 2693,2597 2672,2597 2651,2597 2631,2597 2610,2597 2589,2597 2568,2597 2548,2597 2527,2597 2506,2597 2486,2597 2465,2597 2444,2597 2424,2597 2403,2597 2382,2597 2362,2597 2341,2597 2320,2597 2300,2597 2279,2597 2258,2599 2258,2618 2256,2637 2779,2641 2784,2622 2782,2616 2775,2608" />
+      <Word id="l_0113-w_0001" text="Mercators" error_score="1.000" error_type="error" />
+      <Word id="l_0113-w_0002" text="(Zylinder-)" error_score="1.000" error_type="error" />
+      <Word id="l_0113-w_0003" text="Projektion." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0082" type="paragraph">
+    <Coords points="2384,2705 2480,2730 2610,2713 2635,2736 2488,2744 2486,2877 2347,2926 2339,2746 2306,2730 2384,2705" />
+    <TextLine id="l_0114" text="">
+      <Coords points="2364,2883 2372,2961 2411,2947 2405,2879 2395,2804 2353,2804 2364,2883" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0083" type="paragraph">
+    <Coords points="2542,2777 2537,2777 2537,2771 2544,2771 2542,2777" />
+  </TextRegion>
+  <TextRegion id="r_0084" type="paragraph">
+    <Coords points="2521,2961 2560,2970 2560,3009 2486,3034 2535,3044 2529,3102 2668,3094 2709,3141 2521,3141 2504,3069 2455,3059 2463,2970 2521,2961" />
+    <TextLine id="l_0115" text="W.">
+      <Coords points="2517,2961 2496,2961 2498,2980 2498,2997 2533,3001 2535,2976 2533,2963 2517,2961" />
+      <Word id="l_0115-w_0001" text="W." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0085" type="paragraph">
+    <Coords points="2608,2970 2684,2978 2626,3019 2643,3059 2604,3050 2608,2970" />
+  </TextRegion>
+  <TextRegion id="r_0086" type="paragraph">
+    <Coords points="2742,2730 2800,2730 2800,2744 2736,2752 2742,2730" />
+    <TextLine id="l_0116" text="">
+      <Coords points="2759,2730 2759,2742 2759,2755 2773,2763 2777,2742 2777,2730 2759,2730" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0087" type="paragraph">
+    <Coords points="3396,3094 3901,3110 3909,3307 3983,3389 3348,3398 3330,3348 3175,3332 3141,3241 3158,3110 3396,3094" />
+    <TextLine id="l_0117" text="Radius der Parallelkereise gleieh der Sehne entsprechender">
+      <Coords points="3886,3108 3865,3108 3845,3108 3824,3106 3803,3106 3783,3106 3762,3104 3741,3104 3721,3104 3704,3102 3294,3098 3286,3100 3266,3102 3245,3104 3224,3104 3203,3106 3183,3108 3162,3108 3162,3125 3160,3141 3894,3148 3898,3131 3896,3106 3886,3108" />
+      <Word id="l_0117-w_0001" text="Radius" error_score="1.000" error_type="error" />
+      <Word id="l_0117-w_0002" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0117-w_0003" text="Parallelkereise" error_score="1.000" error_type="error" />
+      <Word id="l_0117-w_0004" text="gleieh" error_score="1.000" error_type="error" />
+      <Word id="l_0117-w_0005" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0117-w_0006" text="Sehne" error_score="1.000" error_type="error" />
+      <Word id="l_0117-w_0007" text="entsprechender" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0118" text="Kugeltappen: 7 2 28 ain8. Die Meridiane verden kon-">
+      <Coords points="3164,3166 3162,3183 3892,3189 3896,3172 3894,3145 3164,3139 3164,3166" />
+      <Word id="l_0118-w_0001" text="Kugeltappen:" error_score="1.000" error_type="error" />
+      <Word id="l_0118-w_0002" text="7" error_score="1.000" error_type="error" />
+      <Word id="l_0118-w_0003" text="2" error_score="1.000" error_type="error" />
+      <Word id="l_0118-w_0004" text="28" error_score="1.000" error_type="error" />
+      <Word id="l_0118-w_0005" text="ain8." error_score="1.000" error_type="error" />
+      <Word id="l_0118-w_0006" text="Die" error_score="1.000" error_type="error" />
+      <Word id="l_0118-w_0007" text="Meridiane" error_score="1.000" error_type="error" />
+      <Word id="l_0118-w_0008" text="verden" error_score="1.000" error_type="error" />
+      <Word id="l_0118-w_0009" text="kon-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0119" text="struiert, indem man die Arimute ihrer Sehnitpunkte mit">
+      <Coords points="3166,3210 3164,3224 3890,3232 3894,3212 3892,3185 3166,3183 3166,3210" />
+      <Word id="l_0119-w_0001" text="struiert," error_score="1.000" error_type="error" />
+      <Word id="l_0119-w_0002" text="indem" error_score="1.000" error_type="error" />
+      <Word id="l_0119-w_0003" text="man" error_score="1.000" error_type="error" />
+      <Word id="l_0119-w_0004" text="die" error_score="1.000" error_type="error" />
+      <Word id="l_0119-w_0005" text="Arimute" error_score="1.000" error_type="error" />
+      <Word id="l_0119-w_0006" text="ihrer" error_score="1.000" error_type="error" />
+      <Word id="l_0119-w_0007" text="Sehnitpunkte" error_score="1.000" error_type="error" />
+      <Word id="l_0119-w_0008" text="mit" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0120" text="den Parallelen auftragt. (Aꝛimut eines Punttes ist in der">
+      <Coords points="3170,3236 3168,3251 3888,3259 3892,3243 3890,3218 3170,3212 3170,3236" />
+      <Word id="l_0120-w_0001" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0120-w_0002" text="Parallelen" error_score="1.000" error_type="error" />
+      <Word id="l_0120-w_0003" text="auftragt." error_score="1.000" error_type="error" />
+      <Word id="l_0120-w_0004" text="(Aꝛimut" error_score="1.000" error_type="error" />
+      <Word id="l_0120-w_0005" text="eines" error_score="1.000" error_type="error" />
+      <Word id="l_0120-w_0006" text="Punttes" error_score="1.000" error_type="error" />
+      <Word id="l_0120-w_0007" text="ist" error_score="1.000" error_type="error" />
+      <Word id="l_0120-w_0008" text="in" error_score="1.000" error_type="error" />
+      <Word id="l_0120-w_0009" text="der" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0121" text="Kartographie der winkel, unter dem der Puntt, von einem">
+      <Coords points="3708,3243 3687,3243 3667,3243 3661,3241 3528,3241 3522,3241 3501,3241 3481,3241 3460,3241 3439,3241 3419,3241 3404,3239 3348,3239 3336,3239 3315,3239 3294,3239 3274,3239 3253,3239 3232,3239 3212,3239 3191,3239 3170,3239 3170,3263 3168,3282 3886,3290 3890,3270 3888,3245 3708,3243 3708,3243" />
+      <Word id="l_0121-w_0001" text="Kartographie" error_score="1.000" error_type="error" />
+      <Word id="l_0121-w_0002" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0121-w_0003" text="winkel," error_score="1.000" error_type="error" />
+      <Word id="l_0121-w_0004" text="unter" error_score="1.000" error_type="error" />
+      <Word id="l_0121-w_0005" text="dem" error_score="1.000" error_type="error" />
+      <Word id="l_0121-w_0006" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0121-w_0007" text="Puntt," error_score="1.000" error_type="error" />
+      <Word id="l_0121-w_0008" text="von" error_score="1.000" error_type="error" />
+      <Word id="l_0121-w_0009" text="einem" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0122" text="weiten aus gesehen, erseheint in berus auf eine fest.">
+      <Coords points="3166,3292 3164,3307 3888,3313 3892,3296 3890,3272 3166,3265 3166,3292" />
+      <Word id="l_0122-w_0001" text="weiten" error_score="1.000" error_type="error" />
+      <Word id="l_0122-w_0002" text="aus" error_score="1.000" error_type="error" />
+      <Word id="l_0122-w_0003" text="gesehen," error_score="1.000" error_type="error" />
+      <Word id="l_0122-w_0004" text="erseheint" error_score="1.000" error_type="error" />
+      <Word id="l_0122-w_0005" text="in" error_score="1.000" error_type="error" />
+      <Word id="l_0122-w_0006" text="berus" error_score="1.000" error_type="error" />
+      <Word id="l_0122-w_0007" text="auf" error_score="1.000" error_type="error" />
+      <Word id="l_0122-w_0008" text="eine" error_score="1.000" error_type="error" />
+      <Word id="l_0122-w_0009" text="fest." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0123" text="gesete dichungslinie, 2. B. den Mitelmeridian.)">
+      <Coords points="3210,3321 3208,3338 3824,3346 3828,3327 3826,3298 3210,3296 3210,3321" />
+      <Word id="l_0123-w_0001" text="gesete" error_score="1.000" error_type="error" />
+      <Word id="l_0123-w_0002" text="dichungslinie," error_score="1.000" error_type="error" />
+      <Word id="l_0123-w_0003" text="2." error_score="1.000" error_type="error" />
+      <Word id="l_0123-w_0004" text="B." error_score="1.000" error_type="error" />
+      <Word id="l_0123-w_0005" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0123-w_0006" text="Mitelmeridian.)" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0124" text="Aus der k. k. Hof- und Staatsdruckerei.">
+      <Coords points="3963,3369 3946,3350 3342,3348 3342,3377 3340,3396 3971,3402 3975,3381 3973,3375 3963,3369" />
+      <Word id="l_0124-w_0001" text="Aus" error_score="1.000" error_type="error" />
+      <Word id="l_0124-w_0002" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0124-w_0003" text="k." error_score="1.000" error_type="error" />
+      <Word id="l_0124-w_0004" text="k." error_score="1.000" error_type="error" />
+      <Word id="l_0124-w_0005" text="Hof-" error_score="1.000" error_type="error" />
+      <Word id="l_0124-w_0006" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0124-w_0007" text="Staatsdruckerei." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+</Page>

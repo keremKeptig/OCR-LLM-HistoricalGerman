@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR Quality Estimation</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel" src="{{ url_for('static', filename='js/utils/styles.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/icons.js') }}"></script>
+    
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/Dropdowns.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/ViewTypeSelector.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/AppHeader.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/PagesSidebar.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/ErrorOverlay.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/PNGViewer.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/OCRTextViewer.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/ImageViewer.js') }}"></script>
+    <script type="text/babel" src="{{ url_for('static', filename='js/components/RightPanel.js') }}"></script>
+    
+    <script type="text/babel" src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

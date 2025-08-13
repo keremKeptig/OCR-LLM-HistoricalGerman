@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740399404_00000010.bin.png" imageHeight="2718" imageWidth="1725" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="131,561 131,572 126,572 126,561 131,561" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="131,653 131,699 126,699 126,652 131,653" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="131,708 131,1043 126,1043 126,706 131,708" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="131,1099 131,1134 126,1134 126,1099 131,1099" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="151,102 185,264 155,579 145,1278 120,151 151,102" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="1007,1014 1060,1014 1084,1044 1072,1073 898,1073 953,1020 1007,1014" />
+    <TextLine id="l_0001" text=".">
+      <Coords points="1075,1064 1069,1047 924,1047 924,1067 922,1081 1083,1081 1084,1069 1084,1049 1075,1047 1075,1064" />
+      <Word id="l_0001-w_0001" text="." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="421,205 481,229 475,276 501,308 1525,314 1551,277 1622,277 1634,644 1604,699 1640,730 1634,795 1598,813 386,813 368,724 404,634 368,590 350,314 368,294 362,229 421,205" />
+    <TextLine id="l_0002" text="VIII">
+      <Coords points="457,220 454,218 391,214 382,218 382,256 380,267 463,270 466,259 466,223 457,220" />
+      <Word id="l_0002-w_0001" text="VIII" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0003" text="Seite">
+      <Coords points="1557,303 1557,318 1626,318 1626,303 1626,280 1557,280 1557,303" />
+      <Word id="l_0003-w_0001" text="Seite" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0004" text="IV. Die Urſache der Planetenbewegungen. Newtons Gravitationsgeſetʒ (1682).">
+      <Coords points="394,347 394,360 1584,360 1584,347 1584,320 394,320 394,347" />
+      <Word id="l_0004-w_0001" text="IV." error_score="0.004" />
+      <Word id="l_0004-w_0002" text="Die" error_score="0.004" />
+      <Word id="l_0004-w_0003" text="Urſache" error_score="0.004" />
+      <Word id="l_0004-w_0004" text="der" error_score="0.004" />
+      <Word id="l_0004-w_0005" text="Planetenbewegungen." error_score="0.004" />
+      <Word id="l_0004-w_0006" text="Newtons" error_score="0.004" />
+      <Word id="l_0004-w_0007" text="Gravitationsgeſetʒ" error_score="0.004" />
+      <Word id="l_0004-w_0008" text="(1682)." error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0005" text="1. Ʒentralbewegung und Ʒentralkraft.">
+      <Coords points="379,398 379,410 983,409 984,397 981,375 930,366 928,366 844,374 780,366 779,366 777,366 756,374 734,366 732,366 731,366 729,366 714,374 543,366 542,366 377,372 379,398" />
+      <Word id="l_0005-w_0001" text="1." error_score="0.002" />
+      <Word id="l_0005-w_0002" text="Ʒentralbewegung" error_score="0.002" />
+      <Word id="l_0005-w_0003" text="und" error_score="0.002" />
+      <Word id="l_0005-w_0004" text="Ʒentralkraft." error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0006" text="2">
+      <Coords points="379,443 380,457 401,457 400,440 394,413 374,415 379,443" />
+      <Word id="l_0006-w_0001" text="2" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0007" text="...">
+      <Coords points="992,397 992,409 1075,409 1075,397 1075,379 992,379 992,397" />
+      <Word id="l_0007-w_0001" text="..." error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0008" text=".">
+      <Coords points="1235,397 1237,410 1252,404 1252,397 1252,379 1235,379 1235,397" />
+      <Word id="l_0008-w_0001" text="." error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0009" text="834">
+      <Coords points="1474,397 1474,406 1502,403 1513,410 1515,410 1516,410 1518,410 1519,410 1536,403 1551,410 1552,410 1554,410 1555,410 1576,403 1611,410 1614,395 1610,369 1472,377 1474,397" />
+      <Word id="l_0009-w_0001" text="834" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0010" text="Die Anʒiehung des Mondes durch die Erde als Wirkung der Schwerkraft. 36">
+      <Coords points="419,443 419,453 644,460 646,460 720,453 1622,453 1623,437 1620,412 450,410 448,410 447,410 418,418 419,443" />
+      <Word id="l_0010-w_0001" text="Die" error_score="0.002" />
+      <Word id="l_0010-w_0002" text="Anʒiehung" error_score="0.002" />
+      <Word id="l_0010-w_0003" text="des" error_score="0.001" />
+      <Word id="l_0010-w_0004" text="Mondes" error_score="0.001" />
+      <Word id="l_0010-w_0005" text="durch" error_score="0.001" />
+      <Word id="l_0010-w_0006" text="die" error_score="0.001" />
+      <Word id="l_0010-w_0007" text="Erde" error_score="0.001" />
+      <Word id="l_0010-w_0008" text="als" error_score="0.001" />
+      <Word id="l_0010-w_0009" text="Wirkung" error_score="0.001" />
+      <Word id="l_0010-w_0010" text="der" error_score="0.001" />
+      <Word id="l_0010-w_0011" text="Schwerkraft." error_score="0.001" />
+      <Word id="l_0010-w_0012" text="36" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0011" text="3. Die Bewegung der Planeten um die Sonne als Wirkung der Schwerkraft:">
+      <Coords points="376,487 376,498 1560,495 1561,483 1557,457 374,460 376,487" />
+      <Word id="l_0011-w_0001" text="3." error_score="0.000" />
+      <Word id="l_0011-w_0002" text="Die" error_score="0.000" />
+      <Word id="l_0011-w_0003" text="Bewegung" error_score="0.000" />
+      <Word id="l_0011-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0011-w_0005" text="Planeten" error_score="0.000" />
+      <Word id="l_0011-w_0006" text="um" error_score="0.000" />
+      <Word id="l_0011-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0011-w_0008" text="Sonne" error_score="0.000" />
+      <Word id="l_0011-w_0009" text="als" error_score="0.000" />
+      <Word id="l_0011-w_0010" text="Wirkung" error_score="0.000" />
+      <Word id="l_0011-w_0011" text="der" error_score="0.000" />
+      <Word id="l_0011-w_0012" text="Schwerkraft:" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0012" text="das allgemeine Gravitationsgeſetʒ">
+      <Coords points="418,531 418,542 924,539 925,528 922,504 670,496 669,496 667,496 652,504 422,498 421,498 419,498 418,498 418,499 416,499 418,531" />
+      <Word id="l_0012-w_0001" text="das" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="allgemeine" error_score="0.000" />
+      <Word id="l_0012-w_0003" text="Gravitationsgeſetʒ" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text=".">
+      <Coords points="962,528 963,542 972,539 972,528 972,510 962,510 962,528" />
+      <Word id="l_0013-w_0001" text="." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="37">
+      <Coords points="1542,526 1542,536 1616,540 1617,526 1616,498 1542,507 1542,526" />
+      <Word id="l_0014-w_0001" text="37" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="4. Der Nachweis der Maſſenanʒiehung an einʒelnen irdiſchen Körpern; die Be⸗">
+      <Coords points="374,573 374,594 478,585 551,594 552,594 690,584 753,593 755,593 756,593 785,585 948,593 950,593 951,593 953,593 971,582 1256,591 1258,591 1259,591 1300,581 1434,590 1436,590 1438,590 1439,590 1451,581 1522,588 1524,588 1525,588 1563,578 1563,567 1558,543 373,548 374,573" />
+      <Word id="l_0015-w_0001" text="4." error_score="0.000" />
+      <Word id="l_0015-w_0002" text="Der" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="Nachweis" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="der" error_score="0.001" />
+      <Word id="l_0015-w_0005" text="Maſſenanʒiehung" error_score="0.001" />
+      <Word id="l_0015-w_0006" text="an" error_score="0.001" />
+      <Word id="l_0015-w_0007" text="einʒelnen" error_score="0.001" />
+      <Word id="l_0015-w_0008" text="irdiſchen" error_score="0.001" />
+      <Word id="l_0015-w_0009" text="Körpern;" error_score="0.001" />
+      <Word id="l_0015-w_0010" text="die" error_score="0.001" />
+      <Word id="l_0015-w_0011" text="Be⸗" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0016" text="ſtimmung des Gewichtes der Erde. ............ 3ꝰ">
+      <Coords points="419,617 419,634 625,632 626,632 628,632 637,625 646,632 648,632 649,632 651,632 780,631 782,631 783,631 793,623 839,631 841,631 842,631 844,631 854,622 895,631 897,631 898,631 944,619 978,619 992,629 993,629 995,629 996,629 998,629 999,629 1015,619 1025,626 1027,626 1028,626 1030,626 1031,626 1048,619 1061,629 1063,629 1064,629 1066,629 1067,629 1069,629 1083,620 1101,629 1102,629 1104,629 1105,629 1107,629 1119,619 1132,629 1134,629 1135,629 1137,629 1138,629 1140,629 1155,616 1564,616 1579,626 1581,626 1583,626 1584,626 1620,625 1622,610 1617,585 418,590 419,617" />
+      <Word id="l_0016-w_0001" text="ſtimmung" error_score="0.001" />
+      <Word id="l_0016-w_0002" text="des" error_score="0.001" />
+      <Word id="l_0016-w_0003" text="Gewichtes" error_score="0.001" />
+      <Word id="l_0016-w_0004" text="der" error_score="0.004" />
+      <Word id="l_0016-w_0005" text="Erde." error_score="0.004" />
+      <Word id="l_0016-w_0006" text="............" error_score="0.004" />
+      <Word id="l_0016-w_0007" text="3ꝰ" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0017" text="VII. Rückblick und Ausblick.">
+      <Coords points="783,694 783,706 1214,703 1215,691 1212,664 1107,664 1090,655 1089,655 1087,655 1086,655 1084,655 1070,662 868,656 867,656 865,656 844,664 805,656 803,656 802,656 782,664 783,694" />
+      <Word id="l_0017-w_0001" text="VII." error_score="0.004" />
+      <Word id="l_0017-w_0002" text="Rückblick" error_score="0.004" />
+      <Word id="l_0017-w_0003" text="und" error_score="0.004" />
+      <Word id="l_0017-w_0004" text="Ausblick." error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0018" text="1. Die Stellung der Erde im Weltall; die Firſterne. .......... 41">
+      <Coords points="377,750 377,758 573,765 575,765 688,755 723,764 725,764 726,764 827,753 895,762 897,762 1015,755 1138,761 1140,761 1141,761 1164,751 1199,759 1200,759 1202,759 1203,759 1212,750 1232,758 1234,758 1235,758 1237,758 1238,758 1249,750 1323,750 1336,758 1338,758 1339,758 1341,758 1415,748 1619,756 1622,741 1617,717 1161,723 1028,712 1027,712 1025,712 1024,712 1013,720 972,714 971,714 969,714 968,714 956,723 942,714 941,714 939,714 833,714 832,714 830,714 829,714 820,721 793,714 791,714 789,714 788,714 765,723 634,715 632,715 631,715 629,715 617,724 495,717 493,717 492,717 490,717 478,726 424,717 422,717 421,717 419,717 406,727 391,717 389,717 388,717 386,717 385,717 383,717 376,721 377,750" />
+      <Word id="l_0018-w_0001" text="1." error_score="0.004" />
+      <Word id="l_0018-w_0002" text="Die" error_score="0.004" />
+      <Word id="l_0018-w_0003" text="Stellung" error_score="0.002" />
+      <Word id="l_0018-w_0004" text="der" error_score="0.002" />
+      <Word id="l_0018-w_0005" text="Erde" error_score="0.002" />
+      <Word id="l_0018-w_0006" text="im" error_score="0.002" />
+      <Word id="l_0018-w_0007" text="Weltall;" error_score="0.002" />
+      <Word id="l_0018-w_0008" text="die" error_score="0.002" />
+      <Word id="l_0018-w_0009" text="Firſterne." error_score="0.002" />
+      <Word id="l_0018-w_0010" text=".........." error_score="0.002" />
+      <Word id="l_0018-w_0011" text="41" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0019" text="2. Mutmaßungen über die Entſtehung des Sonnenſyſtems. ........ 42">
+      <Coords points="376,782 377,791 377,803 1622,800 1623,783 1619,759 1264,764 1250,756 1249,756 1247,756 1155,756 1154,756 1152,756 1120,764 1043,758 1042,758 1040,758 1025,765 977,758 975,758 974,758 959,765 888,758 886,758 782,767 770,759 768,759 767,759 664,759 663,759 661,759 660,759 648,767 537,761 536,761 534,761 519,768 422,761 421,761 419,761 404,768 386,761 385,761 376,782" />
+      <Word id="l_0019-w_0001" text="2." error_score="0.002" />
+      <Word id="l_0019-w_0002" text="Mutmaßungen" error_score="0.001" />
+      <Word id="l_0019-w_0003" text="über" error_score="0.001" />
+      <Word id="l_0019-w_0004" text="die" error_score="0.001" />
+      <Word id="l_0019-w_0005" text="Entſtehung" error_score="0.001" />
+      <Word id="l_0019-w_0006" text="des" error_score="0.001" />
+      <Word id="l_0019-w_0007" text="Sonnenſyſtems." error_score="0.001" />
+      <Word id="l_0019-w_0008" text="........" error_score="0.001" />
+      <Word id="l_0019-w_0009" text="42" error_score="0.001" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="131,2544 131,2589 126,2589 120,2560 131,2544" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="131,1432 131,1484 126,1484 126,1431 131,1432" />
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="149,1300 155,1538 145,1556 138,1407 149,1300" />
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="149,2151 155,2227 145,2354 145,2150 149,2151" />
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="149,2544 179,2573 155,2607 138,2601 149,2544" />
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="209,2598 209,2601 205,2601 205,2597 209,2598" />
+  </TextRegion>
+</Page>

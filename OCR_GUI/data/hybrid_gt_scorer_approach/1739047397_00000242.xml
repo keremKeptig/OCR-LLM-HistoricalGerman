@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1739047397_00000242.bin.png" imageHeight="2931" imageWidth="1745" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="327,227 369,240 363,278 293,265 327,227" />
+    <TextLine id="l_0001" text="222">
+      <Coords points="363,257 348,237 317,237 314,240 299,255 298,262 298,283 364,283 364,262 364,247 363,257" />
+      <Word id="l_0001-w_0001" text="222" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="863,227 1015,227 1047,258 860,278 840,240 863,227" />
+    <TextLine id="l_0002" text="Die Papst..">
+      <Coords points="1026,257 1010,258 997,234 861,227 847,257 847,260 847,275 1042,275 1042,260 1042,258 1026,257" />
+      <Word id="l_0002-w_0001" text="Die" error_score="1.000" error_type="merge" />
+      <Word id="l_0002-w_0002" text="Papst.." error_score="1.000" error_type="merge" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="811,319 1112,332 1132,376 1060,397 1094,410 1595,423 1595,538 1562,565 1601,612 1614,2447 1055,2466 1060,2519 1034,2532 545,2538 423,2532 408,2486 312,2460 299,586 332,553 306,545 293,442 306,416 832,403 762,382 769,332 811,319" />
+    <TextLine id="l_0003" text="II. Die Päpste.">
+      <Coords points="1112,338 1067,328 1062,328 1010,337 998,327 998,325 997,325 995,325 980,325 964,325 946,325 945,325 943,325 941,325 941,327 928,338 892,325 891,325 889,325 887,325 835,338 782,327 780,327 778,327 775,327 769,333 769,371 769,384 778,390 780,390 782,390 783,390 830,382 967,382 992,390 993,390 995,390 1120,381 1120,371 1120,354 1112,338" />
+      <Word id="l_0003-w_0001" text="II." error_score="0.000" />
+      <Word id="l_0003-w_0002" text="Die" error_score="0.000" />
+      <Word id="l_0003-w_0003" text="Päpste." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0004" text="Die Taten der Päpste bis weit ins 4. Jahrh. hinein bedeckt tiefes Dunkel, auch">
+      <Coords points="1570,421 1554,421 1538,421 1521,420 1505,420 1489,420 1472,420 1456,418 1440,418 1424,418 1407,418 1391,416 1375,416 1358,416 1342,416 1326,415 1309,415 1293,415 1277,413 1261,413 1244,413 1228,413 1212,411 1195,411 1179,411 1163,411 1153,410 783,410 782,410 780,410 760,418 628,411 627,411 625,411 624,411 609,420 314,415 299,424 301,451 301,462 1586,449 1588,438 1585,421 1570,421" />
+      <Word id="l_0004-w_0001" text="Die" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="Taten" error_score="0.000" />
+      <Word id="l_0004-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0004-w_0004" text="Päpste" error_score="0.000" />
+      <Word id="l_0004-w_0005" text="bis" error_score="0.000" />
+      <Word id="l_0004-w_0006" text="weit" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="ins" error_score="0.000" />
+      <Word id="l_0004-w_0008" text="4." error_score="0.000" />
+      <Word id="l_0004-w_0009" text="Jahrh." error_score="0.000" />
+      <Word id="l_0004-w_0010" text="hinein" error_score="0.000" />
+      <Word id="l_0004-w_0011" text="bedeckt" error_score="0.000" />
+      <Word id="l_0004-w_0012" text="tiefes" error_score="0.000" />
+      <Word id="l_0004-w_0013" text="Dunkel," error_score="0.000" />
+      <Word id="l_0004-w_0014" text="auch" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0005" text="haben sie vor Leo I. keine größere geschichtliche Bedeutung; daher beginnt die">
+      <Coords points="303,493 303,506 1591,496 1591,483 1588,460 1163,454 1161,454 721,465 552,459 550,459 511,467 312,460 311,460 309,460 307,460 301,465 303,493" />
+      <Word id="l_0005-w_0001" text="haben" error_score="0.000" />
+      <Word id="l_0005-w_0002" text="sie" error_score="0.000" />
+      <Word id="l_0005-w_0003" text="vor" error_score="0.000" />
+      <Word id="l_0005-w_0004" text="Leo" error_score="0.000" />
+      <Word id="l_0005-w_0005" text="I." error_score="0.000" />
+      <Word id="l_0005-w_0006" text="keine" error_score="0.000" />
+      <Word id="l_0005-w_0007" text="größere" error_score="0.000" />
+      <Word id="l_0005-w_0008" text="geschichtliche" error_score="0.000" />
+      <Word id="l_0005-w_0009" text="Bedeutung;" error_score="0.000" />
+      <Word id="l_0005-w_0010" text="daher" error_score="0.000" />
+      <Word id="l_0005-w_0011" text="beginnt" error_score="0.000" />
+      <Word id="l_0005-w_0012" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0006" text="folgende Zusammenstellung mit diesem Papste.">
+      <Coords points="558,538 558,552 1309,552 1309,550 1311,550 1334,540 1334,529 1329,504 557,512 558,538" />
+      <Word id="l_0006-w_0001" text="folgende" error_score="0.000" />
+      <Word id="l_0006-w_0002" text="Zusammenstellung" error_score="0.000" />
+      <Word id="l_0006-w_0003" text="mit" error_score="0.000" />
+      <Word id="l_0006-w_0004" text="diesem" error_score="0.000" />
+      <Word id="l_0006-w_0005" text="Papste." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0007" text="Leo I. der Große....... 440—461 ( Paul I.. 757— 767">
+      <Coords points="1577,586 1569,578 1529,571 1528,571 1336,582 306,586 307,617 307,628 452,630 454,630 456,630 457,630 469,620 479,628 480,628 482,628 483,630 560,630 560,628 562,628 602,613 757,613 773,625 775,625 777,625 778,625 858,617 891,625 892,625 894,625 896,625 928,612 971,623 972,623 974,623 1086,622 1088,622 1090,622 1104,608 1275,608 1290,620 1292,620 1293,620 1295,620 1296,620 1298,620 1314,610 1332,620 1334,620 1336,620 1337,620 1339,620 1339,618 1350,610 1360,618 1362,618 1363,618 1365,618 1366,618 1384,608 1396,618 1397,618 1399,618 1401,618 1402,618 1419,610 1430,618 1432,618 1433,618 1435,618 1585,612 1585,600 1583,594 1577,586" />
+      <Word id="l_0007-w_0001" text="Leo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0004" text="Große......." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0005" text="440—461" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0006" text="(" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0007" text="Paul" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0008" text="I.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0009" text="757—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0010" text="767" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0008" text="Hilarus. 461 — 468">
+      <Coords points="303,649 303,662 423,664 425,664 426,664 452,649 739,648 765,659 767,659 769,659 923,649 925,641 920,622 301,628 303,649" />
+      <Word id="l_0008-w_0001" text="Hilarus." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0002" text="461" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0003" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0004" text="468" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0009" text="Simplicius 468— 483">
+      <Coords points="303,688 303,698 449,701 451,701 452,701 454,701 454,700 464,690 628,687 687,687 703,698 705,698 707,698 708,698 710,698 734,685 770,696 772,696 773,696 860,688 915,695 917,695 918,695 920,695 920,693 922,693 925,688 925,679 922,659 870,651 868,651 301,665 303,688" />
+      <Word id="l_0009-w_0001" text="Simplicius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0002" text="468—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0003" text="483" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0010" text="Felix III.. 483 — 4ꝰ2">
+      <Coords points="303,724 303,737 459,739 461,739 462,739 464,739 464,737 475,726 523,722 742,721 770,734 772,734 773,734 922,727 923,714 920,695 884,687 883,687 301,701 303,724" />
+      <Word id="l_0010-w_0001" text="Felix" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0002" text="III.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0003" text="483" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0005" text="4ꝰ2" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0011" text="Gelasius I. 4ꝰ2 —4ꝰ6">
+      <Coords points="303,762 303,768 387,776 389,776 467,775 469,775 470,775 487,762 922,762 925,750 920,731 387,732 301,740 303,762" />
+      <Word id="l_0011-w_0001" text="Gelasius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0011-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0011-w_0003" text="4ꝰ2" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0011-w_0004" text="—4ꝰ6" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0012" text="Anastasius II. 4ꝰ6 — 4ꝰ8">
+      <Coords points="304,797 304,810 506,812 508,812 509,812 511,812 511,810 523,797 757,796 770,806 770,807 772,807 773,807 775,807 923,799 925,788 920,766 303,776 304,797" />
+      <Word id="l_0012-w_0001" text="Anastasius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0003" text="4ꝰ6" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0005" text="4ꝰ8" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0013" text="Symmachus 4ꝰ8—514">
+      <Coords points="306,833 306,846 472,848 474,848 475,848 477,848 477,846 490,833 698,832 759,832 770,843 770,845 772,845 773,845 775,845 827,836 914,843 915,843 917,843 918,843 918,841 920,841 927,833 927,825 922,806 304,810 306,833" />
+      <Word id="l_0013-w_0001" text="Symmachus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0013-w_0002" text="4ꝰ8—514" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0014" text="Hormisdas. 514-523">
+      <Coords points="304,871 304,880 461,884 462,884 464,884 488,871 733,867 767,879 769,879 770,879 923,872 925,861 920,840 303,849 304,871" />
+      <Word id="l_0014-w_0001" text="Hormisdas." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0014-w_0002" text="514-523" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0015" text="Johannes I. 523- 526">
+      <Coords points="304,908 304,924 444,915 472,921 474,921 475,921 477,921 479,921 479,920 490,908 523,906 744,905 767,916 769,916 770,916 925,908 927,898 922,876 303,885 304,908" />
+      <Word id="l_0015-w_0001" text="Johannes" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0015-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0015-w_0003" text="523-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0015-w_0004" text="526" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0016" text="Felix IV 526 - 530">
+      <Coords points="304,944 304,955 405,959 407,959 408,959 439,944 523,942 744,941 764,952 765,952 767,952 769,952 925,944 927,934 923,915 405,913 404,913 303,923 304,944" />
+      <Word id="l_0016-w_0001" text="Felix" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0002" text="IV" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0003" text="526" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0004" text="-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0005" text="530" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0017" text="Bonifazius II......... 530 —532">
+      <Coords points="306,981 306,993 925,983 927,972 922,949 304,957 306,981" />
+      <Word id="l_0017-w_0001" text="Bonifazius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0002" text="II........." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0003" text="530" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0004" text="—532" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0018" text="Johann II. 532 —535">
+      <Coords points="306,1019 306,1035 408,1033 410,1033 412,1033 421,1025 462,1032 464,1032 465,1032 467,1032 467,1030 477,1020 524,1019 583,1019 593,1029 593,1030 594,1030 596,1030 597,1030 599,1030 630,1016 747,1016 767,1027 769,1027 770,1027 772,1027 927,1019 928,1009 923,983 304,996 306,1019" />
+      <Word id="l_0018-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0003" text="532" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0004" text="—535" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0019" text="Agapitus I. 535 — 536">
+      <Coords points="307,1056 307,1066 474,1071 475,1071 477,1071 479,1071 479,1069 492,1055 669,1053 759,1053 770,1063 770,1064 772,1064 773,1064 775,1064 863,1056 918,1063 920,1063 922,1063 923,1063 923,1061 925,1061 928,1056 928,1045 925,1024 773,1019 772,1019 770,1019 746,1029 482,1032 394,1025 392,1025 306,1035 307,1056" />
+      <Word id="l_0019-w_0001" text="Agapitus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0003" text="535" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0005" text="536" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0020" text="Silverius 536 — 537">
+      <Coords points="306,1092 306,1102 407,1107 408,1107 410,1107 457,1092 632,1090 690,1090 707,1102 708,1102 710,1102 712,1102 713,1102 738,1089 770,1100 772,1100 773,1100 917,1099 918,1099 920,1099 920,1097 922,1097 927,1090 927,1082 922,1058 378,1069 311,1063 309,1063 307,1063 306,1063 306,1064 304,1064 306,1092" />
+      <Word id="l_0020-w_0001" text="Silverius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0020-w_0002" text="536" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0020-w_0003" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0020-w_0004" text="537" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0021" text="Vigilius.... 537 —6555">
+      <Coords points="309,1130 309,1136 317,1144 319,1144 320,1144 322,1146 412,1146 412,1144 413,1144 415,1144 435,1131 514,1131 534,1141 536,1141 537,1141 539,1141 540,1141 540,1139 550,1131 584,1131 602,1141 604,1141 606,1141 607,1141 609,1141 610,1141 610,1139 622,1130 656,1130 666,1138 666,1139 668,1139 669,1139 671,1139 672,1139 692,1130 708,1139 710,1139 712,1139 713,1139 715,1139 716,1139 716,1138 718,1138 726,1128 817,1138 819,1138 821,1138 822,1138 822,1136 824,1136 830,1128 918,1136 920,1136 922,1136 923,1136 923,1134 925,1134 930,1128 930,1120 925,1099 307,1102 309,1130" />
+      <Word id="l_0021-w_0001" text="Vigilius...." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0002" text="537" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0003" text="—6555" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0022" text="Pelagius I......... 555 —560">
+      <Coords points="307,1164 307,1178 457,1180 459,1180 461,1180 462,1180 477,1170 568,1178 570,1178 571,1178 612,1169 630,1177 632,1177 633,1177 635,1177 637,1177 650,1169 668,1177 669,1177 671,1177 672,1177 674,1177 682,1169 702,1177 703,1177 705,1177 707,1177 708,1177 721,1169 816,1175 817,1175 819,1175 821,1175 830,1167 915,1175 917,1175 918,1175 920,1175 920,1174 922,1174 928,1165 928,1154 923,1133 306,1138 307,1164" />
+      <Word id="l_0022-w_0001" text="Pelagius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0002" text="I........." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0003" text="555" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0004" text="—560" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0023" text="Johann III. 560 — 573">
+      <Coords points="307,1203 307,1219 408,1217 410,1217 412,1217 423,1209 477,1216 479,1216 480,1216 482,1216 482,1214 493,1203 526,1201 677,1201 703,1213 705,1213 707,1213 708,1213 738,1200 770,1211 772,1211 773,1211 927,1201 928,1193 923,1170 306,1180 307,1203" />
+      <Word id="l_0023-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0002" text="III." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0003" text="560" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0005" text="573" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0024" text="Sedisvakanz (papstlose Zeit). 573 —574">
+      <Coords points="307,1239 307,1248 720,1252 721,1252 723,1252 725,1252 725,1250 733,1244 917,1248 918,1248 920,1248 922,1248 930,1240 930,1229 927,1208 513,1204 511,1204 509,1204 493,1213 415,1206 413,1206 412,1206 410,1206 410,1208 402,1214 320,1208 319,1208 317,1208 316,1208 306,1213 307,1239" />
+      <Word id="l_0024-w_0001" text="Sedisvakanz" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0002" text="(papstlose" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0003" text="Zeit)." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0004" text="573" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0005" text="—574" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0025" text="Benedikt I. 574 578">
+      <Coords points="307,1276 307,1286 475,1289 477,1289 479,1289 480,1289 480,1288 492,1274 666,1273 757,1273 767,1281 767,1283 769,1283 770,1283 772,1283 927,1276 928,1265 923,1244 306,1252 307,1276" />
+      <Word id="l_0025-w_0001" text="Benedikt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0003" text="574" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0004" text="578" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0026" text="Pelagius II. 578— 5ꝰ0">
+      <Coords points="307,1312 307,1323 407,1328 408,1328 410,1328 438,1318 477,1327 479,1327 480,1327 482,1327 482,1325 495,1312 738,1309 772,1322 773,1322 775,1323 822,1323 822,1322 824,1322 826,1322 826,1320 827,1320 832,1314 917,1320 918,1320 920,1320 922,1320 922,1318 930,1310 930,1302 927,1283 824,1274 822,1274 306,1289 307,1312" />
+      <Word id="l_0026-w_0001" text="Pelagius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0003" text="578—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0004" text="5ꝰ0" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0027" text="Gregor I. der Große. .. . 5ꝰ0 —604">
+      <Coords points="307,1348 307,1356 392,1366 394,1366 395,1366 420,1354 451,1364 452,1364 454,1364 518,1353 571,1362 573,1362 663,1348 760,1348 770,1356 770,1358 772,1358 773,1358 775,1358 928,1348 930,1336 927,1317 483,1315 482,1315 386,1325 316,1318 314,1318 312,1318 311,1318 311,1320 306,1323 307,1348" />
+      <Word id="l_0027-w_0001" text="Gregor" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0004" text="Große." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0005" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0006" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0007" text="5ꝰ0" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0008" text="—604" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0028" text="Sabinianus........ 604 — 606">
+      <Coords points="309,1385 309,1395 465,1398 467,1398 469,1398 470,1398 470,1397 480,1387 586,1387 604,1397 606,1397 607,1397 609,1397 610,1397 612,1397 612,1395 624,1385 692,1385 708,1395 710,1395 712,1395 713,1395 715,1395 716,1395 716,1393 718,1393 726,1384 760,1384 772,1393 773,1393 775,1393 777,1393 922,1392 923,1392 925,1392 925,1390 927,1390 931,1384 931,1375 928,1356 873,1348 871,1348 307,1362 309,1385" />
+      <Word id="l_0028-w_0001" text="Sabinianus........" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0002" text="604" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0003" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0004" text="606" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0029" text="Sedisvakanz 606 -607">
+      <Coords points="309,1419 309,1431 480,1434 482,1434 483,1434 485,1434 485,1432 498,1419 703,1418 760,1418 772,1429 772,1431 773,1431 775,1431 777,1431 832,1423 915,1429 917,1429 918,1429 920,1429 920,1428 922,1428 928,1419 928,1411 923,1387 307,1398 309,1419" />
+      <Word id="l_0029-w_0001" text="Sedisvakanz" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0002" text="606" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0003" text="-607" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0030" text="Bonifazius III.. 607">
+      <Coords points="312,1457 312,1473 464,1465 534,1472 536,1472 537,1472 568,1458 821,1463 824,1450 819,1423 311,1429 312,1457" />
+      <Word id="l_0030-w_0001" text="Bonifazius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0002" text="III.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0003" text="607" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0031" text="Bonifazius IV.. 608 — 615">
+      <Coords points="307,1496 307,1504 513,1509 514,1509 516,1509 549,1496 656,1496 672,1506 674,1506 676,1506 677,1507 677,1506 679,1506 681,1506 695,1496 708,1506 710,1506 712,1506 713,1506 715,1506 716,1506 716,1504 718,1504 726,1494 822,1504 824,1504 826,1504 858,1493 868,1501 868,1502 870,1502 871,1502 873,1504 920,1504 920,1502 922,1502 923,1502 923,1501 933,1491 933,1486 930,1465 873,1457 871,1457 870,1457 868,1457 868,1458 860,1465 778,1458 777,1458 718,1470 526,1470 516,1462 514,1462 513,1462 511,1462 465,1472 430,1463 428,1463 426,1463 425,1463 404,1472 306,1472 307,1496" />
+      <Word id="l_0031-w_0001" text="Bonifazius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0002" text="IV.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0003" text="608" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0005" text="615" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0032" text="Deusdedit I. 615—618">
+      <Coords points="309,1532 309,1540 496,1546 498,1546 500,1546 529,1530 739,1529 775,1542 777,1542 778,1542 855,1532 922,1540 923,1540 925,1540 927,1540 927,1538 928,1538 933,1532 933,1522 930,1502 874,1494 873,1494 307,1507 309,1532" />
+      <Word id="l_0032-w_0001" text="Deusdedit" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0003" text="615—618" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0033" text="Bonifazius V...... .. 61ꝰ— 625">
+      <Coords points="309,1569 309,1579 930,1568 931,1559 927,1535 514,1545 506,1538 506,1537 505,1537 503,1537 501,1537 461,1545 420,1537 418,1537 417,1537 415,1537 405,1545 397,1538 395,1538 394,1538 314,1538 312,1538 311,1538 309,1538 309,1540 307,1540 309,1569" />
+      <Word id="l_0033-w_0001" text="Bonifazius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0033-w_0002" text="V......" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0033-w_0003" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0033-w_0004" text="61ꝰ—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0033-w_0005" text="625" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0034" text="Honorius I.......... 625 —638">
+      <Coords points="309,1605 309,1615 930,1605 931,1595 927,1572 307,1582 309,1605" />
+      <Word id="l_0034-w_0001" text="Honorius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0034-w_0002" text="I.........." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0034-w_0003" text="625" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0034-w_0004" text="—638" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0035" text="Severinus 638 —640">
+      <Coords points="309,1641 309,1651 431,1656 433,1656 435,1656 462,1641 703,1639 762,1639 772,1649 772,1651 773,1651 775,1651 777,1651 923,1649 925,1649 927,1649 927,1647 928,1647 933,1641 933,1633 928,1612 307,1620 309,1641" />
+      <Word id="l_0035-w_0001" text="Severinus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0035-w_0002" text="638" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0035-w_0003" text="—640" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0036" text="Johann IV. 640 — 642">
+      <Coords points="309,1680 309,1695 423,1686 479,1693 480,1693 482,1693 483,1693 483,1691 495,1680 931,1680 931,1669 927,1647 307,1657 309,1680" />
+      <Word id="l_0036-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0036-w_0002" text="IV." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0036-w_0003" text="640" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0036-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0036-w_0005" text="642" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0037" text="Theodorus. 642 —64ꝰ">
+      <Coords points="312,1716 312,1722 412,1730 413,1730 527,1714 751,1713 773,1724 775,1724 777,1724 930,1714 931,1706 927,1683 311,1691 312,1716" />
+      <Word id="l_0037-w_0001" text="Theodorus." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0037-w_0002" text="642" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0037-w_0003" text="—64ꝰ" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0038" text="Martin I......... 64ꝰ — 653">
+      <Coords points="311,1752 311,1761 933,1752 933,1742 928,1719 309,1727 311,1752" />
+      <Word id="l_0038-w_0001" text="Martin" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0038-w_0002" text="I........." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0038-w_0003" text="64ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0038-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0038-w_0005" text="653" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0039" text="Eugenius I. 654 —657">
+      <Coords points="312,1789 312,1799 443,1804 444,1804 446,1804 448,1804 448,1802 454,1797 461,1804 462,1804 464,1804 465,1804 467,1804 496,1787 705,1784 762,1784 773,1796 775,1796 777,1796 778,1796 922,1794 923,1794 925,1794 925,1792 931,1786 931,1776 927,1753 311,1761 312,1789" />
+      <Word id="l_0039-w_0001" text="Eugenius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0039-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0039-w_0003" text="654" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0039-w_0004" text="—657" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0040" text="Vitalianus. 657—672">
+      <Coords points="317,1823 317,1831 436,1838 438,1838 496,1823 707,1822 764,1822 773,1831 773,1833 775,1833 777,1833 778,1833 834,1823 927,1830 930,1815 925,1787 316,1797 317,1823" />
+      <Word id="l_0040-w_0001" text="Vitalianus." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0002" text="657—672" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0041" text="Deusdedit II........ 672-676">
+      <Coords points="311,1861 311,1870 933,1861 935,1851 930,1825 309,1836 311,1861" />
+      <Word id="l_0041-w_0001" text="Deusdedit" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0041-w_0002" text="II........" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0041-w_0003" text="672-676" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0042" text="Donus 676—678">
+      <Coords points="314,1898 314,1910 408,1911 410,1911 412,1911 413,1911 413,1910 425,1898 575,1898 597,1908 599,1908 601,1908 602,1908 637,1897 707,1906 708,1906 710,1906 742,1895 773,1905 775,1905 777,1905 933,1898 935,1888 930,1864 312,1872 314,1898" />
+      <Word id="l_0042-w_0001" text="Donus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0042-w_0002" text="676—678" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0043" text="Agathon 678-681">
+      <Coords points="314,1934 314,1945 415,1949 417,1949 418,1949 461,1934 532,1932 754,1931 777,1942 778,1942 780,1942 935,1934 936,1924 931,1905 312,1913 314,1934" />
+      <Word id="l_0043-w_0001" text="Agathon" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0002" text="678-681" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0044" text="Leo II.. 682 —683">
+      <Coords points="314,1971 314,1984 439,1984 439,1983 496,1971 935,1971 936,1960 931,1939 312,1945 314,1971" />
+      <Word id="l_0044-w_0001" text="Leo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0044-w_0002" text="II.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0044-w_0003" text="682" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0044-w_0004" text="—683" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0045" text="Benedikt II. 684 — 685">
+      <Coords points="314,2007 314,2019 495,2020 496,2020 498,2020 531,2006 754,2004 777,2015 778,2015 780,2015 936,2006 938,1997 933,1976 312,1983 314,2007" />
+      <Word id="l_0045-w_0001" text="Benedikt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0045-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0045-w_0003" text="684" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0045-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0045-w_0005" text="685" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0046" text="Johannes V. 685 — 686">
+      <Coords points="314,2045 314,2059 746,2041 778,2053 780,2053 782,2053 842,2045 927,2051 928,2051 930,2051 931,2051 931,2050 933,2050 938,2043 938,2035 933,2012 312,2022 314,2045" />
+      <Word id="l_0046-w_0001" text="Johannes" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0002" text="V." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0003" text="685" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0005" text="686" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0047" text="Konon. .. .. .. .. . 686 —687">
+      <Coords points="314,2077 314,2092 935,2079 936,2071 931,2045 679,2056 312,2056 314,2077" />
+      <Word id="l_0047-w_0001" text="Konon." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0003" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0004" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0005" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0006" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0007" text="686" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0008" text="—687" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0048" text="Sergius I. 687 — 701">
+      <Coords points="314,2116 314,2129 435,2133 436,2133 438,2133 472,2118 570,2115 752,2115 778,2128 780,2128 782,2128 824,2126 826,2126 827,2126 827,2124 837,2116 879,2126 881,2126 936,2118 938,2108 935,2089 436,2085 435,2085 433,2085 431,2085 431,2087 430,2087 425,2094 319,2087 317,2087 316,2087 314,2087 314,2089 312,2089 314,2116" />
+      <Word id="l_0048-w_0001" text="Sergius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0048-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0048-w_0003" text="687" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0048-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0048-w_0005" text="701" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0049" text="Johann VI. 701 —705">
+      <Coords points="314,2155 314,2172 421,2168 423,2168 425,2168 425,2167 426,2167 431,2160 477,2168 479,2168 480,2168 482,2168 501,2155 936,2155 938,2144 933,2118 312,2133 314,2155" />
+      <Word id="l_0049-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0049-w_0002" text="VI." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0049-w_0003" text="701" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0049-w_0004" text="—705" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0050" text="Johann VII. 705 —707">
+      <Coords points="314,2193 314,2208 421,2206 423,2206 425,2206 425,2204 433,2198 488,2206 490,2206 492,2206 493,2206 493,2204 505,2191 760,2188 785,2199 786,2199 788,2201 834,2201 834,2199 928,2198 930,2198 931,2198 931,2196 933,2196 936,2191 936,2181 931,2155 576,2167 430,2160 428,2160 368,2170 325,2162 324,2162 322,2162 320,2162 312,2168 314,2193" />
+      <Word id="l_0050-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0002" text="VII." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0003" text="705" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0004" text="—707" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0051" text="Sisinnius...... 708">
+      <Coords points="320,2227 320,2242 444,2240 446,2240 448,2240 464,2229 834,2234 837,2221 832,2194 319,2203 320,2227" />
+      <Word id="l_0051-w_0001" text="Sisinnius......" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0051-w_0002" text="708" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0052" text="Konstantin I. 708— 715">
+      <Coords points="316,2265 316,2273 320,2278 320,2279 322,2279 324,2279 417,2281 418,2281 485,2273 513,2279 514,2279 516,2279 518,2279 519,2279 519,2278 531,2265 769,2263 780,2273 780,2274 782,2274 783,2274 785,2276 832,2276 832,2274 834,2274 874,2265 928,2273 930,2273 931,2273 933,2273 933,2271 935,2271 940,2265 940,2255 935,2230 314,2240 316,2265" />
+      <Word id="l_0052-w_0001" text="Konstantin" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0052-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0052-w_0003" text="708—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0052-w_0004" text="715" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0053" text="Gregor II. 715 —731">
+      <Coords points="322,2300 322,2315 475,2315 475,2313 477,2313 479,2313 479,2312 488,2302 573,2300 933,2305 936,2292 931,2269 320,2274 322,2300" />
+      <Word id="l_0053-w_0001" text="Gregor" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0053-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0053-w_0003" text="715" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0053-w_0004" text="—731" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0054" text="Gregor III. 731 -741">
+      <Coords points="316,2336 316,2344 320,2349 320,2351 322,2351 324,2351 325,2352 439,2352 439,2351 487,2349 488,2349 490,2349 490,2348 503,2336 759,2335 783,2346 785,2346 786,2346 941,2336 941,2328 938,2308 439,2305 438,2305 436,2305 435,2305 435,2307 426,2313 325,2307 324,2307 322,2307 320,2307 314,2310 316,2336" />
+      <Word id="l_0054-w_0001" text="Gregor" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0054-w_0002" text="III." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0054-w_0003" text="731" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0054-w_0004" text="-741" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0055" text="Zacharias... .. .. .. 741 -752">
+      <Coords points="316,2375 316,2383 940,2374 940,2365 935,2343 314,2352 316,2375" />
+      <Word id="l_0055-w_0001" text="Zacharias..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0003" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0004" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0005" text="741" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0006" text="-752" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0056" text="Stephan II. 752">
+      <Coords points="317,2409 317,2419 485,2424 487,2424 488,2424 490,2424 490,2422 503,2409 578,2409 837,2418 840,2403 835,2378 316,2388 317,2409" />
+      <Word id="l_0056-w_0001" text="Stephan" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0056-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0056-w_0003" text="752" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0057" text="Konstantin II. 767— 768">
+      <Coords points="966,641 966,654 1124,657 1125,657 1127,657 1129,657 1137,649 1169,657 1171,657 1173,657 1174,657 1176,657 1176,656 1191,643 1422,643 1433,652 1433,654 1435,654 1437,654 1438,654 1590,646 1591,636 1588,617 1435,608 1433,608 1378,617 1173,610 1171,610 964,618 966,641" />
+      <Word id="l_0057-w_0001" text="Konstantin" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0057-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0057-w_0003" text="767—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0057-w_0004" text="768" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0058" text="Stephan IV. 768 —772">
+      <Coords points="966,679 966,690 1590,685 1591,674 1586,652 964,656 966,679" />
+      <Word id="l_0058-w_0001" text="Stephan" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0002" text="IV." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0003" text="768" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0004" text="—772" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0059" text="Hadrian I......... 772 — 7ꝰ5">
+      <Coords points="967,716 967,726 1119,731 1120,731 1122,731 1124,731 1138,721 1148,729 1150,729 1151,729 1153,729 1155,729 1176,719 1191,729 1192,729 1194,729 1195,729 1197,729 1199,729 1199,727 1208,719 1244,719 1262,729 1264,729 1265,729 1267,729 1269,729 1270,729 1270,727 1272,727 1280,718 1586,724 1590,709 1585,685 966,693 967,716" />
+      <Word id="l_0059-w_0001" text="Hadrian" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0002" text="I........." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0003" text="772" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0005" text="7ꝰ5" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0060" text="Leo III. 7ꝰ6 — 816">
+      <Coords points="967,753 967,763 1591,755 1593,747 1590,727 1435,719 1433,719 1432,719 1430,719 1430,721 1422,729 966,729 967,753" />
+      <Word id="l_0060-w_0001" text="Leo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0060-w_0002" text="III." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0060-w_0003" text="7ꝰ6" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0060-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0060-w_0005" text="816" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0061" text="Stephan III. 752 —757">
+      <Coords points="317,2449 317,2458 967,2458 967,2440 964,2421 878,2411 876,2411 874,2411 843,2421 780,2413 778,2413 777,2413 775,2413 765,2422 584,2424 456,2416 454,2416 452,2416 451,2416 439,2426 327,2418 325,2418 324,2418 322,2418 316,2422 317,2449" />
+      <Word id="l_0061-w_0001" text="Stephan" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0061-w_0002" text="III." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0061-w_0003" text="752" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0061-w_0004" text="—757" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0062" text="Stephan V....... . 816 — 817">
+      <Coords points="971,789 971,796 1091,804 1093,804 1094,804 1111,796 1138,804 1140,804 1142,804 1143,804 1176,794 1249,794 1257,801 1257,802 1259,802 1261,802 1262,802 1264,802 1265,802 1279,794 1295,802 1296,802 1298,802 1300,802 1301,802 1313,794 1329,802 1331,802 1332,802 1334,802 1350,794 1371,802 1373,802 1375,802 1376,802 1378,802 1378,801 1380,801 1386,792 1401,801 1402,801 1404,801 1406,801 1420,792 1432,801 1433,801 1435,801 1437,801 1588,792 1590,784 1585,758 1173,766 975,760 974,760 972,760 971,760 971,762 969,762 971,789" />
+      <Word id="l_0062-w_0001" text="Stephan" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0062-w_0002" text="V......." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0062-w_0003" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0062-w_0004" text="816" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0062-w_0005" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0062-w_0006" text="817" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0063" text="Paschalis I. 817— 824">
+      <Coords points="969,825 969,835 1122,840 1124,840 1125,840 1153,825 1296,825 1412,825 1435,835 1437,835 1438,835 1591,830 1591,819 1586,797 967,801 969,825" />
+      <Word id="l_0063-w_0001" text="Paschalis" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0063-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0063-w_0003" text="817—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0063-w_0004" text="824" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0064" text="Eugenius II. 824 —827">
+      <Coords points="972,861 972,876 1153,877 1155,877 1156,877 1189,863 1424,863 1435,872 1435,874 1437,874 1438,874 1440,874 1588,866 1590,856 1585,830 971,835 972,861" />
+      <Word id="l_0064-w_0001" text="Eugenius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0064-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0064-w_0003" text="824" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0064-w_0004" text="—827" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0065" text="Valentin I. ........ 827">
+      <Coords points="972,898 972,905 1000,915 1002,915 1003,916 1094,916 1094,915 1096,915 1098,915 1098,913 1106,906 1130,915 1132,915 1134,915 1135,915 1137,915 1137,913 1138,913 1147,903 1177,903 1187,911 1187,913 1189,913 1191,913 1192,913 1194,913 1195,913 1210,903 1248,903 1257,911 1257,913 1259,913 1261,913 1262,913 1264,913 1265,913 1280,903 1303,913 1305,913 1306,913 1308,913 1309,913 1309,911 1311,911 1318,903 1331,911 1332,911 1334,911 1336,911 1337,911 1339,911 1352,902 1365,911 1366,911 1368,911 1370,911 1371,911 1373,911 1386,902 1401,911 1402,911 1404,911 1406,911 1407,911 1409,911 1422,902 1435,911 1437,911 1438,911 1440,911 1487,908 1489,893 1484,866 971,872 972,898" />
+      <Word id="l_0065-w_0001" text="Valentin" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0065-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0065-w_0003" text="........" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0065-w_0004" text="827" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0066" text="Gregor IV....... 827 — 844">
+      <Coords points="971,936 971,942 979,950 980,950 982,950 1049,952 1050,952 1052,952 1085,942 1163,950 1164,950 1166,950 1168,950 1168,949 1177,939 1197,950 1199,950 1200,950 1202,950 1204,950 1223,937 1283,937 1295,947 1295,949 1296,949 1298,949 1300,949 1301,949 1303,949 1321,937 1340,949 1342,949 1344,949 1345,949 1347,949 1347,947 1358,936 1422,936 1433,946 1433,947 1435,947 1437,947 1438,947 1494,939 1586,946 1588,946 1590,946 1591,946 1591,944 1593,944 1596,939 1596,928 1593,908 1094,905 1093,905 1091,905 1090,905 1078,913 975,906 974,906 972,906 971,906 971,908 969,908 971,936" />
+      <Word id="l_0066-w_0001" text="Gregor" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0066-w_0002" text="IV......." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0066-w_0003" text="827" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0066-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0066-w_0005" text="844" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0067" text="Sergius II. 844— 847">
+      <Coords points="971,972 971,981 1591,973 1593,965 1588,941 969,949 971,972" />
+      <Word id="l_0067-w_0001" text="Sergius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0067-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0067-w_0003" text="844—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0067-w_0004" text="847" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0068" text="Leo IV. 847 —855">
+      <Coords points="971,1009 971,1019 1593,1012 1595,1003 1590,980 969,985 971,1009" />
+      <Word id="l_0068-w_0001" text="Leo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0068-w_0002" text="IV." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0068-w_0003" text="847" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0068-w_0004" text="—855" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0069" text="Benedilt III........ 855 — 858">
+      <Coords points="971,1045 971,1056 1164,1061 1166,1061 1168,1061 1169,1061 1169,1060 1181,1050 1319,1050 1334,1060 1336,1060 1337,1060 1339,1060 1340,1060 1342,1060 1357,1050 1370,1060 1371,1060 1373,1060 1375,1060 1376,1060 1378,1060 1378,1058 1380,1058 1386,1050 1401,1058 1402,1058 1404,1058 1406,1058 1407,1058 1425,1048 1433,1056 1433,1058 1435,1058 1437,1058 1438,1060 1583,1060 1583,1058 1585,1058 1586,1058 1586,1056 1595,1048 1595,1040 1591,1019 1437,1011 1435,1011 1381,1022 969,1022 971,1045" />
+      <Word id="l_0069-w_0001" text="Benedilt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0069-w_0002" text="III........" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0069-w_0003" text="855" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0069-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0069-w_0005" text="858" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0070" text="Nikolaus I. 858— 867">
+      <Coords points="974,1082 974,1094 1140,1095 1142,1095 1143,1095 1145,1095 1145,1094 1156,1082 1342,1081 1422,1081 1432,1090 1432,1092 1433,1092 1435,1092 1437,1092 1588,1087 1590,1074 1585,1048 972,1056 974,1082" />
+      <Word id="l_0070-w_0001" text="Nikolaus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0003" text="858—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0004" text="867" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0071" text="Hadrian II.. 867 —872">
+      <Coords points="972,1120 972,1128 1054,1136 1055,1136 1101,1128 1164,1134 1166,1134 1168,1134 1169,1134 1169,1133 1179,1125 1195,1134 1197,1134 1199,1134 1200,1134 1202,1134 1204,1134 1223,1121 1319,1121 1331,1131 1331,1133 1332,1133 1334,1133 1336,1133 1337,1133 1339,1133 1357,1120 1422,1120 1433,1130 1433,1131 1435,1131 1437,1131 1438,1131 1593,1123 1595,1112 1591,1092 1468,1082 1466,1082 1464,1082 1430,1094 1148,1095 1109,1087 1107,1087 1106,1087 1104,1087 1091,1097 1060,1089 1059,1089 1057,1089 971,1095 972,1120" />
+      <Word id="l_0071-w_0001" text="Hadrian" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0071-w_0002" text="II.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0071-w_0003" text="867" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0071-w_0004" text="—872" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0072" text="Johann VIII... 872 882">
+      <Coords points="971,1156 971,1174 1075,1172 1076,1172 1078,1172 1078,1170 1088,1162 1101,1172 1103,1172 1104,1172 1106,1172 1164,1170 1166,1170 1168,1170 1168,1169 1179,1159 1251,1159 1262,1169 1262,1170 1264,1170 1265,1170 1267,1170 1269,1170 1270,1170 1287,1157 1591,1162 1595,1149 1591,1128 1441,1120 1440,1120 1438,1120 1437,1120 1437,1121 1435,1121 1428,1131 1166,1131 1125,1123 1124,1123 1122,1123 1083,1133 977,1125 975,1125 974,1125 972,1125 972,1126 971,1126 969,1126 971,1156" />
+      <Word id="l_0072-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0002" text="VIII..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0003" text="872" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0004" text="882" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0073" text="Marinus I. ‟ 882-—884">
+      <Coords points="971,1191 971,1203 1086,1208 1088,1208 1090,1208 1091,1208 1091,1206 1093,1206 1099,1198 1124,1206 1125,1206 1127,1206 1129,1206 1156,1191 1368,1190 1422,1190 1433,1201 1433,1203 1435,1203 1437,1203 1438,1203 1593,1198 1595,1183 1590,1164 969,1170 971,1191" />
+      <Word id="l_0073-w_0001" text="Marinus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0002" text="I." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0003" text="‟" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0004" text="882-—884" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0074" text="Hadrian III....... 884 —885">
+      <Coords points="971,1227 971,1237 1593,1231 1593,1221 1590,1201 1124,1196 1122,1196 1120,1196 1099,1204 975,1198 974,1198 972,1198 971,1198 971,1200 969,1200 971,1227" />
+      <Word id="l_0074-w_0001" text="Hadrian" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0002" text="III......." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0003" text="884" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0004" text="—885" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0075" text="Stephan VI. 885 — 8ꝰ1">
+      <Coords points="971,1265 971,1278 1088,1281 1090,1281 1091,1281 1093,1281 1106,1271 1117,1279 1117,1281 1119,1281 1120,1281 1122,1281 1156,1279 1158,1279 1160,1279 1160,1278 1171,1266 1296,1265 1410,1265 1433,1276 1435,1276 1437,1276 1494,1268 1585,1273 1588,1258 1585,1239 1437,1231 1435,1231 1433,1231 1432,1231 1432,1232 1430,1232 1425,1239 1122,1234 1120,1234 1119,1234 1098,1244 969,1244 971,1265" />
+      <Word id="l_0075-w_0001" text="Stephan" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0075-w_0002" text="VI." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0075-w_0003" text="885" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0075-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0075-w_0005" text="8ꝰ1" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0076" text="Formosus. 8ꝰ1 — 8ꝰ6">
+      <Coords points="971,1302 971,1314 1590,1305 1591,1296 1586,1273 969,1278 971,1302" />
+      <Word id="l_0076-w_0001" text="Formosus." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0002" text="8ꝰ1" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0003" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0004" text="8ꝰ6" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0077" text="Bonifazius VI. 8ꝰ6">
+      <Coords points="971,1338 971,1348 1098,1354 1099,1354 1101,1354 1134,1341 1143,1351 1143,1353 1145,1353 1147,1353 1148,1354 1181,1354 1181,1353 1182,1353 1184,1353 1184,1351 1195,1340 1365,1338 1393,1338 1404,1348 1404,1349 1406,1349 1407,1349 1409,1349 1410,1349 1412,1349 1425,1340 1435,1349 1437,1349 1438,1349 1440,1349 1495,1345 1497,1331 1492,1307 969,1314 971,1338" />
+      <Word id="l_0077-w_0001" text="Bonifazius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0002" text="VI." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0003" text="8ꝰ6" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0078" text="Stephan VII. 8ꝰ6 — 8ꝰ7">
+      <Coords points="971,1374 971,1384 1090,1390 1091,1390 1093,1390 1094,1390 1107,1380 1119,1388 1119,1390 1120,1390 1122,1390 1124,1390 1171,1388 1173,1388 1174,1388 1195,1374 1414,1374 1437,1385 1438,1385 1440,1387 1582,1387 1582,1385 1583,1385 1585,1385 1585,1384 1586,1384 1591,1377 1591,1367 1588,1345 975,1345 974,1345 972,1345 971,1345 971,1346 969,1346 971,1374" />
+      <Word id="l_0078-w_0001" text="Stephan" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0002" text="VII." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0003" text="8ꝰ6" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0005" text="8ꝰ7" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0079" text="Romanus 8ꝰ7">
+      <Coords points="971,1411 971,1419 1072,1424 1073,1424 1075,1424 1120,1411 1296,1410 1490,1415 1492,1403 1487,1379 969,1387 971,1411" />
+      <Word id="l_0079-w_0001" text="Romanus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0079-w_0002" text="8ꝰ7" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0080" text="Theodor II.. 8ꝰ7">
+      <Coords points="979,1449 979,1460 1078,1463 1080,1463 1081,1463 1106,1454 1163,1462 1164,1462 1166,1462 1168,1462 1191,1447 1296,1447 1487,1457 1490,1441 1485,1413 977,1419 979,1449" />
+      <Word id="l_0080-w_0001" text="Theodor" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0002" text="II.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0003" text="8ꝰ7" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0081" text="Johann IX.. 8ꝰ8 — ꝰ00">
+      <Coords points="972,1486 972,1504 1075,1504 1075,1502 1076,1502 1078,1502 1088,1494 1094,1501 1096,1501 1098,1501 1099,1502 1166,1502 1166,1501 1168,1501 1169,1501 1169,1499 1184,1488 1251,1488 1262,1498 1262,1499 1264,1499 1265,1499 1267,1499 1269,1499 1270,1499 1288,1486 1323,1486 1334,1496 1334,1498 1336,1498 1337,1498 1339,1498 1340,1498 1391,1485 1427,1485 1440,1494 1440,1496 1441,1496 1443,1496 1445,1496 1599,1486 1599,1476 1596,1457 1539,1449 1538,1449 971,1462 972,1486" />
+      <Word id="l_0081-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0002" text="IX.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0003" text="8ꝰ8" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0005" text="ꝰ00" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0082" text="Benedilet IV...... .. . ꝰ00 —ꝰ03">
+      <Coords points="972,1524 972,1532 1090,1540 1091,1540 1093,1540 1094,1540 1111,1530 1119,1537 1119,1538 1120,1538 1122,1538 1124,1540 1166,1540 1166,1538 1168,1538 1169,1538 1181,1529 1199,1538 1200,1538 1202,1538 1204,1538 1205,1538 1225,1527 1252,1527 1262,1535 1262,1537 1264,1537 1265,1537 1267,1537 1269,1537 1288,1527 1305,1537 1306,1537 1308,1537 1309,1537 1311,1537 1313,1537 1326,1527 1339,1537 1340,1537 1342,1537 1344,1537 1345,1537 1347,1537 1347,1535 1349,1535 1357,1525 1396,1525 1406,1533 1406,1535 1407,1535 1409,1535 1410,1535 1412,1535 1414,1535 1428,1527 1437,1533 1437,1535 1438,1535 1440,1535 1441,1535 1497,1527 1586,1533 1588,1533 1590,1533 1591,1533 1591,1532 1593,1532 1598,1525 1598,1515 1596,1496 1588,1488 1588,1486 1586,1486 1585,1486 1583,1486 1497,1494 1481,1486 1479,1486 1477,1486 1342,1498 982,1493 980,1493 979,1493 977,1493 977,1494 971,1499 972,1524" />
+      <Word id="l_0082-w_0001" text="Benedilet" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0002" text="IV......" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0003" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0004" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0005" text="ꝰ00" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0006" text="—ꝰ03" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0083" text="Leo V.. ꝰ03">
+      <Coords points="974,1559 974,1569 1031,1572 1032,1572 1034,1572 1036,1572 1036,1571 1044,1564 1073,1572 1075,1572 1076,1572 1191,1559 1277,1569 1279,1569 1280,1569 1282,1569 1301,1558 1494,1566 1497,1551 1492,1527 972,1533 974,1559" />
+      <Word id="l_0083-w_0001" text="Leo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0002" text="V.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0003" text="ꝰ03" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0084" text="Christophorus......... ꝰ03 — ꝰ04">
+      <Coords points="972,1595 972,1602 985,1612 987,1612 988,1612 990,1613 1098,1613 1098,1612 1177,1610 1179,1610 1181,1610 1181,1608 1192,1597 1225,1597 1285,1597 1296,1607 1296,1608 1298,1608 1300,1608 1301,1608 1303,1608 1323,1597 1340,1608 1342,1608 1344,1608 1345,1608 1347,1608 1349,1608 1349,1607 1360,1595 1425,1595 1437,1605 1437,1607 1438,1607 1440,1607 1441,1607 1498,1599 1591,1605 1593,1605 1595,1605 1596,1605 1596,1603 1598,1603 1603,1597 1603,1587 1599,1568 1099,1564 1098,1564 977,1566 975,1566 974,1566 974,1568 972,1568 971,1568 972,1595" />
+      <Word id="l_0084-w_0001" text="Christophorus........." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0084-w_0002" text="ꝰ03" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0084-w_0003" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0084-w_0004" text="ꝰ04" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0085" text="Sergius III......... ꝰ04 —ꝰ11">
+      <Coords points="972,1633 972,1642 1599,1634 1601,1625 1598,1605 1481,1597 1479,1597 1427,1605 1096,1602 1094,1602 1093,1602 1091,1602 1091,1603 1090,1603 1085,1612 971,1612 972,1633" />
+      <Word id="l_0085-w_0001" text="Sergius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0085-w_0002" text="III........." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0085-w_0003" text="ꝰ04" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0085-w_0004" text="—ꝰ11" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0086" text="Anastasius III. ꝰ11 —ꝰ13">
+      <Coords points="974,1669 974,1678 1127,1685 1129,1685 1130,1685 1132,1685 1142,1677 1194,1683 1195,1683 1197,1683 1199,1683 1199,1682 1210,1670 1397,1670 1414,1682 1415,1682 1417,1682 1419,1682 1420,1682 1422,1682 1422,1680 1433,1672 1441,1680 1443,1680 1445,1680 1446,1680 1503,1672 1588,1680 1590,1680 1591,1680 1593,1680 1593,1678 1601,1670 1601,1662 1598,1641 987,1639 985,1639 984,1639 982,1639 972,1644 974,1669" />
+      <Word id="l_0086-w_0001" text="Anastasius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0086-w_0002" text="III." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0086-w_0003" text="ꝰ11" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0086-w_0004" text="—ꝰ13" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0087" text="Lando..... .. .. . ꝰ13— ꝰ14">
+      <Coords points="975,1706 975,1716 1601,1708 1603,1698 1598,1678 974,1682 975,1706" />
+      <Word id="l_0087-w_0001" text="Lando....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0003" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0004" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0005" text="ꝰ13—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0006" text="ꝰ14" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0088" text="Johann X. .... .. .. ꝰ14 — ꝰ28">
+      <Coords points="977,1743 977,1760 1081,1758 1083,1758 1085,1758 1085,1756 1093,1750 1135,1756 1137,1756 1138,1756 1140,1756 1140,1755 1148,1748 1207,1756 1208,1756 1210,1756 1212,1756 1226,1747 1270,1755 1272,1755 1274,1755 1275,1755 1287,1747 1303,1755 1305,1755 1306,1755 1308,1755 1309,1755 1323,1747 1347,1755 1349,1755 1350,1755 1352,1755 1353,1755 1353,1753 1355,1753 1360,1747 1375,1753 1376,1753 1378,1753 1380,1753 1381,1753 1393,1745 1410,1753 1412,1753 1414,1753 1415,1753 1430,1745 1440,1753 1441,1753 1443,1753 1445,1753 1599,1745 1601,1735 1596,1714 975,1719 977,1743" />
+      <Word id="l_0088-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0002" text="X." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0003" text="...." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0004" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0005" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0006" text="ꝰ14" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0007" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0008" text="ꝰ28" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0089" text="Leo VI. ꝰ28 — ꝰ2ꝰ">
+      <Coords points="979,1779 979,1787 1599,1779 1601,1769 1596,1748 977,1758 979,1779" />
+      <Word id="l_0089-w_0001" text="Leo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0089-w_0002" text="VI." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0089-w_0003" text="ꝰ28" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0089-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0089-w_0005" text="ꝰ2ꝰ" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0090" text="Stephan VIII. ꝰ2ꝰ — ꝰ31">
+      <Coords points="977,1815 977,1825 1093,1831 1094,1831 1096,1831 1098,1831 1098,1830 1107,1820 1114,1826 1114,1828 1116,1828 1117,1828 1176,1830 1177,1830 1179,1830 1181,1830 1199,1815 1373,1813 1430,1813 1441,1825 1441,1826 1443,1826 1445,1826 1446,1826 1502,1817 1598,1820 1601,1807 1598,1787 1482,1778 1481,1778 1425,1789 1181,1791 1173,1784 1173,1783 1171,1783 1169,1783 1107,1783 1106,1783 1104,1783 1103,1783 1103,1784 1101,1784 1094,1792 982,1784 980,1784 979,1784 977,1784 977,1786 975,1786 977,1815" />
+      <Word id="l_0090-w_0001" text="Stephan" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0002" text="VIII." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0003" text="ꝰ2ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0005" text="ꝰ31" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0091" text="Johann XI. ꝰ31 —ꝰ36">
+      <Coords points="977,1851 977,1869 1081,1867 1083,1867 1085,1867 1085,1866 1093,1859 1130,1867 1132,1867 1134,1867 1164,1851 1349,1851 1375,1864 1376,1864 1378,1864 1380,1864 1412,1851 1441,1862 1443,1862 1445,1862 1601,1854 1603,1844 1598,1822 975,1828 977,1851" />
+      <Word id="l_0091-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0091-w_0002" text="XI." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0091-w_0003" text="ꝰ31" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0091-w_0004" text="—ꝰ36" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0092" text="Leo VII.. ꝰ36 —ꝰ3ꝰ">
+      <Coords points="979,1888 979,1897 1601,1888 1603,1879 1599,1857 1081,1857 1080,1857 1041,1866 988,1859 987,1859 985,1859 984,1859 977,1864 979,1888" />
+      <Word id="l_0092-w_0001" text="Leo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0092-w_0002" text="VII.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0092-w_0003" text="ꝰ36" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0092-w_0004" text="—ꝰ3ꝰ" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0093" text="Stephan IX. ꝰ3ꝰ — ꝰ42">
+      <Coords points="979,1924 979,1936 1601,1929 1603,1918 1598,1895 977,1901 979,1924" />
+      <Word id="l_0093-w_0001" text="Stephan" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0002" text="IX." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0003" text="ꝰ3ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0005" text="ꝰ42" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0094" text="Marinus II. (auch Martin III.">
+      <Coords points="979,1960 979,1975 1432,1968 1432,1955 1428,1932 1287,1924 1285,1924 1112,1934 988,1927 987,1927 985,1927 984,1927 977,1932 979,1960" />
+      <Word id="l_0094-w_0001" text="Marinus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0094-w_0002" text="II." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0094-w_0003" text="(auch" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0094-w_0004" text="Martin" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0094-w_0005" text="III." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0095" text="genannt) ꝰ42—ꝰ46">
+      <Coords points="1011,1999 1011,2010 1140,2014 1142,2014 1143,2014 1145,2014 1155,2004 1169,2014 1171,2014 1173,2014 1174,2014 1176,2014 1177,2014 1177,2012 1189,2004 1204,2014 1205,2014 1207,2014 1208,2014 1210,2014 1212,2014 1212,2012 1223,2001 1256,2001 1274,2012 1275,2012 1277,2012 1279,2012 1280,2012 1282,2012 1282,2010 1293,1999 1407,1997 1430,1997 1441,2007 1441,2009 1443,2009 1445,2009 1446,2009 1595,2007 1596,2007 1598,2007 1598,2006 1606,1996 1606,1989 1603,1970 1125,1968 1124,1968 1010,1978 1011,1999" />
+      <Word id="l_0095-w_0001" text="genannt)" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0095-w_0002" text="ꝰ42—ꝰ46" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0096" text="Agapitus II........ ꝰ46 — ꝰ55">
+      <Coords points="979,2035 979,2045 1601,2037 1603,2027 1599,2004 1127,2004 1125,2004 1041,2012 990,2006 988,2006 987,2006 985,2006 977,2010 979,2035" />
+      <Word id="l_0096-w_0001" text="Agapitus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0096-w_0002" text="II........" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0096-w_0003" text="ꝰ46" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0096-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0096-w_0005" text="ꝰ55" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0097" text="Johann XII. ꝰ55 —ꝰ63">
+      <Coords points="980,2072 980,2087 1163,2085 1164,2085 1166,2085 1177,2074 1230,2074 1329,2074 1339,2082 1339,2084 1340,2084 1342,2084 1344,2084 1345,2084 1347,2084 1363,2072 1401,2072 1410,2081 1410,2082 1412,2082 1414,2082 1415,2082 1417,2082 1432,2074 1440,2082 1441,2082 1443,2082 1445,2082 1603,2072 1603,2064 1599,2041 1547,2035 1546,2035 1505,2043 1477,2035 1476,2035 1474,2035 1472,2035 1437,2046 1169,2048 1161,2041 1161,2040 1160,2040 1158,2040 1103,2040 1101,2040 1099,2040 1098,2040 1083,2050 987,2041 985,2041 984,2041 982,2041 982,2043 980,2043 979,2045 980,2072" />
+      <Word id="l_0097-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0097-w_0002" text="XII." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0097-w_0003" text="ꝰ55" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0097-w_0004" text="—ꝰ63" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0098" text="Leo VIII. (Gegenpapst: Bene-">
+      <Coords points="980,2110 980,2121 1205,2126 1207,2126 1437,2113 1437,2100 1433,2079 1054,2077 1052,2077 1050,2077 1049,2077 1049,2079 1041,2085 990,2079 988,2079 987,2079 985,2079 979,2084 980,2110" />
+      <Word id="l_0098-w_0001" text="Leo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0098-w_0002" text="VIII." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0098-w_0003" text="(Gegenpapst:" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0098-w_0004" text="Bene-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0099" text="dilet V. ) ꝰ63 - ꝰ65">
+      <Coords points="1015,2144 1015,2151 1129,2159 1130,2159 1132,2159 1164,2144 1419,2142 1438,2154 1440,2154 1441,2154 1443,2154 1604,2144 1606,2136 1603,2115 1026,2115 1024,2115 1023,2115 1021,2115 1013,2120 1015,2144" />
+      <Word id="l_0099-w_0001" text="dilet" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0099-w_0002" text="V." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0099-w_0003" text=")" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0099-w_0004" text="ꝰ63" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0099-w_0005" text="-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0099-w_0006" text="ꝰ65" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0100" text="Johann XIII. ꝰ65 —ꝰ72">
+      <Coords points="982,2183 982,2199 1085,2198 1086,2198 1088,2198 1088,2196 1096,2190 1103,2196 1104,2196 1106,2196 1107,2198 1179,2198 1179,2196 1181,2196 1182,2196 1202,2183 1603,2185 1606,2173 1603,2152 1549,2144 1547,2144 1512,2152 1503,2146 1503,2144 1502,2144 1500,2144 1498,2144 1393,2157 980,2157 982,2183" />
+      <Word id="l_0100-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0100-w_0002" text="XIII." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0100-w_0003" text="ꝰ65" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0100-w_0004" text="—ꝰ72" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0101" text="Benedikt VI........ ꝰ73 — ꝰ74">
+      <Coords points="984,2219 984,2229 1606,2219 1606,2208 1603,2186 1560,2180 1559,2180 1510,2190 1468,2181 1466,2181 1464,2181 1440,2194 1176,2198 1164,2188 1163,2188 1161,2188 1160,2188 982,2190 984,2219" />
+      <Word id="l_0101-w_0001" text="Benedikt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0101-w_0002" text="VI........" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0101-w_0003" text="ꝰ73" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0101-w_0004" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0101-w_0005" text="ꝰ74" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0102" text="Bonifazius VII. ꝰ74">
+      <Coords points="982,2253 982,2265 1505,2261 1507,2245 1502,2224 980,2227 982,2253" />
+      <Word id="l_0102-w_0001" text="Bonifazius" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0102-w_0002" text="VII." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0102-w_0003" text="ꝰ74" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0103" text="Benedikt VII..... .. . ꝰ74 — ꝰ83">
+      <Coords points="982,2292 982,2300 1606,2291 1608,2281 1604,2260 1551,2251 1549,2251 1547,2251 1513,2261 1454,2253 1453,2253 1451,2253 1424,2265 1184,2266 1161,2258 1160,2258 1158,2258 980,2268 982,2292" />
+      <Word id="l_0103-w_0001" text="Benedikt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0103-w_0002" text="VII....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0103-w_0003" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0103-w_0004" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0103-w_0005" text="ꝰ74" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0103-w_0006" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0103-w_0007" text="ꝰ83" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0104" text="Johann XIV........ ꝰ83 —ꝰ84">
+      <Coords points="984,2330 984,2346 1098,2336 1177,2341 1179,2341 1181,2341 1218,2330 1599,2333 1601,2333 1603,2333 1604,2333 1604,2331 1606,2331 1609,2326 1609,2317 1606,2297 1552,2287 1551,2287 1549,2287 1526,2297 1481,2289 1479,2289 1477,2289 1443,2300 982,2304 984,2330" />
+      <Word id="l_0104-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0104-w_0002" text="XIV........" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0104-w_0003" text="ꝰ83" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0104-w_0004" text="—ꝰ84" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0105" text="Johann XV. ꝰ85 ꝰꝰ6">
+      <Coords points="982,2365 982,2382 1085,2380 1086,2380 1088,2380 1099,2372 1164,2378 1166,2378 1168,2378 1202,2364 1427,2362 1445,2374 1446,2374 1448,2374 1450,2374 1536,2362 1546,2370 1546,2372 1547,2372 1549,2372 1551,2372 1608,2365 1609,2356 1604,2331 987,2336 985,2336 984,2336 984,2338 982,2338 980,2338 982,2365" />
+      <Word id="l_0105-w_0001" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0105-w_0002" text="XV." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0105-w_0003" text="ꝰ85" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0105-w_0004" text="ꝰꝰ6" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0106" text="Gregor V. (1. deutscher Papst,">
+      <Coords points="982,2401 982,2416 1435,2416 1437,2396 1432,2374 980,2377 982,2401" />
+      <Word id="l_0106-w_0001" text="Gregor" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0106-w_0002" text="V." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0106-w_0003" text="(1." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0106-w_0004" text="deutscher" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0106-w_0005" text="Papst," error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0107" text="Gegenpapst: Johann XVI) ꝰꝰ6 —ꝰꝰꝰ">
+      <Coords points="1015,2440 1015,2457 1324,2457 1324,2455 1443,2445 1471,2452 1472,2452 1474,2452 1542,2442 1593,2449 1595,2449 1596,2449 1598,2449 1608,2440 1608,2426 1603,2403 1013,2416 1015,2440" />
+      <Word id="l_0107-w_0001" text="Gegenpapst:" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0107-w_0002" text="Johann" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0107-w_0003" text="XVI)" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0107-w_0004" text="ꝰꝰ6" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0107-w_0005" text="—ꝰꝰꝰ" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0108" text="1 Irrtümlich mitunter Martin II. genannt.">
+      <Coords points="426,2517 426,2532 1044,2525 1046,2509 1041,2488 425,2494 426,2517" />
+      <Word id="l_0108-w_0001" text="1" error_score="0.142" />
+      <Word id="l_0108-w_0002" text="Irrtümlich" error_score="0.142" />
+      <Word id="l_0108-w_0003" text="mitunter" error_score="0.142" />
+      <Word id="l_0108-w_0004" text="Martin" error_score="0.142" />
+      <Word id="l_0108-w_0005" text="II." error_score="0.142" />
+      <Word id="l_0108-w_0006" text="genannt." error_score="0.142" />
+    </TextLine>
+  </TextRegion>
+</Page>

@@ -1,0 +1,722 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1739039688_00000203.bin.png" imageHeight="2944" imageWidth="1743" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="1340,340 1422,372 1422,606 1402,632 1312,639 1297,691 1396,706 1422,732 1422,789 1363,824 1363,868 1422,968 1428,1175 1402,1228 1299,1247 1291,1287 1402,1308 1422,1372 1358,1391 1324,1450 1258,1472 1258,1653 1369,1707 1369,1738 1428,1792 1428,2347 1350,2387 1376,2530 1310,2571 1330,2597 1317,2628 959,2608 189,2621 137,2576 130,2530 124,366 1340,340" />
+    <TextLine id="l_0001" text="Gaza, sw. v. Joppe.">
+      <Coords points="209,363 193,364 176,364 160,364 144,364 139,364 127,366 127,392 126,403 142,412 144,412 145,412 484,405 486,395 484,371 386,361 384,361 382,361 355,369 224,363 209,363" />
+      <Word id="l_0001-w_0001" text="Gaza," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0002" text="sw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0004" text="Joppe." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0002" text="Giseh, nw. v. Memphis (Kairo).">
+      <Coords points="127,439 127,453 707,453 707,439 707,413 672,403 671,403 669,403 667,403 646,412 630,403 628,403 626,403 536,413 520,403 518,403 517,403 515,403 432,412 384,403 382,403 381,403 379,403 379,405 369,415 234,415 212,403 211,403 209,403 207,403 206,403 189,413 142,403 140,403 139,403 137,403 127,410 127,439" />
+      <Word id="l_0002-w_0001" text="Giseh," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0002-w_0002" text="nw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0002-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0002-w_0004" text="Memphis" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0002-w_0005" text="(Kairo)." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0003" text="Gordion im nõ. Phrygien.">
+      <Coords points="127,485 127,497 355,497 389,505 391,505 392,505 394,505 418,497 477,505 479,505 603,495 603,485 603,461 427,451 425,451 423,451 407,459 387,451 386,451 384,451 338,459 297,451 296,451 252,459 211,451 209,451 207,451 183,459 142,451 140,451 139,451 137,451 127,457 127,485" />
+      <Word id="l_0003-w_0001" text="Gordion" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0003-w_0002" text="im" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0003-w_0003" text="nõ." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0003-w_0004" text="Phrygien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0004" text="Granikos im nw. Kleinasien.">
+      <Coords points="129,531 129,543 661,543 661,531 661,507 453,497 451,497 450,497 448,497 448,498 440,507 350,507 309,497 307,497 266,505 219,497 217,497 216,497 194,505 140,497 139,497 137,497 135,497 129,502 129,531" />
+      <Word id="l_0004-w_0001" text="Granikos" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0004-w_0002" text="im" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0004-w_0003" text="nw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0004-w_0004" text="Kleinasien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0005" text="Haliartos am Südufer d. Kopais-Sees.">
+      <Coords points="127,577 127,592 761,592 761,577 761,551 680,541 679,541 677,541 654,549 630,541 628,541 626,541 625,541 602,549 558,541 556,541 554,541 522,549 513,543 513,541 512,541 510,541 508,541 507,541 490,549 451,541 450,541 127,547 127,577" />
+      <Word id="l_0005-w_0001" text="Haliartos" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0005-w_0002" text="am" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0005-w_0003" text="Südufer" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0005-w_0004" text="d." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0005-w_0005" text="Kopais-Sees." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0006" text="Halikarnaß, s. v. Milet.">
+      <Coords points="127,624 127,636 535,632 536,621 533,596 440,585 438,585 436,585 435,585 435,587 425,596 330,596 312,587 310,587 309,587 307,587 240,596 214,587 212,587 134,587 132,587 130,587 129,587 129,588 127,588 126,590 127,624" />
+      <Word id="l_0006-w_0001" text="Halikarnaß," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0002" text="s." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0004" text="Milet." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0007" text="Halys (j. Kisil Irmak) mündet an der">
+      <Coords points="127,668 127,683 762,683 762,668 762,642 711,632 710,632 708,632 707,632 693,642 613,642 599,632 597,632 595,632 594,632 592,632 590,632 576,642 490,642 481,632 479,632 477,632 476,632 474,632 438,641 391,632 389,632 127,639 127,668" />
+      <Word id="l_0007-w_0001" text="Halys" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0002" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0003" text="Kisil" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0004" text="Irmak)" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0005" text="mündet" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0006" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0007-w_0007" text="der" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0008" text="mittleren Nordküste Kleinasiens.">
+      <Coords points="171,716 171,729 752,726 754,713 751,688 461,678 459,678 397,688 378,680 376,680 374,680 322,688 209,680 207,680 206,680 170,690 171,716" />
+      <Word id="l_0008-w_0001" text="mittleren" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0002" text="Nordküste" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0008-w_0003" text="Kleinasiens." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0009" text="Hamath am Orontes.">
+      <Coords points="127,762 127,773 505,771 507,758 504,734 364,724 363,724 302,734 132,726 130,726 129,726 127,726 127,727 126,727 127,762" />
+      <Word id="l_0009-w_0001" text="Hamath" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0002" text="am" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0009-w_0003" text="Orontes." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0010" text="Heiliger Berg, jenseits des Anio,">
+      <Coords points="129,806 129,817 211,827 212,827 273,819 350,827 351,827 399,819 410,827 412,827 414,827 415,827 548,819 744,827 746,827 747,827 749,827 749,825 756,819 756,806 756,781 711,771 710,771 654,780 592,771 590,771 589,771 571,780 525,771 523,771 522,771 486,780 430,771 428,771 427,771 410,780 319,771 317,771 315,771 286,780 214,771 212,771 129,776 129,806" />
+      <Word id="l_0010-w_0001" text="Heiliger" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0002" text="Berg," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0003" text="jenseits" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0004" text="des" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0010-w_0005" text="Anio," error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0011" text="n. v. Rom.">
+      <Coords points="173,853 173,865 369,865 369,853 369,830 271,819 270,819 268,819 266,819 266,821 256,830 173,830 173,853" />
+      <Word id="l_0011-w_0001" text="n." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0011-w_0002" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0011-w_0003" text="Rom." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0012" text="Heirkte bei Palermo (j. M. Pelle-">
+      <Coords points="127,894 126,907 132,914 132,915 134,915 135,915 137,917 255,917 255,915 256,915 258,915 258,914 265,907 286,915 288,915 289,915 356,907 369,915 371,915 373,915 374,915 376,915 378,915 378,914 386,907 443,917 445,917 757,907 759,897 759,871 592,861 590,861 589,861 567,870 544,861 543,861 541,861 484,870 422,860 420,860 127,866 127,894" />
+      <Word id="l_0012-w_0001" text="Heirkte" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0002" text="bei" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0003" text="Palermo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0004" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0005" text="M." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0012-w_0006" text="Pelle-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0013" text="grino).">
+      <Coords points="173,946 173,960 302,955 302,943 301,919 268,909 266,909 265,909 171,920 173,946" />
+      <Word id="l_0013-w_0001" text="grino)." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0014" text="Heliopolis, nö. v. Memphis.">
+      <Coords points="129,987 127,997 171,1007 173,1007 626,1000 628,991 628,964 592,953 590,953 454,953 453,953 451,953 450,953 450,955 440,964 389,964 373,951 371,951 369,951 368,951 366,951 338,961 288,951 286,951 284,951 250,961 162,951 160,951 129,958 129,987" />
+      <Word id="l_0014-w_0001" text="Heliopolis," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0014-w_0002" text="nö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0014-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0014-w_0004" text="Memphis." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0015" text="Heraclea, sw. v. Tarent.">
+      <Coords points="129,1036 129,1048 559,1048 559,1036 559,1010 536,1002 535,1002 430,1002 428,1002 427,1002 425,1002 425,1004 417,1010 129,1007 129,1036" />
+      <Word id="l_0015-w_0001" text="Heraclea," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0015-w_0002" text="sw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0015-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0015-w_0004" text="Tarent." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0016" text="Herculaneum am Südfuße des Ve-">
+      <Coords points="129,1081 129,1094 757,1094 757,1081 757,1056 716,1046 715,1046 713,1046 679,1054 631,1046 630,1046 628,1046 626,1046 615,1054 571,1046 569,1046 567,1046 543,1054 535,1048 535,1046 533,1046 531,1046 530,1046 129,1053 129,1081" />
+      <Word id="l_0016-w_0001" text="Herculaneum" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0002" text="am" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0003" text="Südfuße" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0004" text="des" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0005" text="Ve-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0017" text="SuV.">
+      <Coords points="173,1130 173,1139 255,1138 255,1126 250,1102 170,1104 173,1130" />
+      <Word id="l_0017-w_0001" text="SuV." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0018" text="Hippo, nw. v. Karthago.">
+      <Coords points="127,1174 127,1185 171,1195 173,1197 248,1197 248,1195 250,1195 252,1195 252,1193 260,1187 526,1195 528,1195 569,1185 569,1174 569,1149 487,1149 479,1141 479,1139 477,1139 476,1139 474,1139 127,1144 127,1174" />
+      <Word id="l_0018-w_0001" text="Hippo," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0002" text="nw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0004" text="Karthago." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0019" text="Ilerda am Segre, einem nördlichen">
+      <Coords points="129,1220 129,1234 762,1234 762,1220 762,1195 697,1185 695,1185 567,1193 472,1185 471,1185 469,1185 446,1193 338,1185 337,1185 335,1185 309,1193 129,1192 129,1220" />
+      <Word id="l_0019-w_0001" text="Ilerda" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0002" text="am" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0003" text="Segre," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0004" text="einem" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0005" text="nördlichen" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0020" text="Nebenfluß des Ebro.">
+      <Coords points="170,1267 170,1279 554,1279 554,1267 554,1241 505,1241 494,1229 492,1229 490,1229 489,1229 487,1229 448,1239 294,1229 292,1229 291,1229 289,1229 289,1231 279,1241 250,1241 238,1229 237,1229 235,1229 183,1229 181,1229 180,1229 178,1229 170,1236 170,1267" />
+      <Word id="l_0020-w_0001" text="Nebenfluß" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0020-w_0002" text="des" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0020-w_0003" text="Ebro." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0021" text="Ipsambul in Nubien.">
+      <Coords points="130,1313 130,1326 505,1323 507,1310 504,1285 363,1275 361,1275 360,1275 340,1283 319,1275 317,1275 315,1275 314,1275 312,1275 301,1285 289,1277 288,1277 286,1277 284,1277 283,1277 255,1285 247,1277 245,1277 243,1277 242,1277 129,1283 130,1313" />
+      <Word id="l_0021-w_0001" text="Ipsambul" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0002" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0003" text="Nubien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0022" text="Ipsos in Phrygien, nö. v. Sardes.">
+      <Coords points="130,1359 130,1368 418,1377 420,1377 489,1367 605,1375 607,1375 608,1375 610,1375 620,1367 630,1375 631,1375 633,1375 635,1375 756,1367 757,1355 754,1331 633,1321 631,1321 630,1321 628,1321 628,1323 620,1331 562,1331 541,1321 540,1321 538,1321 536,1321 513,1329 418,1323 417,1323 361,1331 351,1323 350,1323 348,1323 346,1323 227,1331 135,1323 134,1323 132,1323 130,1323 130,1324 129,1324 130,1359" />
+      <Word id="l_0022-w_0001" text="Ipsos" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0002" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0003" text="Phrygien," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0004" text="nö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0005" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0006" text="Sardes." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0023" text="Ithaka (j. Theaki), ionische Insel.">
+      <Coords points="132,1401 130,1414 135,1419 135,1421 137,1421 139,1421 140,1421 312,1414 432,1422 433,1422 729,1414 731,1404 731,1377 708,1367 707,1367 705,1367 703,1367 682,1375 644,1367 643,1367 641,1367 617,1375 530,1367 528,1367 441,1375 435,1367 433,1367 433,1365 432,1365 430,1365 428,1365 379,1373 346,1365 345,1365 343,1365 302,1373 132,1372 132,1401" />
+      <Word id="l_0023-w_0001" text="Ithaka" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0002" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0003" text="Theaki)," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0004" text="ionische" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0023-w_0005" text="Insel." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0024" text="Jaxartes, ö. Zufluß des Aralsees.">
+      <Coords points="132,1450 132,1462 716,1458 718,1447 715,1422 626,1413 625,1413 623,1413 605,1421 579,1413 577,1413 576,1413 574,1413 558,1421 350,1414 348,1414 346,1414 345,1414 345,1416 338,1422 319,1414 317,1414 315,1414 271,1422 140,1414 139,1414 137,1414 135,1414 135,1416 134,1416 130,1418 132,1450" />
+      <Word id="l_0024-w_0001" text="Jaxartes," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0002" text="ö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0003" text="Zufluß" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0004" text="des" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0005" text="Aralsees." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0025" text="Kalaureia an der argolischen Küste.">
+      <Coords points="132,1496 132,1509 757,1507 759,1494 756,1470 716,1460 641,1460 639,1460 638,1460 636,1460 636,1462 628,1468 576,1460 574,1460 572,1460 551,1468 530,1460 528,1460 526,1460 525,1460 490,1468 389,1460 387,1460 386,1460 364,1468 278,1460 276,1460 130,1467 132,1496" />
+      <Word id="l_0025-w_0001" text="Kalaureia" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0002" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0004" text="argolischen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0025-w_0005" text="Küste." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0026" text="Karkemisch am oberen Euphrat.">
+      <Coords points="132,1543 132,1555 715,1555 715,1543 715,1516 695,1507 693,1507 692,1507 654,1516 644,1507 643,1507 641,1507 566,1507 564,1507 562,1507 561,1507 561,1509 553,1517 472,1517 464,1509 464,1507 463,1507 461,1507 459,1507 458,1507 430,1517 337,1517 327,1507 325,1507 324,1507 322,1507 320,1507 299,1516 281,1507 279,1507 278,1507 132,1512 132,1543" />
+      <Word id="l_0026-w_0001" text="Karkemisch" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0002" text="am" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0003" text="oberen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0026-w_0004" text="Euphrat." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0027" text="Kition an der Südküste v. Kypros.">
+      <Coords points="132,1586 130,1601 137,1606 139,1606 140,1606 142,1606 757,1599 759,1589 757,1563 644,1552 643,1552 641,1552 603,1561 414,1550 412,1550 410,1550 384,1560 346,1550 345,1550 343,1550 342,1550 340,1550 324,1560 132,1557 132,1586" />
+      <Word id="l_0027-w_0001" text="Kition" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0002" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0004" text="Südküste" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0005" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0006" text="Kypros." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0028" text="Knidos an der sw. Küste Kleinasiens.">
+      <Coords points="132,1633 132,1648 761,1648 761,1633 761,1607 585,1597 584,1597 540,1606 520,1597 518,1597 441,1597 440,1597 438,1597 436,1597 436,1599 428,1606 337,1597 335,1597 333,1597 332,1597 317,1606 132,1604 132,1633" />
+      <Word id="l_0028-w_0001" text="Knidos" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0002" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0004" text="sw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0005" text="Küste" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0028-w_0006" text="Kleinasiens." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0029" text="Kolchis an der Ostküste des Schwar-">
+      <Coords points="132,1681 132,1692 762,1689 762,1678 759,1653 445,1642 443,1642 441,1642 440,1642 430,1650 396,1643 394,1643 392,1643 391,1643 391,1645 381,1653 345,1643 343,1643 342,1643 340,1643 338,1643 325,1655 270,1655 252,1643 250,1643 248,1643 137,1643 135,1643 134,1643 132,1643 132,1645 130,1645 132,1681" />
+      <Word id="l_0029-w_0001" text="Kolchis" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0002" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0004" text="Ostküste" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0005" text="des" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0006" text="Schwar-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0030" text="zen Meeres.">
+      <Coords points="173,1727 173,1736 402,1733 404,1723 400,1700 286,1691 284,1691 171,1702 173,1727" />
+      <Word id="l_0030-w_0001" text="zen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0002" text="Meeres." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0031" text="Kolmar, s. v. Straßburg.">
+      <Coords points="132,1772 132,1782 551,1789 553,1789 554,1789 556,1789 571,1779 571,1769 567,1745 387,1733 386,1733 384,1733 382,1733 382,1735 373,1745 335,1745 139,1735 137,1735 135,1735 134,1735 134,1736 132,1736 130,1736 132,1772" />
+      <Word id="l_0031-w_0001" text="Kolmar," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0002" text="s." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0004" text="Straßburg." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0032" text="Korinth am Isthmos.">
+      <Coords points="132,1818 132,1830 517,1825 518,1813 515,1789 396,1779 394,1779 392,1779 350,1789 137,1782 135,1782 134,1782 132,1782 132,1784 130,1784 132,1818" />
+      <Word id="l_0032-w_0001" text="Korinth" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0002" text="am" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0003" text="Isthmos." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0033" text="Korkyra (j. Korfu), die nördlichste">
+      <Coords points="134,1862 134,1875 765,1875 765,1862 765,1835 731,1826 729,1826 728,1826 726,1826 707,1835 697,1826 695,1826 693,1826 635,1826 633,1826 631,1826 630,1826 630,1828 623,1835 605,1826 603,1826 602,1826 600,1826 564,1835 525,1826 523,1826 522,1826 494,1835 453,1826 451,1826 400,1835 379,1826 378,1826 376,1826 374,1826 342,1835 324,1826 322,1826 320,1826 319,1826 296,1835 214,1826 212,1826 134,1833 134,1862" />
+      <Word id="l_0033-w_0001" text="Korkyra" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0033-w_0002" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0033-w_0003" text="Korfu)," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0033-w_0004" text="die" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0033-w_0005" text="nördlichste" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0034" text="und größte der lonischen Inseln.">
+      <Coords points="175,1910 175,1921 761,1918 762,1907 759,1882 520,1872 518,1872 517,1872 495,1880 468,1872 466,1872 464,1872 463,1872 461,1872 461,1874 451,1882 307,1874 306,1874 256,1882 237,1874 235,1874 234,1874 173,1884 175,1910" />
+      <Word id="l_0034-w_0001" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0034-w_0002" text="größte" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0034-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0034-w_0004" text="lonischen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0034-w_0005" text="Inseln." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0035" text="Koroneia, w. v. Kopais-See.">
+      <Coords points="134,1954 134,1967 639,1967 639,1954 639,1929 581,1920 579,1920 577,1920 551,1928 530,1920 528,1920 526,1920 525,1920 499,1928 458,1920 456,1920 415,1929 296,1929 274,1920 273,1920 271,1920 270,1920 248,1928 171,1920 170,1920 134,1926 134,1954" />
+      <Word id="l_0035-w_0001" text="Koroneia," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0035-w_0002" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0035-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0035-w_0004" text="Kopais-See." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0036" text="Kos, w. v. Knidos.">
+      <Coords points="134,2001 134,2013 476,2010 477,1998 474,1975 340,1962 338,1962 337,1962 335,1962 335,1964 324,1975 211,1975 140,1964 139,1964 137,1964 135,1964 135,1965 134,1965 132,1967 134,2001" />
+      <Word id="l_0036-w_0001" text="Kos," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0036-w_0002" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0036-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0036-w_0004" text="Knidos." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0037" text="Kroton (j. Cotrone), sö. v. Sybaris.">
+      <Coords points="134,2044 132,2055 158,2065 160,2065 162,2067 255,2067 255,2065 256,2065 258,2065 258,2064 266,2057 307,2065 309,2065 310,2065 332,2057 458,2067 459,2067 461,2067 497,2059 617,2059 635,2067 636,2067 638,2067 765,2057 767,2047 767,2021 726,2010 725,2010 723,2010 685,2018 677,2011 677,2010 675,2010 674,2010 620,2010 618,2010 617,2010 615,2010 615,2011 605,2019 531,2011 530,2011 486,2019 476,2011 476,2010 474,2010 472,2010 471,2010 423,2018 387,2008 386,2008 338,2008 337,2008 335,2008 333,2008 333,2010 325,2018 306,2008 304,2008 302,2008 301,2008 278,2019 186,2019 165,2008 163,2008 162,2008 160,2008 134,2015 134,2044" />
+      <Word id="l_0037-w_0001" text="Kroton" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0037-w_0002" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0037-w_0003" text="Cotrone)," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0037-w_0004" text="sö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0037-w_0005" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0037-w_0006" text="Sybaris." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0038" text="Kumà, w. v. Neapel.">
+      <Coords points="135,2091 134,2101 158,2111 160,2111 162,2111 320,2103 448,2113 450,2113 507,2103 508,2095 508,2068 487,2059 486,2059 484,2059 135,2062 135,2091" />
+      <Word id="l_0038-w_0001" text="Kumà," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0038-w_0002" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0038-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0038-w_0004" text="Neapel." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0039" text="Kunaxa, Dorf n. v. Babylon.">
+      <Coords points="135,2139 135,2152 664,2152 664,2139 664,2114 592,2103 590,2103 589,2103 558,2111 497,2103 495,2103 494,2103 492,2103 492,2104 482,2114 392,2114 382,2104 382,2103 381,2103 379,2103 378,2103 376,2103 353,2113 327,2103 325,2103 324,2103 322,2103 291,2113 135,2109 135,2139" />
+      <Word id="l_0039-w_0001" text="Kunaxa," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0039-w_0002" text="Dorf" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0039-w_0003" text="n." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0039-w_0004" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0039-w_0005" text="Babylon." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0040" text="Kynoskephalà, Bergzug im Zentrum">
+      <Coords points="135,2185 135,2201 759,2198 761,2181 757,2157 140,2150 139,2150 137,2150 135,2150 135,2152 134,2152 135,2185" />
+      <Word id="l_0040-w_0001" text="Kynoskephalà," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0002" text="Bergzug" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0003" text="im" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0004" text="Zentrum" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0041" text="v. Thessalien.">
+      <Coords points="180,2229 178,2239 428,2242 432,2232 430,2208 369,2198 368,2198 279,2204 271,2198 271,2196 270,2196 268,2196 266,2196 180,2203 180,2229" />
+      <Word id="l_0041-w_0001" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0041-w_0002" text="Thessalien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0042" text="Lilybäum an der Westküste Siziliens.">
+      <Coords points="1410,368 1402,364 788,364 788,392 788,407 1412,407 1412,392 1412,369 1410,368" />
+      <Word id="l_0042-w_0001" text="Lilybäum" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0042-w_0002" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0042-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0042-w_0004" text="Westküste" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0042-w_0005" text="Siziliens." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0043" text="Liparische Inseln, nw. v. Messana.">
+      <Coords points="788,439 788,449 1410,454 1412,439 1412,415 1310,415 1292,403 1291,403 1289,403 1288,403 1286,403 1247,415 1101,415 1080,403 1078,403 996,403 995,403 993,403 991,403 991,405 981,413 944,403 942,403 941,403 939,403 916,412 898,403 896,403 895,403 893,403 855,413 834,403 833,403 831,403 788,410 788,439" />
+      <Word id="l_0043-w_0001" text="Liparische" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0002" text="Inseln," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0003" text="nw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0004" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0005" text="Messana." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0044" text="Locri, sw. v. Kroton.">
+      <Coords points="790,484 790,497 1162,497 1162,484 1162,459 1101,449 1099,449 790,456 790,484" />
+      <Word id="l_0044-w_0001" text="Locri," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0044-w_0002" text="sw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0044-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0044-w_0004" text="Kroton." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0045" text="Luca, w. v. Florenz.">
+      <Coords points="790,529 790,541 1155,538 1157,526 1153,503 797,495 795,495 793,495 792,495 792,497 790,497 788,497 790,529" />
+      <Word id="l_0045-w_0001" text="Luca," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0045-w_0002" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0045-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0045-w_0004" text="Florenz." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0046" text="Lyon an der Mündung der Saône">
+      <Coords points="787,577 787,587 816,596 818,596 819,596 893,588 1412,590 1414,577 1414,551 1363,541 1361,541 1301,549 1047,541 1045,541 1044,541 1042,541 1029,549 983,541 981,541 980,541 978,541 978,543 970,551 867,551 797,541 795,541 793,541 792,541 792,543 787,547 787,577" />
+      <Word id="l_0046-w_0001" text="Lyon" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0002" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0004" text="Mündung" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0005" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0006" text="Saône" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0047" text="in die Rhône.">
+      <Coords points="829,623 829,632 1094,629 1096,619 1093,595 968,583 967,583 965,583 963,583 963,585 962,585 954,595 908,585 906,585 905,585 875,595 846,585 844,585 842,585 841,585 839,585 828,593 829,623" />
+      <Word id="l_0047-w_0001" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0002" text="die" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0047-w_0003" text="Rhône." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0048" text="Magnesia, w. v. Sardes.">
+      <Coords points="788,668 788,680 1214,678 1216,665 1212,641 1160,631 1158,631 1157,631 1155,631 1143,639 1089,631 1088,631 1086,631 1085,631 1085,632 1076,641 986,641 797,632 795,632 793,632 792,632 792,634 790,634 787,636 788,668" />
+      <Word id="l_0048-w_0001" text="Magnesia," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0048-w_0002" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0048-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0048-w_0004" text="Sardes." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0049" text="Mantineia in Arkadien.">
+      <Coords points="790,714 790,727 1201,724 1202,711 1199,686 1134,677 1132,677 1130,677 1129,677 1116,685 985,678 983,678 981,678 980,678 980,680 972,686 798,678 797,678 795,678 793,678 793,680 792,680 788,682 790,714" />
+      <Word id="l_0049-w_0001" text="Mantineia" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0049-w_0002" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0049-w_0003" text="Arkadien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0050" text="Massilia (j. Marseille), ö. v. d. Rhöne-">
+      <Coords points="790,757 788,770 1410,773 1414,760 1414,732 1289,722 1288,722 1286,722 1284,722 1284,724 1278,729 1266,722 1265,722 1263,722 1261,722 1260,722 1258,722 1258,724 1250,732 1155,732 1142,722 1140,722 1139,722 1137,722 1135,722 1134,722 1125,731 1103,721 1101,721 1099,721 1098,721 1073,729 1017,721 1016,721 1014,721 980,729 967,721 965,721 963,721 962,721 960,721 939,729 900,721 898,721 790,727 790,757" />
+      <Word id="l_0050-w_0001" text="Massilia" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0002" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0003" text="Marseille)," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0004" text="ö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0005" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0006" text="d." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0007" text="Rhöne-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0051" text="mündung.">
+      <Coords points="833,806 833,819 1014,819 1016,803 1013,778 926,770 924,770 923,770 921,770 921,771 919,771 914,778 878,771 877,771 831,780 833,806" />
+      <Word id="l_0051-w_0001" text="mündung." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0052" text="Mediolanum — Mailand.">
+      <Coords points="792,847 790,858 1245,863 1248,852 1248,824 1232,816 1230,816 1229,816 1227,816 1206,824 1096,814 1094,814 1093,814 1091,814 1091,816 1083,824 952,824 914,812 913,812 911,812 792,819 792,847" />
+      <Word id="l_0052-w_0001" text="Mediolanum" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0052-w_0002" text="—" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0052-w_0003" text="Mailand." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0053" text="Megara, Hauptstadt v. Megaris.">
+      <Coords points="787,896 785,906 844,915 846,915 1355,912 1356,899 1356,871 1212,861 1211,861 1209,861 1207,861 1207,863 1199,871 1145,871 1119,861 1117,861 1116,861 1114,861 1112,861 1112,863 1104,870 1058,860 1057,860 787,866 787,896" />
+      <Word id="l_0053-w_0001" text="Megara," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0053-w_0002" text="Hauptstadt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0053-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0053-w_0004" text="Megaris." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0054" text="Melos, eine der sw. Kykladen.">
+      <Coords points="792,940 790,953 795,958 795,960 797,960 798,960 800,960 1340,953 1342,943 1340,917 792,914 792,940" />
+      <Word id="l_0054-w_0001" text="Melos," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0054-w_0002" text="eine" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0054-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0054-w_0004" text="sw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0054-w_0005" text="Kykladen." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0055" text="Mersey, mündet in die lrische See.">
+      <Coords points="792,987 790,997 1412,1004 1415,992 1414,964 1361,955 1360,955 1358,955 1332,963 1294,955 1292,955 1199,961 1180,953 1178,953 1176,953 1085,961 1039,953 1037,953 1035,953 1034,953 1026,961 1001,951 999,951 998,951 792,958 792,987" />
+      <Word id="l_0055-w_0001" text="Mersey," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0002" text="mündet" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0003" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0004" text="die" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0005" text="lrische" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0055-w_0006" text="See." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0056" text="Metaurus, mündet s. v. Ariminum.">
+      <Coords points="793,1032 792,1048 793,1050 795,1050 795,1051 797,1051 798,1051 944,1053 945,1053 1396,1048 1397,1038 1396,1012 793,1005 793,1032" />
+      <Word id="l_0056-w_0001" text="Metaurus," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0056-w_0002" text="mündet" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0056-w_0003" text="s." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0056-w_0004" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0056-w_0005" text="Ariminum." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0057" text="Milet, sw. v. Samos.">
+      <Coords points="792,1079 790,1089 1155,1092 1158,1082 1157,1056 1053,1046 1052,1046 1050,1046 1024,1054 891,1054 883,1046 883,1045 882,1045 880,1045 878,1045 792,1051 792,1079" />
+      <Word id="l_0057-w_0001" text="Milet," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0057-w_0002" text="sw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0057-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0057-w_0004" text="Samos." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0058" text="Moabiter, die Bewohner von Moab,">
+      <Coords points="793,1125 792,1136 1412,1146 1415,1130 1415,1102 793,1097 793,1125" />
+      <Word id="l_0058-w_0001" text="Moabiter," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0002" text="die" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0003" text="Bewohner" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0004" text="von" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0005" text="Moab," error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0059" text="dem Hochland am sö. Ufer des">
+      <Coords points="837,1171 836,1182 1414,1185 1417,1174 1417,1149 1378,1139 1376,1139 1374,1139 1356,1148 1304,1139 1302,1139 1112,1146 1104,1139 1104,1138 1103,1138 1101,1138 1099,1138 1098,1138 1081,1146 1042,1138 1040,1138 837,1144 837,1171" />
+      <Word id="l_0059-w_0001" text="dem" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0002" text="Hochland" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0003" text="am" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0004" text="sö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0005" text="Ufer" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0059-w_0006" text="des" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0060" text="Toten Meeres.">
+      <Coords points="837,1216 836,1226 1098,1229 1101,1220 1099,1193 968,1182 967,1182 965,1182 963,1182 954,1190 896,1182 895,1182 893,1182 891,1182 891,1184 885,1190 870,1182 869,1182 867,1182 865,1182 837,1189 837,1216" />
+      <Word id="l_0060-w_0001" text="Toten" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0060-w_0002" text="Meeres." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0061" text="Munda, s. v. Cordova.">
+      <Coords points="797,1264 797,1277 1199,1277 1199,1264 1199,1241 1119,1229 1117,1229 1116,1229 1085,1239 1065,1229 1063,1229 1062,1229 1060,1229 1031,1241 921,1241 905,1229 903,1229 901,1229 900,1229 898,1229 878,1238 797,1236 797,1264" />
+      <Word id="l_0061-w_0001" text="Munda," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0061-w_0002" text="s." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0061-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0061-w_0004" text="Cordova." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0062" text="Murghab bei Pasargadà.">
+      <Coords points="795,1308 793,1319 839,1329 841,1329 1232,1323 1234,1311 1234,1283 1217,1275 1216,1275 1214,1275 1212,1275 1178,1283 1068,1275 1067,1275 998,1282 988,1274 986,1274 985,1274 983,1274 981,1274 980,1274 967,1282 942,1274 941,1274 939,1274 937,1274 916,1282 831,1274 829,1274 795,1280 795,1308" />
+      <Word id="l_0062-w_0001" text="Murghab" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0062-w_0002" text="bei" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0062-w_0003" text="Pasargadà." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0063" text="Mutina (j. Modena), sö. v. Placentia.">
+      <Coords points="1404,1328 1252,1319 1250,1319 1248,1319 1247,1319 1247,1321 1238,1329 1189,1329 1171,1319 1170,1319 1168,1319 1127,1328 1111,1319 1109,1319 1107,1319 1106,1319 1104,1319 1093,1329 1053,1321 1052,1321 1050,1321 1034,1329 939,1321 937,1321 936,1321 901,1329 805,1321 803,1321 801,1321 800,1321 800,1323 793,1328 795,1359 795,1372 1410,1375 1414,1355 1412,1354 1404,1328" />
+      <Word id="l_0063-w_0001" text="Mutina" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0063-w_0002" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0063-w_0003" text="Modena)," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0063-w_0004" text="sö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0063-w_0005" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0063-w_0006" text="Placentia." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0064" text="Mykale, gegenüber v. Samos.">
+      <Coords points="795,1403 795,1416 1322,1418 1324,1403 1324,1378 1204,1368 1202,1368 1201,1368 1199,1368 1199,1370 1191,1378 1101,1378 1065,1368 1063,1368 1062,1368 926,1377 898,1368 896,1368 895,1368 893,1368 891,1368 878,1377 805,1368 803,1368 801,1368 800,1368 800,1370 795,1375 795,1403" />
+      <Word id="l_0064-w_0001" text="Mykale," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0064-w_0002" text="gegenüber" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0064-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0064-w_0004" text="Samos." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0065" text="Mykenà, nö. v. Argos.">
+      <Coords points="795,1450 795,1462 1194,1462 1194,1450 1194,1424 1085,1414 1083,1414 1081,1414 1080,1414 1080,1416 1071,1424 1016,1424 995,1414 993,1414 991,1414 944,1422 926,1414 924,1414 923,1414 921,1414 895,1422 860,1414 859,1414 857,1414 855,1414 854,1414 854,1416 846,1422 806,1414 805,1414 803,1414 801,1414 795,1419 795,1450" />
+      <Word id="l_0065-w_0001" text="Mykenà," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0065-w_0002" text="nö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0065-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0065-w_0004" text="Argos." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0066" text="Mylà, w. v. Messana.">
+      <Coords points="793,1496 793,1507 1180,1504 1181,1493 1178,1468 1021,1458 1019,1458 1017,1458 1016,1458 1016,1460 1006,1470 896,1470 887,1462 887,1460 885,1460 883,1460 801,1460 800,1460 798,1460 797,1460 797,1462 792,1465 793,1496" />
+      <Word id="l_0066-w_0001" text="Mylà," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0066-w_0002" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0066-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0066-w_0004" text="Messana." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0067" text="Naupaktos im w. Lokris.">
+      <Coords points="793,1540 792,1553 798,1558 800,1558 801,1558 803,1558 1243,1552 1245,1543 1245,1516 1121,1506 1119,1506 1117,1506 1116,1506 1116,1507 1107,1516 1045,1516 1013,1504 1011,1504 1009,1504 1008,1504 1006,1504 995,1512 939,1504 937,1504 793,1511 793,1540" />
+      <Word id="l_0067-w_0001" text="Naupaktos" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0067-w_0002" text="im" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0067-w_0003" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0067-w_0004" text="Lokris." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0068" text="Naxos, ö. v. Paros.">
+      <Coords points="793,1588 793,1599 1145,1599 1145,1588 1145,1563 803,1553 801,1553 800,1553 798,1553 798,1555 793,1560 793,1588" />
+      <Word id="l_0068-w_0001" text="Naxos," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0068-w_0002" text="ö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0068-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0068-w_0004" text="Paros." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0069" text="Nemea, sw. v. Korinth.">
+      <Coords points="795,1630 793,1642 1207,1645 1211,1633 1211,1607 1184,1597 1183,1597 1181,1597 795,1602 795,1630" />
+      <Word id="l_0069-w_0001" text="Nemea," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0069-w_0002" text="sw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0069-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0069-w_0004" text="Korinth." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0070" text="Nikàa, s. v. Nikomedia.">
+      <Coords points="793,1679 793,1692 1222,1692 1222,1679 1222,1653 1183,1643 1181,1643 1180,1643 1178,1643 1152,1653 1019,1643 1017,1643 1016,1643 1014,1643 1014,1645 1004,1655 901,1655 810,1643 808,1643 806,1643 805,1643 793,1650 793,1679" />
+      <Word id="l_0070-w_0001" text="Nikàa," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0002" text="s." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0004" text="Nikomedia." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0071" text="Nikomedia, im nw. Kleinasien.">
+      <Coords points="797,1723 795,1733 1345,1736 1348,1727 1348,1700 1292,1691 1153,1691 1152,1691 1150,1691 1148,1691 1148,1692 1140,1699 1026,1689 1024,1689 1022,1689 1021,1689 1008,1697 965,1689 963,1689 962,1689 934,1697 797,1696 797,1723" />
+      <Word id="l_0071-w_0001" text="Nikomedia," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0071-w_0002" text="im" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0071-w_0003" text="nw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0071-w_0004" text="Kleinasien." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0072" text="Nola, sö. v. Capua.">
+      <Coords points="797,1771 797,1782 1145,1782 1145,1771 1145,1746 1052,1736 1050,1736 1049,1736 1017,1746 960,1746 952,1738 952,1736 950,1736 949,1736 947,1736 945,1736 913,1745 864,1736 862,1736 797,1741 797,1771" />
+      <Word id="l_0072-w_0001" text="Nola," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0002" text="sö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0004" text="Capua." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0073" text="Noreja bei Neumarkt in Steiermark.">
+      <Coords points="795,1815 793,1825 1417,1828 1420,1818 1418,1789 795,1786 795,1815" />
+      <Word id="l_0073-w_0001" text="Noreja" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0002" text="bei" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0003" text="Neumarkt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0004" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0005" text="Steiermark." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0074" text="Numantia im Quellgebiet des Duero.">
+      <Coords points="793,1862 793,1877 1422,1877 1422,1862 1422,1836 793,1836 793,1862" />
+      <Word id="l_0074-w_0001" text="Numantia" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0002" text="im" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0003" text="Quellgebiet" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0004" text="des" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0005" text="Duero." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0075" text="Olynth auf Chalkidike.">
+      <Coords points="797,1908 797,1921 1212,1918 1214,1905 1211,1880 1166,1871 1165,1871 1068,1879 990,1872 988,1872 986,1872 985,1872 972,1880 811,1872 810,1872 808,1872 806,1872 795,1879 797,1908" />
+      <Word id="l_0075-w_0001" text="Olynth" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0075-w_0002" text="auf" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0075-w_0003" text="Chalkidike." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0076" text="Ophir wird in Indien und in Ost-">
+      <Coords points="797,1956 797,1965 1420,1962 1422,1952 1418,1928 1363,1916 1361,1916 1360,1916 1337,1926 1294,1918 1292,1918 1291,1918 1289,1918 1278,1926 1263,1916 1261,1916 1260,1916 1258,1916 1256,1916 1255,1916 1255,1918 1245,1928 1183,1928 1122,1916 1121,1916 1119,1916 1117,1916 1117,1918 1107,1926 1080,1918 1078,1918 1076,1918 1075,1918 1073,1918 1073,1920 1063,1928 1034,1918 1032,1918 1031,1918 1029,1918 1027,1918 1016,1928 998,1918 996,1918 995,1918 993,1918 991,1918 991,1920 983,1926 963,1920 962,1920 960,1920 908,1928 891,1918 890,1918 888,1918 811,1918 810,1918 808,1918 806,1918 795,1926 797,1956" />
+      <Word id="l_0076-w_0001" text="Ophir" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0002" text="wird" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0003" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0004" text="Indien" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0005" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0006" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0007" text="Ost-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0077" text="afrika (um Sofala) gesucht.">
+      <Coords points="839,2001 839,2015 1338,2011 1340,1998 1338,1974 1317,1964 1315,1964 1314,1964 1175,1972 1166,1965 1166,1964 1165,1964 1163,1964 1098,1964 1096,1964 1044,1974 869,1965 867,1965 865,1965 837,1975 839,2001" />
+      <Word id="l_0077-w_0001" text="afrika" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0002" text="(um" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0003" text="Sofala)" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0004" text="gesucht." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0078" text="Orchomenos am nu. Ufer d. Kopais-">
+      <Coords points="793,2047 793,2060 1420,2055 1422,2042 1420,2019 1382,2010 1381,2010 1379,2010 1378,2010 1360,2018 1256,2010 1255,2010 1253,2010 1252,2010 1252,2011 1243,2018 1160,2011 1158,2011 1157,2011 1155,2011 1155,2013 1147,2021 985,2021 808,2013 806,2013 805,2013 803,2013 792,2019 793,2047" />
+      <Word id="l_0078-w_0001" text="Orchomenos" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0002" text="am" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0003" text="nu." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0004" text="Ufer" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0005" text="d." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0078-w_0006" text="Kopais-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0079" text="Sees.">
+      <Coords points="842,2095 842,2106 945,2106 945,2095 945,2070 854,2059 852,2059 851,2059 849,2059 849,2060 842,2067 842,2095" />
+      <Word id="l_0079-w_0001" text="Sees." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0080" text="Pagasäischer Meerbusen (jetzt Golf">
+      <Coords points="795,2139 795,2154 1427,2154 1427,2139 1427,2109 1253,2103 1252,2103 1250,2103 1248,2103 1248,2104 1240,2113 1143,2113 1125,2103 1124,2103 1122,2103 1121,2103 1088,2111 1042,2103 1040,2103 990,2111 977,2103 975,2103 973,2103 972,2103 970,2103 950,2111 929,2103 927,2103 926,2103 849,2111 808,2103 806,2103 805,2103 803,2103 795,2108 795,2139" />
+      <Word id="l_0080-w_0001" text="Pagasäischer" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0002" text="Meerbusen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0003" text="(jetzt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0004" text="Golf" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0081" text="von Volo) an der Südostküste">
+      <Coords points="844,2185 844,2194 1014,2204 1016,2204 1017,2204 1045,2196 1068,2204 1070,2204 1071,2204 1112,2196 1425,2196 1425,2181 1418,2157 1217,2149 1216,2149 1173,2157 1145,2149 1143,2149 1142,2149 1140,2149 1139,2149 1127,2158 939,2150 937,2150 936,2150 934,2150 934,2152 926,2160 842,2160 844,2185" />
+      <Word id="l_0081-w_0001" text="von" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0002" text="Volo)" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0003" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0004" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0005" text="Südostküste" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0082" text="Thessaliens.">
+      <Coords points="842,2229 841,2240 1060,2243 1063,2232 1062,2206 985,2196 983,2196 895,2203 887,2196 887,2194 885,2194 883,2194 882,2194 842,2201 842,2229" />
+      <Word id="l_0082-w_0001" text="Thessaliens." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0083" text="Kyzikos auf der gleichnamigen Insel- Palmyra, nö. v. Damaskus.">
+      <Coords points="137,2276 137,2291 1279,2291 1279,2276 1279,2250 137,2247 137,2276" />
+      <Word id="l_0083-w_0001" text="Kyzikos" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0002" text="auf" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0003" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0004" text="gleichnamigen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0005" text="Insel-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0006" text="Palmyra," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0007" text="nö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0008" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0083-w_0009" text="Damaskus." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0084" text="im Marmarameer (jetzt mit dem">
+      <Coords points="180,2322 180,2335 765,2332 767,2319 764,2296 188,2289 186,2289 184,2289 183,2289 183,2291 178,2294 180,2322" />
+      <Word id="l_0084-w_0001" text="im" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0084-w_0002" text="Marmarameer" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0084-w_0003" text="(jetzt" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0084-w_0004" text="mit" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0084-w_0005" text="dem" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0085" text="Festland verwachsen).">
+      <Coords points="176,2368 176,2379 438,2389 440,2391 564,2391 564,2389 566,2389 585,2379 585,2368 585,2343 176,2343 176,2368" />
+      <Word id="l_0085-w_0001" text="Festland" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0085-w_0002" text="verwachsen)." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0086" text="Lerna, s. v. Argos.">
+      <Coords points="140,2415 140,2425 238,2435 240,2435 242,2435 260,2427 397,2435 399,2435 499,2425 499,2415 499,2392 140,2384 140,2415" />
+      <Word id="l_0086-w_0001" text="Lerna," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0086-w_0002" text="s." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0086-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0086-w_0004" text="Argos." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0087" text="Panormus (j. Palermo) an der Nord-">
+      <Coords points="795,2320 795,2333 1402,2340 1404,2340 1405,2340 1423,2330 1423,2317 1420,2294 803,2288 801,2288 800,2288 798,2288 798,2289 793,2293 795,2320" />
+      <Word id="l_0087-w_0001" text="Panormus" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0002" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0003" text="Palermo)" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0004" text="an" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0005" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0006" text="Nord-" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0088" text="küste Siziliens.">
+      <Coords points="839,2368 839,2381 1122,2381 1122,2368 1122,2342 855,2332 854,2332 852,2332 851,2332 839,2338 839,2368" />
+      <Word id="l_0088-w_0001" text="küste" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0002" text="Siziliens." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0089" text="Paros, w. v. Naxos.">
+      <Coords points="798,2414 798,2425 1162,2425 1162,2414 1162,2389 808,2379 806,2379 805,2379 803,2379 803,2381 798,2386 798,2414" />
+      <Word id="l_0089-w_0001" text="Paros," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0089-w_0002" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0089-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0089-w_0004" text="Naxos." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0090" text="Lesbos (j. Mytilini), Insel w. v. Pasargadà, sö. v. Persepolis.">
+      <Coords points="140,2461 140,2471 284,2471 296,2481 297,2481 299,2481 301,2481 302,2481 340,2471 384,2481 386,2482 518,2482 518,2481 520,2481 522,2481 531,2471 554,2479 556,2479 558,2479 726,2469 896,2479 898,2481 986,2481 986,2479 988,2479 990,2479 1001,2469 1016,2477 1017,2477 1019,2477 1067,2469 1083,2477 1085,2477 1086,2477 1140,2469 1207,2479 1209,2479 1310,2471 1312,2458 1310,2433 1276,2423 1274,2423 1273,2423 1271,2423 1238,2432 1142,2423 1140,2423 1139,2423 1109,2432 1044,2423 1042,2423 1040,2423 1011,2432 980,2423 978,2423 977,2423 720,2435 646,2435 635,2425 633,2425 631,2425 630,2425 628,2425 605,2433 566,2425 564,2425 562,2425 538,2433 494,2425 492,2425 139,2430 140,2461" />
+      <Word id="l_0090-w_0001" text="Lesbos" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0002" text="(j." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0003" text="Mytilini)," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0004" text="Insel" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0005" text="w." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0006" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0007" text="Pasargadà," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0008" text="sö." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0009" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0090-w_0010" text="Persepolis." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0091" text="Phokàa.">
+      <Coords points="181,2507 181,2518 346,2518 346,2507 346,2482 266,2469 265,2469 263,2469 237,2479 193,2469 191,2469 189,2469 188,2469 188,2471 181,2477 181,2507" />
+      <Word id="l_0091-w_0001" text="Phokàa." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0092" text="Leuktra, s. v. Haliartos.">
+      <Coords points="140,2554 140,2567 579,2567 579,2554 579,2530 507,2518 505,2518 504,2518 482,2526 396,2518 394,2518 392,2518 391,2518 391,2520 381,2528 140,2523 140,2554" />
+      <Word id="l_0092-w_0001" text="Leuktra," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0092-w_0002" text="s." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0092-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0092-w_0004" text="Haliartos." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0093" text="Patrà a. d. nw. Küste v. Achaia.">
+      <Coords points="1371,2500 1364,2477 1343,2471 1342,2471 1340,2471 1338,2471 1315,2479 1306,2471 1304,2471 1302,2471 1301,2471 1299,2471 1278,2479 1270,2472 1270,2471 1268,2471 1266,2471 1265,2471 1178,2479 1081,2471 1080,2471 1078,2471 1076,2471 1076,2472 1068,2481 991,2481 973,2471 972,2471 970,2471 968,2471 967,2471 967,2472 959,2481 905,2481 896,2472 896,2471 895,2471 893,2471 810,2471 808,2471 806,2471 805,2471 798,2476 798,2505 798,2517 1373,2520 1374,2505 1374,2479 1371,2479 1371,2500" />
+      <Word id="l_0093-w_0001" text="Patrà" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0002" text="a." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0003" text="d." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0004" text="nw." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0005" text="Küste" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0006" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0093-w_0007" text="Achaia." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0094" text="Pelusion, n. v. Sues.">
+      <Coords points="798,2551 798,2564 1175,2567 1176,2551 1176,2528 1106,2517 1104,2517 1103,2517 1073,2528 960,2528 810,2517 808,2517 806,2517 805,2517 805,2518 798,2525 798,2551" />
+      <Word id="l_0094-w_0001" text="Pelusion," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0094-w_0002" text="n." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0094-w_0003" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0094-w_0004" text="Sues." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0095" text="Zeehe-Rebhann, Geschichte des Altertums.">
+      <Coords points="191,2608 191,2623 818,2618 818,2603 813,2582 189,2585 191,2608" />
+      <Word id="l_0095-w_0001" text="Zeehe-Rebhann," error_score="0.018" />
+      <Word id="l_0095-w_0002" text="Geschichte" error_score="0.018" />
+      <Word id="l_0095-w_0003" text="des" error_score="0.018" />
+      <Word id="l_0095-w_0004" text="Altertums." error_score="0.018" />
+    </TextLine>
+    <TextLine id="l_0096" text="13">
+      <Coords points="1315,2579 1294,2574 1292,2574 1291,2574 1289,2574 1270,2582 1273,2613 1273,2623 1320,2623 1320,2610 1317,2584 1315,2579" />
+      <Word id="l_0096-w_0001" text="13" error_score="0.134" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="461,255 1076,255 1116,292 998,318 672,325 458,305 461,255" />
+    <TextLine id="l_0097" text="Lage der im Texte angeführten Orte.">
+      <Coords points="1089,269 1076,256 1063,255 1057,255 1040,255 1024,255 1008,255 998,255 772,261 754,255 746,255 741,255 734,261 695,255 680,255 679,255 666,261 635,255 631,255 621,255 608,261 576,255 566,255 562,255 554,263 481,263 463,253 461,253 459,253 458,253 456,253 456,255 451,260 451,287 451,300 1094,300 1094,287 1094,273 1089,269" />
+      <Word id="l_0097-w_0001" text="Lage" error_score="0.000" />
+      <Word id="l_0097-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0097-w_0003" text="im" error_score="0.000" />
+      <Word id="l_0097-w_0004" text="Texte" error_score="0.000" />
+      <Word id="l_0097-w_0005" text="angeführten" error_score="0.000" />
+      <Word id="l_0097-w_0006" text="Orte." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="1335,255 1409,255 1415,305 1338,318 1306,292 1335,255" />
+    <TextLine id="l_0098" text="1ꝰ3">
+      <Coords points="1402,261 1373,255 1366,255 1358,255 1333,260 1333,291 1332,302 1409,305 1412,294 1412,281 1402,261" />
+      <Word id="l_0098-w_0001" text="1ꝰ3" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

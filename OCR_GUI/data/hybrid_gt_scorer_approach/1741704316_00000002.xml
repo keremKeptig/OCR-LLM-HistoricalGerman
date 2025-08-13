@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1741704316_00000002.bin.png" imageHeight="4348" imageWidth="2904" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="132,231 142,277 125,316 125,231 132,231" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1340,2135 1427,2318 1437,2538 1398,2731 1227,2751 1188,2654 1178,2164 1340,2135" />
+    <TextLine id="l_0001" text="">
+      <Coords points="1232,2485 1200,2485 1215,2664 1239,2664 1270,2657 1263,2483 1232,2485" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="2884,937 2901,1024 2894,1456 2858,1437 2838,1118 2884,937" />
+    <TextLine id="l_0002" text="A">
+      <Coords points="2901,1215 2901,1198 2882,1198 2848,1190 2848,1207 2879,1215 2901,1215" />
+      <Word id="l_0002-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0003" text="A">
+      <Coords points="2846,1263 2848,1287 2879,1287 2899,1285 2894,1241 2879,1241 2846,1241 2846,1263" />
+      <Word id="l_0003-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0004" text="">
+      <Coords points="2850,1338 2877,1347 2896,1347 2899,1328 2882,1326 2850,1318 2850,1338" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="2884,2154 2901,2164 2894,3195 2848,3157 2838,2828 2838,2434 2884,2154" />
+    <TextLine id="l_0005" text="A">
+      <Coords points="2877,2188 2879,2190 2901,2198 2901,2181 2887,2176 2877,2171 2877,2188" />
+      <Word id="l_0005-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0006" text="A">
+      <Coords points="2894,2847 2899,2439 2879,2439 2846,2437 2846,2843 2877,2847 2894,2847" />
+      <Word id="l_0006-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0007" text="A">
+      <Coords points="2867,2253 2862,2277 2882,2277 2901,2277 2901,2253 2901,2231 2882,2231 2870,2231 2867,2253" />
+      <Word id="l_0007-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0008" text="A">
+      <Coords points="2848,2372 2843,2388 2882,2398 2899,2398 2901,2362 2884,2362 2848,2359 2848,2372" />
+      <Word id="l_0008-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0009" text="A">
+      <Coords points="2896,3159 2899,2971 2884,2971 2853,2971 2853,3157 2884,3159 2896,3159" />
+      <Word id="l_0009-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="2875,3381 2901,3391 2901,4210 2848,4219 2838,3420 2875,3381" />
+    <TextLine id="l_0010" text="A">
+      <Coords points="2899,3459 2901,3420 2882,3420 2848,3415 2848,3454 2879,3459 2899,3459" />
+      <Word id="l_0010-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0011" text="A">
+      <Coords points="2901,4195 2901,4171 2901,4147 2901,4123 2901,4099 2901,4075 2901,4050 2901,4026 2901,4002 2901,3978 2901,3954 2901,3930 2901,3905 2901,3881 2901,3857 2901,3833 2901,3809 2901,3785 2901,3761 2901,3736 2901,3712 2901,3688 2901,3664 2901,3640 2901,3616 2901,3591 2901,3567 2901,3543 2901,3519 2901,3495 2901,3473 2879,3473 2846,3471 2846,4190 2877,4195 2901,4195" />
+      <Word id="l_0011-w_0001" text="A" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="2894,396 2901,780 2877,847 2848,828 2848,579 2894,396" />
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="2894,125 2901,335 2887,355 2858,154 2894,125" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="2877,1806 2894,1806 2901,1823 2867,1823 2877,1806" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="2877,2038 2901,2038 2894,2094 2867,2084 2877,2038" />
+  </TextRegion>
+</Page>

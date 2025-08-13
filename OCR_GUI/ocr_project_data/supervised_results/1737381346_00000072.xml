@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1737381346_00000072.bin.png" imageHeight="3020" imageWidth="1829" orientation="0.0" overwritePageError="0.05524732725048142">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="404,268 454,281 454,320 407,348 422,375 1827,389 1822,2662 241,2662 214,2615 214,2469 347,2462 349,2355 234,2353 208,2221 255,2181 349,2159 355,2026 340,2004 241,2004 214,1885 234,1812 355,1796 362,1550 214,1515 208,1335 347,1322 362,1293 362,1020 268,1011 221,971 214,865 362,830 369,583 234,555 221,402 234,382 380,375 382,275 404,268" />
+    <TextLine id="l_0001" text="64">
+      <Coords points="385,312 385,323 449,323 449,312 449,283 402,271 401,271 399,271 397,271 385,278 385,312" />
+      <Word id="l_0001-w_0001" text="64" />
+    </TextLine>
+    <TextLine id="l_0002" text="Athen ge-">
+      <Coords points="231,407 229,419 323,429 325,429 392,421 394,411 394,387 231,384 231,407" />
+      <Word id="l_0002-w_0001" text="Athen" />
+      <Word id="l_0002-w_0002" text="ge-" />
+    </TextLine>
+    <TextLine id="l_0003" text="winnt Ein.">
+      <Coords points="224,437 224,442 224,458 369,459 370,442 370,421 233,421 224,437" />
+      <Word id="l_0003-w_0001" text="winnt" />
+      <Word id="l_0003-w_0002" text="Ein." />
+    </TextLine>
+    <TextLine id="l_0004" text="fluß im">
+      <Coords points="250,479 250,491 362,488 362,476 357,456 248,458 250,479" />
+      <Word id="l_0004-w_0001" text="fluß" />
+      <Word id="l_0004-w_0002" text="im" />
+    </TextLine>
+    <TextLine id="l_0005" text="In ihren Kreis trat durch Peisistratos auch Athen: es kam dadurch in">
+      <Coords points="479,414 478,429 1813,437 1817,422 1815,394 479,385 479,414" />
+      <Word id="l_0005-w_0001" text="In" />
+      <Word id="l_0005-w_0002" text="ihren" />
+      <Word id="l_0005-w_0003" text="Kreis" />
+      <Word id="l_0005-w_0004" text="trat" />
+      <Word id="l_0005-w_0005" text="durch" />
+      <Word id="l_0005-w_0006" text="Peisistratos" />
+      <Word id="l_0005-w_0007" text="auch" />
+      <Word id="l_0005-w_0008" text="Athen:" />
+      <Word id="l_0005-w_0009" text="es" />
+      <Word id="l_0005-w_0010" text="kam" />
+      <Word id="l_0005-w_0011" text="dadurch" />
+      <Word id="l_0005-w_0012" text="in" />
+    </TextLine>
+    <TextLine id="l_0006" text="die Lage, seine Macht auszudehnen. Peisistratos selbst hatte in Thrakien">
+      <Coords points="385,466 384,479 1815,491 1818,473 1817,446 385,436 385,466" />
+      <Word id="l_0006-w_0001" text="die" />
+      <Word id="l_0006-w_0002" text="Lage," />
+      <Word id="l_0006-w_0003" text="seine" />
+      <Word id="l_0006-w_0004" text="Macht" />
+      <Word id="l_0006-w_0005" text="auszudehnen." />
+      <Word id="l_0006-w_0006" text="Peisistratos" />
+      <Word id="l_0006-w_0007" text="selbst" />
+      <Word id="l_0006-w_0008" text="hatte" />
+      <Word id="l_0006-w_0009" text="in" />
+      <Word id="l_0006-w_0010" text="Thrakien" />
+    </TextLine>
+    <TextLine id="l_0007" text="Agaischen und in der Troas einen wertvollen Privatbesitz, ein anderer attischer Adeliger,">
+      <Coords points="231,513 229,528 1815,548 1818,528 1817,496 1656,503 1595,494 1594,494 1592,494 1590,494 1578,503 1563,494 1562,494 1560,494 1339,499 1323,491 1322,491 1320,491 1318,491 1260,499 1067,488 1065,488 1063,488 1043,496 981,488 979,488 916,496 798,496 780,486 778,486 776,486 656,493 615,483 614,483 612,483 610,483 594,491 550,483 548,483 547,483 525,491 453,481 451,481 449,481 424,489 231,486 231,513" />
+      <Word id="l_0007-w_0001" text="Agaischen" />
+      <Word id="l_0007-w_0002" text="und" />
+      <Word id="l_0007-w_0003" text="in" />
+      <Word id="l_0007-w_0004" text="der" />
+      <Word id="l_0007-w_0005" text="Troas" />
+      <Word id="l_0007-w_0006" text="einen" />
+      <Word id="l_0007-w_0007" text="wertvollen" />
+      <Word id="l_0007-w_0008" text="Privatbesitz," />
+      <Word id="l_0007-w_0009" text="ein" />
+      <Word id="l_0007-w_0010" text="anderer" />
+      <Word id="l_0007-w_0011" text="attischer" />
+      <Word id="l_0007-w_0012" text="Adeliger," />
+    </TextLine>
+    <TextLine id="l_0008" text="Meere.">
+      <Coords points="251,546 250,560 349,565 352,551 352,528 251,523 251,546" />
+      <Word id="l_0008-w_0001" text="Meere." />
+    </TextLine>
+    <TextLine id="l_0009" text="Miltiades, schuf sich während seiner Herrschaft auf dem Chersones ein">
+      <Coords points="380,568 379,582 1813,595 1817,577 1812,546 1662,557 1570,557 1555,545 1553,545 1552,545 1550,545 1488,555 1439,543 1438,543 1436,543 1330,553 1305,541 1303,541 1302,541 1300,541 1276,551 1256,541 1255,541 1253,541 1251,541 1250,541 1234,553 1188,553 1172,541 1171,541 1169,541 1167,541 1078,550 1052,540 1050,540 1048,540 1047,540 1005,550 991,540 990,540 988,540 986,540 984,540 964,548 882,538 880,538 827,548 783,536 781,536 780,536 778,536 758,546 738,536 736,536 734,536 733,536 703,546 689,536 687,536 686,536 684,536 682,536 662,546 575,546 552,535 550,535 548,535 547,535 518,543 496,535 495,535 493,535 380,536 380,568" />
+      <Word id="l_0009-w_0001" text="Miltiades," />
+      <Word id="l_0009-w_0002" text="schuf" />
+      <Word id="l_0009-w_0003" text="sich" />
+      <Word id="l_0009-w_0004" text="während" />
+      <Word id="l_0009-w_0005" text="seiner" />
+      <Word id="l_0009-w_0006" text="Herrschaft" />
+      <Word id="l_0009-w_0007" text="auf" />
+      <Word id="l_0009-w_0008" text="dem" />
+      <Word id="l_0009-w_0009" text="Chersones" />
+      <Word id="l_0009-w_0010" text="ein" />
+    </TextLine>
+    <TextLine id="l_0010" text="kleines selbständiges Reich; Athener beherrschten also beide Ufer des Hellespont.">
+      <Coords points="379,622 377,637 1813,644 1817,629 1815,602 379,590 379,622" />
+      <Word id="l_0010-w_0001" text="kleines" />
+      <Word id="l_0010-w_0002" text="selbständiges" />
+      <Word id="l_0010-w_0003" text="Reich;" />
+      <Word id="l_0010-w_0004" text="Athener" />
+      <Word id="l_0010-w_0005" text="beherrschten" />
+      <Word id="l_0010-w_0006" text="also" />
+      <Word id="l_0010-w_0007" text="beide" />
+      <Word id="l_0010-w_0008" text="Ufer" />
+      <Word id="l_0010-w_0009" text="des" />
+      <Word id="l_0010-w_0010" text="Hellespont." />
+    </TextLine>
+    <TextLine id="l_0011" text="Auf Delos, dem religiösen Mittelpunkte der Kykladen, nahm Peisistratos eine">
+      <Coords points="379,674 377,687 1011,701 1013,701 1219,694 1250,702 1251,702 1253,702 1817,696 1818,682 1817,649 379,649 379,674" />
+      <Word id="l_0011-w_0001" text="Auf" />
+      <Word id="l_0011-w_0002" text="Delos," />
+      <Word id="l_0011-w_0003" text="dem" />
+      <Word id="l_0011-w_0004" text="religiösen" />
+      <Word id="l_0011-w_0005" text="Mittelpunkte" />
+      <Word id="l_0011-w_0006" text="der" />
+      <Word id="l_0011-w_0007" text="Kykladen," />
+      <Word id="l_0011-w_0008" text="nahm" />
+      <Word id="l_0011-w_0009" text="Peisistratos" />
+      <Word id="l_0011-w_0010" text="eine" />
+    </TextLine>
+    <TextLine id="l_0012" text="religiöse Reinigung auf Grund von Orakelsprüchen vor. Athen, das noch vor">
+      <Coords points="379,724 377,736 437,746 439,748 1436,748 1478,756 1479,756 1818,749 1820,728 1817,704 1508,709 1458,699 1456,699 1454,699 1453,699 1439,709 1308,709 1260,697 1258,697 1171,706 1157,697 1156,697 1154,697 1152,697 1151,697 1129,704 1053,696 1052,696 1050,696 1048,696 1035,706 959,706 941,694 939,694 937,694 936,694 867,702 840,694 838,694 837,694 835,694 833,694 823,702 813,694 812,694 810,694 808,694 671,701 548,691 547,691 545,691 510,699 436,689 434,689 379,697 379,724" />
+      <Word id="l_0012-w_0001" text="religiöse" />
+      <Word id="l_0012-w_0002" text="Reinigung" />
+      <Word id="l_0012-w_0003" text="auf" />
+      <Word id="l_0012-w_0004" text="Grund" />
+      <Word id="l_0012-w_0005" text="von" />
+      <Word id="l_0012-w_0006" text="Orakelsprüchen" />
+      <Word id="l_0012-w_0007" text="vor." />
+      <Word id="l_0012-w_0008" text="Athen," />
+      <Word id="l_0012-w_0009" text="das" />
+      <Word id="l_0012-w_0010" text="noch" />
+      <Word id="l_0012-w_0011" text="vor" />
+    </TextLine>
+    <TextLine id="l_0013" text="kurzem mit Megara um das vor seinem Hafen gelegene Salamis gestritten">
+      <Coords points="379,776 377,790 620,791 672,803 674,803 954,795 1003,803 1005,803 1169,796 1406,807 1407,807 1483,798 1531,808 1533,808 1818,798 1820,785 1817,751 1555,760 1505,749 1503,749 1501,749 1500,749 1485,760 1375,760 1355,749 1354,749 1352,749 1350,749 1349,749 1335,760 1258,760 1246,748 1245,748 1243,748 1241,748 961,756 887,746 885,746 884,746 857,756 679,756 667,744 666,744 664,744 662,744 513,753 379,744 379,776" />
+      <Word id="l_0013-w_0001" text="kurzem" />
+      <Word id="l_0013-w_0002" text="mit" />
+      <Word id="l_0013-w_0003" text="Megara" />
+      <Word id="l_0013-w_0004" text="um" />
+      <Word id="l_0013-w_0005" text="das" />
+      <Word id="l_0013-w_0006" text="vor" />
+      <Word id="l_0013-w_0007" text="seinem" />
+      <Word id="l_0013-w_0008" text="Hafen" />
+      <Word id="l_0013-w_0009" text="gelegene" />
+      <Word id="l_0013-w_0010" text="Salamis" />
+      <Word id="l_0013-w_0011" text="gestritten" />
+    </TextLine>
+    <TextLine id="l_0014" text="hatte, gewann also jetat entscheidenden Einfluß im Agäischen Meer.">
+      <Coords points="380,828 379,842 1637,853 1641,840 1639,813 1560,803 1558,803 1474,812 1464,803 1464,801 1463,801 1461,801 1459,801 1458,801 1441,810 1344,801 1342,801 1295,810 1283,800 1281,800 1280,800 1278,800 1276,800 1275,800 1265,808 1255,800 1253,800 1251,800 1250,800 1172,808 1125,800 1124,800 1122,800 1100,808 1062,798 1060,798 1058,798 949,807 891,796 889,796 823,805 813,796 812,796 810,796 808,796 562,803 380,795 380,828" />
+      <Word id="l_0014-w_0001" text="hatte," />
+      <Word id="l_0014-w_0002" text="gewann" />
+      <Word id="l_0014-w_0003" text="also" />
+      <Word id="l_0014-w_0004" text="jetat" />
+      <Word id="l_0014-w_0005" text="entscheidenden" />
+      <Word id="l_0014-w_0006" text="Einfluß" />
+      <Word id="l_0014-w_0007" text="im" />
+      <Word id="l_0014-w_0008" text="Agäischen" />
+      <Word id="l_0014-w_0009" text="Meer." />
+    </TextLine>
+    <TextLine id="l_0015" text="Innere Poli-">
+      <Coords points="233,860 216,864 216,882 214,895 384,900 387,889 385,865 234,859 233,860" />
+      <Word id="l_0015-w_0001" text="Innere" />
+      <Word id="l_0015-w_0002" text="Poli-" />
+    </TextLine>
+    <TextLine id="l_0016" text="tik des">
+      <Coords points="244,917 243,927 354,931 357,921 355,894 244,894 244,917" />
+      <Word id="l_0016-w_0001" text="tik" />
+      <Word id="l_0016-w_0002" text="des" />
+    </TextLine>
+    <TextLine id="l_0017" text="Peisistra-">
+      <Coords points="228,954 228,969 360,968 360,951 355,927 226,929 228,954" />
+      <Word id="l_0017-w_0001" text="Peisistra-" />
+    </TextLine>
+    <TextLine id="l_0018" text="tos.">
+      <Coords points="266,989 266,1004 332,1004 332,989 332,968 266,968 266,989" />
+      <Word id="l_0018-w_0001" text="tos." />
+    </TextLine>
+    <TextLine id="l_0019" text="Aber auch daheim wirkte Peisistratos segensreich. In Attika ließ er sieb">
+      <Coords points="473,887 471,900 1370,917 1372,917 1817,911 1818,897 1815,864 1595,870 1565,862 1563,862 473,862 473,887" />
+      <Word id="l_0019-w_0001" text="Aber" />
+      <Word id="l_0019-w_0002" text="auch" />
+      <Word id="l_0019-w_0003" text="daheim" />
+      <Word id="l_0019-w_0004" text="wirkte" />
+      <Word id="l_0019-w_0005" text="Peisistratos" />
+      <Word id="l_0019-w_0006" text="segensreich." />
+      <Word id="l_0019-w_0007" text="In" />
+      <Word id="l_0019-w_0008" text="Attika" />
+      <Word id="l_0019-w_0009" text="ließ" />
+      <Word id="l_0019-w_0010" text="er" />
+      <Word id="l_0019-w_0011" text="sieb" />
+    </TextLine>
+    <TextLine id="l_0020" text="die Fürsorge für den Bauernstand angelegen sein, in Athen beschäftigte">
+      <Coords points="379,941 377,952 1578,971 1580,971 1817,963 1818,951 1815,916 1637,924 1619,916 1617,916 1615,916 1614,916 1578,924 1525,914 1523,914 1350,922 1335,912 1333,912 1332,912 1330,912 1328,912 1312,921 1184,912 1182,912 1100,921 1077,911 1075,911 1073,911 1072,911 1045,919 990,911 988,911 986,911 956,919 813,909 812,909 770,917 728,909 726,909 724,909 698,917 667,909 666,909 664,909 622,917 505,907 503,907 379,911 379,941" />
+      <Word id="l_0020-w_0001" text="die" />
+      <Word id="l_0020-w_0002" text="Fürsorge" />
+      <Word id="l_0020-w_0003" text="für" />
+      <Word id="l_0020-w_0004" text="den" />
+      <Word id="l_0020-w_0005" text="Bauernstand" />
+      <Word id="l_0020-w_0006" text="angelegen" />
+      <Word id="l_0020-w_0007" text="sein," />
+      <Word id="l_0020-w_0008" text="in" />
+      <Word id="l_0020-w_0009" text="Athen" />
+      <Word id="l_0020-w_0010" text="beschäftigte" />
+    </TextLine>
+    <TextLine id="l_0021" text="er durch große Tempelbauten und die Anlage einer Wasserleitung die Gewerbe-">
+      <Coords points="375,991 374,1004 746,1016 748,1016 1089,1011 1167,1020 1169,1020 1328,1013 1349,1021 1350,1021 1352,1021 1815,1015 1817,1001 1817,976 1782,968 1780,968 1778,968 1733,976 1683,968 1681,968 1679,968 1652,976 1619,968 1617,968 1615,968 1506,974 1486,966 1485,966 1483,966 1377,974 1339,964 1337,964 1335,964 1333,964 1313,973 1255,964 1253,964 1251,964 1229,973 1154,964 1152,964 1078,971 1065,963 1063,963 1062,963 1060,963 1021,971 1010,963 1008,963 1006,963 1005,963 892,971 817,961 815,961 773,969 704,961 703,961 545,968 533,959 531,959 530,959 528,959 375,966 375,991" />
+      <Word id="l_0021-w_0001" text="er" />
+      <Word id="l_0021-w_0002" text="durch" />
+      <Word id="l_0021-w_0003" text="große" />
+      <Word id="l_0021-w_0004" text="Tempelbauten" />
+      <Word id="l_0021-w_0005" text="und" />
+      <Word id="l_0021-w_0006" text="die" />
+      <Word id="l_0021-w_0007" text="Anlage" />
+      <Word id="l_0021-w_0008" text="einer" />
+      <Word id="l_0021-w_0009" text="Wasserleitung" />
+      <Word id="l_0021-w_0010" text="die" />
+      <Word id="l_0021-w_0011" text="Gewerbe-" />
+    </TextLine>
+    <TextLine id="l_0022" text="treibenden, Handwerker und Arbeiter, er zog Künstler und Dichter an seinen">
+      <Coords points="375,1043 374,1057 1335,1073 1337,1073 1815,1067 1817,1053 1815,1028 375,1018 375,1043" />
+      <Word id="l_0022-w_0001" text="treibenden," />
+      <Word id="l_0022-w_0002" text="Handwerker" />
+      <Word id="l_0022-w_0003" text="und" />
+      <Word id="l_0022-w_0004" text="Arbeiter," />
+      <Word id="l_0022-w_0005" text="er" />
+      <Word id="l_0022-w_0006" text="zog" />
+      <Word id="l_0022-w_0007" text="Künstler" />
+      <Word id="l_0022-w_0008" text="und" />
+      <Word id="l_0022-w_0009" text="Dichter" />
+      <Word id="l_0022-w_0010" text="an" />
+      <Word id="l_0022-w_0011" text="seinen" />
+    </TextLine>
+    <TextLine id="l_0023" text="Hof und begnügte sich mit einer geringen Abgabe für dessen Unterhalt. Die">
+      <Coords points="375,1095 374,1109 615,1120 617,1120 1813,1119 1815,1105 1813,1078 375,1063 375,1095" />
+      <Word id="l_0023-w_0001" text="Hof" />
+      <Word id="l_0023-w_0002" text="und" />
+      <Word id="l_0023-w_0003" text="begnügte" />
+      <Word id="l_0023-w_0004" text="sich" />
+      <Word id="l_0023-w_0005" text="mit" />
+      <Word id="l_0023-w_0006" text="einer" />
+      <Word id="l_0023-w_0007" text="geringen" />
+      <Word id="l_0023-w_0008" text="Abgabe" />
+      <Word id="l_0023-w_0009" text="für" />
+      <Word id="l_0023-w_0010" text="dessen" />
+      <Word id="l_0023-w_0011" text="Unterhalt." />
+      <Word id="l_0023-w_0012" text="Die" />
+    </TextLine>
+    <TextLine id="l_0024" text="solonische Verfassung ließ er äußerlich bestehen, nur sorgte er dafür.">
+      <Coords points="372,1145 370,1159 1404,1177 1406,1177 1815,1171 1817,1157 1813,1125 1404,1130 1077,1119 1075,1119 1003,1127 991,1117 990,1117 988,1117 922,1117 921,1117 919,1117 917,1117 904,1127 793,1127 639,1115 637,1115 635,1115 600,1124 577,1114 575,1114 573,1114 572,1114 548,1122 429,1114 427,1114 372,1122 372,1145" />
+      <Word id="l_0024-w_0001" text="solonische" />
+      <Word id="l_0024-w_0002" text="Verfassung" />
+      <Word id="l_0024-w_0003" text="ließ" />
+      <Word id="l_0024-w_0004" text="er" />
+      <Word id="l_0024-w_0005" text="äußerlich" />
+      <Word id="l_0024-w_0006" text="bestehen," />
+      <Word id="l_0024-w_0007" text="nur" />
+      <Word id="l_0024-w_0008" text="sorgte" />
+      <Word id="l_0024-w_0009" text="er" />
+      <Word id="l_0024-w_0010" text="dafür." />
+    </TextLine>
+    <TextLine id="l_0025" text="daß die Beamtenstellen in die Hände seiner Anhänger kamen. So konnte">
+      <Coords points="374,1199 372,1211 1404,1229 1406,1229 1813,1223 1815,1211 1812,1182 1479,1182 1464,1174 1463,1174 1461,1174 1459,1174 1406,1182 1312,1172 1310,1172 1308,1172 1290,1181 1276,1172 1275,1172 1273,1172 1271,1172 1199,1181 1182,1171 1181,1171 1179,1171 1177,1171 1176,1171 1152,1179 1087,1171 1085,1171 964,1177 951,1169 949,1169 948,1169 946,1169 817,1177 780,1167 778,1167 776,1167 704,1176 578,1166 577,1166 538,1174 506,1166 505,1166 503,1166 374,1172 374,1199" />
+      <Word id="l_0025-w_0001" text="daß" />
+      <Word id="l_0025-w_0002" text="die" />
+      <Word id="l_0025-w_0003" text="Beamtenstellen" />
+      <Word id="l_0025-w_0004" text="in" />
+      <Word id="l_0025-w_0005" text="die" />
+      <Word id="l_0025-w_0006" text="Hände" />
+      <Word id="l_0025-w_0007" text="seiner" />
+      <Word id="l_0025-w_0008" text="Anhänger" />
+      <Word id="l_0025-w_0009" text="kamen." />
+      <Word id="l_0025-w_0010" text="So" />
+      <Word id="l_0025-w_0011" text="konnte" />
+    </TextLine>
+    <TextLine id="l_0026" text="Peisistratos die Herrschaft unangefochten seinen beiden Söhnen Hippias und">
+      <Coords points="374,1253 372,1266 954,1280 956,1280 1142,1273 1238,1281 1240,1281 1813,1275 1815,1261 1812,1226 1617,1234 1560,1226 1558,1226 1557,1226 1526,1234 1459,1224 1458,1224 1240,1233 1193,1223 1191,1223 1189,1223 1169,1231 1053,1223 1052,1223 1050,1223 1028,1231 1008,1223 1006,1223 1005,1223 958,1231 867,1231 854,1221 852,1221 850,1221 374,1221 374,1253" />
+      <Word id="l_0026-w_0001" text="Peisistratos" />
+      <Word id="l_0026-w_0002" text="die" />
+      <Word id="l_0026-w_0003" text="Herrschaft" />
+      <Word id="l_0026-w_0004" text="unangefochten" />
+      <Word id="l_0026-w_0005" text="seinen" />
+      <Word id="l_0026-w_0006" text="beiden" />
+      <Word id="l_0026-w_0007" text="Söhnen" />
+      <Word id="l_0026-w_0008" text="Hippias" />
+      <Word id="l_0026-w_0009" text="und" />
+    </TextLine>
+    <TextLine id="l_0027" text="Hipparchos hinterlassen.">
+      <Coords points="375,1306 375,1322 887,1322 887,1306 887,1283 798,1283 783,1271 781,1271 780,1271 778,1271 776,1271 751,1281 698,1271 696,1271 694,1271 652,1283 595,1283 585,1273 585,1271 583,1271 582,1271 580,1271 578,1271 547,1281 375,1275 375,1306" />
+      <Word id="l_0027-w_0001" text="Hipparchos" />
+      <Word id="l_0027-w_0002" text="hinterlassen." />
+    </TextLine>
+    <TextLine id="l_0028" text="Vertreibung">
+      <Coords points="211,1360 209,1372 317,1384 318,1384 390,1375 392,1364 390,1340 211,1337 211,1360" />
+      <Word id="l_0028-w_0001" text="Vertreibung" />
+    </TextLine>
+    <TextLine id="l_0029" text="des Hippias">
+      <Coords points="213,1394 211,1407 367,1414 370,1397 369,1374 213,1370 213,1394" />
+      <Word id="l_0029-w_0001" text="des" />
+      <Word id="l_0029-w_0002" text="Hippias" />
+    </TextLine>
+    <TextLine id="l_0030" text="510 v. Chr.">
+      <Coords points="213,1427 211,1441 360,1449 364,1431 362,1409 213,1405 213,1427" />
+      <Word id="l_0030-w_0001" text="510" />
+      <Word id="l_0030-w_0002" text="v." />
+      <Word id="l_0030-w_0003" text="Chr." />
+    </TextLine>
+    <TextLine id="l_0031" text="Einer der Brüder bekam jedoch mit zwei jungen Athenern, Harmodios">
+      <Coords points="469,1365 468,1379 937,1392 939,1392 1563,1389 1595,1397 1597,1397 1599,1397 1817,1389 1818,1375 1817,1348 1736,1340 1735,1340 1733,1340 1731,1340 1719,1350 1619,1350 1595,1338 1594,1338 1592,1338 1443,1347 1396,1338 1394,1338 1392,1338 1372,1347 1271,1347 1260,1337 1258,1337 1256,1337 1255,1337 1253,1337 1251,1337 1240,1345 1228,1337 1226,1337 1224,1337 1223,1337 1149,1345 1134,1335 1132,1335 1130,1335 1129,1335 1127,1335 1094,1343 1043,1335 1042,1335 1040,1335 1018,1343 859,1333 857,1333 792,1342 694,1332 693,1332 469,1337 469,1365" />
+      <Word id="l_0031-w_0001" text="Einer" />
+      <Word id="l_0031-w_0002" text="der" />
+      <Word id="l_0031-w_0003" text="Brüder" />
+      <Word id="l_0031-w_0004" text="bekam" />
+      <Word id="l_0031-w_0005" text="jedoch" />
+      <Word id="l_0031-w_0006" text="mit" />
+      <Word id="l_0031-w_0007" text="zwei" />
+      <Word id="l_0031-w_0008" text="jungen" />
+      <Word id="l_0031-w_0009" text="Athenern," />
+      <Word id="l_0031-w_0010" text="Harmodios" />
+    </TextLine>
+    <TextLine id="l_0032" text="und Aristogeiton, Händel. Eine Verschwörung bildete sich und Hipparchos">
+      <Coords points="384,1416 382,1429 1406,1446 1407,1446 1535,1439 1619,1447 1620,1447 1813,1439 1815,1427 1813,1399 384,1387 384,1416" />
+      <Word id="l_0032-w_0001" text="und" />
+      <Word id="l_0032-w_0002" text="Aristogeiton," />
+      <Word id="l_0032-w_0003" text="Händel." />
+      <Word id="l_0032-w_0004" text="Eine" />
+      <Word id="l_0032-w_0005" text="Verschwörung" />
+      <Word id="l_0032-w_0006" text="bildete" />
+      <Word id="l_0032-w_0007" text="sich" />
+      <Word id="l_0032-w_0008" text="und" />
+      <Word id="l_0032-w_0009" text="Hipparchos" />
+    </TextLine>
+    <TextLine id="l_0033" text="dureh die wurde bei der Festprozession zu Ehren der Stadtgöttin Athena (Panathenäen)">
+      <Coords points="219,1463 218,1478 1812,1493 1815,1478 1812,1444 1641,1452 1600,1442 1599,1442 1597,1442 1485,1451 1434,1441 1432,1441 1431,1441 1429,1441 1416,1449 1318,1441 1317,1441 1315,1441 1297,1449 1275,1439 1273,1439 1271,1439 1159,1447 1134,1439 1132,1439 1130,1439 1129,1439 1107,1447 1035,1437 1033,1437 979,1446 872,1436 870,1436 755,1444 733,1434 731,1434 729,1434 646,1442 563,1432 562,1432 495,1441 469,1432 468,1432 466,1432 219,1437 219,1463" />
+      <Word id="l_0033-w_0001" text="dureh" />
+      <Word id="l_0033-w_0002" text="die" />
+      <Word id="l_0033-w_0003" text="wurde" />
+      <Word id="l_0033-w_0004" text="bei" />
+      <Word id="l_0033-w_0005" text="der" />
+      <Word id="l_0033-w_0006" text="Festprozession" />
+      <Word id="l_0033-w_0007" text="zu" />
+      <Word id="l_0033-w_0008" text="Ehren" />
+      <Word id="l_0033-w_0009" text="der" />
+      <Word id="l_0033-w_0010" text="Stadtgöttin" />
+      <Word id="l_0033-w_0011" text="Athena" />
+      <Word id="l_0033-w_0012" text="(Panathenäen)" />
+    </TextLine>
+    <TextLine id="l_0034" text="Spartaner getötet. Mißtrauisch gemacht, regierte nun Hippias härter als bisher; die">
+      <Coords points="219,1501 218,1526 355,1528 374,1541 375,1541 377,1541 379,1541 518,1531 927,1546 929,1546 931,1546 959,1535 998,1546 1000,1546 1001,1546 1203,1538 1261,1550 1263,1550 1397,1538 1422,1548 1424,1548 1515,1550 1516,1550 1518,1550 1520,1550 1535,1540 1582,1550 1584,1550 1585,1550 1587,1550 1600,1540 1620,1553 1622,1553 1624,1553 1625,1553 1812,1540 1813,1530 1813,1503 1795,1493 1793,1493 1792,1493 1679,1503 1615,1493 1614,1493 1612,1493 1587,1501 1572,1491 1570,1491 1568,1491 1567,1491 1565,1491 1563,1491 1547,1501 1427,1493 1426,1493 1354,1499 1340,1491 1339,1491 1337,1491 1335,1491 1275,1499 1226,1488 1224,1488 1223,1488 1221,1488 1198,1499 1053,1499 1035,1488 1033,1488 1031,1488 1030,1488 941,1496 902,1486 901,1486 899,1486 897,1486 854,1496 765,1496 748,1484 746,1484 745,1484 743,1484 741,1484 721,1494 706,1484 704,1484 703,1484 701,1484 654,1493 632,1483 630,1483 629,1483 510,1493 495,1483 493,1483 491,1483 489,1483 379,1489 365,1481 364,1481 362,1481 219,1479 219,1501" />
+      <Word id="l_0034-w_0001" text="Spartaner" />
+      <Word id="l_0034-w_0002" text="getötet." />
+      <Word id="l_0034-w_0003" text="Mißtrauisch" />
+      <Word id="l_0034-w_0004" text="gemacht," />
+      <Word id="l_0034-w_0005" text="regierte" />
+      <Word id="l_0034-w_0006" text="nun" />
+      <Word id="l_0034-w_0007" text="Hippias" />
+      <Word id="l_0034-w_0008" text="härter" />
+      <Word id="l_0034-w_0009" text="als" />
+      <Word id="l_0034-w_0010" text="bisher;" />
+      <Word id="l_0034-w_0011" text="die" />
+    </TextLine>
+    <TextLine id="l_0035" text="Ausge-">
+      <Coords points="238,1837 238,1847 297,1857 298,1857 357,1847 357,1837 357,1815 238,1815 238,1837" />
+      <Word id="l_0035-w_0001" text="Ausge-" />
+    </TextLine>
+    <TextLine id="l_0036" text="staltung">
+      <Coords points="228,1869 226,1882 347,1889 350,1872 349,1848 228,1845 228,1869" />
+      <Word id="l_0036-w_0001" text="staltung" />
+    </TextLine>
+    <TextLine id="l_0037" text="der Demo">
+      <Coords points="219,1905 219,1919 359,1917 359,1900 354,1880 218,1884 219,1905" />
+      <Word id="l_0037-w_0001" text="der" />
+      <Word id="l_0037-w_0002" text="Demo" />
+    </TextLine>
+    <TextLine id="l_0038" text="Alkmeoniden und andere adelige Familien verließen wiederum Athen-">
+      <Coords points="374,1572 372,1583 1812,1595 1815,1583 1813,1558 1729,1548 1728,1548 1614,1556 1562,1546 1560,1546 1431,1555 1404,1545 1402,1545 1401,1545 1298,1553 1196,1553 1181,1543 1179,1543 1177,1543 1067,1543 1065,1543 1063,1543 1062,1543 1050,1551 990,1541 988,1541 926,1550 835,1541 833,1541 788,1550 776,1540 775,1540 773,1540 771,1540 699,1548 632,1540 630,1540 374,1545 374,1572" />
+      <Word id="l_0038-w_0001" text="Alkmeoniden" />
+      <Word id="l_0038-w_0002" text="und" />
+      <Word id="l_0038-w_0003" text="andere" />
+      <Word id="l_0038-w_0004" text="adelige" />
+      <Word id="l_0038-w_0005" text="Familien" />
+      <Word id="l_0038-w_0006" text="verließen" />
+      <Word id="l_0038-w_0007" text="wiederum" />
+      <Word id="l_0038-w_0008" text="Athen-" />
+    </TextLine>
+    <TextLine id="l_0039" text="So kam es, daß die Spartaner auf Betreiben dieser flüchtigen attischen">
+      <Coords points="374,1624 372,1634 562,1635 592,1647 594,1647 595,1647 597,1647 620,1639 817,1639 837,1649 838,1649 840,1649 1105,1642 1198,1652 1199,1652 1312,1644 1402,1654 1404,1654 1406,1654 1427,1645 1612,1655 1614,1655 1615,1655 1639,1647 1661,1655 1662,1655 1664,1655 1812,1645 1813,1635 1812,1610 1761,1600 1760,1600 1758,1600 1738,1608 1713,1600 1711,1600 1709,1600 1610,1608 1560,1598 1558,1598 1419,1607 1349,1597 1347,1597 1246,1605 1169,1595 1167,1595 996,1603 916,1593 914,1593 792,1602 776,1592 775,1592 773,1592 771,1592 729,1600 708,1592 706,1592 704,1592 635,1600 374,1593 374,1624" />
+      <Word id="l_0039-w_0001" text="So" />
+      <Word id="l_0039-w_0002" text="kam" />
+      <Word id="l_0039-w_0003" text="es," />
+      <Word id="l_0039-w_0004" text="daß" />
+      <Word id="l_0039-w_0005" text="die" />
+      <Word id="l_0039-w_0006" text="Spartaner" />
+      <Word id="l_0039-w_0007" text="auf" />
+      <Word id="l_0039-w_0008" text="Betreiben" />
+      <Word id="l_0039-w_0009" text="dieser" />
+      <Word id="l_0039-w_0010" text="flüchtigen" />
+      <Word id="l_0039-w_0011" text="attischen" />
+    </TextLine>
+    <TextLine id="l_0040" text="Adelsfamilien ein Heer absandten und die Peisistratiden im Jahre 510 v. Chr.">
+      <Coords points="372,1676 370,1689 1810,1702 1813,1689 1813,1662 1778,1652 1776,1652 1775,1652 1733,1661 1620,1652 1619,1652 1547,1659 1535,1650 1533,1650 1531,1650 1530,1650 1454,1659 1429,1649 1427,1649 1426,1649 1424,1649 1422,1649 1411,1657 1332,1649 1330,1649 1283,1657 1245,1647 1243,1647 1241,1647 1135,1655 1068,1645 1067,1645 1065,1645 1042,1654 926,1645 924,1645 857,1652 845,1644 844,1644 842,1644 840,1644 755,1652 733,1642 731,1642 729,1642 587,1650 553,1640 552,1640 550,1640 372,1647 372,1676" />
+      <Word id="l_0040-w_0001" text="Adelsfamilien" />
+      <Word id="l_0040-w_0002" text="ein" />
+      <Word id="l_0040-w_0003" text="Heer" />
+      <Word id="l_0040-w_0004" text="absandten" />
+      <Word id="l_0040-w_0005" text="und" />
+      <Word id="l_0040-w_0006" text="die" />
+      <Word id="l_0040-w_0007" text="Peisistratiden" />
+      <Word id="l_0040-w_0008" text="im" />
+      <Word id="l_0040-w_0009" text="Jahre" />
+      <Word id="l_0040-w_0010" text="510" />
+      <Word id="l_0040-w_0011" text="v." />
+      <Word id="l_0040-w_0012" text="Chr." />
+    </TextLine>
+    <TextLine id="l_0041" text="verjagten. Hippias suchte nun Rückhalt am persischen Hofe zu gewinnen">
+      <Coords points="374,1726 372,1739 427,1751 429,1751 552,1743 672,1753 674,1753 734,1744 805,1754 807,1754 889,1746 912,1754 914,1754 916,1754 1172,1749 1273,1759 1275,1759 1451,1751 1508,1761 1510,1761 1575,1753 1704,1763 1706,1763 1812,1753 1813,1739 1812,1714 374,1702 374,1726" />
+      <Word id="l_0041-w_0001" text="verjagten." />
+      <Word id="l_0041-w_0002" text="Hippias" />
+      <Word id="l_0041-w_0003" text="suchte" />
+      <Word id="l_0041-w_0004" text="nun" />
+      <Word id="l_0041-w_0005" text="Rückhalt" />
+      <Word id="l_0041-w_0006" text="am" />
+      <Word id="l_0041-w_0007" text="persischen" />
+      <Word id="l_0041-w_0008" text="Hofe" />
+      <Word id="l_0041-w_0009" text="zu" />
+      <Word id="l_0041-w_0010" text="gewinnen" />
+    </TextLine>
+    <TextLine id="l_0042" text="und begab sich nach Susa.">
+      <Coords points="372,1776 370,1788 498,1800 500,1800 570,1793 590,1801 592,1801 594,1801 766,1796 781,1805 783,1805 785,1805 786,1805 872,1796 874,1785 872,1759 808,1759 800,1751 800,1749 798,1749 797,1749 795,1749 753,1756 745,1749 745,1748 743,1748 741,1748 739,1748 652,1754 644,1748 644,1746 642,1746 640,1746 639,1746 573,1754 557,1744 555,1744 553,1744 552,1744 486,1753 474,1743 473,1743 471,1743 469,1743 468,1743 466,1743 454,1751 446,1743 444,1743 442,1743 441,1743 372,1749 372,1776" />
+      <Word id="l_0042-w_0001" text="und" />
+      <Word id="l_0042-w_0002" text="begab" />
+      <Word id="l_0042-w_0003" text="sich" />
+      <Word id="l_0042-w_0004" text="nach" />
+      <Word id="l_0042-w_0005" text="Susa." />
+    </TextLine>
+    <TextLine id="l_0043" text="Kleisthenes. Allein die Spartaner konnten durch ihre Beihilfe die">
+      <Coords points="468,1840 466,1852 699,1864 701,1864 756,1857 783,1865 785,1865 786,1865 976,1858 996,1867 998,1867 1000,1867 1352,1860 1372,1870 1374,1870 1375,1872 1454,1872 1454,1870 1456,1870 1458,1870 1469,1862 1552,1870 1553,1870 1555,1870 1584,1862 1594,1872 1595,1872 1597,1872 1599,1872 1813,1862 1815,1850 1815,1825 1795,1813 1793,1813 1792,1813 1790,1813 1788,1813 1751,1825 1713,1815 1711,1815 1709,1815 1543,1823 1511,1812 1510,1812 1508,1812 1506,1812 1479,1823 1439,1813 1438,1813 1436,1813 1391,1823 1377,1812 1375,1812 1374,1812 1372,1812 1370,1812 1349,1822 1276,1813 1275,1813 1206,1822 1193,1812 1191,1812 1189,1812 1188,1812 1186,1812 1152,1822 1073,1810 1072,1810 1070,1810 1028,1820 996,1808 995,1808 993,1808 991,1808 954,1820 921,1806 919,1806 917,1806 867,1818 844,1806 842,1806 781,1806 780,1806 778,1806 776,1806 760,1820 716,1820 468,1803 468,1840" />
+      <Word id="l_0043-w_0001" text="Kleisthenes." />
+      <Word id="l_0043-w_0002" text="Allein" />
+      <Word id="l_0043-w_0003" text="die" />
+      <Word id="l_0043-w_0004" text="Spartaner" />
+      <Word id="l_0043-w_0005" text="konnten" />
+      <Word id="l_0043-w_0006" text="durch" />
+      <Word id="l_0043-w_0007" text="ihre" />
+      <Word id="l_0043-w_0008" text="Beihilfe" />
+      <Word id="l_0043-w_0009" text="die" />
+    </TextLine>
+    <TextLine id="l_0044" text="Adeligen in Athen nicht wieder ans Ruder bringen. Gerade ein Allmeonide,">
+      <Coords points="372,1892 370,1904 1810,1917 1813,1905 1813,1880 1787,1869 1785,1869 1783,1869 1661,1879 1634,1867 1632,1867 1630,1867 1629,1867 1594,1877 1545,1867 1543,1867 1496,1877 1481,1867 1479,1867 1478,1867 1476,1867 1424,1875 1407,1865 1406,1865 1404,1865 1402,1865 1288,1875 1241,1864 1240,1864 1238,1864 1167,1874 1130,1864 1129,1864 1127,1864 1125,1864 1095,1872 1085,1862 1083,1862 1082,1862 1080,1862 964,1872 884,1860 882,1860 835,1870 766,1860 765,1860 763,1860 731,1870 659,1858 657,1858 582,1869 552,1857 550,1857 548,1857 547,1857 545,1857 530,1867 372,1858 372,1892" />
+      <Word id="l_0044-w_0001" text="Adeligen" />
+      <Word id="l_0044-w_0002" text="in" />
+      <Word id="l_0044-w_0003" text="Athen" />
+      <Word id="l_0044-w_0004" text="nicht" />
+      <Word id="l_0044-w_0005" text="wieder" />
+      <Word id="l_0044-w_0006" text="ans" />
+      <Word id="l_0044-w_0007" text="Ruder" />
+      <Word id="l_0044-w_0008" text="bringen." />
+      <Word id="l_0044-w_0009" text="Gerade" />
+      <Word id="l_0044-w_0010" text="ein" />
+      <Word id="l_0044-w_0011" text="Allmeonide," />
+    </TextLine>
+    <TextLine id="l_0045" text="kratie s0s Kleisthenes, durchkreuzte ihre Absichten und stützte sich wie Peisistratos">
+      <Coords points="219,1921 219,1937 218,1954 1810,1969 1813,1956 1812,1927 226,1914 219,1921" />
+      <Word id="l_0045-w_0001" text="kratie" />
+      <Word id="l_0045-w_0002" text="s0s" />
+      <Word id="l_0045-w_0003" text="Kleisthenes," />
+      <Word id="l_0045-w_0004" text="durchkreuzte" />
+      <Word id="l_0045-w_0005" text="ihre" />
+      <Word id="l_0045-w_0006" text="Absichten" />
+      <Word id="l_0045-w_0007" text="und" />
+      <Word id="l_0045-w_0008" text="stützte" />
+      <Word id="l_0045-w_0009" text="sich" />
+      <Word id="l_0045-w_0010" text="wie" />
+      <Word id="l_0045-w_0011" text="Peisistratos" />
+    </TextLine>
+    <TextLine id="l_0046" text="v. Chr.">
+      <Coords points="236,1976 236,1988 340,1989 342,1976 342,1954 236,1954 236,1976" />
+      <Word id="l_0046-w_0001" text="v." />
+      <Word id="l_0046-w_0002" text="Chr." />
+    </TextLine>
+    <TextLine id="l_0047" text="Neue">
+      <Coords points="251,2216 251,2226 355,2226 355,2216 355,2194 251,2194 251,2216" />
+      <Word id="l_0047-w_0001" text="Neue" />
+    </TextLine>
+    <TextLine id="l_0048" text="auf das Volk. Das spartanische Heer mußte abziehen und Kleisthenes ge-">
+      <Coords points="369,1991 367,2004 422,2015 424,2015 656,2009 709,2020 711,2020 761,2011 802,2021 803,2021 805,2021 1518,2020 1528,2028 1530,2028 1531,2028 1679,2031 1681,2031 1810,2021 1812,2008 1810,1984 369,1968 369,1991" />
+      <Word id="l_0048-w_0001" text="auf" />
+      <Word id="l_0048-w_0002" text="das" />
+      <Word id="l_0048-w_0003" text="Volk." />
+      <Word id="l_0048-w_0004" text="Das" />
+      <Word id="l_0048-w_0005" text="spartanische" />
+      <Word id="l_0048-w_0006" text="Heer" />
+      <Word id="l_0048-w_0007" text="mußte" />
+      <Word id="l_0048-w_0008" text="abziehen" />
+      <Word id="l_0048-w_0009" text="und" />
+      <Word id="l_0048-w_0010" text="Kleisthenes" />
+      <Word id="l_0048-w_0011" text="ge-" />
+    </TextLine>
+    <TextLine id="l_0049" text="staltete dann vom Jahre 50ꝰ v. Chr. angefangen die solonische Verfassung im">
+      <Coords points="367,2045 365,2058 723,2072 724,2072 830,2065 849,2073 850,2073 852,2073 1281,2070 1330,2078 1332,2078 1812,2073 1813,2060 1812,2035 1557,2025 1555,2025 1513,2033 1454,2023 1453,2023 1333,2031 1318,2021 1317,2021 1315,2021 1313,2021 1182,2030 1169,2020 1167,2020 1166,2020 1164,2020 1043,2028 1011,2018 1010,2018 1008,2018 906,2026 724,2016 723,2016 721,2016 694,2025 526,2013 525,2013 523,2013 521,2013 508,2021 483,2013 481,2013 479,2013 367,2020 367,2045" />
+      <Word id="l_0049-w_0001" text="staltete" />
+      <Word id="l_0049-w_0002" text="dann" />
+      <Word id="l_0049-w_0003" text="vom" />
+      <Word id="l_0049-w_0004" text="Jahre" />
+      <Word id="l_0049-w_0005" text="50ꝰ" />
+      <Word id="l_0049-w_0006" text="v." />
+      <Word id="l_0049-w_0007" text="Chr." />
+      <Word id="l_0049-w_0008" text="angefangen" />
+      <Word id="l_0049-w_0009" text="die" />
+      <Word id="l_0049-w_0010" text="solonische" />
+      <Word id="l_0049-w_0011" text="Verfassung" />
+      <Word id="l_0049-w_0012" text="im" />
+    </TextLine>
+    <TextLine id="l_0050" text="aristokratenfeindlichen Sinne aus und brach den Einfluß des Adels">
+      <Coords points="367,2097 365,2110 679,2124 681,2124 793,2117 803,2125 805,2125 807,2125 808,2125 931,2119 941,2127 943,2127 944,2127 946,2129 1810,2129 1812,2114 1810,2083 367,2072 367,2097" />
+      <Word id="l_0050-w_0001" text="aristokratenfeindlichen" />
+      <Word id="l_0050-w_0002" text="Sinne" />
+      <Word id="l_0050-w_0003" text="aus" />
+      <Word id="l_0050-w_0004" text="und" />
+      <Word id="l_0050-w_0005" text="brach" />
+      <Word id="l_0050-w_0006" text="den" />
+      <Word id="l_0050-w_0007" text="Einfluß" />
+      <Word id="l_0050-w_0008" text="des" />
+      <Word id="l_0050-w_0009" text="Adels" />
+    </TextLine>
+    <TextLine id="l_0051" text="vollends.">
+      <Coords points="370,2147 369,2159 466,2171 468,2171 536,2162 538,2150 536,2125 437,2114 436,2114 370,2120 370,2147" />
+      <Word id="l_0051-w_0001" text="vollends." />
+    </TextLine>
+    <TextLine id="l_0052" text="Immer noch hatte nämlich der Adel große Macht über die kleinen Grund-">
+      <Coords points="461,2212 459,2226 1144,2243 1146,2243 1471,2238 1486,2246 1488,2246 1490,2246 1646,2248 1647,2248 1813,2239 1815,2226 1813,2199 461,2186 461,2212" />
+      <Word id="l_0052-w_0001" text="Immer" />
+      <Word id="l_0052-w_0002" text="noch" />
+      <Word id="l_0052-w_0003" text="hatte" />
+      <Word id="l_0052-w_0004" text="nämlich" />
+      <Word id="l_0052-w_0005" text="der" />
+      <Word id="l_0052-w_0006" text="Adel" />
+      <Word id="l_0052-w_0007" text="große" />
+      <Word id="l_0052-w_0008" text="Macht" />
+      <Word id="l_0052-w_0009" text="über" />
+      <Word id="l_0052-w_0010" text="die" />
+      <Word id="l_0052-w_0011" text="kleinen" />
+      <Word id="l_0052-w_0012" text="Grund-" />
+    </TextLine>
+    <TextLine id="l_0053" text="Landesein besitzer, die in der Nachbarschaft seiner Güter lebten, er konnte daher die">
+      <Coords points="209,2244 209,2251 208,2273 506,2288 508,2288 510,2288 531,2278 585,2288 587,2288 664,2280 723,2288 724,2288 726,2288 728,2288 741,2280 852,2291 854,2291 1016,2281 1033,2293 1035,2293 1036,2293 1038,2295 1124,2295 1124,2293 1125,2293 1149,2283 1229,2295 1231,2295 1233,2295 1261,2286 1278,2295 1280,2295 1281,2296 1402,2296 1402,2295 1404,2295 1406,2295 1417,2286 1431,2296 1432,2296 1434,2296 1436,2298 1602,2298 1602,2296 1604,2296 1605,2296 1617,2288 1630,2298 1632,2298 1634,2298 1636,2300 1723,2300 1723,2298 1724,2298 1748,2288 1763,2298 1765,2298 1766,2298 1768,2298 1770,2298 1810,2286 1812,2278 1812,2251 1793,2241 1792,2241 1790,2241 1788,2241 1748,2251 1642,2243 1641,2243 1639,2243 1617,2251 1288,2239 1287,2239 1234,2248 1177,2236 1176,2236 1174,2236 1142,2248 1092,2248 1075,2236 1073,2236 1072,2236 1070,2236 1068,2236 1031,2246 984,2234 983,2234 981,2234 875,2244 832,2233 830,2233 828,2233 827,2233 802,2243 753,2233 751,2233 750,2233 748,2233 733,2243 681,2233 679,2233 677,2233 657,2243 635,2231 634,2231 632,2231 516,2241 449,2229 214,2228 209,2244" />
+      <Word id="l_0053-w_0001" text="Landesein" />
+      <Word id="l_0053-w_0002" text="besitzer," />
+      <Word id="l_0053-w_0003" text="die" />
+      <Word id="l_0053-w_0004" text="in" />
+      <Word id="l_0053-w_0005" text="der" />
+      <Word id="l_0053-w_0006" text="Nachbarschaft" />
+      <Word id="l_0053-w_0007" text="seiner" />
+      <Word id="l_0053-w_0008" text="Güter" />
+      <Word id="l_0053-w_0009" text="lebten," />
+      <Word id="l_0053-w_0010" text="er" />
+      <Word id="l_0053-w_0011" text="konnte" />
+      <Word id="l_0053-w_0012" text="daher" />
+      <Word id="l_0053-w_0013" text="die" />
+    </TextLine>
+    <TextLine id="l_0054" text="teilung.">
+      <Coords points="231,2286 231,2300 338,2300 338,2283 333,2261 229,2263 231,2286" />
+      <Word id="l_0054-w_0001" text="teilung." />
+    </TextLine>
+    <TextLine id="l_0055" text="Phylen.">
+      <Coords points="231,2322 231,2337 349,2337 349,2322 349,2300 231,2300 231,2322" />
+      <Word id="l_0055-w_0001" text="Phylen." />
+    </TextLine>
+    <TextLine id="l_0056" text="Damit zu-">
+      <Coords points="218,2491 218,2509 359,2509 359,2491 359,2469 218,2468 218,2491" />
+      <Word id="l_0056-w_0001" text="Damit" />
+      <Word id="l_0056-w_0002" text="zu-" />
+    </TextLine>
+    <TextLine id="l_0057" text="Beamtenvahlen in seinem Sinne lenken. Durch eine neue Einteilung">
+      <Coords points="369,2317 367,2328 1812,2345 1815,2333 1812,2303 1382,2303 1355,2293 1354,2293 1352,2293 1293,2301 1281,2293 1280,2293 1278,2293 1276,2293 1275,2293 1255,2301 1208,2291 1206,2291 1094,2300 1082,2290 1080,2290 1078,2290 1077,2290 963,2298 922,2288 921,2288 919,2288 805,2296 788,2286 786,2286 785,2286 783,2286 659,2295 609,2285 369,2283 369,2317" />
+      <Word id="l_0057-w_0001" text="Beamtenvahlen" />
+      <Word id="l_0057-w_0002" text="in" />
+      <Word id="l_0057-w_0003" text="seinem" />
+      <Word id="l_0057-w_0004" text="Sinne" />
+      <Word id="l_0057-w_0005" text="lenken." />
+      <Word id="l_0057-w_0006" text="Durch" />
+      <Word id="l_0057-w_0007" text="eine" />
+      <Word id="l_0057-w_0008" text="neue" />
+      <Word id="l_0057-w_0009" text="Einteilung" />
+    </TextLine>
+    <TextLine id="l_0058" text="des Landes in 30 Bezirke vernichtete Kleisthenes diesen Einfluß. Je ein">
+      <Coords points="367,2367 365,2379 1335,2400 1337,2400 1382,2394 1446,2402 1448,2402 1503,2395 1568,2404 1570,2404 1683,2397 1693,2405 1694,2405 1696,2405 1698,2405 1808,2397 1810,2380 1807,2357 1654,2357 1630,2348 1629,2348 1627,2348 1625,2348 1607,2357 1587,2348 1585,2348 1584,2348 1582,2348 1580,2348 1568,2357 1515,2347 1513,2347 1448,2355 1416,2345 1414,2345 1412,2345 1323,2353 1203,2342 1201,2342 1102,2350 1070,2340 1068,2340 1067,2340 963,2348 891,2338 889,2338 887,2338 862,2347 781,2337 780,2337 778,2337 743,2345 711,2335 709,2335 708,2335 599,2343 577,2333 575,2333 573,2333 498,2342 476,2332 474,2332 473,2332 421,2340 380,2332 379,2332 377,2332 375,2332 367,2337 367,2367" />
+      <Word id="l_0058-w_0001" text="des" />
+      <Word id="l_0058-w_0002" text="Landes" />
+      <Word id="l_0058-w_0003" text="in" />
+      <Word id="l_0058-w_0004" text="30" />
+      <Word id="l_0058-w_0005" text="Bezirke" />
+      <Word id="l_0058-w_0006" text="vernichtete" />
+      <Word id="l_0058-w_0007" text="Kleisthenes" />
+      <Word id="l_0058-w_0008" text="diesen" />
+      <Word id="l_0058-w_0009" text="Einfluß." />
+      <Word id="l_0058-w_0010" text="Je" />
+      <Word id="l_0058-w_0011" text="ein" />
+    </TextLine>
+    <TextLine id="l_0059" text="städtischer, küstenländischer und binnenländischer Bezirk, die aber nicht">
+      <Coords points="367,2419 365,2429 1092,2449 1094,2449 1332,2444 1451,2454 1453,2454 1810,2449 1812,2432 1808,2402 1694,2410 1637,2400 1636,2400 1573,2409 1553,2399 1552,2399 1550,2399 1548,2399 1516,2409 1469,2409 1454,2397 1453,2397 1451,2397 1449,2397 1333,2405 1213,2394 1211,2394 1095,2402 1063,2392 1062,2392 1060,2392 860,2399 849,2389 847,2389 845,2389 844,2389 758,2397 736,2387 734,2387 733,2387 731,2387 696,2395 676,2387 674,2387 672,2387 562,2394 367,2384 367,2419" />
+      <Word id="l_0059-w_0001" text="städtischer," />
+      <Word id="l_0059-w_0002" text="küstenländischer" />
+      <Word id="l_0059-w_0003" text="und" />
+      <Word id="l_0059-w_0004" text="binnenländischer" />
+      <Word id="l_0059-w_0005" text="Bezirk," />
+      <Word id="l_0059-w_0006" text="die" />
+      <Word id="l_0059-w_0007" text="aber" />
+      <Word id="l_0059-w_0008" text="nicht" />
+    </TextLine>
+    <TextLine id="l_0060" text="aneinandergrenzen sollten, wurden zu einem Kreis (pulij) zusammengefaßt,">
+      <Coords points="369,2478 367,2484 1681,2509 1683,2509 1810,2501 1812,2488 1810,2462 1491,2461 1479,2451 1478,2451 1476,2451 1474,2451 1406,2459 1391,2449 1389,2449 1387,2449 1386,2449 1276,2457 1253,2447 1251,2447 1250,2447 1144,2456 1124,2446 1122,2446 1120,2446 1000,2454 963,2444 961,2444 959,2444 862,2452 792,2442 790,2442 694,2449 535,2439 533,2439 468,2446 449,2437 448,2437 446,2437 369,2446 369,2478" />
+      <Word id="l_0060-w_0001" text="aneinandergrenzen" />
+      <Word id="l_0060-w_0002" text="sollten," />
+      <Word id="l_0060-w_0003" text="wurden" />
+      <Word id="l_0060-w_0004" text="zu" />
+      <Word id="l_0060-w_0005" text="einem" />
+      <Word id="l_0060-w_0006" text="Kreis" />
+      <Word id="l_0060-w_0007" text="(pulij)" />
+      <Word id="l_0060-w_0008" text="zusammengefaßt," />
+    </TextLine>
+    <TextLine id="l_0061" text="sammen. so daß jetzt 10 Phylen entstanden. — Die Zahl der Ratsherren wurde">
+      <Coords points="224,2525 223,2536 1636,2558 1637,2558 1808,2550 1810,2540 1808,2511 1771,2503 1770,2503 1768,2503 1766,2503 1748,2514 1560,2514 1543,2503 1542,2503 1540,2503 1538,2503 1481,2513 1436,2501 1434,2501 1432,2501 1431,2501 1391,2511 1367,2501 1365,2501 1364,2501 1362,2501 1339,2511 1320,2499 1318,2499 1317,2499 1315,2499 1283,2506 1258,2498 1256,2498 1255,2498 1253,2498 1228,2509 1172,2498 1171,2498 1169,2498 1167,2498 1147,2511 1109,2511 1018,2496 1016,2496 1015,2496 993,2506 924,2496 922,2496 820,2506 797,2494 795,2494 793,2494 755,2501 741,2493 739,2493 738,2493 627,2493 625,2493 624,2493 622,2493 605,2503 577,2491 575,2491 573,2491 224,2499 224,2525" />
+      <Word id="l_0061-w_0001" text="sammen." />
+      <Word id="l_0061-w_0002" text="so" />
+      <Word id="l_0061-w_0003" text="daß" />
+      <Word id="l_0061-w_0004" text="jetzt" />
+      <Word id="l_0061-w_0005" text="10" />
+      <Word id="l_0061-w_0006" text="Phylen" />
+      <Word id="l_0061-w_0007" text="entstanden." />
+      <Word id="l_0061-w_0008" text="—" />
+      <Word id="l_0061-w_0009" text="Die" />
+      <Word id="l_0061-w_0010" text="Zahl" />
+      <Word id="l_0061-w_0011" text="der" />
+      <Word id="l_0061-w_0012" text="Ratsherren" />
+      <Word id="l_0061-w_0013" text="wurde" />
+    </TextLine>
+    <TextLine id="l_0062" text="hängendo">
+      <Coords points="221,2560 219,2572 355,2578 359,2567 359,2541 221,2533 221,2560" />
+      <Word id="l_0062-w_0001" text="hängendo" />
+    </TextLine>
+    <TextLine id="l_0063" text="Anderun-">
+      <Coords points="221,2597 221,2608 350,2608 350,2592 347,2572 270,2565 268,2565 219,2573 221,2597" />
+      <Word id="l_0063-w_0001" text="Anderun-" />
+    </TextLine>
+    <TextLine id="l_0064" text="gen.">
+      <Coords points="250,2632 250,2644 271,2652 273,2652 275,2652 335,2642 335,2632 335,2610 250,2610 250,2632" />
+      <Word id="l_0064-w_0001" text="gen." />
+    </TextLine>
+    <TextLine id="l_0065" text="dementsprechend auf 500, ebenso die Zahl der Obersten der Fußtruppen">
+      <Coords points="365,2568 364,2587 949,2603 951,2603 1025,2597 1073,2605 1075,2605 1310,2600 1323,2608 1325,2608 1327,2608 1443,2610 1444,2610 1513,2603 1560,2612 1562,2612 1805,2605 1807,2592 1803,2561 1340,2561 1328,2553 1327,2553 1325,2553 1323,2553 1241,2560 1216,2551 1214,2551 1213,2551 1211,2551 1196,2560 1179,2550 1177,2550 1176,2550 1174,2550 1075,2558 1062,2548 1060,2548 1058,2548 1057,2548 951,2556 914,2546 912,2546 911,2546 849,2555 815,2545 813,2545 812,2545 706,2553 674,2543 672,2543 671,2543 573,2550 496,2541 495,2541 493,2541 461,2550 394,2540 392,2540 390,2540 365,2546 365,2568" />
+      <Word id="l_0065-w_0001" text="dementsprechend" />
+      <Word id="l_0065-w_0002" text="auf" />
+      <Word id="l_0065-w_0003" text="500," />
+      <Word id="l_0065-w_0004" text="ebenso" />
+      <Word id="l_0065-w_0005" text="die" />
+      <Word id="l_0065-w_0006" text="Zahl" />
+      <Word id="l_0065-w_0007" text="der" />
+      <Word id="l_0065-w_0008" text="Obersten" />
+      <Word id="l_0065-w_0009" text="der" />
+      <Word id="l_0065-w_0010" text="Fußtruppen" />
+    </TextLine>
+    <TextLine id="l_0066" text="(Strategen) und ihrer Regimenter auf 10 erhöht. Die Geschäftsführuns">
+      <Coords points="364,2630 362,2644 1805,2659 1808,2645 1805,2610 1694,2617 1636,2607 1634,2607 1632,2607 1630,2607 1620,2615 1570,2607 1568,2607 1490,2615 1421,2605 1419,2605 1367,2613 1355,2605 1354,2605 1352,2605 1350,2605 1271,2612 1258,2603 1256,2603 1255,2603 1253,2603 1134,2610 1122,2602 1120,2602 1119,2602 1117,2602 1115,2602 1082,2610 1065,2602 1063,2602 1062,2602 1060,2602 1058,2602 1043,2610 966,2610 953,2600 951,2600 949,2600 948,2600 946,2600 944,2600 932,2608 865,2600 864,2600 862,2600 833,2607 817,2598 815,2598 813,2598 364,2602 364,2630" />
+      <Word id="l_0066-w_0001" text="(Strategen)" />
+      <Word id="l_0066-w_0002" text="und" />
+      <Word id="l_0066-w_0003" text="ihrer" />
+      <Word id="l_0066-w_0004" text="Regimenter" />
+      <Word id="l_0066-w_0005" text="auf" />
+      <Word id="l_0066-w_0006" text="10" />
+      <Word id="l_0066-w_0007" text="erhöht." />
+      <Word id="l_0066-w_0008" text="Die" />
+      <Word id="l_0066-w_0009" text="Geschäftsführuns" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="773,275 1412,281 1473,288 1486,320 1245,360 1218,340 931,360 922,340 745,327 738,288 773,275" />
+    <TextLine id="l_0067" text="II. Periode 1200--500 v. Chr. Die Griechen.">
+      <Coords points="746,283 746,310 745,322 1469,330 1473,318 1471,293 1411,283 1409,283 1407,283 1389,291 1369,283 1367,283 1365,283 1300,290 1288,281 1287,281 1285,281 1283,281 1194,290 1184,281 1184,280 1182,280 1181,280 1179,280 1177,280 1149,288 1015,288 1006,280 1006,278 1005,278 1003,278 1001,278 934,286 864,276 862,276 860,276 844,285 825,276 823,276 822,276 746,281 746,283" />
+      <Word id="l_0067-w_0001" text="II." />
+      <Word id="l_0067-w_0002" text="Periode" />
+      <Word id="l_0067-w_0003" text="1200--500" />
+      <Word id="l_0067-w_0004" text="v." />
+      <Word id="l_0067-w_0005" text="Chr." />
+      <Word id="l_0067-w_0006" text="Die" />
+      <Word id="l_0067-w_0007" text="Griechen." />
+    </TextLine>
+  </TextRegion>
+</Page>

@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1739047397_00000287.bin.png" imageHeight="2931" imageWidth="1768" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="1,638 1,639 0,639 0,638 1,638" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1,776 0,776 0,775 1,775 1,776" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="477,1042 480,1047 469,1047 469,1042 477,1042" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="503,1042 506,1042 506,1060 495,1047 503,1042" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="584,1058 580,1060 580,1055 584,1055 584,1058" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="602,1058 598,1060 598,1055 602,1055 602,1058" />
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="638,1068 642,1073 630,1073 630,1068 638,1068" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="661,1071 656,1073 656,1068 661,1068 661,1071" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="886,1035 902,1035 902,1040 878,1040 886,1035" />
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="945,1035 967,1035 967,1040 936,1040 945,1035" />
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="997,1035 1000,1040 989,1040 989,1035 997,1035" />
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="1269,1055 1285,1055 1285,1060 1261,1060 1269,1055" />
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="1318,882 1313,884 1313,879 1318,879 1318,882" />
+  </TextRegion>
+  <TextRegion id="r_0014" type="paragraph">
+    <Coords points="1337,869 1337,897 1332,897 1332,866 1337,869" />
+  </TextRegion>
+  <TextRegion id="r_0015" type="paragraph">
+    <Coords points="1370,856 1402,866 1396,910 1358,884 1370,856" />
+  </TextRegion>
+  <TextRegion id="r_0016" type="paragraph">
+    <Coords points="1,1875 1,1877 0,1877 0,1875 1,1875" />
+  </TextRegion>
+  <TextRegion id="r_0017" type="paragraph">
+    <Coords points="226,1292 226,1301 221,1301 221,1289 226,1292" />
+  </TextRegion>
+  <TextRegion id="r_0018" type="paragraph">
+    <Coords points="584,1221 580,1222 580,1217 584,1217 584,1221" />
+  </TextRegion>
+  <TextRegion id="r_0019" type="paragraph">
+    <Coords points="584,1273 584,1301 580,1301 580,1270 584,1273" />
+  </TextRegion>
+  <TextRegion id="r_0020" type="paragraph">
+    <Coords points="710,1283 726,1283 720,1314 695,1301 710,1283" />
+  </TextRegion>
+  <TextRegion id="r_0021" type="paragraph">
+    <Coords points="713,1644 713,1659 708,1659 708,1641 713,1644" />
+  </TextRegion>
+  <TextRegion id="r_0022" type="paragraph">
+    <Coords points="1153,306 1207,312 1181,356 1213,371 1235,462 1293,460 1267,434 1280,338 1350,325 1350,460 1474,534 1474,766 1376,845 1267,799 1240,897 1178,903 1156,929 1021,923 930,955 909,929 650,923 628,903 358,897 293,923 265,957 280,1009 415,1016 443,1087 513,1068 558,1105 417,1118 402,1190 356,1164 299,1164 291,1190 338,1211 474,1191 545,1217 526,1242 558,1294 506,1322 506,1359 622,1374 656,1452 739,1478 746,1529 720,1574 694,1550 700,1756 635,1784 643,1817 668,1797 668,1835 635,1856 642,1978 596,2043 397,2010 376,2043 319,2050 311,2095 280,2095 265,2056 252,2095 91,2095 65,2050 65,1934 97,1893 97,1602 141,1556 154,1613 175,1613 189,1406 260,1398 246,1366 189,1366 174,1411 110,1411 136,1398 110,1341 254,1327 273,1172 97,1151 123,1139 65,903 78,547 226,534 260,475 410,462 591,481 1072,462 1099,434 1099,319 1153,306" />
+    <TextLine id="l_0001" text="">
+      <Coords points="120,1804 130,1802 130,1783 130,1695 122,1691 120,1783 120,1804" />
+    </TextLine>
+    <TextLine id="l_0002" text="">
+      <Coords points="193,955 193,853 159,843 158,955 159,990 193,970 193,955" />
+    </TextLine>
+    <TextLine id="l_0003" text="">
+      <Coords points="262,521 262,534 363,532 363,519 358,490 260,495 262,521" />
+    </TextLine>
+    <TextLine id="l_0004" text="L">
+      <Coords points="83,1968 83,1983 275,1971 275,1957 270,1936 79,1939 83,1968" />
+      <Word id="l_0004-w_0001" text="L" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0005" text="">
+      <Coords points="73,2040 73,2059 265,2041 265,2028 260,2007 70,2010 73,2040" />
+    </TextLine>
+    <TextLine id="l_0006" text="">
+      <Coords points="101,2082 101,2113 169,2103 202,2113 203,2113 205,2113 206,2113 239,2102 239,2082 239,2063 101,2058 101,2082" />
+    </TextLine>
+    <TextLine id="l_0007" text="">
+      <Coords points="277,1147 275,1167 309,1167 345,1200 345,1201 347,1201 348,1201 391,1206 394,1151 391,1123 277,1126 277,1147" />
+    </TextLine>
+    <TextLine id="l_0008" text="">
+      <Coords points="301,1522 298,1542 317,1546 321,1524 319,1460 304,1467 301,1522" />
+    </TextLine>
+    <TextLine id="l_0009" text="">
+      <Coords points="496,1563 490,1498 451,1480 457,1566 461,1585 496,1576 496,1563" />
+    </TextLine>
+    <TextLine id="l_0010" text="">
+      <Coords points="526,2028 526,2030 524,2048 584,2059 588,2032 588,2007 526,2007 526,2028" />
+    </TextLine>
+    <TextLine id="l_0011" text="i">
+      <Coords points="710,1468 694,1463 682,1458 628,1462 628,1511 627,1529 655,1530 656,1530 658,1530 659,1530 659,1529 669,1520 721,1525 725,1514 725,1473 710,1468" />
+      <Word id="l_0011-w_0001" text="i" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0023" type="paragraph">
+    <Coords points="431,2318 1137,2325 1150,2356 469,2362 410,2349 431,2318" />
+    <TextLine id="l_0012" text="Abb. 8. Moschee (j. Kathedrale) zu Cordova.">
+      <Coords points="1134,2323 1117,2323 1101,2323 1085,2323 1068,2323 1052,2323 1036,2323 1020,2323 1003,2323 987,2323 971,2323 954,2322 938,2322 922,2322 905,2322 889,2322 873,2322 857,2322 840,2322 824,2322 808,2322 791,2322 775,2320 759,2320 743,2320 726,2320 710,2320 694,2320 677,2320 661,2320 645,2320 628,2320 612,2320 596,2318 580,2318 563,2318 547,2318 531,2318 514,2318 498,2318 482,2318 466,2318 449,2318 433,2318 418,2333 417,2343 415,2354 1140,2362 1143,2348 1142,2344 1134,2323" />
+      <Word id="l_0012-w_0001" text="Abb." error_score="0.000" />
+      <Word id="l_0012-w_0002" text="8." error_score="0.000" />
+      <Word id="l_0012-w_0003" text="Moschee" error_score="0.000" />
+      <Word id="l_0012-w_0004" text="(j." error_score="0.000" />
+      <Word id="l_0012-w_0005" text="Kathedrale)" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="zu" error_score="0.000" />
+      <Word id="l_0012-w_0007" text="Cordova." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0024" type="paragraph">
+    <Coords points="158,2377 1389,2383 1429,2409 1429,2564 1396,2584 1139,2584 1059,2616 482,2610 389,2571 156,2571 136,2558 136,2390 158,2377" />
+    <TextLine id="l_0013" text="Erbaut vom Ende des 8. bis Ende des 10. Jahrhundertes, arabisch-byzantinisch.">
+      <Coords points="1398,2390 1386,2383 565,2378 550,2378 534,2378 518,2378 501,2378 485,2378 469,2378 461,2377 355,2377 338,2377 322,2377 306,2377 290,2377 273,2377 257,2377 241,2377 224,2377 208,2377 192,2377 175,2377 159,2377 143,2383 143,2403 141,2418 1412,2427 1416,2409 1411,2396 1398,2390" />
+      <Word id="l_0013-w_0001" text="Erbaut" error_score="0.000" />
+      <Word id="l_0013-w_0002" text="vom" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="Ende" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="des" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="8." error_score="0.000" />
+      <Word id="l_0013-w_0006" text="bis" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="Ende" error_score="0.000" />
+      <Word id="l_0013-w_0008" text="des" error_score="0.000" />
+      <Word id="l_0013-w_0009" text="10." error_score="0.000" />
+      <Word id="l_0013-w_0010" text="Jahrhundertes," error_score="0.000" />
+      <Word id="l_0013-w_0011" text="arabisch-byzantinisch." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="Blick in die Gebetshalle mit 18 Bogenreihen. Die Säulen stammen fast durch-">
+      <Coords points="143,2440 141,2455 1411,2457 1414,2444 1412,2421 143,2411 143,2440" />
+      <Word id="l_0014-w_0001" text="Blick" error_score="0.000" />
+      <Word id="l_0014-w_0002" text="in" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="Gebetshalle" error_score="0.000" />
+      <Word id="l_0014-w_0005" text="mit" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="18" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="Bogenreihen." error_score="0.000" />
+      <Word id="l_0014-w_0008" text="Die" error_score="0.000" />
+      <Word id="l_0014-w_0009" text="Säulen" error_score="0.000" />
+      <Word id="l_0014-w_0010" text="stammen" error_score="0.000" />
+      <Word id="l_0014-w_0011" text="fast" error_score="0.000" />
+      <Word id="l_0014-w_0012" text="durch-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="aus von römischen Bauten, sind durch Hufeisenbogen verbunden und tragen">
+      <Coords points="143,2476 141,2491 1414,2499 1417,2483 1416,2460 143,2453 143,2476" />
+      <Word id="l_0015-w_0001" text="aus" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="römischen" error_score="0.000" />
+      <Word id="l_0015-w_0004" text="Bauten," error_score="0.000" />
+      <Word id="l_0015-w_0005" text="sind" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="durch" error_score="0.000" />
+      <Word id="l_0015-w_0007" text="Hufeisenbogen" error_score="0.000" />
+      <Word id="l_0015-w_0008" text="verbunden" error_score="0.000" />
+      <Word id="l_0015-w_0009" text="und" error_score="0.000" />
+      <Word id="l_0015-w_0010" text="tragen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="kurze, auch durch Bogen verbundene Pfeiler, auf denen die Decke ruht. Der">
+      <Coords points="143,2514 141,2528 1414,2535 1417,2520 1416,2496 143,2484 143,2514" />
+      <Word id="l_0016-w_0001" text="kurze," error_score="0.000" />
+      <Word id="l_0016-w_0002" text="auch" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="durch" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="Bogen" error_score="0.000" />
+      <Word id="l_0016-w_0005" text="verbundene" error_score="0.000" />
+      <Word id="l_0016-w_0006" text="Pfeiler," error_score="0.000" />
+      <Word id="l_0016-w_0007" text="auf" error_score="0.000" />
+      <Word id="l_0016-w_0008" text="denen" error_score="0.000" />
+      <Word id="l_0016-w_0009" text="die" error_score="0.000" />
+      <Word id="l_0016-w_0010" text="Decke" error_score="0.000" />
+      <Word id="l_0016-w_0011" text="ruht." error_score="0.000" />
+      <Word id="l_0016-w_0012" text="Der" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="Wechsel von weißen Stein- und roten Ziegellagen paßte gut zum einstigen">
+      <Coords points="146,2551 145,2564 1412,2577 1416,2559 1414,2536 1073,2527 1072,2527 935,2533 909,2525 907,2525 905,2525 192,2528 146,2520 146,2551" />
+      <Word id="l_0017-w_0001" text="Wechsel" error_score="0.000" />
+      <Word id="l_0017-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0017-w_0003" text="weißen" error_score="0.000" />
+      <Word id="l_0017-w_0004" text="Stein-" error_score="0.000" />
+      <Word id="l_0017-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0017-w_0006" text="roten" error_score="0.000" />
+      <Word id="l_0017-w_0007" text="Ziegellagen" error_score="0.000" />
+      <Word id="l_0017-w_0008" text="paßte" error_score="0.000" />
+      <Word id="l_0017-w_0009" text="gut" error_score="0.000" />
+      <Word id="l_0017-w_0010" text="zum" error_score="0.000" />
+      <Word id="l_0017-w_0011" text="einstigen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0018" text="Farbenschmucke der Wände und Bogen">
+      <Coords points="1099,2593 1090,2569 449,2566 449,2590 448,2603 1101,2613 1104,2595 1103,2593 1099,2593" />
+      <Word id="l_0018-w_0001" text="Farbenschmucke" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0018-w_0003" text="Wände" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="Bogen" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0025" type="paragraph">
+    <Coords points="782,1628 791,1628 804,1639 767,1639 782,1628" />
+  </TextRegion>
+  <TextRegion id="r_0026" type="paragraph">
+    <Coords points="1163,993 1227,1003 1253,1068 1227,1177 1305,1217 1279,1301 1194,1309 1298,1322 1305,1346 1222,1346 1213,1392 1163,1405 1183,1432 1298,1406 1396,1445 1337,1771 1344,1841 1396,1849 1396,1874 1350,1921 1337,1991 1318,1967 1298,2063 1319,2110 1332,2077 1350,2084 1357,2155 1344,2206 1318,2212 1196,2206 1183,2077 1080,2056 1073,1973 1034,1971 969,1887 963,1791 852,1783 878,1726 871,1660 839,1659 839,1621 891,1581 871,1550 897,1535 878,1522 897,1478 930,1470 956,1406 980,1406 989,1445 1033,1452 1041,1406 1080,1400 1047,1392 1054,1302 1015,1276 1047,1250 1143,1257 1145,1237 852,1216 897,1178 982,1165 917,1157 837,1105 567,1105 573,1068 609,1068 611,1094 700,1094 702,1068 785,1094 837,1081 826,1055 1026,1048 1080,1003 1137,1022 1163,993" />
+    <TextLine id="l_0019" text="">
+      <Coords points="912,1527 912,1581 932,1582 933,1527 932,1501 912,1501 912,1527" />
+    </TextLine>
+    <TextLine id="l_0020" text="G">
+      <Coords points="878,1778 878,1796 930,1799 932,1778 932,1753 878,1753 878,1778" />
+      <Word id="l_0020-w_0001" text="G" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0021" text="4">
+      <Coords points="1007,1447 956,1447 959,1493 959,1504 1016,1504 1016,1491 1011,1447 1007,1447" />
+      <Word id="l_0021-w_0001" text="4" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0022" text="e">
+      <Coords points="1103,1525 1103,1540 1152,1542 1153,1525 1153,1504 1103,1502 1103,1525" />
+      <Word id="l_0022-w_0001" text="e" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0023" text="1!">
+      <Coords points="1028,1949 1026,1962 1121,1970 1124,1952 1122,1898 1028,1914 1028,1949" />
+      <Word id="l_0023-w_0001" text="1!" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0024" text="1">
+      <Coords points="1086,2045 1085,2058 1187,2061 1191,2048 1191,2022 1179,2015 1178,2015 1176,2015 1174,2015 1086,2022 1086,2045" />
+      <Word id="l_0024-w_0001" text="1" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0025" text="">
+      <Coords points="1233,1652 1231,1664 1288,1672 1292,1654 1292,1633 1233,1626 1233,1652" />
+    </TextLine>
+    <TextLine id="l_0026" text="">
+      <Coords points="1230,1706 1228,1721 1274,1721 1275,1708 1274,1673 1230,1682 1230,1706" />
+    </TextLine>
+    <TextLine id="l_0027" text="">
+      <Coords points="1261,1708 1259,1708 1257,1708 1257,1709 1256,1709 1253,1714 1244,1708 1233,1708 1231,1706 1200,1719 1205,1781 1209,1815 1303,1786 1303,1774 1298,1711 1262,1708 1261,1708" />
+    </TextLine>
+    <TextLine id="l_0028" text="d">
+      <Coords points="1202,2194 1200,2209 1305,2227 1310,2203 1308,2178 1204,2170 1202,2194" />
+      <Word id="l_0028-w_0001" text="d" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0027" type="paragraph">
+    <Coords points="1282,1367 1311,1392 1241,1385 1254,1374 1282,1367" />
+    <TextLine id="l_0029" text="">
+      <Coords points="1269,1369 1269,1382 1271,1406 1284,1398 1284,1382 1284,1369 1269,1369" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0028" type="paragraph">
+    <Coords points="1334,1380 1337,1380 1337,1392 1326,1385 1334,1380" />
+  </TextRegion>
+  <TextRegion id="r_0029" type="paragraph">
+    <Coords points="1337,2022 1332,2024 1332,2019 1337,2019 1337,2022" />
+  </TextRegion>
+  <TextRegion id="r_0030" type="paragraph">
+    <Coords points="1412,1667 1429,1704 1372,1685 1372,1673 1412,1667" />
+  </TextRegion>
+</Page>

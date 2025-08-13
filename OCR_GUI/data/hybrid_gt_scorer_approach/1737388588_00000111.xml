@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1737388588_00000111.bin.png" imageHeight="2982" imageWidth="1845" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="810,251 931,265 951,289 871,309 707,296 727,265 810,251" />
+    <TextLine id="l_0001" text="- 105">
+      <Coords points="868,258 852,255 835,253 810,253 808,253 807,253 805,253 789,268 726,268 719,271 721,289 721,298 792,294 802,303 802,304 803,304 805,304 807,306 863,306 863,304 865,304 891,293 891,288 890,268 871,258 868,258" />
+      <Word id="l_0001-w_0001" text="-" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0002" text="105" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0002" text="—">
+      <Coords points="931,268 926,266 898,266 900,288 900,293 946,298 948,286 946,283 931,268" />
+      <Word id="l_0002-w_0001" text="—" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="664,344 1546,357 1553,1926 1533,1973 1435,1986 1407,2019 1294,2026 119,2012 119,357 664,344" />
+    <TextLine id="l_0003" text="ſtatt. Die Ausdauer und die raſtloſe Thätigkeit, welche der Kaiſer hiebei an den">
+      <Coords points="1530,356 1513,356 1496,356 1480,356 1463,356 1447,356 1430,354 1414,354 1397,354 1380,354 1364,354 1347,354 1331,354 1314,352 1297,352 1289,352 1288,354 1273,352 1264,352 1248,352 1231,352 1215,352 1200,351 1195,354 1188,351 1181,351 1165,351 1148,351 1135,351 1117,354 1105,349 1099,349 1082,349 1075,349 1062,356 1052,349 1049,349 1032,349 1016,349 1009,349 944,356 926,347 916,347 900,347 883,347 866,346 850,346 833,346 832,346 830,346 767,357 744,347 742,347 740,347 624,357 598,347 596,347 595,347 593,347 563,359 547,349 545,349 543,349 542,349 474,359 389,349 386,351 369,351 353,351 336,351 319,352 311,352 301,361 290,352 286,352 270,352 208,361 198,354 187,354 170,356 154,356 137,356 122,356 121,357 122,390 122,402 1535,397 1536,381 1533,356 1530,356" />
+      <Word id="l_0003-w_0001" text="ſtatt." error_score="0.010" />
+      <Word id="l_0003-w_0002" text="Die" error_score="0.010" />
+      <Word id="l_0003-w_0003" text="Ausdauer" error_score="0.010" />
+      <Word id="l_0003-w_0004" text="und" error_score="0.010" />
+      <Word id="l_0003-w_0005" text="die" error_score="0.010" />
+      <Word id="l_0003-w_0006" text="raſtloſe" error_score="0.010" />
+      <Word id="l_0003-w_0007" text="Thätigkeit," error_score="0.010" />
+      <Word id="l_0003-w_0008" text="welche" error_score="0.010" />
+      <Word id="l_0003-w_0009" text="der" error_score="0.010" />
+      <Word id="l_0003-w_0010" text="Kaiſer" error_score="0.010" />
+      <Word id="l_0003-w_0011" text="hiebei" error_score="0.010" />
+      <Word id="l_0003-w_0012" text="an" error_score="0.010" />
+      <Word id="l_0003-w_0013" text="den" error_score="0.010" />
+    </TextLine>
+    <TextLine id="l_0004" text="Tag legt, iſt bewunderungswert. Ʒwei⸗ bis dreimal wechſelt der Monarch oft bei ſolchen">
+      <Coords points="127,430 127,443 1535,440 1536,427 1531,399 125,400 127,430" />
+      <Word id="l_0004-w_0001" text="Tag" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="legt," error_score="0.000" />
+      <Word id="l_0004-w_0003" text="iſt" error_score="0.000" />
+      <Word id="l_0004-w_0004" text="bewunderungswert." error_score="0.000" />
+      <Word id="l_0004-w_0005" text="Ʒwei⸗" error_score="0.000" />
+      <Word id="l_0004-w_0006" text="bis" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="dreimal" error_score="0.000" />
+      <Word id="l_0004-w_0008" text="wechſelt" error_score="0.000" />
+      <Word id="l_0004-w_0009" text="der" error_score="0.000" />
+      <Word id="l_0004-w_0010" text="Monarch" error_score="0.000" />
+      <Word id="l_0004-w_0011" text="oft" error_score="0.000" />
+      <Word id="l_0004-w_0012" text="bei" error_score="0.000" />
+      <Word id="l_0004-w_0013" text="ſolchen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0005" text="Manövern das Pferd und ſucht ſich von allen Einʒelheiten ſelbſt ʒu überʒeugen.">
+      <Coords points="124,475 124,487 1453,485 1455,472 1452,445 1012,435 1011,435 1009,435 978,443 926,435 924,435 923,435 905,443 858,435 857,435 787,445 727,437 726,437 492,445 480,437 479,437 477,437 399,437 397,437 341,445 324,437 323,437 321,437 319,437 318,437 306,447 184,447 135,437 134,437 132,437 130,437 122,442 124,475" />
+      <Word id="l_0005-w_0001" text="Manövern" error_score="0.000" />
+      <Word id="l_0005-w_0002" text="das" error_score="0.000" />
+      <Word id="l_0005-w_0003" text="Pferd" error_score="0.000" />
+      <Word id="l_0005-w_0004" text="und" error_score="0.000" />
+      <Word id="l_0005-w_0005" text="ſucht" error_score="0.000" />
+      <Word id="l_0005-w_0006" text="ſich" error_score="0.000" />
+      <Word id="l_0005-w_0007" text="von" error_score="0.000" />
+      <Word id="l_0005-w_0008" text="allen" error_score="0.000" />
+      <Word id="l_0005-w_0009" text="Einʒelheiten" error_score="0.000" />
+      <Word id="l_0005-w_0010" text="ſelbſt" error_score="0.000" />
+      <Word id="l_0005-w_0011" text="ʒu" error_score="0.000" />
+      <Word id="l_0005-w_0012" text="überʒeugen." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0006" text="Der Kaiſer unternahm nicht nur innerhalb ſeines Reiches, ſondern auch ʒum">
+      <Coords points="233,533 233,545 1536,538 1538,526 1535,500 1458,500 1445,490 1443,490 1442,490 1440,490 1438,490 1437,490 1423,500 1317,500 1299,490 1297,490 1296,490 1294,490 1273,498 1249,490 1248,490 1246,490 1244,490 1243,490 1231,498 898,492 896,492 895,492 893,492 876,501 659,493 658,493 616,501 568,493 566,493 565,493 563,493 550,503 328,495 326,495 286,503 246,495 245,495 243,495 242,495 232,501 233,533" />
+      <Word id="l_0006-w_0001" text="Der" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0002" text="Kaiſer" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0003" text="unternahm" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0004" text="nicht" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0005" text="nur" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0006" text="innerhalb" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0007" text="ſeines" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0008" text="Reiches," error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0009" text="ſondern" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0010" text="auch" error_score="1.000" error_type="merge" />
+      <Word id="l_0006-w_0011" text="ʒum" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0007" text="Beſuche fremder Fürſten große Reiſen. Der Monarch war öfter in Berlin, er beſuchte">
+      <Coords points="124,576 124,589 1536,584 1538,569 1535,543 1455,533 1453,533 1452,533 1450,533 1438,543 1327,543 1296,533 1294,533 1292,533 1243,541 1223,533 1221,533 1220,533 1218,533 1180,543 1092,535 1090,535 997,543 981,535 979,535 978,535 906,543 855,535 853,535 852,535 827,545 628,536 626,536 624,536 623,536 613,545 585,536 583,536 581,536 580,536 558,545 397,538 396,538 394,538 392,538 379,546 223,538 222,538 220,538 218,538 207,546 135,538 134,538 132,538 130,538 122,543 124,576" />
+      <Word id="l_0007-w_0001" text="Beſuche" error_score="0.000" />
+      <Word id="l_0007-w_0002" text="fremder" error_score="0.000" />
+      <Word id="l_0007-w_0003" text="Fürſten" error_score="0.000" />
+      <Word id="l_0007-w_0004" text="große" error_score="0.000" />
+      <Word id="l_0007-w_0005" text="Reiſen." error_score="0.000" />
+      <Word id="l_0007-w_0006" text="Der" error_score="0.000" />
+      <Word id="l_0007-w_0007" text="Monarch" error_score="0.000" />
+      <Word id="l_0007-w_0008" text="war" error_score="0.000" />
+      <Word id="l_0007-w_0009" text="öfter" error_score="0.000" />
+      <Word id="l_0007-w_0010" text="in" error_score="0.000" />
+      <Word id="l_0007-w_0011" text="Berlin," error_score="0.000" />
+      <Word id="l_0007-w_0012" text="er" error_score="0.000" />
+      <Word id="l_0007-w_0013" text="beſuchte" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="den Kaiſer von Ruſsland in Petersburg und den Kaiſer Napoleon in Paris">
+      <Coords points="124,621 124,632 1535,626 1536,612 1533,586 1414,578 1412,578 1410,578 1409,578 1397,588 1273,588 1254,578 1253,578 1251,578 1249,578 1248,578 1231,588 1042,579 1041,579 948,589 929,581 928,581 926,581 813,589 750,581 749,581 747,581 717,589 691,581 689,581 687,581 621,591 590,583 588,583 586,583 585,583 561,591 550,583 548,583 547,583 406,583 404,583 402,583 401,583 389,593 276,584 275,584 122,591 124,621" />
+      <Word id="l_0008-w_0001" text="den" error_score="0.000" />
+      <Word id="l_0008-w_0002" text="Kaiſer" error_score="0.000" />
+      <Word id="l_0008-w_0003" text="von" error_score="0.000" />
+      <Word id="l_0008-w_0004" text="Ruſsland" error_score="0.000" />
+      <Word id="l_0008-w_0005" text="in" error_score="0.000" />
+      <Word id="l_0008-w_0006" text="Petersburg" error_score="0.000" />
+      <Word id="l_0008-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0008-w_0008" text="den" error_score="0.000" />
+      <Word id="l_0008-w_0009" text="Kaiſer" error_score="0.000" />
+      <Word id="l_0008-w_0010" text="Napoleon" error_score="0.000" />
+      <Word id="l_0008-w_0011" text="in" error_score="0.000" />
+      <Word id="l_0008-w_0012" text="Paris" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="(1867), er erwiderte den Beſuch des Sultans in Conſtantinopel, begab ſich">
+      <Coords points="124,664 124,679 1324,679 1324,677 1326,677 1327,677 1339,669 1365,677 1367,677 1369,677 1455,669 1531,677 1535,657 1531,627 140,627 139,627 137,627 122,634 124,664" />
+      <Word id="l_0009-w_0001" text="(1867)," error_score="0.000" />
+      <Word id="l_0009-w_0002" text="er" error_score="0.000" />
+      <Word id="l_0009-w_0003" text="erwiderte" error_score="0.000" />
+      <Word id="l_0009-w_0004" text="den" error_score="0.000" />
+      <Word id="l_0009-w_0005" text="Beſuch" error_score="0.000" />
+      <Word id="l_0009-w_0006" text="des" error_score="0.000" />
+      <Word id="l_0009-w_0007" text="Sultans" error_score="0.000" />
+      <Word id="l_0009-w_0008" text="in" error_score="0.000" />
+      <Word id="l_0009-w_0009" text="Conſtantinopel," error_score="0.000" />
+      <Word id="l_0009-w_0010" text="begab" error_score="0.000" />
+      <Word id="l_0009-w_0011" text="ſich" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0010" text="nach Athen und von da nach Jaffa, der Hafenſtadt Jeruſalems, um das heilige">
+      <Coords points="124,709 124,718 281,727 283,727 417,717 624,725 626,725 628,725 651,717 664,725 666,725 668,725 669,725 757,723 759,723 760,723 772,715 850,715 861,723 863,723 865,723 866,723 1032,714 1050,722 1052,722 1054,723 1239,723 1239,722 1241,722 1243,722 1258,712 1535,715 1538,700 1535,674 1470,664 1468,664 1467,664 1465,664 1452,674 1377,674 1362,664 1360,664 1359,664 1357,664 1251,674 1054,665 1052,665 1050,665 1034,674 999,665 997,665 996,665 944,674 795,667 794,667 749,675 712,667 711,667 709,667 654,677 636,669 634,669 633,669 550,677 518,669 517,669 515,669 513,669 512,669 500,679 422,679 409,669 407,669 406,669 404,669 353,679 182,670 180,670 122,680 124,709" />
+      <Word id="l_0010-w_0001" text="nach" error_score="0.000" />
+      <Word id="l_0010-w_0002" text="Athen" error_score="0.000" />
+      <Word id="l_0010-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0010-w_0004" text="von" error_score="0.000" />
+      <Word id="l_0010-w_0005" text="da" error_score="0.000" />
+      <Word id="l_0010-w_0006" text="nach" error_score="0.000" />
+      <Word id="l_0010-w_0007" text="Jaffa," error_score="0.000" />
+      <Word id="l_0010-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0010-w_0009" text="Hafenſtadt" error_score="0.000" />
+      <Word id="l_0010-w_0010" text="Jeruſalems," error_score="0.000" />
+      <Word id="l_0010-w_0011" text="um" error_score="0.000" />
+      <Word id="l_0010-w_0012" text="das" error_score="0.000" />
+      <Word id="l_0010-w_0013" text="heilige" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0011" text="Land ʒu beſuchen. Von da gieng es nach Agypten, wo der Kaiſer an der Eröffnung">
+      <Coords points="125,750 125,762 1533,767 1536,747 1533,720 830,712 828,712 827,712 794,720 137,714 135,714 134,714 132,714 124,718 125,750" />
+      <Word id="l_0011-w_0001" text="Land" error_score="0.000" />
+      <Word id="l_0011-w_0002" text="ʒu" error_score="0.000" />
+      <Word id="l_0011-w_0003" text="beſuchen." error_score="0.000" />
+      <Word id="l_0011-w_0004" text="Von" error_score="0.000" />
+      <Word id="l_0011-w_0005" text="da" error_score="0.000" />
+      <Word id="l_0011-w_0006" text="gieng" error_score="0.000" />
+      <Word id="l_0011-w_0007" text="es" error_score="0.000" />
+      <Word id="l_0011-w_0008" text="nach" error_score="0.000" />
+      <Word id="l_0011-w_0009" text="Agypten," error_score="0.000" />
+      <Word id="l_0011-w_0010" text="wo" error_score="0.000" />
+      <Word id="l_0011-w_0011" text="der" error_score="0.000" />
+      <Word id="l_0011-w_0012" text="Kaiſer" error_score="0.000" />
+      <Word id="l_0011-w_0013" text="an" error_score="0.000" />
+      <Word id="l_0011-w_0014" text="der" error_score="0.000" />
+      <Word id="l_0011-w_0015" text="Eröffnung" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0012" text="des Sueʒ⸗Canals theilnahm, auch beſtieg er die höchſte der ägyptiſchen Pyramiden">
+      <Coords points="124,795 124,808 1535,805 1536,788 1533,762 1216,752 1215,752 1213,752 1176,762 953,753 951,753 949,753 931,762 911,753 910,753 908,753 820,763 800,755 799,755 797,755 616,763 593,755 591,755 590,755 588,755 558,763 489,755 487,755 485,755 464,765 439,757 437,757 435,757 258,765 203,757 202,757 152,765 139,757 137,757 135,757 134,757 132,757 130,757 122,762 124,795" />
+      <Word id="l_0012-w_0001" text="des" error_score="0.000" />
+      <Word id="l_0012-w_0002" text="Sueʒ⸗Canals" error_score="0.000" />
+      <Word id="l_0012-w_0003" text="theilnahm," error_score="0.000" />
+      <Word id="l_0012-w_0004" text="auch" error_score="0.000" />
+      <Word id="l_0012-w_0005" text="beſtieg" error_score="0.000" />
+      <Word id="l_0012-w_0006" text="er" error_score="0.000" />
+      <Word id="l_0012-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0012-w_0008" text="höchſte" error_score="0.000" />
+      <Word id="l_0012-w_0009" text="der" error_score="0.000" />
+      <Word id="l_0012-w_0010" text="ägyptiſchen" error_score="0.000" />
+      <Word id="l_0012-w_0011" text="Pyramiden" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="(186ꝰ). Von den Reiſen im Jnlande iſt die nach Dalmatien am bemerkenswerteſten.">
+      <Coords points="124,836 124,849 1536,846 1538,833 1535,806 140,800 139,800 137,800 122,806 124,836" />
+      <Word id="l_0013-w_0001" text="(186ꝰ)." error_score="0.000" />
+      <Word id="l_0013-w_0002" text="Von" error_score="0.000" />
+      <Word id="l_0013-w_0003" text="den" error_score="0.000" />
+      <Word id="l_0013-w_0004" text="Reiſen" error_score="0.000" />
+      <Word id="l_0013-w_0005" text="im" error_score="0.000" />
+      <Word id="l_0013-w_0006" text="Jnlande" error_score="0.000" />
+      <Word id="l_0013-w_0007" text="iſt" error_score="0.000" />
+      <Word id="l_0013-w_0008" text="die" error_score="0.000" />
+      <Word id="l_0013-w_0009" text="nach" error_score="0.000" />
+      <Word id="l_0013-w_0010" text="Dalmatien" error_score="0.000" />
+      <Word id="l_0013-w_0011" text="am" error_score="0.000" />
+      <Word id="l_0013-w_0012" text="bemerkenswerteſten." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0014" text="Dabei ertrug der Kaiſer, deſſen feſte Geſundheit und abgehärtete Natur jeder Unbill">
+      <Coords points="125,881 125,894 1535,891 1536,874 1533,843 487,843 485,843 432,851 149,844 147,844 145,844 124,853 125,881" />
+      <Word id="l_0014-w_0001" text="Dabei" error_score="0.000" />
+      <Word id="l_0014-w_0002" text="ertrug" error_score="0.000" />
+      <Word id="l_0014-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0014-w_0004" text="Kaiſer," error_score="0.000" />
+      <Word id="l_0014-w_0005" text="deſſen" error_score="0.000" />
+      <Word id="l_0014-w_0006" text="feſte" error_score="0.000" />
+      <Word id="l_0014-w_0007" text="Geſundheit" error_score="0.000" />
+      <Word id="l_0014-w_0008" text="und" error_score="0.000" />
+      <Word id="l_0014-w_0009" text="abgehärtete" error_score="0.000" />
+      <Word id="l_0014-w_0010" text="Natur" error_score="0.000" />
+      <Word id="l_0014-w_0011" text="jeder" error_score="0.000" />
+      <Word id="l_0014-w_0012" text="Unbill" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0015" text="der Witterung trotʒt, alle Beſchwerden der Reiſe in dem unwirtlichen Lande mit">
+      <Coords points="124,927 124,937 1536,934 1538,921 1535,891 1208,884 1206,884 1205,884 1167,896 1072,896 1057,886 1055,886 1054,886 1052,886 1050,886 1017,894 992,886 991,886 989,886 987,886 956,894 883,886 881,886 880,886 878,886 866,894 810,887 808,887 749,896 731,887 729,887 727,887 726,887 697,896 588,887 586,887 585,887 563,896 530,887 528,887 527,887 525,887 523,887 510,896 391,889 389,889 346,897 202,889 200,889 198,889 180,897 134,889 132,889 130,889 129,889 122,892 124,927" />
+      <Word id="l_0015-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0015-w_0002" text="Witterung" error_score="0.000" />
+      <Word id="l_0015-w_0003" text="trotʒt," error_score="0.000" />
+      <Word id="l_0015-w_0004" text="alle" error_score="0.000" />
+      <Word id="l_0015-w_0005" text="Beſchwerden" error_score="0.000" />
+      <Word id="l_0015-w_0006" text="der" error_score="0.000" />
+      <Word id="l_0015-w_0007" text="Reiſe" error_score="0.000" />
+      <Word id="l_0015-w_0008" text="in" error_score="0.000" />
+      <Word id="l_0015-w_0009" text="dem" error_score="0.000" />
+      <Word id="l_0015-w_0010" text="unwirtlichen" error_score="0.000" />
+      <Word id="l_0015-w_0011" text="Lande" error_score="0.000" />
+      <Word id="l_0015-w_0012" text="mit" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0016" text="Leichtigkeit. Einſt muſste der Monarch ſogar in dem Hauſe eines Straßenwärters">
+      <Coords points="125,970 125,982 1536,977 1538,964 1535,937 1380,937 1360,927 1359,927 1357,927 1355,927 1326,936 1297,927 1296,927 1294,927 1211,936 1198,927 1196,927 1195,927 1193,927 1191,927 1190,927 1178,937 1137,929 1135,929 1133,929 1117,937 1074,929 1072,929 1070,929 1069,929 1054,937 822,931 820,931 818,931 817,931 807,939 795,931 794,931 792,931 790,931 638,939 590,931 588,931 586,931 563,939 512,931 510,931 460,940 430,932 429,932 427,932 314,940 303,932 301,932 300,932 137,932 135,932 134,932 132,932 124,939 125,970" />
+      <Word id="l_0016-w_0001" text="Leichtigkeit." error_score="0.000" />
+      <Word id="l_0016-w_0002" text="Einſt" error_score="0.000" />
+      <Word id="l_0016-w_0003" text="muſste" error_score="0.000" />
+      <Word id="l_0016-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0016-w_0005" text="Monarch" error_score="0.000" />
+      <Word id="l_0016-w_0006" text="ſogar" error_score="0.000" />
+      <Word id="l_0016-w_0007" text="in" error_score="0.000" />
+      <Word id="l_0016-w_0008" text="dem" error_score="0.000" />
+      <Word id="l_0016-w_0009" text="Hauſe" error_score="0.000" />
+      <Word id="l_0016-w_0010" text="eines" error_score="0.000" />
+      <Word id="l_0016-w_0011" text="Straßenwärters" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0017" text="am offenen Feuer die von einem Platʒregen durchnäſsten Kleider trocknen und die">
+      <Coords points="124,1013 124,1025 1535,1023 1536,1008 1533,982 605,975 603,975 601,975 600,975 588,984 215,977 213,977 122,985 124,1013" />
+      <Word id="l_0017-w_0001" text="am" error_score="0.000" />
+      <Word id="l_0017-w_0002" text="offenen" error_score="0.000" />
+      <Word id="l_0017-w_0003" text="Feuer" error_score="0.000" />
+      <Word id="l_0017-w_0004" text="die" error_score="0.000" />
+      <Word id="l_0017-w_0005" text="von" error_score="0.000" />
+      <Word id="l_0017-w_0006" text="einem" error_score="0.000" />
+      <Word id="l_0017-w_0007" text="Platʒregen" error_score="0.000" />
+      <Word id="l_0017-w_0008" text="durchnäſsten" error_score="0.000" />
+      <Word id="l_0017-w_0009" text="Kleider" error_score="0.000" />
+      <Word id="l_0017-w_0010" text="trocknen" error_score="0.000" />
+      <Word id="l_0017-w_0011" text="und" error_score="0.000" />
+      <Word id="l_0017-w_0012" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0018" text="von der Bora durchfrorenen Glieder wärmen.">
+      <Coords points="125,1056 125,1068 910,1065 911,1053 908,1028 631,1018 629,1018 628,1018 626,1018 626,1020 618,1027 280,1020 278,1020 276,1020 275,1020 263,1028 210,1020 208,1020 207,1020 205,1020 205,1022 197,1030 124,1030 125,1056" />
+      <Word id="l_0018-w_0001" text="von" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0018-w_0003" text="Bora" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="durchfrorenen" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="Glieder" error_score="0.000" />
+      <Word id="l_0018-w_0006" text="wärmen." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="Der Kaiſer tritt uns als eine Geſtalt von edler, echter Ritterlichkeit entgegen,">
+      <Coords points="233,1113 233,1126 1533,1128 1536,1108 1533,1081 1122,1071 1120,1071 1118,1071 1097,1081 1054,1073 1052,1073 1050,1073 1031,1081 934,1073 933,1073 931,1073 929,1073 918,1083 838,1083 815,1073 813,1073 812,1073 810,1073 792,1081 731,1073 729,1073 682,1081 673,1073 671,1073 669,1073 668,1073 666,1073 664,1073 651,1083 613,1075 611,1075 610,1075 608,1075 595,1083 464,1075 462,1075 399,1083 321,1075 319,1075 318,1075 316,1075 305,1083 246,1075 245,1075 243,1075 242,1075 232,1081 233,1113" />
+      <Word id="l_0019-w_0001" text="Der" error_score="0.520" />
+      <Word id="l_0019-w_0002" text="Kaiſer" error_score="0.520" />
+      <Word id="l_0019-w_0003" text="tritt" error_score="0.520" />
+      <Word id="l_0019-w_0004" text="uns" error_score="0.520" />
+      <Word id="l_0019-w_0005" text="als" error_score="0.520" />
+      <Word id="l_0019-w_0006" text="eine" error_score="0.520" />
+      <Word id="l_0019-w_0007" text="Geſtalt" error_score="0.520" />
+      <Word id="l_0019-w_0008" text="von" error_score="0.520" />
+      <Word id="l_0019-w_0009" text="edler," error_score="0.520" />
+      <Word id="l_0019-w_0010" text="echter" error_score="0.520" />
+      <Word id="l_0019-w_0011" text="Ritterlichkeit" error_score="0.520" />
+      <Word id="l_0019-w_0012" text="entgegen," error_score="0.520" />
+    </TextLine>
+    <TextLine id="l_0020" text="einfach, prunklos und doch die Würde des Fürſten immer wahrend. Als die">
+      <Coords points="122,1159 122,1169 242,1177 243,1177 245,1177 266,1169 288,1177 290,1177 291,1177 404,1176 406,1176 407,1176 421,1167 581,1176 583,1176 803,1166 835,1174 837,1174 838,1174 1044,1164 1117,1172 1118,1172 1178,1164 1210,1172 1211,1172 1213,1172 1347,1171 1349,1171 1351,1171 1362,1162 1400,1171 1402,1171 1460,1162 1535,1167 1538,1151 1535,1124 1400,1116 1399,1116 1344,1124 1324,1116 1322,1116 1321,1116 1319,1116 1288,1124 1261,1116 1259,1116 1258,1116 1256,1116 1236,1126 1075,1118 1074,1118 1032,1126 983,1118 981,1118 979,1118 978,1118 966,1126 921,1119 920,1119 850,1128 837,1119 835,1119 833,1119 832,1119 784,1128 774,1119 772,1119 770,1119 694,1119 692,1119 691,1119 689,1119 677,1129 588,1121 586,1121 585,1121 561,1129 545,1121 543,1121 542,1121 540,1121 512,1129 493,1121 492,1121 490,1121 426,1129 407,1121 406,1121 404,1121 270,1131 144,1123 142,1123 140,1123 121,1129 122,1159" />
+      <Word id="l_0020-w_0001" text="einfach," error_score="0.000" />
+      <Word id="l_0020-w_0002" text="prunklos" error_score="0.000" />
+      <Word id="l_0020-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0020-w_0004" text="doch" error_score="0.000" />
+      <Word id="l_0020-w_0005" text="die" error_score="0.000" />
+      <Word id="l_0020-w_0006" text="Würde" error_score="0.000" />
+      <Word id="l_0020-w_0007" text="des" error_score="0.000" />
+      <Word id="l_0020-w_0008" text="Fürſten" error_score="0.000" />
+      <Word id="l_0020-w_0009" text="immer" error_score="0.000" />
+      <Word id="l_0020-w_0010" text="wahrend." error_score="0.000" />
+      <Word id="l_0020-w_0011" text="Als" error_score="0.000" />
+      <Word id="l_0020-w_0012" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="Einkommenſteuer neu geregelt wurde, gab er ein ſeltenes Beiſpiel edelmüthiger">
+      <Coords points="125,1201 125,1212 585,1220 586,1220 588,1220 629,1211 737,1219 739,1219 740,1219 762,1211 784,1219 785,1219 787,1219 1004,1211 1029,1219 1031,1219 1032,1219 1140,1209 1501,1217 1503,1217 1505,1217 1539,1207 1539,1196 1536,1172 1483,1162 1481,1162 1309,1171 1284,1162 1283,1162 1281,1162 1279,1162 1254,1171 1170,1162 1168,1162 1167,1162 1143,1171 1127,1162 1125,1162 1123,1162 1122,1162 1104,1171 1021,1164 1019,1164 1017,1164 986,1172 959,1164 958,1164 956,1164 954,1164 953,1164 938,1174 852,1174 830,1164 828,1164 827,1164 745,1172 711,1164 709,1164 707,1164 634,1172 603,1164 601,1164 600,1164 598,1164 596,1164 580,1174 137,1166 135,1166 134,1166 132,1166 124,1172 125,1201" />
+      <Word id="l_0021-w_0001" text="Einkommenſteuer" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="neu" error_score="0.000" />
+      <Word id="l_0021-w_0003" text="geregelt" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="wurde," error_score="0.000" />
+      <Word id="l_0021-w_0005" text="gab" error_score="0.000" />
+      <Word id="l_0021-w_0006" text="er" error_score="0.000" />
+      <Word id="l_0021-w_0007" text="ein" error_score="0.000" />
+      <Word id="l_0021-w_0008" text="ſeltenes" error_score="0.000" />
+      <Word id="l_0021-w_0009" text="Beiſpiel" error_score="0.000" />
+      <Word id="l_0021-w_0010" text="edelmüthiger" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="Unterordnung unter das Wohl des Ganʒen: er unterwarf ſich ſelbſt mit allen Mit⸗">
+      <Coords points="125,1245 125,1259 1536,1252 1538,1239 1535,1214 1185,1206 1183,1206 1181,1206 1180,1206 1170,1214 978,1207 976,1207 124,1217 125,1245" />
+      <Word id="l_0022-w_0001" text="Unterordnung" error_score="0.000" />
+      <Word id="l_0022-w_0002" text="unter" error_score="0.000" />
+      <Word id="l_0022-w_0003" text="das" error_score="0.000" />
+      <Word id="l_0022-w_0004" text="Wohl" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="des" error_score="0.000" />
+      <Word id="l_0022-w_0006" text="Ganʒen:" error_score="0.000" />
+      <Word id="l_0022-w_0007" text="er" error_score="0.000" />
+      <Word id="l_0022-w_0008" text="unterwarf" error_score="0.000" />
+      <Word id="l_0022-w_0009" text="ſich" error_score="0.000" />
+      <Word id="l_0022-w_0010" text="ſelbſt" error_score="0.000" />
+      <Word id="l_0022-w_0011" text="mit" error_score="0.000" />
+      <Word id="l_0022-w_0012" text="allen" error_score="0.000" />
+      <Word id="l_0022-w_0013" text="Mit⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="gliedern ſeines Hauſes der Beſteuerung. Von echter Frömmigkeit beſeelt, übt unſer">
+      <Coords points="124,1290 124,1305 1538,1297 1539,1283 1538,1259 1501,1249 1500,1249 1498,1249 1351,1257 1324,1249 1322,1249 1321,1249 1319,1249 1302,1257 1254,1249 1253,1249 1251,1249 1230,1257 1206,1249 1205,1249 1203,1249 1201,1249 1158,1259 944,1250 943,1250 876,1259 833,1250 832,1250 830,1250 828,1250 817,1260 525,1252 523,1252 522,1252 520,1252 507,1260 280,1254 278,1254 276,1254 256,1262 150,1254 149,1254 147,1254 122,1262 124,1290" />
+      <Word id="l_0023-w_0001" text="gliedern" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="ſeines" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="Hauſes" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="Beſteuerung." error_score="0.000" />
+      <Word id="l_0023-w_0006" text="Von" error_score="0.000" />
+      <Word id="l_0023-w_0007" text="echter" error_score="0.000" />
+      <Word id="l_0023-w_0008" text="Frömmigkeit" error_score="0.000" />
+      <Word id="l_0023-w_0009" text="beſeelt," error_score="0.000" />
+      <Word id="l_0023-w_0010" text="übt" error_score="0.000" />
+      <Word id="l_0023-w_0011" text="unſer" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="Kaiſer Wohlthaten ohne Ʒahl, und kaum übertrifft ihn hierin ein anderer Fürſt.">
+      <Coords points="124,1331 124,1345 1539,1345 1539,1331 1539,1303 1516,1295 1515,1295 1442,1295 1440,1295 1438,1295 1437,1295 1425,1303 1341,1295 1339,1295 1268,1303 1248,1295 1246,1295 1244,1295 1196,1303 1175,1295 1173,1295 1171,1295 1170,1295 1148,1303 1108,1295 1107,1295 1105,1295 1079,1303 1052,1295 1050,1295 1049,1295 1006,1303 963,1295 961,1295 908,1303 885,1295 883,1295 881,1295 767,1303 754,1295 752,1295 750,1295 749,1295 747,1295 722,1303 709,1295 707,1295 706,1295 704,1295 639,1303 606,1295 605,1295 603,1295 601,1295 583,1303 563,1295 561,1295 560,1295 558,1295 556,1295 545,1305 376,1305 316,1295 314,1295 313,1295 296,1303 258,1295 256,1295 210,1303 184,1295 182,1295 180,1295 124,1303 124,1331" />
+      <Word id="l_0024-w_0001" text="Kaiſer" error_score="0.000" />
+      <Word id="l_0024-w_0002" text="Wohlthaten" error_score="0.000" />
+      <Word id="l_0024-w_0003" text="ohne" error_score="0.000" />
+      <Word id="l_0024-w_0004" text="Ʒahl," error_score="0.000" />
+      <Word id="l_0024-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0024-w_0006" text="kaum" error_score="0.000" />
+      <Word id="l_0024-w_0007" text="übertrifft" error_score="0.000" />
+      <Word id="l_0024-w_0008" text="ihn" error_score="0.000" />
+      <Word id="l_0024-w_0009" text="hierin" error_score="0.000" />
+      <Word id="l_0024-w_0010" text="ein" error_score="0.000" />
+      <Word id="l_0024-w_0011" text="anderer" error_score="0.000" />
+      <Word id="l_0024-w_0012" text="Fürſt." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="Alle Völker ſeines weiten Reiches bringen dem Kaiſer, der mit allen in der">
+      <Coords points="235,1376 235,1388 1536,1384 1538,1373 1535,1348 1491,1338 1490,1338 1488,1338 1470,1346 1352,1338 1351,1338 1349,1338 1316,1346 1291,1338 1289,1338 1288,1338 1218,1346 1191,1338 1190,1338 1188,1338 1143,1346 1049,1338 1047,1338 981,1346 964,1338 963,1338 961,1338 959,1338 958,1338 946,1348 233,1348 235,1376" />
+      <Word id="l_0025-w_0001" text="Alle" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0002" text="Völker" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0003" text="ſeines" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0004" text="weiten" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0005" text="Reiches" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0006" text="bringen" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0007" text="dem" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0008" text="Kaiſer," error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0009" text="der" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0010" text="mit" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0011" text="allen" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0012" text="in" error_score="1.000" error_type="merge" />
+      <Word id="l_0025-w_0013" text="der" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0026" text="Mutterſprache ʒu verkehren vermag, dieſelbe Verehrung und Liebe entgegen. Dem">
+      <Coords points="124,1423 124,1434 1536,1429 1538,1416 1535,1391 1460,1381 1458,1381 1457,1381 1455,1381 1442,1391 1329,1391 1311,1381 1309,1381 1307,1381 1231,1389 1185,1381 1183,1381 1181,1381 1142,1391 1122,1383 1120,1383 1118,1383 1117,1383 1100,1391 883,1383 881,1383 880,1383 857,1391 832,1383 830,1383 828,1383 732,1393 477,1384 475,1384 424,1394 134,1386 132,1386 130,1386 129,1386 122,1389 124,1423" />
+      <Word id="l_0026-w_0001" text="Mutterſprache" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="ʒu" error_score="0.000" />
+      <Word id="l_0026-w_0003" text="verkehren" error_score="0.000" />
+      <Word id="l_0026-w_0004" text="vermag," error_score="0.000" />
+      <Word id="l_0026-w_0005" text="dieſelbe" error_score="0.000" />
+      <Word id="l_0026-w_0006" text="Verehrung" error_score="0.000" />
+      <Word id="l_0026-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0026-w_0008" text="Liebe" error_score="0.000" />
+      <Word id="l_0026-w_0009" text="entgegen." error_score="0.000" />
+      <Word id="l_0026-w_0010" text="Dem" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="Oſterreicher iſt ſein Kaiſer und ſein Vaterland Eins.">
+      <Coords points="124,1464 124,1476 1045,1477 1047,1464 1047,1437 943,1428 941,1428 939,1428 915,1436 901,1428 900,1428 898,1428 896,1428 895,1428 871,1436 852,1428 850,1428 848,1428 797,1436 757,1428 755,1428 699,1436 681,1428 679,1428 677,1428 676,1428 653,1436 643,1428 641,1428 639,1428 638,1428 636,1428 634,1428 624,1437 553,1437 527,1428 525,1428 523,1428 522,1428 520,1428 510,1436 480,1428 479,1428 477,1428 475,1428 439,1436 397,1428 396,1428 394,1428 376,1436 341,1428 339,1428 338,1428 298,1436 250,1428 248,1428 188,1436 139,1428 137,1428 135,1428 134,1428 124,1434 124,1464" />
+      <Word id="l_0027-w_0001" text="Oſterreicher" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="iſt" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="ſein" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="Kaiſer" error_score="0.000" />
+      <Word id="l_0027-w_0005" text="und" error_score="0.000" />
+      <Word id="l_0027-w_0006" text="ſein" error_score="0.000" />
+      <Word id="l_0027-w_0007" text="Vaterland" error_score="0.000" />
+      <Word id="l_0027-w_0008" text="Eins." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="„Was Kaiſer Franʒ Joſef an Oſterreich gethan, iſt mit leuchtenden Lettern">
+      <Coords points="233,1529 233,1544 1538,1535 1539,1522 1536,1494 1420,1484 1418,1484 1362,1492 1349,1482 1347,1482 1346,1482 1344,1482 1342,1482 1309,1492 1279,1482 1278,1482 1276,1482 1274,1482 1239,1492 1218,1482 1216,1482 1215,1482 1213,1482 1211,1482 1211,1484 1200,1494 1175,1484 1173,1484 1171,1484 1170,1484 1168,1484 1155,1494 1084,1484 1082,1484 1080,1484 1079,1484 1065,1495 1024,1495 994,1484 992,1484 991,1484 924,1494 905,1484 903,1484 901,1484 900,1484 863,1495 799,1486 797,1486 689,1495 676,1486 674,1486 673,1486 671,1486 623,1494 593,1486 591,1486 590,1486 588,1486 555,1497 498,1487 497,1487 495,1487 455,1497 424,1487 422,1487 421,1487 346,1495 334,1487 333,1487 331,1487 261,1487 260,1487 258,1487 232,1497 233,1529" />
+      <Word id="l_0028-w_0001" text="„Was" error_score="0.035" />
+      <Word id="l_0028-w_0002" text="Kaiſer" error_score="0.035" />
+      <Word id="l_0028-w_0003" text="Franʒ" error_score="0.035" />
+      <Word id="l_0028-w_0004" text="Joſef" error_score="0.035" />
+      <Word id="l_0028-w_0005" text="an" error_score="0.035" />
+      <Word id="l_0028-w_0006" text="Oſterreich" error_score="0.035" />
+      <Word id="l_0028-w_0007" text="gethan," error_score="0.035" />
+      <Word id="l_0028-w_0008" text="iſt" error_score="0.035" />
+      <Word id="l_0028-w_0009" text="mit" error_score="0.035" />
+      <Word id="l_0028-w_0010" text="leuchtenden" error_score="0.035" />
+      <Word id="l_0028-w_0011" text="Lettern" error_score="0.035" />
+    </TextLine>
+    <TextLine id="l_0029" text="in die Herʒen der Ʒeitgenoſſen eingegraben und prangt in unvergänglichen Ʒügen">
+      <Coords points="124,1580 124,1593 593,1601 595,1601 653,1592 717,1600 719,1600 956,1592 969,1600 971,1600 973,1600 974,1601 1067,1601 1067,1600 1069,1600 1070,1600 1087,1590 1236,1598 1238,1600 1498,1600 1498,1598 1538,1588 1539,1575 1536,1548 1327,1539 1326,1539 1324,1539 1297,1547 1268,1539 1266,1539 1264,1539 1132,1547 1077,1539 1075,1539 1074,1539 1052,1548 933,1540 931,1540 843,1548 812,1540 810,1540 808,1540 721,1548 691,1540 689,1540 687,1540 628,1548 598,1540 596,1540 595,1540 593,1540 570,1550 508,1542 507,1542 435,1550 381,1542 379,1542 377,1542 361,1550 185,1542 184,1542 182,1542 165,1550 135,1542 134,1542 132,1542 130,1542 129,1542 122,1545 124,1580" />
+      <Word id="l_0029-w_0001" text="in" error_score="0.000" />
+      <Word id="l_0029-w_0002" text="die" error_score="0.000" />
+      <Word id="l_0029-w_0003" text="Herʒen" error_score="0.000" />
+      <Word id="l_0029-w_0004" text="der" error_score="0.000" />
+      <Word id="l_0029-w_0005" text="Ʒeitgenoſſen" error_score="0.000" />
+      <Word id="l_0029-w_0006" text="eingegraben" error_score="0.000" />
+      <Word id="l_0029-w_0007" text="und" error_score="0.000" />
+      <Word id="l_0029-w_0008" text="prangt" error_score="0.000" />
+      <Word id="l_0029-w_0009" text="in" error_score="0.000" />
+      <Word id="l_0029-w_0010" text="unvergänglichen" error_score="0.000" />
+      <Word id="l_0029-w_0011" text="Ʒügen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0030" text="im Buch der Geſchichte. Seiner nie raſtenden Sorge danken Kunſt und Wiſſen⸗">
+      <Coords points="124,1631 124,1643 505,1651 507,1651 552,1643 777,1643 828,1651 830,1651 936,1641 1012,1650 1014,1650 1055,1641 1191,1641 1205,1650 1206,1650 1208,1650 1210,1650 1306,1641 1486,1650 1488,1650 1536,1640 1538,1628 1535,1601 1478,1590 1476,1590 1307,1600 1284,1590 1283,1590 1281,1590 1279,1590 1243,1600 1216,1590 1215,1590 1213,1590 1211,1590 1178,1600 1137,1590 1135,1590 1133,1590 1132,1590 1107,1600 1080,1590 1079,1590 1077,1590 1075,1590 1074,1590 1059,1601 1001,1601 958,1590 956,1590 954,1590 953,1590 921,1600 830,1590 828,1590 827,1590 800,1603 759,1603 744,1592 742,1592 740,1592 739,1592 737,1592 736,1592 719,1603 658,1603 636,1592 634,1592 633,1592 532,1601 502,1592 500,1592 381,1592 379,1592 377,1592 353,1601 314,1592 313,1592 311,1592 240,1600 198,1592 197,1592 195,1592 172,1601 137,1592 135,1592 134,1592 132,1592 130,1592 122,1598 124,1631" />
+      <Word id="l_0030-w_0001" text="im" error_score="0.000" />
+      <Word id="l_0030-w_0002" text="Buch" error_score="0.000" />
+      <Word id="l_0030-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0030-w_0004" text="Geſchichte." error_score="0.000" />
+      <Word id="l_0030-w_0005" text="Seiner" error_score="0.000" />
+      <Word id="l_0030-w_0006" text="nie" error_score="0.000" />
+      <Word id="l_0030-w_0007" text="raſtenden" error_score="0.000" />
+      <Word id="l_0030-w_0008" text="Sorge" error_score="0.000" />
+      <Word id="l_0030-w_0009" text="danken" error_score="0.000" />
+      <Word id="l_0030-w_0010" text="Kunſt" error_score="0.000" />
+      <Word id="l_0030-w_0011" text="und" error_score="0.000" />
+      <Word id="l_0030-w_0012" text="Wiſſen⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0031" text="ſchaft, Handel und Wandel, Landbau und Gewerbe ungeahntes Blühen und">
+      <Coords points="125,1688 125,1703 1536,1693 1538,1679 1536,1651 1521,1643 1520,1643 1518,1643 1516,1643 1515,1643 1513,1643 1501,1653 1412,1653 1397,1641 1395,1641 1394,1641 1324,1641 1322,1641 1321,1641 1319,1641 1304,1653 1233,1653 1216,1643 1215,1643 1213,1643 1211,1643 1210,1643 1185,1655 1074,1655 1047,1643 1045,1643 1044,1643 1042,1643 1011,1653 939,1645 938,1645 936,1645 934,1645 921,1655 891,1645 890,1645 888,1645 813,1655 732,1645 731,1645 729,1645 709,1655 676,1646 674,1646 673,1646 671,1646 669,1646 656,1656 631,1646 629,1646 628,1646 626,1646 606,1655 593,1646 591,1646 590,1646 588,1646 586,1646 552,1655 500,1646 498,1646 497,1646 475,1656 452,1646 450,1646 449,1646 447,1646 402,1658 376,1648 374,1648 372,1648 124,1655 125,1688" />
+      <Word id="l_0031-w_0001" text="ſchaft," error_score="0.000" />
+      <Word id="l_0031-w_0002" text="Handel" error_score="0.000" />
+      <Word id="l_0031-w_0003" text="und" error_score="0.000" />
+      <Word id="l_0031-w_0004" text="Wandel," error_score="0.000" />
+      <Word id="l_0031-w_0005" text="Landbau" error_score="0.000" />
+      <Word id="l_0031-w_0006" text="und" error_score="0.000" />
+      <Word id="l_0031-w_0007" text="Gewerbe" error_score="0.000" />
+      <Word id="l_0031-w_0008" text="ungeahntes" error_score="0.000" />
+      <Word id="l_0031-w_0009" text="Blühen" error_score="0.000" />
+      <Word id="l_0031-w_0010" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0032" text="ſiegreiche Entfaltung. Der Glanʒ edelſter Volksthümlichkeit umſtrahlt unſeren">
+      <Coords points="124,1737 124,1752 1538,1746 1539,1732 1536,1706 1339,1696 1337,1696 1336,1696 1304,1704 1279,1694 1278,1694 1276,1694 1274,1694 1273,1694 1258,1706 1200,1706 1178,1694 1176,1694 1095,1694 1094,1694 1092,1694 1064,1706 1029,1696 1027,1696 1026,1696 861,1706 782,1696 780,1696 779,1696 777,1696 762,1708 694,1708 643,1696 641,1696 586,1708 561,1698 560,1698 558,1698 556,1698 528,1708 303,1698 301,1698 300,1698 278,1708 223,1698 222,1698 170,1708 137,1698 135,1698 134,1698 132,1698 130,1698 122,1703 124,1737" />
+      <Word id="l_0032-w_0001" text="ſiegreiche" error_score="0.000" />
+      <Word id="l_0032-w_0002" text="Entfaltung." error_score="0.000" />
+      <Word id="l_0032-w_0003" text="Der" error_score="0.000" />
+      <Word id="l_0032-w_0004" text="Glanʒ" error_score="0.000" />
+      <Word id="l_0032-w_0005" text="edelſter" error_score="0.000" />
+      <Word id="l_0032-w_0006" text="Volksthümlichkeit" error_score="0.000" />
+      <Word id="l_0032-w_0007" text="umſtrahlt" error_score="0.000" />
+      <Word id="l_0032-w_0008" text="unſeren" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0033" text="Kaiſer, wo immer er erſcheint; auch die Nationen Europas blicken auf ihn mit">
+      <Coords points="125,1790 125,1804 1538,1799 1539,1784 1536,1756 1206,1747 1205,1747 1203,1747 1181,1757 1044,1749 1042,1749 1041,1749 1039,1749 1027,1759 953,1759 926,1749 924,1749 923,1749 921,1749 903,1757 863,1749 861,1749 780,1759 764,1751 762,1751 760,1751 663,1759 556,1751 555,1751 553,1751 525,1759 344,1752 343,1752 341,1752 339,1752 328,1762 238,1762 139,1752 137,1752 135,1752 134,1752 124,1759 125,1790" />
+      <Word id="l_0033-w_0001" text="Kaiſer," error_score="0.000" />
+      <Word id="l_0033-w_0002" text="wo" error_score="0.000" />
+      <Word id="l_0033-w_0003" text="immer" error_score="0.000" />
+      <Word id="l_0033-w_0004" text="er" error_score="0.000" />
+      <Word id="l_0033-w_0005" text="erſcheint;" error_score="0.000" />
+      <Word id="l_0033-w_0006" text="auch" error_score="0.000" />
+      <Word id="l_0033-w_0007" text="die" error_score="0.000" />
+      <Word id="l_0033-w_0008" text="Nationen" error_score="0.000" />
+      <Word id="l_0033-w_0009" text="Europas" error_score="0.000" />
+      <Word id="l_0033-w_0010" text="blicken" error_score="0.000" />
+      <Word id="l_0033-w_0011" text="auf" error_score="0.000" />
+      <Word id="l_0033-w_0012" text="ihn" error_score="0.000" />
+      <Word id="l_0033-w_0013" text="mit" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0034" text="huldigender Bewunderung, denn ſie erkennen in unſerem Monarchen den edel⸗">
+      <Coords points="124,1842 124,1857 1536,1850 1538,1837 1536,1810 1523,1802 1521,1802 1520,1802 1518,1802 1516,1802 1498,1810 1485,1802 1483,1802 1481,1802 1480,1802 1478,1802 1458,1810 1291,1802 1289,1802 1244,1810 1165,1802 1163,1802 1097,1810 1069,1802 1067,1802 1065,1802 1064,1802 1039,1812 958,1804 956,1804 954,1804 953,1804 941,1814 852,1814 828,1804 827,1804 825,1804 772,1812 736,1804 734,1804 732,1804 731,1804 729,1804 717,1814 649,1814 629,1804 628,1804 626,1804 624,1804 591,1814 134,1805 132,1805 130,1805 129,1805 122,1809 124,1842" />
+      <Word id="l_0034-w_0001" text="huldigender" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="Bewunderung," error_score="0.000" />
+      <Word id="l_0034-w_0003" text="denn" error_score="0.000" />
+      <Word id="l_0034-w_0004" text="ſie" error_score="0.000" />
+      <Word id="l_0034-w_0005" text="erkennen" error_score="0.000" />
+      <Word id="l_0034-w_0006" text="in" error_score="0.000" />
+      <Word id="l_0034-w_0007" text="unſerem" error_score="0.000" />
+      <Word id="l_0034-w_0008" text="Monarchen" error_score="0.000" />
+      <Word id="l_0034-w_0009" text="den" error_score="0.000" />
+      <Word id="l_0034-w_0010" text="edel⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="ſinnigen Schütʒer friedlicher Arbeit, den perſönlichen Bürgen der Ruhe Europas. ‟">
+      <Coords points="124,1896 124,1913 1525,1903 1526,1888 1521,1855 1395,1860 1367,1850 1365,1850 1364,1850 1362,1850 1332,1860 1319,1850 1317,1850 1316,1850 1314,1850 1312,1850 1291,1860 1261,1850 1259,1850 1258,1850 1256,1850 1254,1850 1239,1862 1191,1853 1190,1853 1188,1853 1186,1853 1175,1863 1105,1863 1062,1852 1060,1852 1059,1852 1057,1852 1031,1862 953,1853 951,1853 949,1853 926,1863 888,1855 886,1855 885,1855 883,1855 870,1865 780,1865 762,1853 760,1853 759,1853 757,1853 755,1853 729,1863 707,1853 706,1853 704,1853 585,1865 563,1855 561,1855 444,1855 442,1855 391,1867 361,1857 359,1857 288,1857 286,1857 285,1857 283,1857 266,1867 132,1857 130,1857 129,1857 127,1857 127,1858 122,1862 124,1896" />
+      <Word id="l_0035-w_0001" text="ſinnigen" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="Schütʒer" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="friedlicher" error_score="0.000" />
+      <Word id="l_0035-w_0004" text="Arbeit," error_score="0.000" />
+      <Word id="l_0035-w_0005" text="den" error_score="0.000" />
+      <Word id="l_0035-w_0006" text="perſönlichen" error_score="0.000" />
+      <Word id="l_0035-w_0007" text="Bürgen" error_score="0.000" />
+      <Word id="l_0035-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0035-w_0009" text="Ruhe" error_score="0.000" />
+      <Word id="l_0035-w_0010" text="Europas." error_score="0.000" />
+      <Word id="l_0035-w_0011" text="‟" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="Mit Begeiſterung ſtimmt daher jeder Oſterreicher in die Worte der Volkshymne">
+      <Coords points="124,1948 124,1961 1467,1966 1468,1966 1539,1956 1539,1943 1536,1916 1402,1905 1400,1905 1399,1905 1369,1915 1341,1905 1339,1905 1337,1905 1336,1905 1334,1905 1321,1915 1259,1906 1258,1906 1190,1915 1138,1905 1137,1905 1135,1905 1108,1915 1072,1905 1070,1905 1069,1905 1067,1905 1065,1905 1052,1916 1019,1906 1017,1906 1016,1906 1014,1906 1012,1906 999,1916 948,1906 946,1906 855,1916 797,1906 795,1906 744,1916 704,1906 702,1906 701,1906 699,1906 659,1916 634,1906 633,1906 631,1906 573,1920 503,1920 489,1908 487,1908 485,1908 484,1908 363,1918 303,1908 301,1908 300,1908 298,1908 285,1918 253,1908 251,1908 250,1908 205,1916 135,1908 134,1908 132,1908 130,1908 122,1915 124,1948" />
+      <Word id="l_0036-w_0001" text="Mit" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="Begeiſterung" error_score="0.000" />
+      <Word id="l_0036-w_0003" text="ſtimmt" error_score="0.000" />
+      <Word id="l_0036-w_0004" text="daher" error_score="0.000" />
+      <Word id="l_0036-w_0005" text="jeder" error_score="0.000" />
+      <Word id="l_0036-w_0006" text="Oſterreicher" error_score="0.000" />
+      <Word id="l_0036-w_0007" text="in" error_score="0.000" />
+      <Word id="l_0036-w_0008" text="die" error_score="0.000" />
+      <Word id="l_0036-w_0009" text="Worte" error_score="0.000" />
+      <Word id="l_0036-w_0010" text="der" error_score="0.000" />
+      <Word id="l_0036-w_0011" text="Volkshymne" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="ein: „Gott erhalte, Gott beſchütʒe unſern Kaiſer, unſer Land!">
+      <Coords points="122,2001 122,2021 1387,2012 1387,1994 1384,1961 1041,1961 1039,1961 1037,1961 1012,1969 991,1961 989,1961 987,1961 986,1961 984,1961 974,1971 911,1971 883,1961 881,1961 880,1961 784,1969 755,1961 754,1961 752,1961 674,1971 664,1963 663,1963 661,1963 659,1963 658,1963 633,1971 538,1963 537,1963 497,1971 449,1963 447,1963 376,1973 251,1964 250,1964 179,1973 147,1964 145,1964 144,1964 142,1964 121,1971 122,2001" />
+      <Word id="l_0037-w_0001" text="ein:" error_score="0.000" />
+      <Word id="l_0037-w_0002" text="„Gott" error_score="0.000" />
+      <Word id="l_0037-w_0003" text="erhalte," error_score="0.000" />
+      <Word id="l_0037-w_0004" text="Gott" error_score="0.000" />
+      <Word id="l_0037-w_0005" text="beſchütʒe" error_score="0.000" />
+      <Word id="l_0037-w_0006" text="unſern" error_score="0.000" />
+      <Word id="l_0037-w_0007" text="Kaiſer," error_score="0.000" />
+      <Word id="l_0037-w_0008" text="unſer" error_score="0.000" />
+      <Word id="l_0037-w_0009" text="Land!" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="580,2564 1077,2564 1123,2595 550,2609 550,2571 580,2564" />
+    <TextLine id="l_0038" text="R. und I. Hoſbuchdruckerei Larl Prochasta in Teſchen.">
+      <Coords points="1110,2584 1094,2577 1079,2567 547,2572 548,2595 548,2609 1115,2605 1115,2589 1113,2587 1110,2584" />
+      <Word id="l_0038-w_0001" text="R." error_score="0.000" />
+      <Word id="l_0038-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0038-w_0003" text="I." error_score="0.000" />
+      <Word id="l_0038-w_0004" text="Hoſbuchdruckerei" error_score="0.000" />
+      <Word id="l_0038-w_0005" text="Larl" error_score="0.000" />
+      <Word id="l_0038-w_0006" text="Prochasta" error_score="0.000" />
+      <Word id="l_0038-w_0007" text="in" error_score="0.000" />
+      <Word id="l_0038-w_0008" text="Teſchen." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="1763,2147 1772,2185 1753,2185 1753,2153 1763,2147" />
+  </TextRegion>
+</Page>

@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1739039688_00000051.bin.png" imageHeight="2944" imageWidth="1724" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="675,261 906,261 912,292 686,312 660,292 675,261" />
+    <TextLine id="l_0001" text="Ihre Religion.">
+      <Coords points="896,263 870,261 862,261 845,261 829,261 812,261 796,261 780,261 763,261 747,261 736,261 704,264 693,261 682,261 665,278 667,292 667,304 781,312 783,312 909,300 909,289 906,271 896,263" />
+      <Word id="l_0001-w_0001" text="Ihre" error_score="1.000" error_type="error" />
+      <Word id="l_0001-w_0002" text="Religion." error_score="1.000" error_type="error" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1349,333 1403,346 1416,399 1449,2484 464,2517 366,2530 318,2569 157,2562 124,438 222,366 1349,333" />
+    <TextLine id="l_0002" text="Seine Gemahlin ist Hera, die regenspendende Himmelskönigin">
+      <Coords points="212,412 212,425 1400,394 1400,382 1396,354 1333,345 1331,345 1329,345 1308,353 1267,346 1266,346 1167,358 1136,350 1135,350 1133,350 1086,359 983,354 981,354 979,354 978,354 968,364 868,366 739,359 737,359 668,371 606,363 605,363 603,363 601,363 585,372 541,364 539,364 538,364 508,374 475,366 474,366 472,366 386,377 343,369 341,369 340,369 338,369 325,379 220,372 219,372 217,372 215,372 215,374 214,374 211,377 212,412" />
+      <Word id="l_0002-w_0001" text="Seine" error_score="0.004" />
+      <Word id="l_0002-w_0002" text="Gemahlin" error_score="0.004" />
+      <Word id="l_0002-w_0003" text="ist" error_score="0.004" />
+      <Word id="l_0002-w_0004" text="Hera," error_score="0.004" />
+      <Word id="l_0002-w_0005" text="die" error_score="0.004" />
+      <Word id="l_0002-w_0006" text="regenspendende" error_score="0.004" />
+      <Word id="l_0002-w_0007" text="Himmelskönigin" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0003" text="und Beschützerin der Ehe.">
+      <Coords points="127,464 127,475 655,469 657,456 654,431 565,420 564,420 562,420 561,420 546,431 508,421 507,421 505,421 503,421 480,431 425,423 423,423 422,423 420,423 405,433 338,423 336,423 335,423 333,423 333,425 332,425 327,431 312,425 310,425 309,425 307,425 271,435 233,425 232,425 230,425 228,425 227,425 227,426 215,436 194,426 193,426 191,426 189,426 188,426 188,428 178,438 125,438 127,464" />
+      <Word id="l_0003-w_0001" text="und" error_score="0.004" />
+      <Word id="l_0003-w_0002" text="Beschützerin" error_score="0.004" />
+      <Word id="l_0003-w_0003" text="der" error_score="0.004" />
+      <Word id="l_0003-w_0004" text="Ehe." error_score="0.011" />
+    </TextLine>
+    <TextLine id="l_0004" text="b) Pallas Athene. Naturbedeutung: Sie ist ursprünglich die">
+      <Coords points="209,529 209,541 255,549 256,549 258,549 260,549 278,539 518,541 520,541 613,531 870,534 871,534 919,525 984,531 986,531 987,531 989,531 1005,521 1051,529 1053,529 1055,529 1056,529 1073,520 1135,528 1136,528 1336,513 1388,520 1390,520 1391,520 1393,520 1403,511 1403,500 1400,474 1354,462 1352,462 1351,462 1349,462 1333,474 1270,464 1269,464 1267,464 1225,475 1190,467 1189,467 1187,467 1185,467 1162,479 1069,480 1017,471 1015,471 1014,471 1012,471 1012,472 1001,482 942,472 940,472 938,472 937,472 937,474 925,485 871,485 817,475 816,475 814,475 812,475 798,487 768,477 767,477 765,477 763,477 727,489 716,479 714,479 713,479 711,479 709,479 688,487 593,482 592,482 590,482 588,482 577,492 474,484 472,484 405,497 369,487 368,487 366,487 364,487 325,497 291,489 289,489 287,489 286,489 284,489 284,490 271,500 225,490 224,490 222,490 220,490 207,498 209,529" />
+      <Word id="l_0004-w_0001" text="b)" error_score="0.011" />
+      <Word id="l_0004-w_0002" text="Pallas" error_score="0.011" />
+      <Word id="l_0004-w_0003" text="Athene." error_score="0.011" />
+      <Word id="l_0004-w_0004" text="Naturbedeutung:" error_score="0.011" />
+      <Word id="l_0004-w_0005" text="Sie" error_score="0.011" />
+      <Word id="l_0004-w_0006" text="ist" error_score="0.011" />
+      <Word id="l_0004-w_0007" text="ursprünglich" error_score="0.011" />
+      <Word id="l_0004-w_0008" text="die" error_score="0.011" />
+    </TextLine>
+    <TextLine id="l_0005" text="Göttin des Blitzes (Pallas — die den Blitz Schwingende).">
+      <Coords points="127,582 127,592 1256,575 1257,564 1256,536 1230,525 1228,525 1226,525 1112,538 1086,526 1084,526 1082,526 1081,526 1041,536 983,528 981,528 979,528 978,528 978,529 965,539 875,529 873,529 871,529 870,529 870,531 857,541 799,531 798,531 796,531 794,531 794,533 781,543 726,533 724,533 722,533 721,533 721,534 708,546 611,546 567,534 565,534 564,534 562,534 561,534 546,544 505,536 503,536 502,536 500,536 500,538 487,547 363,538 361,538 359,538 327,551 158,541 157,541 155,541 125,551 127,582" />
+      <Word id="l_0005-w_0001" text="Göttin" error_score="0.011" />
+      <Word id="l_0005-w_0002" text="des" error_score="0.887" error_type="error" />
+      <Word id="l_0005-w_0003" text="Blitzes" error_score="0.887" error_type="error" />
+      <Word id="l_0005-w_0004" text="(Pallas" error_score="0.887" error_type="error" />
+      <Word id="l_0005-w_0005" text="—" error_score="0.887" error_type="error" />
+      <Word id="l_0005-w_0006" text="die" error_score="0.887" error_type="error" />
+      <Word id="l_0005-w_0007" text="den" error_score="0.887" error_type="error" />
+      <Word id="l_0005-w_0008" text="Blitz" error_score="0.887" error_type="error" />
+      <Word id="l_0005-w_0009" text="Schwingende)." error_score="0.887" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0006" text="Sittliche Bedeutung: Da das Gewitter bei den Indogermanen">
+      <Coords points="214,649 214,659 562,660 564,660 610,652 984,652 984,650 1032,642 1051,649 1053,649 1055,649 1406,631 1406,621 1401,593 1216,595 1195,587 1194,587 1192,587 1190,587 1189,587 1172,596 1059,590 1058,590 1056,590 1055,590 1045,600 1020,592 1019,592 1017,592 960,601 876,595 875,595 873,595 840,605 798,596 796,596 794,596 768,606 716,598 714,598 713,598 711,598 698,608 633,600 631,600 629,600 628,600 615,610 505,603 503,603 502,603 480,613 451,605 449,605 448,605 353,616 341,608 340,608 338,608 336,608 225,610 224,610 222,610 212,614 214,649" />
+      <Word id="l_0006-w_0001" text="Sittliche" error_score="0.887" error_type="error" />
+      <Word id="l_0006-w_0002" text="Bedeutung:" error_score="0.887" error_type="error" />
+      <Word id="l_0006-w_0003" text="Da" error_score="1.000" error_type="error" />
+      <Word id="l_0006-w_0004" text="das" error_score="1.000" error_type="error" />
+      <Word id="l_0006-w_0005" text="Gewitter" error_score="1.000" error_type="error" />
+      <Word id="l_0006-w_0006" text="bei" error_score="1.000" error_type="error" />
+      <Word id="l_0006-w_0007" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0006-w_0008" text="Indogermanen" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0007" text="überhaupt als Kampf zwischen den lichten und den finsteren Mäch-">
+      <Coords points="129,704 129,718 1406,688 1406,675 1403,649 1333,639 1331,639 1251,650 1120,644 1118,644 1117,644 1115,644 1100,654 1050,646 1048,646 1046,646 1045,646 1030,655 1005,647 1004,647 1002,647 1001,647 976,657 853,650 852,650 796,660 742,654 740,654 672,664 646,655 644,655 642,655 551,667 539,659 538,659 536,659 534,659 464,668 410,660 408,660 407,660 405,660 394,670 363,662 361,662 359,662 358,662 336,672 318,664 317,664 315,664 314,664 312,664 300,672 215,665 214,665 127,673 129,704" />
+      <Word id="l_0007-w_0001" text="überhaupt" error_score="1.000" error_type="error" />
+      <Word id="l_0007-w_0002" text="als" error_score="1.000" error_type="error" />
+      <Word id="l_0007-w_0003" text="Kampf" error_score="1.000" error_type="error" />
+      <Word id="l_0007-w_0004" text="zwischen" error_score="1.000" error_type="error" />
+      <Word id="l_0007-w_0005" text="den" error_score="0.998" error_type="error" />
+      <Word id="l_0007-w_0006" text="lichten" error_score="0.998" error_type="error" />
+      <Word id="l_0007-w_0007" text="und" error_score="0.998" error_type="error" />
+      <Word id="l_0007-w_0008" text="den" error_score="0.998" error_type="error" />
+      <Word id="l_0007-w_0009" text="finsteren" error_score="0.998" error_type="error" />
+      <Word id="l_0007-w_0010" text="Mäch-" error_score="0.998" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0008" text="ten aufgefaßt vird, wurde sie zur Göttin des Krieges, die den Feld-">
+      <Coords points="129,757 129,770 286,776 287,776 389,767 740,767 742,767 744,767 768,757 1030,753 1084,760 1086,760 1406,744 1406,731 1403,701 1321,695 1319,695 1318,695 1288,706 1243,696 1241,696 1239,696 1205,708 1169,698 1167,698 1166,698 1164,698 1162,698 1162,700 1149,711 1069,711 1004,701 1002,701 1001,701 999,701 981,713 925,703 924,703 922,703 920,703 920,704 907,714 842,704 840,704 742,718 660,709 659,709 657,709 636,719 605,709 603,709 601,709 600,709 562,721 435,714 433,714 431,714 430,714 417,724 363,714 361,714 359,714 338,726 315,716 314,716 312,716 310,716 309,716 294,726 258,719 256,719 199,729 140,719 139,719 137,719 135,719 127,724 129,757" />
+      <Word id="l_0008-w_0001" text="ten" error_score="0.998" error_type="error" />
+      <Word id="l_0008-w_0002" text="aufgefaßt" error_score="0.998" error_type="error" />
+      <Word id="l_0008-w_0003" text="vird," error_score="0.998" error_type="error" />
+      <Word id="l_0008-w_0004" text="wurde" error_score="0.998" error_type="error" />
+      <Word id="l_0008-w_0005" text="sie" error_score="0.694" error_type="error" />
+      <Word id="l_0008-w_0006" text="zur" error_score="0.694" error_type="error" />
+      <Word id="l_0008-w_0007" text="Göttin" error_score="0.694" error_type="error" />
+      <Word id="l_0008-w_0008" text="des" error_score="0.694" error_type="error" />
+      <Word id="l_0008-w_0009" text="Krieges," error_score="0.694" error_type="error" />
+      <Word id="l_0008-w_0010" text="die" error_score="0.694" error_type="error" />
+      <Word id="l_0008-w_0011" text="den" error_score="0.694" error_type="error" />
+      <Word id="l_0008-w_0012" text="Feld-" error_score="0.694" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0009" text="herrn mit Geistesgegenwart ausrüstet. Entsprechend der Anschau-">
+      <Coords points="130,812 130,825 1408,799 1408,786 1405,760 1328,752 1326,752 1324,752 1303,760 1248,753 1246,753 1244,753 1226,762 1169,755 1167,755 1166,755 1148,763 1113,757 1112,757 1110,757 1084,765 932,760 930,760 929,760 927,760 912,768 768,763 767,763 765,763 744,773 129,781 130,812" />
+      <Word id="l_0009-w_0001" text="herrn" error_score="0.694" error_type="error" />
+      <Word id="l_0009-w_0002" text="mit" error_score="0.694" error_type="error" />
+      <Word id="l_0009-w_0003" text="Geistesgegenwart" error_score="0.055" />
+      <Word id="l_0009-w_0004" text="ausrüstet." error_score="0.055" />
+      <Word id="l_0009-w_0005" text="Entsprechend" error_score="0.055" />
+      <Word id="l_0009-w_0006" text="der" error_score="0.055" />
+      <Word id="l_0009-w_0007" text="Anschau-" error_score="0.055" />
+    </TextLine>
+    <TextLine id="l_0010" text="ung, daß Wolken und Nebel Gespinste seien, faßte man sie auch">
+      <Coords points="132,870 132,881 197,889 199,889 201,889 230,881 435,883 436,883 601,870 1207,865 1408,850 1408,839 1406,814 1380,803 1378,803 1377,803 1375,803 1373,803 1359,812 1267,806 1266,806 1264,806 1262,806 1244,817 1136,819 1035,811 1033,811 1032,811 1002,822 945,812 943,812 942,812 940,812 924,824 860,816 858,816 857,816 835,825 804,816 803,816 801,816 799,816 776,827 737,817 736,817 734,817 732,817 701,829 677,819 675,819 673,819 672,819 670,819 657,829 601,821 600,821 444,834 399,825 397,825 395,825 394,825 382,834 333,827 332,827 330,827 328,827 315,837 253,830 251,830 250,830 248,830 235,840 142,835 140,835 139,835 137,835 130,840 132,870" />
+      <Word id="l_0010-w_0001" text="ung," error_score="0.055" />
+      <Word id="l_0010-w_0002" text="daß" error_score="0.055" />
+      <Word id="l_0010-w_0003" text="Wolken" error_score="0.055" />
+      <Word id="l_0010-w_0004" text="und" error_score="0.055" />
+      <Word id="l_0010-w_0005" text="Nebel" error_score="0.055" />
+      <Word id="l_0010-w_0006" text="Gespinste" error_score="0.080" />
+      <Word id="l_0010-w_0007" text="seien," error_score="0.080" />
+      <Word id="l_0010-w_0008" text="faßte" error_score="0.080" />
+      <Word id="l_0010-w_0009" text="man" error_score="0.080" />
+      <Word id="l_0010-w_0010" text="sie" error_score="0.080" />
+      <Word id="l_0010-w_0011" text="auch" error_score="0.080" />
+    </TextLine>
+    <TextLine id="l_0011" text="als Göttin des Spinnens und Webens und schöner weiblicher Hand-">
+      <Coords points="132,920 132,933 1411,907 1411,894 1408,868 1171,863 1169,863 740,879 691,873 690,873 371,888 291,881 289,881 130,893 132,920" />
+      <Word id="l_0011-w_0001" text="als" error_score="0.080" />
+      <Word id="l_0011-w_0002" text="Göttin" error_score="0.080" />
+      <Word id="l_0011-w_0003" text="des" error_score="0.080" />
+      <Word id="l_0011-w_0004" text="Spinnens" error_score="0.080" />
+      <Word id="l_0011-w_0005" text="und" error_score="0.071" />
+      <Word id="l_0011-w_0006" text="Webens" error_score="0.071" />
+      <Word id="l_0011-w_0007" text="und" error_score="0.071" />
+      <Word id="l_0011-w_0008" text="schöner" error_score="0.071" />
+      <Word id="l_0011-w_0009" text="weiblicher" error_score="0.071" />
+      <Word id="l_0011-w_0010" text="Hand-" error_score="0.071" />
+    </TextLine>
+    <TextLine id="l_0012" text="arbeiten im allgemeinen auf. Endlich war sie die Göttin der Weisheit.">
+      <Coords points="134,976 134,987 1409,964 1411,951 1409,924 1395,914 1393,914 1391,914 1390,914 1352,922 1329,914 1328,914 1326,914 1238,915 1236,915 1207,927 1182,917 1180,917 1179,917 1177,917 1151,928 1076,919 1074,919 1073,919 1028,930 987,920 986,920 984,920 983,920 955,932 933,922 932,922 930,922 929,922 896,933 737,925 736,925 734,925 732,925 732,927 721,937 696,927 695,927 693,927 691,927 659,935 647,927 646,927 644,927 642,927 641,927 618,940 523,940 505,930 503,930 502,930 500,930 430,942 399,932 397,932 395,932 394,932 368,943 227,937 225,937 224,937 222,937 212,946 189,938 188,938 186,938 132,948 134,976" />
+      <Word id="l_0012-w_0001" text="arbeiten" error_score="0.071" />
+      <Word id="l_0012-w_0002" text="im" error_score="0.071" />
+      <Word id="l_0012-w_0003" text="allgemeinen" error_score="0.071" />
+      <Word id="l_0012-w_0004" text="auf." error_score="0.071" />
+      <Word id="l_0012-w_0005" text="Endlich" error_score="0.007" />
+      <Word id="l_0012-w_0006" text="war" error_score="0.007" />
+      <Word id="l_0012-w_0007" text="sie" error_score="0.007" />
+      <Word id="l_0012-w_0008" text="die" error_score="0.007" />
+      <Word id="l_0012-w_0009" text="Göttin" error_score="0.007" />
+      <Word id="l_0012-w_0010" text="der" error_score="0.007" />
+      <Word id="l_0012-w_0011" text="Weisheit." error_score="0.007" />
+    </TextLine>
+    <TextLine id="l_0013" text="Verehrung: Sie wurde besonders als Schutzgöttin der Stadt">
+      <Coords points="220,1038 220,1046 264,1056 266,1056 418,1053 420,1053 443,1043 520,1050 521,1050 523,1050 552,1040 593,1046 595,1046 685,1036 716,1045 718,1045 719,1045 863,1041 865,1041 884,1032 938,1040 940,1040 942,1040 943,1040 953,1030 976,1038 978,1038 979,1038 1144,1035 1213,1023 1248,1032 1249,1032 1251,1032 1252,1032 1284,1022 1396,1027 1398,1027 1400,1027 1401,1027 1414,1018 1414,1009 1409,974 219,1005 220,1038" />
+      <Word id="l_0013-w_0001" text="Verehrung:" error_score="0.007" />
+      <Word id="l_0013-w_0002" text="Sie" error_score="0.007" />
+      <Word id="l_0013-w_0003" text="wurde" error_score="0.007" />
+      <Word id="l_0013-w_0004" text="besonders" error_score="0.005" />
+      <Word id="l_0013-w_0005" text="als" error_score="0.005" />
+      <Word id="l_0013-w_0006" text="Schutzgöttin" error_score="0.005" />
+      <Word id="l_0013-w_0007" text="der" error_score="0.005" />
+      <Word id="l_0013-w_0008" text="Stadt" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0014" text="Athen verehrt. Das alle vier Jahre begangene Fest der großen Pan-">
+      <Coords points="132,1092 132,1107 1413,1079 1414,1064 1411,1036 1336,1028 1334,1028 1284,1038 1262,1030 1261,1030 1259,1030 1257,1030 1236,1041 1162,1041 1113,1033 1112,1033 1110,1033 1108,1033 1097,1045 1053,1045 1038,1035 1037,1035 1035,1035 1033,1035 883,1048 808,1040 806,1040 804,1040 785,1050 732,1041 731,1041 580,1054 534,1046 533,1046 531,1046 503,1056 430,1048 428,1048 426,1048 425,1048 412,1058 390,1050 389,1050 387,1050 386,1050 366,1058 158,1054 157,1054 155,1054 130,1063 132,1092" />
+      <Word id="l_0014-w_0001" text="Athen" error_score="0.005" />
+      <Word id="l_0014-w_0002" text="verehrt." error_score="0.005" />
+      <Word id="l_0014-w_0003" text="Das" error_score="0.005" />
+      <Word id="l_0014-w_0004" text="alle" error_score="0.005" />
+      <Word id="l_0014-w_0005" text="vier" error_score="0.005" />
+      <Word id="l_0014-w_0006" text="Jahre" error_score="0.220" />
+      <Word id="l_0014-w_0007" text="begangene" error_score="0.220" />
+      <Word id="l_0014-w_0008" text="Fest" error_score="0.220" />
+      <Word id="l_0014-w_0009" text="der" error_score="0.220" />
+      <Word id="l_0014-w_0010" text="großen" error_score="0.220" />
+      <Word id="l_0014-w_0011" text="Pan-" error_score="0.220" />
+    </TextLine>
+    <TextLine id="l_0015" text="athenden war die größte religiöse Feier in Athen. Ihr waren der">
+      <Coords points="134,1146 134,1159 610,1157 611,1157 613,1157 613,1156 621,1149 691,1156 693,1156 793,1146 848,1153 850,1153 1411,1133 1413,1120 1409,1090 1133,1090 1131,1090 1074,1100 1009,1092 1007,1092 1005,1092 984,1102 930,1094 929,1094 927,1094 925,1094 914,1104 860,1095 858,1095 799,1105 688,1099 686,1099 633,1108 539,1102 538,1102 536,1102 534,1102 520,1112 449,1104 448,1104 446,1104 418,1113 253,1110 251,1110 206,1118 173,1110 171,1110 170,1110 132,1118 134,1146" />
+      <Word id="l_0015-w_0001" text="athenden" error_score="0.220" />
+      <Word id="l_0015-w_0002" text="war" error_score="0.220" />
+      <Word id="l_0015-w_0003" text="die" error_score="0.220" />
+      <Word id="l_0015-w_0004" text="größte" error_score="0.220" />
+      <Word id="l_0015-w_0005" text="religiöse" error_score="0.080" />
+      <Word id="l_0015-w_0006" text="Feier" error_score="0.080" />
+      <Word id="l_0015-w_0007" text="in" error_score="0.080" />
+      <Word id="l_0015-w_0008" text="Athen." error_score="0.080" />
+      <Word id="l_0015-w_0009" text="Ihr" error_score="0.080" />
+      <Word id="l_0015-w_0010" text="waren" error_score="0.080" />
+      <Word id="l_0015-w_0011" text="der" error_score="0.080" />
+    </TextLine>
+    <TextLine id="l_0016" text="Olbaum und die Eule geweiht.">
+      <Coords points="134,1203 134,1215 732,1205 734,1192 732,1164 713,1154 711,1154 709,1154 579,1166 526,1157 525,1157 523,1157 521,1157 521,1159 511,1167 475,1157 474,1157 472,1157 471,1157 469,1157 469,1159 467,1159 459,1169 412,1159 410,1159 408,1159 407,1159 407,1161 397,1169 372,1161 371,1161 369,1161 368,1161 366,1161 354,1172 211,1174 201,1166 201,1164 199,1164 197,1164 147,1164 145,1164 143,1164 142,1164 132,1169 134,1203" />
+      <Word id="l_0016-w_0001" text="Olbaum" error_score="0.080" />
+      <Word id="l_0016-w_0002" text="und" error_score="0.080" />
+      <Word id="l_0016-w_0003" text="die" error_score="0.080" />
+      <Word id="l_0016-w_0004" text="Eule" error_score="0.002" />
+      <Word id="l_0016-w_0005" text="geweiht." error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0017" text="Darstellung der Göttin: Sie wurde hauptsächlich als Kriegs-">
+      <Coords points="222,1261 222,1270 454,1277 456,1277 457,1277 459,1277 459,1275 469,1267 1010,1267 1010,1265 1174,1261 1176,1261 1177,1261 1177,1259 1185,1252 1378,1257 1380,1257 1382,1257 1416,1246 1416,1236 1413,1208 1341,1198 1339,1198 1254,1210 1236,1202 1234,1202 1233,1202 1231,1202 1202,1210 1097,1203 1095,1203 1094,1203 1073,1213 1064,1205 1063,1205 1061,1205 1059,1205 999,1215 924,1208 922,1208 920,1208 919,1208 909,1216 870,1208 868,1208 776,1220 713,1211 711,1211 709,1211 708,1211 693,1221 619,1213 618,1213 538,1225 485,1216 484,1216 482,1216 456,1226 358,1220 356,1220 354,1220 353,1220 343,1228 333,1220 332,1220 330,1220 328,1220 268,1229 238,1221 237,1221 235,1221 233,1221 232,1221 220,1228 222,1261" />
+      <Word id="l_0017-w_0001" text="Darstellung" error_score="0.002" />
+      <Word id="l_0017-w_0002" text="der" error_score="0.002" />
+      <Word id="l_0017-w_0003" text="Göttin:" error_score="0.002" />
+      <Word id="l_0017-w_0004" text="Sie" error_score="0.002" />
+      <Word id="l_0017-w_0005" text="wurde" error_score="0.002" />
+      <Word id="l_0017-w_0006" text="hauptsächlich" error_score="0.002" />
+      <Word id="l_0017-w_0007" text="als" error_score="0.002" />
+      <Word id="l_0017-w_0008" text="Kriegs-" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0018" text="göttin mit Lanze, Schild und Helm dargestellt. Die beiden berühmte-">
+      <Coords points="139,1319 139,1332 1416,1301 1416,1290 1413,1261 1293,1252 1292,1252 1290,1252 1269,1262 1144,1256 1143,1256 1141,1256 1140,1256 1126,1265 1105,1257 1104,1257 1102,1257 1100,1257 1099,1257 1087,1265 1025,1259 1023,1259 945,1269 935,1261 933,1261 932,1261 930,1261 929,1261 927,1261 909,1270 708,1265 706,1265 629,1277 492,1270 490,1270 489,1270 466,1280 341,1275 340,1275 338,1275 336,1275 325,1283 302,1275 300,1275 299,1275 243,1285 211,1277 209,1277 207,1277 137,1287 139,1319" />
+      <Word id="l_0018-w_0001" text="göttin" error_score="0.003" />
+      <Word id="l_0018-w_0002" text="mit" error_score="0.003" />
+      <Word id="l_0018-w_0003" text="Lanze," error_score="0.003" />
+      <Word id="l_0018-w_0004" text="Schild" error_score="0.003" />
+      <Word id="l_0018-w_0005" text="und" error_score="0.003" />
+      <Word id="l_0018-w_0006" text="Helm" error_score="0.003" />
+      <Word id="l_0018-w_0007" text="dargestellt." error_score="0.003" />
+      <Word id="l_0018-w_0008" text="Die" error_score="0.003" />
+      <Word id="l_0018-w_0009" text="beiden" error_score="0.003" />
+      <Word id="l_0018-w_0010" text="berühmte-" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0019" text="sten Bilder der Göttin, die auf der Akropolis standen, schuf Pheidias.">
+      <Coords points="139,1373 139,1385 1416,1359 1418,1346 1414,1318 1342,1308 1341,1308 1339,1308 1303,1318 1292,1310 1290,1310 1288,1310 1287,1310 1238,1318 1220,1311 1218,1311 1216,1311 1215,1311 1189,1321 1179,1313 1177,1313 1176,1313 1174,1313 1112,1323 1048,1314 1046,1314 1045,1314 1019,1324 989,1316 987,1316 986,1316 984,1316 961,1326 914,1318 912,1318 911,1318 886,1328 817,1319 816,1319 814,1319 776,1329 682,1323 680,1323 678,1323 652,1332 438,1328 436,1328 435,1328 433,1328 420,1337 371,1329 369,1329 322,1339 299,1331 297,1331 296,1331 196,1342 166,1334 165,1334 163,1334 161,1334 137,1344 139,1373" />
+      <Word id="l_0019-w_0001" text="sten" error_score="0.007" />
+      <Word id="l_0019-w_0002" text="Bilder" error_score="0.007" />
+      <Word id="l_0019-w_0003" text="der" error_score="0.007" />
+      <Word id="l_0019-w_0004" text="Göttin," error_score="0.007" />
+      <Word id="l_0019-w_0005" text="die" error_score="0.007" />
+      <Word id="l_0019-w_0006" text="auf" error_score="0.007" />
+      <Word id="l_0019-w_0007" text="der" error_score="0.007" />
+      <Word id="l_0019-w_0008" text="Akropolis" error_score="0.007" />
+      <Word id="l_0019-w_0009" text="standen," error_score="0.007" />
+      <Word id="l_0019-w_0010" text="schuf" error_score="0.007" />
+      <Word id="l_0019-w_0011" text="Pheidias." error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0020" text="c) Apollon. Naturbedeutung: Ursprünglich ist er ein Licht-,">
+      <Coords points="215,1439 215,1447 263,1455 264,1455 266,1455 287,1447 340,1454 341,1454 498,1442 778,1444 780,1444 781,1444 798,1436 906,1440 907,1440 1419,1424 1419,1411 1416,1382 1352,1372 1351,1372 1275,1383 1236,1375 1234,1375 1115,1386 1095,1378 1094,1378 1092,1378 1090,1378 1061,1388 1001,1380 999,1380 997,1380 978,1390 947,1382 945,1382 943,1382 942,1382 909,1391 852,1383 850,1383 755,1395 696,1388 695,1388 693,1388 691,1388 678,1396 639,1388 637,1388 636,1388 634,1388 634,1390 624,1398 585,1390 583,1390 582,1390 556,1400 497,1391 495,1391 493,1391 464,1401 376,1395 374,1395 372,1395 353,1404 314,1396 312,1396 214,1408 215,1439" />
+      <Word id="l_0020-w_0001" text="c)" error_score="0.026" />
+      <Word id="l_0020-w_0002" text="Apollon." error_score="0.026" />
+      <Word id="l_0020-w_0003" text="Naturbedeutung:" error_score="0.026" />
+      <Word id="l_0020-w_0004" text="Ursprünglich" error_score="0.026" />
+      <Word id="l_0020-w_0005" text="ist" error_score="0.026" />
+      <Word id="l_0020-w_0006" text="er" error_score="0.026" />
+      <Word id="l_0020-w_0007" text="ein" error_score="0.026" />
+      <Word id="l_0020-w_0008" text="Licht-," error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0021" text="speziell der Sonnengott, wie sein Beiname Phoibos (— der Leuch-">
+      <Coords points="139,1473 140,1491 140,1501 515,1503 516,1503 680,1491 1105,1491 1105,1489 1107,1489 1108,1489 1122,1481 1328,1485 1329,1485 1421,1473 1421,1463 1419,1437 1391,1427 1390,1427 1388,1427 1254,1439 1223,1431 1221,1431 1220,1431 1218,1431 1190,1440 1140,1432 1138,1432 1136,1432 1115,1442 968,1436 966,1436 965,1436 963,1436 950,1445 834,1439 832,1439 773,1449 567,1445 565,1445 430,1457 387,1449 386,1449 384,1449 363,1458 227,1452 225,1452 139,1463 139,1473" />
+      <Word id="l_0021-w_0001" text="speziell" error_score="0.026" />
+      <Word id="l_0021-w_0002" text="der" error_score="0.021" />
+      <Word id="l_0021-w_0003" text="Sonnengott," error_score="0.021" />
+      <Word id="l_0021-w_0004" text="wie" error_score="0.021" />
+      <Word id="l_0021-w_0005" text="sein" error_score="0.021" />
+      <Word id="l_0021-w_0006" text="Beiname" error_score="0.021" />
+      <Word id="l_0021-w_0007" text="Phoibos" error_score="0.021" />
+      <Word id="l_0021-w_0008" text="(—" error_score="0.021" />
+      <Word id="l_0021-w_0009" text="der" error_score="0.021" />
+      <Word id="l_0021-w_0010" text="Leuch-" error_score="0.021" />
+    </TextLine>
+    <TextLine id="l_0022" text="tende) beweist. Auch er bekämpft die Mächte der Finsternis, die er">
+      <Coords points="140,1545 140,1558 1421,1532 1421,1519 1416,1488 1362,1491 1337,1481 1336,1481 1334,1481 1280,1493 1256,1483 1254,1483 1252,1483 1251,1483 1249,1483 1236,1493 1184,1486 1182,1486 1180,1486 1156,1496 1100,1486 1099,1486 1097,1486 1059,1498 1035,1488 1033,1488 1032,1488 1030,1488 1028,1488 1012,1499 979,1489 978,1489 976,1489 930,1499 870,1491 868,1491 866,1491 865,1491 852,1503 824,1493 822,1493 821,1493 819,1493 791,1503 772,1494 770,1494 768,1494 691,1504 647,1496 646,1496 644,1496 642,1496 629,1506 618,1496 616,1496 615,1496 613,1496 611,1496 610,1496 593,1507 520,1499 518,1499 516,1499 515,1499 502,1509 456,1499 454,1499 453,1499 451,1499 451,1501 438,1511 374,1503 372,1503 371,1503 369,1503 356,1514 302,1514 289,1504 287,1504 286,1504 284,1504 282,1504 281,1504 269,1514 217,1504 215,1504 214,1504 212,1504 212,1506 199,1516 161,1506 160,1506 158,1506 157,1506 139,1512 140,1545" />
+      <Word id="l_0022-w_0001" text="tende)" error_score="0.021" />
+      <Word id="l_0022-w_0002" text="beweist." error_score="0.001" />
+      <Word id="l_0022-w_0003" text="Auch" error_score="0.001" />
+      <Word id="l_0022-w_0004" text="er" error_score="0.001" />
+      <Word id="l_0022-w_0005" text="bekämpft" error_score="0.001" />
+      <Word id="l_0022-w_0006" text="die" error_score="0.001" />
+      <Word id="l_0022-w_0007" text="Mächte" error_score="0.001" />
+      <Word id="l_0022-w_0008" text="der" error_score="0.001" />
+      <Word id="l_0022-w_0009" text="Finsternis," error_score="0.001" />
+      <Word id="l_0022-w_0010" text="die" error_score="0.001" />
+      <Word id="l_0022-w_0011" text="er" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0023" text="durch seine Pfeile, d. h. die Sonnenstrahlen, besiegt. Ein solcher">
+      <Coords points="140,1601 140,1612 289,1619 291,1619 382,1609 446,1615 448,1615 1423,1586 1423,1575 1419,1545 1198,1542 1197,1542 1195,1542 1174,1552 1141,1543 1140,1543 1138,1543 1061,1553 1022,1545 1020,1545 1019,1545 1017,1545 1005,1555 857,1548 855,1548 853,1548 852,1548 834,1560 772,1560 706,1552 704,1552 703,1552 701,1552 690,1561 637,1553 636,1553 634,1553 613,1563 546,1555 544,1555 543,1555 541,1555 529,1565 459,1557 457,1557 456,1557 454,1557 454,1558 446,1565 397,1558 395,1558 394,1558 372,1568 318,1560 317,1560 315,1560 292,1570 232,1561 230,1561 228,1561 227,1561 211,1571 157,1563 155,1563 153,1563 139,1570 140,1601" />
+      <Word id="l_0023-w_0001" text="durch" error_score="0.001" />
+      <Word id="l_0023-w_0002" text="seine" error_score="0.001" />
+      <Word id="l_0023-w_0003" text="Pfeile," error_score="0.001" />
+      <Word id="l_0023-w_0004" text="d." error_score="0.001" />
+      <Word id="l_0023-w_0005" text="h." error_score="0.001" />
+      <Word id="l_0023-w_0006" text="die" error_score="0.001" />
+      <Word id="l_0023-w_0007" text="Sonnenstrahlen," error_score="0.001" />
+      <Word id="l_0023-w_0008" text="besiegt." error_score="0.001" />
+      <Word id="l_0023-w_0009" text="Ein" error_score="0.001" />
+      <Word id="l_0023-w_0010" text="solcher" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0024" text="finsterer Geist war der Drache Python, von dessen Bezwingung der">
+      <Coords points="142,1655 142,1669 1421,1643 1423,1629 1418,1599 140,1622 142,1655" />
+      <Word id="l_0024-w_0001" text="finsterer" error_score="0.149" />
+      <Word id="l_0024-w_0002" text="Geist" error_score="0.149" />
+      <Word id="l_0024-w_0003" text="war" error_score="0.149" />
+      <Word id="l_0024-w_0004" text="der" error_score="0.149" />
+      <Word id="l_0024-w_0005" text="Drache" error_score="0.149" />
+      <Word id="l_0024-w_0006" text="Python," error_score="0.149" />
+      <Word id="l_0024-w_0007" text="von" error_score="0.149" />
+      <Word id="l_0024-w_0008" text="dessen" error_score="0.149" />
+      <Word id="l_0024-w_0009" text="Bezwingung" error_score="0.149" />
+      <Word id="l_0024-w_0010" text="der" error_score="0.149" />
+    </TextLine>
+    <TextLine id="l_0025" text="Gott den Beinamen , der Pythier ‟ hat.">
+      <Coords points="143,1709 143,1720 228,1728 230,1728 232,1728 233,1728 233,1727 242,1720 320,1727 322,1727 323,1727 340,1718 359,1727 361,1727 363,1727 911,1709 912,1697 911,1671 896,1660 894,1660 893,1660 891,1660 889,1660 862,1669 852,1661 852,1660 850,1660 848,1660 847,1660 845,1660 822,1668 803,1660 801,1660 799,1660 798,1660 772,1669 755,1661 754,1661 752,1661 690,1669 660,1663 659,1663 657,1663 655,1663 654,1663 654,1664 642,1674 583,1663 582,1663 580,1663 579,1663 579,1664 567,1678 423,1678 400,1666 399,1666 397,1666 395,1666 394,1666 384,1676 356,1668 354,1668 353,1668 351,1668 350,1668 333,1681 296,1681 273,1668 271,1668 269,1668 268,1668 266,1668 248,1681 155,1669 153,1669 152,1669 150,1669 150,1671 142,1679 143,1709" />
+      <Word id="l_0025-w_0001" text="Gott" error_score="0.854" error_type="error" />
+      <Word id="l_0025-w_0002" text="den" error_score="0.854" error_type="error" />
+      <Word id="l_0025-w_0003" text="Beinamen" error_score="0.854" error_type="error" />
+      <Word id="l_0025-w_0004" text="," error_score="0.854" error_type="error" />
+      <Word id="l_0025-w_0005" text="der" error_score="0.854" error_type="error" />
+      <Word id="l_0025-w_0006" text="Pythier" error_score="0.854" error_type="error" />
+      <Word id="l_0025-w_0007" text="‟" error_score="0.854" error_type="error" />
+      <Word id="l_0025-w_0008" text="hat." error_score="0.854" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0026" text="Sittliche Bedeutung: Ethisch aufgefaßt ist Apollon der Gott der">
+      <Coords points="230,1772 230,1782 1426,1753 1426,1743 1423,1714 1375,1704 1373,1704 1372,1704 1370,1704 1355,1714 1326,1705 1324,1705 1323,1705 1321,1705 1319,1705 1310,1714 1207,1709 1205,1709 1156,1718 1110,1710 1108,1710 1107,1710 1105,1710 1090,1720 1045,1712 1043,1712 1041,1712 1040,1712 1023,1722 894,1715 893,1715 891,1715 868,1725 842,1717 840,1717 839,1717 837,1717 814,1727 629,1722 628,1722 626,1722 624,1722 613,1732 516,1725 515,1725 513,1725 490,1735 472,1727 471,1727 469,1727 390,1736 297,1730 296,1730 240,1732 238,1732 237,1732 228,1736 230,1772" />
+      <Word id="l_0026-w_0001" text="Sittliche" error_score="0.854" error_type="error" />
+      <Word id="l_0026-w_0002" text="Bedeutung:" error_score="0.854" error_type="error" />
+      <Word id="l_0026-w_0003" text="Ethisch" error_score="0.043" />
+      <Word id="l_0026-w_0004" text="aufgefaßt" error_score="0.043" />
+      <Word id="l_0026-w_0005" text="ist" error_score="0.043" />
+      <Word id="l_0026-w_0006" text="Apollon" error_score="0.043" />
+      <Word id="l_0026-w_0007" text="der" error_score="0.043" />
+      <Word id="l_0026-w_0008" text="Gott" error_score="0.043" />
+      <Word id="l_0026-w_0009" text="der" error_score="0.043" />
+    </TextLine>
+    <TextLine id="l_0027" text="geistigen Klarheit und sittlichen Reinheit. In ersterer Beziehung">
+      <Coords points="145,1825 145,1836 1427,1813 1427,1802 1424,1769 1233,1764 1231,1764 1230,1764 1228,1764 1213,1774 1120,1768 1118,1768 1033,1777 994,1769 992,1769 991,1769 973,1777 961,1769 960,1769 958,1769 956,1769 955,1769 920,1779 866,1771 865,1771 762,1782 683,1774 682,1774 621,1784 592,1776 590,1776 588,1776 587,1776 585,1776 570,1786 477,1779 475,1779 474,1779 456,1787 439,1779 438,1779 436,1779 435,1779 433,1779 422,1787 353,1781 351,1781 350,1781 314,1790 237,1782 235,1782 233,1782 232,1782 222,1792 202,1784 201,1784 199,1784 143,1792 145,1825" />
+      <Word id="l_0027-w_0001" text="geistigen" error_score="0.043" />
+      <Word id="l_0027-w_0002" text="Klarheit" error_score="0.043" />
+      <Word id="l_0027-w_0003" text="und" error_score="0.043" />
+      <Word id="l_0027-w_0004" text="sittlichen" error_score="0.008" />
+      <Word id="l_0027-w_0005" text="Reinheit." error_score="0.008" />
+      <Word id="l_0027-w_0006" text="In" error_score="0.008" />
+      <Word id="l_0027-w_0007" text="ersterer" error_score="0.008" />
+      <Word id="l_0027-w_0008" text="Beziehung" error_score="0.008" />
+    </TextLine>
+    <TextLine id="l_0028" text="blickt er sogar in die Zukunft und wird daher der Gott der Weis-">
+      <Coords points="147,1877 147,1892 1112,1879 1171,1871 1216,1877 1218,1877 1427,1864 1427,1854 1424,1828 1334,1817 1333,1817 1331,1817 1303,1828 1251,1818 1249,1818 1248,1818 1246,1818 1246,1820 1233,1830 1151,1820 1149,1820 1148,1820 1146,1820 1128,1831 1073,1822 1071,1822 1069,1822 1068,1822 1068,1823 1055,1833 981,1823 979,1823 978,1823 932,1835 906,1825 904,1825 902,1825 840,1836 803,1826 801,1826 799,1826 742,1838 701,1828 700,1828 698,1828 696,1828 670,1840 629,1830 628,1830 626,1830 624,1830 623,1830 610,1840 518,1831 516,1831 515,1831 513,1831 513,1833 500,1843 451,1835 449,1835 448,1835 415,1846 258,1846 227,1838 225,1838 224,1838 222,1838 220,1838 211,1846 199,1838 197,1838 196,1838 155,1838 153,1838 152,1838 150,1838 150,1840 145,1843 147,1877" />
+      <Word id="l_0028-w_0001" text="blickt" error_score="0.008" />
+      <Word id="l_0028-w_0002" text="er" error_score="0.008" />
+      <Word id="l_0028-w_0003" text="sogar" error_score="0.008" />
+      <Word id="l_0028-w_0004" text="in" error_score="0.008" />
+      <Word id="l_0028-w_0005" text="die" error_score="0.008" />
+      <Word id="l_0028-w_0006" text="Zukunft" error_score="0.058" />
+      <Word id="l_0028-w_0007" text="und" error_score="0.058" />
+      <Word id="l_0028-w_0008" text="wird" error_score="0.058" />
+      <Word id="l_0028-w_0009" text="daher" error_score="0.058" />
+      <Word id="l_0028-w_0010" text="der" error_score="0.058" />
+      <Word id="l_0028-w_0011" text="Gott" error_score="0.058" />
+      <Word id="l_0028-w_0012" text="der" error_score="0.058" />
+      <Word id="l_0028-w_0013" text="Weis-" error_score="0.058" />
+    </TextLine>
+    <TextLine id="l_0029" text="sagung; da die Dichter auch als Seher gelten, ist er der Gott der">
+      <Coords points="148,1931 148,1947 1043,1936 1107,1928 1144,1934 1146,1934 1148,1934 1174,1925 1429,1920 1429,1907 1426,1880 1266,1874 1264,1874 1262,1874 1261,1874 1261,1875 1251,1884 1192,1875 1190,1875 1189,1875 1167,1887 1115,1887 1097,1877 1095,1877 1094,1877 914,1890 844,1882 842,1882 793,1892 750,1884 749,1884 747,1884 745,1884 731,1893 683,1885 682,1885 680,1885 652,1895 489,1889 487,1889 485,1889 454,1898 405,1890 404,1890 402,1890 400,1890 400,1892 390,1900 341,1892 340,1892 338,1892 315,1903 147,1905 148,1931" />
+      <Word id="l_0029-w_0001" text="sagung;" error_score="0.058" />
+      <Word id="l_0029-w_0002" text="da" error_score="0.058" />
+      <Word id="l_0029-w_0003" text="die" error_score="0.015" />
+      <Word id="l_0029-w_0004" text="Dichter" error_score="0.015" />
+      <Word id="l_0029-w_0005" text="auch" error_score="0.015" />
+      <Word id="l_0029-w_0006" text="als" error_score="0.015" />
+      <Word id="l_0029-w_0007" text="Seher" error_score="0.015" />
+      <Word id="l_0029-w_0008" text="gelten," error_score="0.015" />
+      <Word id="l_0029-w_0009" text="ist" error_score="0.015" />
+      <Word id="l_0029-w_0010" text="er" error_score="0.015" />
+      <Word id="l_0029-w_0011" text="der" error_score="0.015" />
+      <Word id="l_0029-w_0012" text="Gott" error_score="0.015" />
+      <Word id="l_0029-w_0013" text="der" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0030" text="Dichtkunst und des Gesanges, der Führer der Musen. In sittlicher">
+      <Coords points="148,1987 148,2005 1429,1974 1429,1962 1426,1934 1342,1926 1341,1926 1131,1939 1087,1931 1086,1931 899,1944 830,1936 829,1936 827,1936 826,1936 809,1946 755,1938 754,1938 752,1938 750,1938 750,1939 740,1947 549,1943 547,1943 456,1952 438,1944 436,1944 435,1944 433,1944 431,1944 420,1952 353,1947 351,1947 350,1947 315,1956 233,1947 232,1947 230,1947 228,1947 215,1957 160,1949 158,1949 157,1949 155,1949 147,1954 148,1987" />
+      <Word id="l_0030-w_0001" text="Dichtkunst" error_score="0.001" />
+      <Word id="l_0030-w_0002" text="und" error_score="0.001" />
+      <Word id="l_0030-w_0003" text="des" error_score="0.001" />
+      <Word id="l_0030-w_0004" text="Gesanges," error_score="0.001" />
+      <Word id="l_0030-w_0005" text="der" error_score="0.001" />
+      <Word id="l_0030-w_0006" text="Führer" error_score="0.001" />
+      <Word id="l_0030-w_0007" text="der" error_score="0.001" />
+      <Word id="l_0030-w_0008" text="Musen." error_score="0.001" />
+      <Word id="l_0030-w_0009" text="In" error_score="0.001" />
+      <Word id="l_0030-w_0010" text="sittlicher" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0031" text="Beziehung haßt er das Moralisch-Finstere, d. h. das Verbrechen, dar-">
+      <Coords points="150,2042 150,2057 1429,2032 1431,2018 1427,1992 1362,1980 1360,1980 1359,1980 1357,1980 1341,1992 1259,1982 1257,1982 1256,1982 1254,1982 1239,1993 1182,1983 1180,1983 1179,1983 1177,1983 1161,1995 1117,1985 1115,1985 1113,1985 1082,1997 1053,1987 1051,1987 1050,1987 1048,1987 1046,1987 1033,1997 960,1988 958,1988 956,1988 955,1988 942,2000 893,2000 866,1990 865,1990 863,1990 862,1990 839,2000 747,1992 745,1992 744,1992 742,1992 724,2003 685,1993 683,1993 682,1993 680,1993 641,2005 582,1995 580,1995 579,1995 577,1995 577,1997 564,2006 516,1997 515,1997 513,1997 474,2008 417,1998 415,1998 413,1998 412,1998 412,2000 400,2010 366,2000 364,2000 363,2000 361,2000 359,2000 346,2011 278,2011 261,2001 260,2001 258,2001 256,2001 255,2001 214,2013 181,2003 179,2003 178,2003 176,2003 148,2010 150,2042" />
+      <Word id="l_0031-w_0001" text="Beziehung" error_score="0.003" />
+      <Word id="l_0031-w_0002" text="haßt" error_score="0.003" />
+      <Word id="l_0031-w_0003" text="er" error_score="0.003" />
+      <Word id="l_0031-w_0004" text="das" error_score="0.003" />
+      <Word id="l_0031-w_0005" text="Moralisch-Finstere," error_score="0.003" />
+      <Word id="l_0031-w_0006" text="d." error_score="0.003" />
+      <Word id="l_0031-w_0007" text="h." error_score="0.003" />
+      <Word id="l_0031-w_0008" text="das" error_score="0.003" />
+      <Word id="l_0031-w_0009" text="Verbrechen," error_score="0.003" />
+      <Word id="l_0031-w_0010" text="dar-" error_score="0.011" />
+    </TextLine>
+    <TextLine id="l_0032" text="um verfolgt er alle Frevler und Missetäter.">
+      <Coords points="148,2098 148,2108 956,2096 958,2085 955,2057 855,2047 853,2047 852,2047 850,2047 835,2057 750,2049 749,2049 747,2049 708,2060 600,2052 598,2052 561,2060 539,2052 538,2052 536,2052 534,2052 503,2064 457,2054 456,2054 454,2054 433,2065 323,2057 322,2057 320,2057 318,2057 310,2065 291,2059 289,2059 287,2059 286,2059 284,2059 274,2068 147,2068 148,2098" />
+      <Word id="l_0032-w_0001" text="um" error_score="0.011" />
+      <Word id="l_0032-w_0002" text="verfolgt" error_score="0.011" />
+      <Word id="l_0032-w_0003" text="er" error_score="0.011" />
+      <Word id="l_0032-w_0004" text="alle" error_score="0.011" />
+      <Word id="l_0032-w_0005" text="Frevler" error_score="0.011" />
+      <Word id="l_0032-w_0006" text="und" error_score="0.011" />
+      <Word id="l_0032-w_0007" text="Missetäter." error_score="0.011" />
+    </TextLine>
+    <TextLine id="l_0033" text="Verehrung: Die Hauptstätte seiner Verehrung war Delphi, wo">
+      <Coords points="238,2163 238,2173 287,2181 289,2181 912,2160 1113,2163 1115,2163 1117,2163 1135,2155 1357,2158 1359,2158 1434,2147 1434,2137 1431,2109 1284,2101 1282,2101 1280,2101 1279,2101 1262,2111 1228,2103 1226,2103 1225,2103 1223,2103 1221,2103 1205,2114 1025,2116 1001,2108 999,2108 997,2108 996,2108 965,2118 915,2109 914,2109 912,2109 911,2109 899,2119 835,2111 834,2111 832,2111 809,2121 696,2114 695,2114 615,2124 556,2118 554,2118 552,2118 533,2127 477,2119 475,2119 474,2119 472,2119 457,2131 237,2131 238,2163" />
+      <Word id="l_0033-w_0001" text="Verehrung:" error_score="0.011" />
+      <Word id="l_0033-w_0002" text="Die" error_score="0.011" />
+      <Word id="l_0033-w_0003" text="Hauptstätte" error_score="0.003" />
+      <Word id="l_0033-w_0004" text="seiner" error_score="0.003" />
+      <Word id="l_0033-w_0005" text="Verehrung" error_score="0.003" />
+      <Word id="l_0033-w_0006" text="war" error_score="0.003" />
+      <Word id="l_0033-w_0007" text="Delphi," error_score="0.003" />
+      <Word id="l_0033-w_0008" text="wo" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0034" text="eine Priesterin (Pythia), betäubt von den Dämpfen des Erdschlunds,">
+      <Coords points="152,2216 152,2230 294,2237 296,2237 765,2217 1434,2212 1434,2193 1431,2163 1388,2154 1387,2154 1385,2154 1383,2154 1372,2163 1316,2155 1315,2155 1313,2155 1277,2165 1246,2157 1244,2157 1243,2157 1241,2157 1239,2157 1225,2167 1215,2158 1213,2158 1212,2158 1210,2158 1208,2158 1176,2167 1125,2160 1123,2160 1122,2160 1120,2160 1110,2168 929,2163 927,2163 925,2163 924,2163 912,2173 860,2165 858,2165 857,2165 837,2175 719,2168 718,2168 716,2168 714,2168 704,2176 688,2168 686,2168 685,2168 683,2168 654,2178 624,2170 623,2170 621,2170 619,2170 618,2170 618,2172 608,2180 546,2172 544,2172 498,2181 459,2173 457,2173 456,2173 433,2183 390,2176 389,2176 387,2176 386,2176 386,2178 377,2186 278,2186 246,2178 245,2178 243,2178 242,2178 240,2178 224,2188 175,2180 173,2180 171,2180 150,2188 152,2216" />
+      <Word id="l_0034-w_0001" text="eine" error_score="0.003" />
+      <Word id="l_0034-w_0002" text="Priesterin" error_score="0.003" />
+      <Word id="l_0034-w_0003" text="(Pythia)," error_score="0.003" />
+      <Word id="l_0034-w_0004" text="betäubt" error_score="0.003" />
+      <Word id="l_0034-w_0005" text="von" error_score="0.002" />
+      <Word id="l_0034-w_0006" text="den" error_score="0.002" />
+      <Word id="l_0034-w_0007" text="Dämpfen" error_score="0.002" />
+      <Word id="l_0034-w_0008" text="des" error_score="0.002" />
+      <Word id="l_0034-w_0009" text="Erdschlunds," error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0035" text="über dem sie saß, den Fragenden sagte, was sie tun sollten. Dies war">
+      <Coords points="153,2271 153,2286 1436,2260 1436,2247 1432,2221 1264,2214 1262,2214 1261,2214 1233,2224 1179,2216 1177,2216 1176,2216 1135,2225 1046,2219 1045,2219 1043,2219 1041,2219 1030,2227 1009,2219 1007,2219 1005,2219 1004,2219 981,2230 896,2230 847,2222 845,2222 844,2222 821,2232 713,2225 711,2225 646,2235 580,2227 579,2227 577,2227 556,2237 503,2229 502,2229 500,2229 498,2229 487,2239 448,2230 446,2230 444,2230 404,2240 359,2234 358,2234 289,2242 268,2234 266,2234 264,2234 263,2234 224,2243 161,2235 160,2235 158,2235 157,2235 157,2237 152,2240 153,2271" />
+      <Word id="l_0035-w_0001" text="über" error_score="0.002" />
+      <Word id="l_0035-w_0002" text="dem" error_score="0.002" />
+      <Word id="l_0035-w_0003" text="sie" error_score="0.002" />
+      <Word id="l_0035-w_0004" text="saß," error_score="0.002" />
+      <Word id="l_0035-w_0005" text="den" error_score="0.002" />
+      <Word id="l_0035-w_0006" text="Fragenden" error_score="0.002" />
+      <Word id="l_0035-w_0007" text="sagte," error_score="0.002" />
+      <Word id="l_0035-w_0008" text="was" error_score="0.002" />
+      <Word id="l_0035-w_0009" text="sie" error_score="0.002" />
+      <Word id="l_0035-w_0010" text="tun" error_score="0.002" />
+      <Word id="l_0035-w_0011" text="sollten." error_score="0.002" />
+      <Word id="l_0035-w_0012" text="Dies" error_score="0.002" />
+      <Word id="l_0035-w_0013" text="war" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0036" text="das berühmteste Orakel der alten Welt. Zu Ehren Apollons, dem der">
+      <Coords points="153,2324 153,2337 1436,2315 1436,2302 1432,2273 1293,2268 1292,2268 1210,2278 1166,2270 1164,2270 1162,2270 1161,2270 1148,2278 1104,2271 1102,2271 1014,2281 965,2273 963,2273 961,2273 937,2283 927,2275 925,2275 924,2275 922,2275 878,2283 847,2275 845,2275 844,2275 644,2288 587,2279 585,2279 583,2279 561,2288 551,2279 549,2279 547,2279 546,2279 544,2279 543,2279 543,2281 533,2289 480,2281 479,2281 477,2281 444,2293 230,2294 175,2286 173,2286 171,2286 152,2294 153,2324" />
+      <Word id="l_0036-w_0001" text="das" error_score="0.002" />
+      <Word id="l_0036-w_0002" text="berühmteste" error_score="0.002" />
+      <Word id="l_0036-w_0003" text="Orakel" error_score="0.002" />
+      <Word id="l_0036-w_0004" text="der" error_score="0.002" />
+      <Word id="l_0036-w_0005" text="alten" error_score="0.002" />
+      <Word id="l_0036-w_0006" text="Welt." error_score="0.002" />
+      <Word id="l_0036-w_0007" text="Zu" error_score="0.002" />
+      <Word id="l_0036-w_0008" text="Ehren" error_score="0.002" />
+      <Word id="l_0036-w_0009" text="Apollons," error_score="0.002" />
+      <Word id="l_0036-w_0010" text="dem" error_score="0.002" />
+      <Word id="l_0036-w_0011" text="der" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0037" text="Lorbeer heilig war, wurden die delphischen Spiele gefeiert.">
+      <Coords points="157,2381 157,2392 423,2397 425,2397 426,2397 454,2387 513,2396 515,2396 516,2396 554,2386 597,2394 598,2394 693,2391 695,2391 696,2391 696,2389 704,2383 862,2389 863,2389 865,2389 866,2389 878,2381 1071,2384 1073,2384 1074,2384 1076,2384 1086,2374 1158,2374 1192,2383 1194,2383 1195,2383 1324,2371 1326,2360 1324,2333 1303,2322 1301,2322 1246,2322 1244,2322 1167,2333 1056,2325 1055,2325 1053,2325 1027,2337 965,2327 963,2327 961,2327 932,2338 883,2329 881,2329 879,2329 878,2329 878,2330 870,2337 812,2330 811,2330 809,2330 781,2342 732,2332 731,2332 729,2332 691,2343 646,2333 644,2333 642,2333 603,2347 413,2348 376,2338 374,2338 372,2338 371,2338 369,2338 358,2348 336,2340 335,2340 333,2340 332,2340 330,2340 317,2350 235,2342 233,2342 232,2342 212,2351 183,2342 181,2342 179,2342 178,2342 155,2348 157,2381" />
+      <Word id="l_0037-w_0001" text="Lorbeer" error_score="0.002" />
+      <Word id="l_0037-w_0002" text="heilig" error_score="0.001" />
+      <Word id="l_0037-w_0003" text="war," error_score="0.001" />
+      <Word id="l_0037-w_0004" text="wurden" error_score="0.001" />
+      <Word id="l_0037-w_0005" text="die" error_score="0.001" />
+      <Word id="l_0037-w_0006" text="delphischen" error_score="0.001" />
+      <Word id="l_0037-w_0007" text="Spiele" error_score="0.001" />
+      <Word id="l_0037-w_0008" text="gefeiert." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0038" text="Darstellung des Gottes: Er wird als jugendlich-kräftiger Gott">
+      <Coords points="243,2441 243,2453 1439,2425 1439,2414 1436,2386 1369,2376 1367,2376 1297,2387 1267,2379 1266,2379 1264,2379 1198,2389 1172,2381 1171,2381 1169,2381 1167,2381 1166,2381 1153,2391 1087,2383 1086,2383 1084,2383 1082,2383 1066,2392 968,2386 966,2386 965,2386 942,2396 917,2387 915,2387 914,2387 850,2397 822,2389 821,2389 819,2389 817,2389 794,2399 734,2391 732,2391 731,2391 709,2400 595,2394 593,2394 592,2394 564,2404 505,2397 503,2397 449,2407 384,2399 382,2399 381,2399 379,2399 363,2409 348,2402 346,2402 345,2402 289,2410 256,2402 255,2402 253,2402 251,2402 250,2402 242,2407 243,2441" />
+      <Word id="l_0038-w_0001" text="Darstellung" error_score="0.001" />
+      <Word id="l_0038-w_0002" text="des" error_score="0.001" />
+      <Word id="l_0038-w_0003" text="Gottes:" error_score="0.001" />
+      <Word id="l_0038-w_0004" text="Er" error_score="0.001" />
+      <Word id="l_0038-w_0005" text="wird" error_score="0.001" />
+      <Word id="l_0038-w_0006" text="als" error_score="0.001" />
+      <Word id="l_0038-w_0007" text="jugendlich-kräftiger" error_score="0.001" />
+      <Word id="l_0038-w_0008" text="Gott" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0039" text="dargestellt; das berühmteste Bild ist der Apollon vom Belvedere im">
+      <Coords points="157,2494 157,2508 1439,2486 1439,2469 1436,2441 1200,2436 1198,2436 1197,2436 1176,2448 1061,2448 1019,2440 1017,2440 1015,2440 1014,2440 997,2450 956,2441 955,2441 907,2451 884,2443 883,2443 881,2443 879,2443 860,2451 840,2443 839,2443 837,2443 835,2443 834,2443 822,2451 752,2445 750,2445 493,2459 477,2451 475,2451 474,2451 423,2459 413,2451 412,2451 410,2451 408,2451 407,2451 405,2451 394,2461 323,2454 322,2454 320,2454 318,2454 309,2464 204,2464 176,2456 175,2456 173,2456 171,2456 155,2463 157,2494" />
+      <Word id="l_0039-w_0001" text="dargestellt;" error_score="0.001" />
+      <Word id="l_0039-w_0002" text="das" error_score="0.001" />
+      <Word id="l_0039-w_0003" text="berühmteste" error_score="0.001" />
+      <Word id="l_0039-w_0004" text="Bild" error_score="0.001" />
+      <Word id="l_0039-w_0005" text="ist" error_score="0.001" />
+      <Word id="l_0039-w_0006" text="der" error_score="0.001" />
+      <Word id="l_0039-w_0007" text="Apollon" error_score="0.001" />
+      <Word id="l_0039-w_0008" text="vom" error_score="0.001" />
+      <Word id="l_0039-w_0009" text="Belvedere" error_score="0.001" />
+      <Word id="l_0039-w_0010" text="im" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0040" text="Vatikan.">
+      <Coords points="160,2548 158,2561 323,2564 327,2551 327,2523 160,2510 160,2548" />
+      <Word id="l_0040-w_0001" text="Vatikan." error_score="0.001" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="1362,242 1409,268 1383,318 1339,299 1333,268 1362,242" />
+    <TextLine id="l_0041" text="41">
+      <Coords points="1377,251 1372,248 1344,253 1344,255 1347,282 1347,294 1391,296 1393,279 1388,256 1377,251" />
+      <Word id="l_0041-w_0001" text="41" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+</Page>

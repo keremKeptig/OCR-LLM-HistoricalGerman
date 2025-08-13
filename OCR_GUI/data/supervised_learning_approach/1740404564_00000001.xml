@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740404564_00000001.bin.png" imageHeight="2622" imageWidth="1737" orientation="0.0" overwritePageError="0.9144729587441541">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="84,52 91,52 91,62 81,62 84,52" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="85,93 91,93 91,97 81,97 85,93" />
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="103,75 103,80 99,80 99,75 103,75" />
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="102,93 103,97 99,97 99,93 102,93" />
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="103,2115 161,2155 169,2214 272,2225 266,2294 134,2294 132,2329 75,2329 52,2276 52,2155 103,2115" />
+    <TextLine id="l_0001" text="8gan">
+      <Coords points="84,2272 84,2323 249,2326 250,2272 249,2224 84,2225 84,2272" />
+      <Word id="l_0001-w_0001" text="8gan" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="989,565 1036,565 1036,610 985,610 989,565" />
+    <TextLine id="l_0002" text="">
+      <Coords points="996,600 998,620 1015,620 1015,598 1012,579 993,578 996,600" />
+    </TextLine>
+  </TextRegion>
+</Page>

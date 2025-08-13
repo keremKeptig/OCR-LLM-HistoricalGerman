@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="174040579X_00000028.bin.png" imageHeight="2959" imageWidth="1859" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="1039,210 1095,216 1082,261 1024,254 1039,210" />
+    <TextLine id="l_0001" text="22">
+      <Coords points="1075,213 1059,212 1049,210 1039,213 1029,235 1029,246 1029,256 1087,254 1089,243 1087,238 1075,213" />
+      <Word id="l_0001-w_0001" text="22" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="1026,302 1773,315 1780,2589 361,2589 342,381 454,309 1026,302" />
+    <TextLine id="l_0002" text="Die Aſteroiden ſind teleſkopiſche Planeten, die meiſt erſt dann im Fern⸗">
+      <Coords points="1750,313 1733,313 1717,313 1701,313 1684,313 1668,312 1651,312 1635,312 1618,312 1602,312 1585,312 1569,310 1553,310 1536,310 1528,310 1520,310 1503,310 1488,309 1485,310 1480,309 1470,309 1454,309 1437,309 1423,309 1414,310 1406,309 1404,309 1388,307 1372,307 1363,307 1360,310 1311,307 1306,307 1296,305 1286,305 1273,305 1256,305 1247,305 1197,312 1179,304 1177,304 1176,304 1135,312 1113,304 1112,304 1110,304 1062,313 909,305 908,305 906,305 871,315 840,307 839,307 837,307 717,315 677,307 676,307 674,307 649,317 465,309 463,309 462,309 460,309 450,315 452,346 452,358 1763,348 1765,336 1761,313 1750,313" />
+      <Word id="l_0002-w_0001" text="Die" error_score="0.001" />
+      <Word id="l_0002-w_0002" text="Aſteroiden" error_score="0.001" />
+      <Word id="l_0002-w_0003" text="ſind" error_score="0.001" />
+      <Word id="l_0002-w_0004" text="teleſkopiſche" error_score="0.001" />
+      <Word id="l_0002-w_0005" text="Planeten," error_score="0.001" />
+      <Word id="l_0002-w_0006" text="die" error_score="0.001" />
+      <Word id="l_0002-w_0007" text="meiſt" error_score="0.001" />
+      <Word id="l_0002-w_0008" text="erſt" error_score="0.001" />
+      <Word id="l_0002-w_0009" text="dann" error_score="0.001" />
+      <Word id="l_0002-w_0010" text="im" error_score="0.001" />
+      <Word id="l_0002-w_0011" text="Fern⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0003" text="rohre geſehen werden, wenn ſie ſich in Erdnähe befinden. Der größte der bisher">
+      <Coords points="365,363 348,374 350,391 350,404 1529,404 1529,402 1765,392 1766,381 1763,356 1722,346 1720,346 1646,355 1594,346 1592,346 1590,346 1569,355 1529,346 1528,346 1526,346 1490,356 1207,350 1205,350 1204,350 1202,350 1189,358 1057,350 1056,350 1054,350 1028,360 998,351 996,351 995,351 993,351 975,360 965,351 964,351 962,351 960,351 751,361 659,353 658,353 582,363 389,355 388,355 386,355 371,358 365,363" />
+      <Word id="l_0003-w_0001" text="rohre" error_score="0.000" />
+      <Word id="l_0003-w_0002" text="geſehen" error_score="0.000" />
+      <Word id="l_0003-w_0003" text="werden," error_score="0.000" />
+      <Word id="l_0003-w_0004" text="wenn" error_score="0.000" />
+      <Word id="l_0003-w_0005" text="ſie" error_score="0.000" />
+      <Word id="l_0003-w_0006" text="ſich" error_score="0.000" />
+      <Word id="l_0003-w_0007" text="in" error_score="0.000" />
+      <Word id="l_0003-w_0008" text="Erdnähe" error_score="0.000" />
+      <Word id="l_0003-w_0009" text="befinden." error_score="0.000" />
+      <Word id="l_0003-w_0010" text="Der" error_score="0.000" />
+      <Word id="l_0003-w_0011" text="größte" error_score="0.000" />
+      <Word id="l_0003-w_0012" text="der" error_score="0.000" />
+      <Word id="l_0003-w_0013" text="bisher" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0004" text="entdeckten Aſteroiden hat einen Durchmeſſer von 804 lem; bei den kleinſten wird er">
+      <Coords points="347,433 347,445 1765,437 1766,425 1763,399 630,396 628,396 626,396 608,404 406,397 404,397 345,406 347,433" />
+      <Word id="l_0004-w_0001" text="entdeckten" error_score="0.000" />
+      <Word id="l_0004-w_0002" text="Aſteroiden" error_score="0.000" />
+      <Word id="l_0004-w_0003" text="hat" error_score="0.000" />
+      <Word id="l_0004-w_0004" text="einen" error_score="0.000" />
+      <Word id="l_0004-w_0005" text="Durchmeſſer" error_score="0.000" />
+      <Word id="l_0004-w_0006" text="von" error_score="0.000" />
+      <Word id="l_0004-w_0007" text="804" error_score="0.000" />
+      <Word id="l_0004-w_0008" text="lem;" error_score="0.001" />
+      <Word id="l_0004-w_0009" text="bei" error_score="0.001" />
+      <Word id="l_0004-w_0010" text="den" error_score="0.001" />
+      <Word id="l_0004-w_0011" text="kleinſten" error_score="0.001" />
+      <Word id="l_0004-w_0012" text="wird" error_score="0.001" />
+      <Word id="l_0004-w_0013" text="er" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0005" text="auf 15 lem geſchätʒt.">
+      <Coords points="347,480 347,491 404,499 406,499 407,499 409,499 409,498 411,498 416,489 549,489 580,498 582,498 584,498 700,486 702,475 699,450 595,438 593,438 592,438 590,438 590,440 577,450 488,440 486,440 485,440 483,440 475,448 467,442 467,440 465,440 463,440 462,440 345,453 347,480" />
+      <Word id="l_0005-w_0001" text="auf" error_score="0.001" />
+      <Word id="l_0005-w_0002" text="15" error_score="0.001" />
+      <Word id="l_0005-w_0003" text="lem" error_score="0.001" />
+      <Word id="l_0005-w_0004" text="geſchätʒt." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0006" text="5. Der Jupiter, der größte Planet unſeres Sonnenſyſtems, ſtrahlt ſtets als">
+      <Coords points="454,521 454,530 669,539 671,539 672,539 674,539 686,530 1544,532 1546,532 1699,524 1750,530 1752,530 1753,530 1755,530 1766,522 1766,511 1765,484 1742,475 1740,475 1738,475 1622,483 1577,475 1576,475 1574,475 1544,484 1531,476 1529,476 1528,476 1526,476 1437,484 1376,476 1375,476 1324,486 1256,478 1255,478 1179,486 1159,478 1158,478 1156,478 1105,488 904,480 903,480 901,480 880,489 687,481 686,481 684,481 653,491 519,483 518,483 516,483 486,491 470,483 468,483 467,483 465,483 463,483 452,489 454,521" />
+      <Word id="l_0006-w_0001" text="5." error_score="0.001" />
+      <Word id="l_0006-w_0002" text="Der" error_score="0.001" />
+      <Word id="l_0006-w_0003" text="Jupiter," error_score="0.001" />
+      <Word id="l_0006-w_0004" text="der" error_score="0.001" />
+      <Word id="l_0006-w_0005" text="größte" error_score="0.001" />
+      <Word id="l_0006-w_0006" text="Planet" error_score="0.001" />
+      <Word id="l_0006-w_0007" text="unſeres" error_score="0.001" />
+      <Word id="l_0006-w_0008" text="Sonnenſyſtems," error_score="0.001" />
+      <Word id="l_0006-w_0009" text="ſtrahlt" error_score="0.001" />
+      <Word id="l_0006-w_0010" text="ſtets" error_score="0.001" />
+      <Word id="l_0006-w_0011" text="als" error_score="0.075" />
+    </TextLine>
+    <TextLine id="l_0007" text="Stern erſter Größe und wird leicht an ſeinem ſtarken hellgelben Lichte erkannt.">
+      <Coords points="350,565 350,577 1763,567 1765,553 1761,529 1564,519 1562,519 1506,529 1427,521 1426,521 1424,521 1406,529 1200,522 1199,522 1197,522 1196,522 1184,530 1069,524 1067,524 980,532 957,524 955,524 954,524 769,534 756,526 755,526 753,526 751,526 702,535 656,527 580,527 579,527 577,527 575,527 564,535 505,529 503,529 501,529 485,537 361,529 360,529 358,529 356,529 348,534 350,565" />
+      <Word id="l_0007-w_0001" text="Stern" error_score="0.075" />
+      <Word id="l_0007-w_0002" text="erſter" error_score="0.075" />
+      <Word id="l_0007-w_0003" text="Größe" error_score="0.075" />
+      <Word id="l_0007-w_0004" text="und" error_score="0.075" />
+      <Word id="l_0007-w_0005" text="wird" error_score="0.075" />
+      <Word id="l_0007-w_0006" text="leicht" error_score="0.075" />
+      <Word id="l_0007-w_0007" text="an" error_score="0.075" />
+      <Word id="l_0007-w_0008" text="ſeinem" error_score="0.075" />
+      <Word id="l_0007-w_0009" text="ſtarken" error_score="0.075" />
+      <Word id="l_0007-w_0010" text="hellgelben" error_score="0.872" error_type="error" />
+      <Word id="l_0007-w_0011" text="Lichte" error_score="0.872" error_type="error" />
+      <Word id="l_0007-w_0012" text="erkannt." error_score="0.872" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0008" text="Jm Fernrohre fällt ſogleich die ſtarke Abplattung des Planeten auf, die ihre">
+      <Coords points="350,611 350,621 458,629 460,629 600,619 639,627 641,627 697,618 771,626 773,626 847,616 960,624 962,624 1039,614 1118,623 1120,623 1329,611 1360,619 1362,619 1363,619 1495,618 1497,618 1498,618 1508,609 1534,618 1536,618 1538,619 1592,619 1592,618 1594,618 1595,618 1608,608 1628,616 1630,616 1631,616 1763,611 1765,596 1761,572 1628,562 1627,562 1625,562 1602,572 1457,565 1455,565 1413,573 1362,563 1360,563 1358,563 1357,563 1344,573 1279,565 1278,565 1276,565 1274,565 1260,575 1135,565 1133,565 1131,565 1130,565 1118,573 1067,567 1066,567 1064,567 1062,567 1049,577 1010,567 1008,567 1006,567 1005,567 1003,567 990,575 955,568 954,568 952,568 950,568 937,578 871,568 870,568 868,568 866,568 850,578 822,568 820,568 819,568 755,578 728,570 727,570 725,570 723,570 722,570 709,580 662,570 661,570 659,570 615,581 567,572 565,572 564,572 533,581 348,581 350,611" />
+      <Word id="l_0008-w_0001" text="Jm" error_score="0.872" error_type="error" />
+      <Word id="l_0008-w_0002" text="Fernrohre" error_score="0.872" error_type="error" />
+      <Word id="l_0008-w_0003" text="fällt" error_score="0.872" error_type="error" />
+      <Word id="l_0008-w_0004" text="ſogleich" error_score="0.872" error_type="error" />
+      <Word id="l_0008-w_0005" text="die" error_score="0.872" error_type="error" />
+      <Word id="l_0008-w_0006" text="ſtarke" error_score="0.872" error_type="error" />
+      <Word id="l_0008-w_0007" text="Abplattung" error_score="0.872" error_type="error" />
+      <Word id="l_0008-w_0008" text="des" error_score="0.391" />
+      <Word id="l_0008-w_0009" text="Planeten" error_score="0.391" />
+      <Word id="l_0008-w_0010" text="auf," error_score="0.391" />
+      <Word id="l_0008-w_0011" text="die" error_score="0.391" />
+      <Word id="l_0008-w_0012" text="ihre" error_score="0.391" />
+    </TextLine>
+    <TextLine id="l_0009" text="Urſache in ſeiner raſchen Rotation hat (ꝰ Stunden 56 Minuten). Die Entdeckung">
+      <Coords points="350,650 350,664 1763,664 1765,642 1761,616 944,611 942,611 941,611 909,619 401,614 399,614 348,623 350,650" />
+      <Word id="l_0009-w_0001" text="Urſache" error_score="0.391" />
+      <Word id="l_0009-w_0002" text="in" error_score="0.391" />
+      <Word id="l_0009-w_0003" text="ſeiner" error_score="0.391" />
+      <Word id="l_0009-w_0004" text="raſchen" error_score="0.391" />
+      <Word id="l_0009-w_0005" text="Rotation" error_score="0.391" />
+      <Word id="l_0009-w_0006" text="hat" error_score="0.104" />
+      <Word id="l_0009-w_0007" text="(ꝰ" error_score="0.104" />
+      <Word id="l_0009-w_0008" text="Stunden" error_score="0.104" />
+      <Word id="l_0009-w_0009" text="56" error_score="0.104" />
+      <Word id="l_0009-w_0010" text="Minuten)." error_score="0.104" />
+      <Word id="l_0009-w_0011" text="Die" error_score="0.104" />
+      <Word id="l_0009-w_0012" text="Entdeckung" error_score="0.104" />
+    </TextLine>
+    <TextLine id="l_0010" text="ſeiner vier helleren Monde war eine der erſten Früchte der Erfindung des Fern⸗">
+      <Coords points="350,697 350,713 988,701 1118,710 1120,710 1169,700 1281,708 1283,708 1391,698 1559,706 1561,706 1562,706 1592,697 1738,705 1740,705 1742,705 1765,695 1765,685 1761,660 1602,650 1600,650 1599,650 1556,660 1411,652 1409,652 1324,662 1196,654 1194,654 1192,654 1191,654 1179,662 1003,655 1001,655 921,665 776,657 774,657 686,667 562,659 560,659 559,659 557,659 544,669 498,660 496,660 495,660 467,669 389,660 388,660 348,667 350,697" />
+      <Word id="l_0010-w_0001" text="ſeiner" error_score="0.104" />
+      <Word id="l_0010-w_0002" text="vier" error_score="0.104" />
+      <Word id="l_0010-w_0003" text="helleren" error_score="0.104" />
+      <Word id="l_0010-w_0004" text="Monde" error_score="0.014" />
+      <Word id="l_0010-w_0005" text="war" error_score="0.014" />
+      <Word id="l_0010-w_0006" text="eine" error_score="0.014" />
+      <Word id="l_0010-w_0007" text="der" error_score="0.014" />
+      <Word id="l_0010-w_0008" text="erſten" error_score="0.014" />
+      <Word id="l_0010-w_0009" text="Früchte" error_score="0.014" />
+      <Word id="l_0010-w_0010" text="der" error_score="0.014" />
+      <Word id="l_0010-w_0011" text="Erfindung" error_score="0.014" />
+      <Word id="l_0010-w_0012" text="des" error_score="0.014" />
+      <Word id="l_0010-w_0013" text="Fern⸗" error_score="0.014" />
+    </TextLine>
+    <TextLine id="l_0011" text="rohres und die Nichtübereinſtimmung der vorausberechneten Verfinſterungen der">
+      <Coords points="350,741 350,751 1765,739 1766,728 1763,703 1717,693 1715,693 1714,693 1712,693 1699,703 1587,703 1437,695 1436,695 1434,695 1408,705 1235,697 1233,697 1232,697 1189,706 881,700 880,700 654,703 653,703 651,703 639,711 579,703 577,703 575,703 552,711 528,703 526,703 524,703 523,703 485,713 388,705 386,705 384,705 348,715 350,741" />
+      <Word id="l_0011-w_0001" text="rohres" error_score="0.014" />
+      <Word id="l_0011-w_0002" text="und" error_score="0.001" />
+      <Word id="l_0011-w_0003" text="die" error_score="0.001" />
+      <Word id="l_0011-w_0004" text="Nichtübereinſtimmung" error_score="0.001" />
+      <Word id="l_0011-w_0005" text="der" error_score="0.001" />
+      <Word id="l_0011-w_0006" text="vorausberechneten" error_score="0.001" />
+      <Word id="l_0011-w_0007" text="Verfinſterungen" error_score="0.001" />
+      <Word id="l_0011-w_0008" text="der" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0012" text="Jupitermonde mit der Beobachtung führte ʒur Entdeckung der Geſchwindigkeit des">
+      <Coords points="350,784 350,800 1016,800 1016,798 1064,789 1084,797 1085,797 1087,797 1141,789 1339,795 1340,795 1418,785 1577,793 1579,793 1687,784 1748,792 1750,792 1752,792 1753,792 1766,782 1766,770 1763,744 1589,736 1587,736 1585,736 1584,736 1571,744 1447,738 1446,738 1444,738 1408,746 1266,739 1265,739 1205,747 881,743 880,743 878,743 847,751 748,744 746,744 348,754 350,784" />
+      <Word id="l_0012-w_0001" text="Jupitermonde" error_score="0.001" />
+      <Word id="l_0012-w_0002" text="mit" error_score="0.001" />
+      <Word id="l_0012-w_0003" text="der" error_score="0.001" />
+      <Word id="l_0012-w_0004" text="Beobachtung" error_score="0.002" />
+      <Word id="l_0012-w_0005" text="führte" error_score="0.002" />
+      <Word id="l_0012-w_0006" text="ʒur" error_score="0.002" />
+      <Word id="l_0012-w_0007" text="Entdeckung" error_score="0.002" />
+      <Word id="l_0012-w_0008" text="der" error_score="0.002" />
+      <Word id="l_0012-w_0009" text="Geſchwindigkeit" error_score="0.002" />
+      <Word id="l_0012-w_0010" text="des" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0013" text="Lichtes.">
+      <Coords points="352,826 352,841 483,841 483,826 483,798 352,798 352,826" />
+      <Word id="l_0013-w_0001" text="Lichtes." error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0014" text="Der Saturn ʒeigt ſich dem freien Auge immer als Stern erſter Größe mit">
+      <Coords points="454,869 454,882 1549,882 1549,881 1551,881 1577,872 1678,879 1679,879 1770,869 1770,859 1768,833 1747,823 1745,823 1743,823 1742,823 1725,831 1526,825 1525,825 1523,825 1521,825 1510,833 1383,825 1381,825 1380,825 1357,833 1332,825 1330,825 1329,825 1327,825 1325,825 1309,835 1082,828 1080,828 1079,828 1077,828 1066,836 891,828 890,828 888,828 886,828 873,836 751,830 750,830 656,840 552,831 551,831 495,840 468,831 467,831 465,831 463,831 462,831 452,838 454,869" />
+      <Word id="l_0014-w_0001" text="Der" error_score="0.002" />
+      <Word id="l_0014-w_0002" text="Saturn" error_score="0.002" />
+      <Word id="l_0014-w_0003" text="ʒeigt" error_score="0.018" />
+      <Word id="l_0014-w_0004" text="ſich" error_score="0.018" />
+      <Word id="l_0014-w_0005" text="dem" error_score="0.018" />
+      <Word id="l_0014-w_0006" text="freien" error_score="0.018" />
+      <Word id="l_0014-w_0007" text="Auge" error_score="0.018" />
+      <Word id="l_0014-w_0008" text="immer" error_score="0.018" />
+      <Word id="l_0014-w_0009" text="als" error_score="0.018" />
+      <Word id="l_0014-w_0010" text="Stern" error_score="0.018" />
+      <Word id="l_0014-w_0011" text="erſter" error_score="0.018" />
+      <Word id="l_0014-w_0012" text="Größe" error_score="0.018" />
+      <Word id="l_0014-w_0013" text="mit" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0015" text="weißlichem, wenig glänʒendem Lichte. Er ſteht unter den Planeten unſeres Sonnen⸗">
+      <Coords points="350,912 350,925 1766,915 1768,902 1765,877 1627,867 1625,867 1559,876 1543,867 1541,867 1539,867 1538,867 1536,867 1521,877 1334,869 1332,869 1330,869 1329,869 1317,877 1260,871 1258,871 1256,871 1255,871 1242,881 1141,881 1064,871 1062,871 1061,871 1059,871 1047,881 1029,872 1028,872 1026,872 987,881 792,874 791,874 789,874 769,882 625,874 623,874 554,884 404,876 403,876 348,886 350,912" />
+      <Word id="l_0015-w_0001" text="weißlichem," error_score="0.009" />
+      <Word id="l_0015-w_0002" text="wenig" error_score="0.009" />
+      <Word id="l_0015-w_0003" text="glänʒendem" error_score="0.009" />
+      <Word id="l_0015-w_0004" text="Lichte." error_score="0.009" />
+      <Word id="l_0015-w_0005" text="Er" error_score="0.009" />
+      <Word id="l_0015-w_0006" text="ſteht" error_score="0.009" />
+      <Word id="l_0015-w_0007" text="unter" error_score="0.009" />
+      <Word id="l_0015-w_0008" text="den" error_score="0.009" />
+      <Word id="l_0015-w_0009" text="Planeten" error_score="0.009" />
+      <Word id="l_0015-w_0010" text="unſeres" error_score="0.005" />
+      <Word id="l_0015-w_0011" text="Sonnen⸗" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0016" text="ſyſtems wegen ſeines Ringſyſtems, das ihn umgibt, einʒig da. Jn ſtärkeren Fern⸗">
+      <Coords points="350,960 350,974 835,974 835,973 998,963 1148,971 1149,971 1222,961 1334,969 1335,969 1337,969 1339,969 1353,960 1534,968 1536,968 1658,958 1694,966 1696,966 1697,966 1765,955 1766,946 1763,918 1679,910 1678,910 1599,918 1585,910 1584,910 1582,910 1580,910 1579,910 1577,910 1564,918 1459,912 1457,912 1383,920 1367,912 1365,912 1363,912 1362,912 1360,912 1345,922 1261,914 1260,914 1209,922 1161,914 1159,914 1158,914 1156,914 1141,923 1019,915 1018,915 1016,915 1015,915 1003,923 949,915 947,915 945,915 926,925 906,917 904,917 797,917 796,917 794,917 792,917 779,925 758,917 756,917 755,917 705,927 610,918 608,918 546,928 360,920 358,920 356,920 355,920 348,925 350,960" />
+      <Word id="l_0016-w_0001" text="ſyſtems" error_score="0.005" />
+      <Word id="l_0016-w_0002" text="wegen" error_score="0.005" />
+      <Word id="l_0016-w_0003" text="ſeines" error_score="0.005" />
+      <Word id="l_0016-w_0004" text="Ringſyſtems," error_score="0.005" />
+      <Word id="l_0016-w_0005" text="das" error_score="0.005" />
+      <Word id="l_0016-w_0006" text="ihn" error_score="0.005" />
+      <Word id="l_0016-w_0007" text="umgibt," error_score="0.005" />
+      <Word id="l_0016-w_0008" text="einʒig" error_score="0.005" />
+      <Word id="l_0016-w_0009" text="da." error_score="0.005" />
+      <Word id="l_0016-w_0010" text="Jn" error_score="0.006" />
+      <Word id="l_0016-w_0011" text="ſtärkeren" error_score="0.006" />
+      <Word id="l_0016-w_0012" text="Fern⸗" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0017" text="rohren unterſcheidet man einen äußeren hellen, einen inneren hellen und außerdem">
+      <Coords points="352,1001 352,1012 1766,1001 1768,989 1765,964 1655,955 1653,955 1589,963 1577,955 1576,955 1574,955 1572,955 1571,955 1569,955 1557,964 1459,956 1457,956 1357,966 1276,958 1274,958 1209,966 1182,958 1181,958 1179,958 1177,958 1154,968 1089,960 1087,960 694,971 564,963 562,963 560,963 559,963 544,973 396,964 394,964 350,974 352,1001" />
+      <Word id="l_0017-w_0001" text="rohren" error_score="0.006" />
+      <Word id="l_0017-w_0002" text="unterſcheidet" error_score="0.006" />
+      <Word id="l_0017-w_0003" text="man" error_score="0.006" />
+      <Word id="l_0017-w_0004" text="einen" error_score="0.006" />
+      <Word id="l_0017-w_0005" text="äußeren" error_score="0.006" />
+      <Word id="l_0017-w_0006" text="hellen," error_score="0.006" />
+      <Word id="l_0017-w_0007" text="einen" error_score="0.006" />
+      <Word id="l_0017-w_0008" text="inneren" error_score="0.006" />
+      <Word id="l_0017-w_0009" text="hellen" error_score="0.008" />
+      <Word id="l_0017-w_0010" text="und" error_score="0.008" />
+      <Word id="l_0017-w_0011" text="außerdem" error_score="0.008" />
+    </TextLine>
+    <TextLine id="l_0018" text="noch einen dunklen Ring. Die Ringe liegen ʒiemlich in einer Ebene, die mit der">
+      <Coords points="352,1045 352,1063 435,1055 751,1060 753,1060 755,1060 784,1052 1148,1057 1149,1057 1766,1043 1768,1034 1765,1009 1719,997 1717,997 1715,997 1714,997 1697,1007 1678,997 1676,997 1674,997 1617,1007 1580,997 1579,997 1577,997 1576,997 1574,997 1559,1009 1464,999 1462,999 1385,1009 1363,999 1362,999 1360,999 1358,999 1357,999 1342,1010 1289,1001 1288,1001 1286,1001 1284,1001 1268,1010 1248,1001 1247,1001 1245,1001 1148,1002 1146,1002 1145,1002 1130,1012 1041,1002 1039,1002 1038,1002 1003,1010 906,1004 904,1004 903,1004 901,1004 888,1014 870,1004 868,1004 866,1004 807,1014 690,1006 689,1006 687,1006 686,1006 671,1015 552,1006 551,1006 549,1006 547,1006 531,1017 465,1007 463,1007 462,1007 434,1017 409,1007 407,1007 406,1007 350,1019 352,1045" />
+      <Word id="l_0018-w_0001" text="noch" error_score="0.008" />
+      <Word id="l_0018-w_0002" text="einen" error_score="0.008" />
+      <Word id="l_0018-w_0003" text="dunklen" error_score="0.008" />
+      <Word id="l_0018-w_0004" text="Ring." error_score="0.008" />
+      <Word id="l_0018-w_0005" text="Die" error_score="0.008" />
+      <Word id="l_0018-w_0006" text="Ringe" error_score="0.008" />
+      <Word id="l_0018-w_0007" text="liegen" error_score="0.008" />
+      <Word id="l_0018-w_0008" text="ʒiemlich" error_score="0.272" />
+      <Word id="l_0018-w_0009" text="in" error_score="0.272" />
+      <Word id="l_0018-w_0010" text="einer" error_score="0.272" />
+      <Word id="l_0018-w_0011" text="Ebene," error_score="0.272" />
+      <Word id="l_0018-w_0012" text="die" error_score="0.272" />
+      <Word id="l_0018-w_0013" text="mit" error_score="0.272" />
+      <Word id="l_0018-w_0014" text="der" error_score="0.272" />
+    </TextLine>
+    <TextLine id="l_0019" text="Ebene des Saturn⸗Aquators als ʒuſammenfallend angenommen werden kann. — Die">
+      <Coords points="352,1088 352,1099 1765,1089 1766,1076 1765,1052 1743,1042 1742,1042 1740,1042 1694,1050 1554,1043 1553,1043 1493,1052 1480,1043 1478,1043 1477,1043 1475,1043 1474,1043 1472,1043 1459,1053 1353,1055 1181,1055 1159,1045 1158,1045 1156,1045 1154,1045 1138,1053 957,1047 955,1047 954,1047 913,1057 893,1048 891,1048 890,1048 848,1057 825,1048 824,1048 822,1048 746,1057 552,1050 551,1050 549,1050 547,1050 536,1060 518,1052 516,1052 514,1052 417,1060 361,1052 360,1052 358,1052 356,1052 350,1057 352,1088" />
+      <Word id="l_0019-w_0001" text="Ebene" error_score="0.272" />
+      <Word id="l_0019-w_0002" text="des" error_score="0.272" />
+      <Word id="l_0019-w_0003" text="Saturn⸗Aquators" error_score="0.272" />
+      <Word id="l_0019-w_0004" text="als" error_score="0.079" />
+      <Word id="l_0019-w_0005" text="ʒuſammenfallend" error_score="0.079" />
+      <Word id="l_0019-w_0006" text="angenommen" error_score="0.079" />
+      <Word id="l_0019-w_0007" text="werden" error_score="0.079" />
+      <Word id="l_0019-w_0008" text="kann." error_score="0.079" />
+      <Word id="l_0019-w_0009" text="—" error_score="0.079" />
+      <Word id="l_0019-w_0010" text="Die" error_score="0.079" />
+    </TextLine>
+    <TextLine id="l_0020" text="Rotationsʒeit der Saturnkugel beträgt 10 Stunden 2ꝰ Minuten.">
+      <Coords points="352,1129 352,1140 1454,1135 1455,1122 1452,1096 361,1093 360,1093 358,1093 356,1093 350,1098 352,1129" />
+      <Word id="l_0020-w_0001" text="Rotationsʒeit" error_score="0.079" />
+      <Word id="l_0020-w_0002" text="der" error_score="0.079" />
+      <Word id="l_0020-w_0003" text="Saturnkugel" error_score="0.079" />
+      <Word id="l_0020-w_0004" text="beträgt" error_score="0.001" />
+      <Word id="l_0020-w_0005" text="10" error_score="0.001" />
+      <Word id="l_0020-w_0006" text="Stunden" error_score="0.001" />
+      <Word id="l_0020-w_0007" text="2ꝰ" error_score="0.001" />
+      <Word id="l_0020-w_0008" text="Minuten." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0021" text="Bis ʒum Jahre 1781 galt der Saturn als der äußerſte Planet unſeres">
+      <Coords points="452,1175 452,1185 570,1193 572,1193 621,1183 710,1191 712,1191 786,1181 899,1190 901,1190 947,1180 1107,1186 1108,1186 1192,1178 1235,1186 1237,1186 1238,1186 1240,1186 1255,1178 1436,1185 1437,1185 1487,1175 1510,1183 1511,1183 1513,1183 1766,1173 1768,1162 1765,1137 1691,1127 1689,1127 1687,1127 1686,1127 1673,1135 1511,1129 1510,1129 1508,1129 1475,1137 1449,1129 1447,1129 1446,1129 1444,1129 1442,1129 1432,1139 1401,1130 1400,1130 1398,1130 1396,1130 1395,1130 1383,1140 1298,1140 1279,1130 1278,1130 1276,1130 1274,1130 1273,1130 1261,1140 1110,1132 1108,1132 1044,1142 972,1134 970,1134 894,1144 781,1135 779,1135 778,1135 755,1145 710,1137 709,1137 565,1147 460,1139 458,1139 457,1139 455,1139 455,1140 450,1144 452,1175" />
+      <Word id="l_0021-w_0001" text="Bis" error_score="0.001" />
+      <Word id="l_0021-w_0002" text="ʒum" error_score="0.001" />
+      <Word id="l_0021-w_0003" text="Jahre" error_score="0.001" />
+      <Word id="l_0021-w_0004" text="1781" error_score="0.001" />
+      <Word id="l_0021-w_0005" text="galt" error_score="0.001" />
+      <Word id="l_0021-w_0006" text="der" error_score="0.001" />
+      <Word id="l_0021-w_0007" text="Saturn" error_score="0.001" />
+      <Word id="l_0021-w_0008" text="als" error_score="0.001" />
+      <Word id="l_0021-w_0009" text="der" error_score="0.001" />
+      <Word id="l_0021-w_0010" text="äußerſte" error_score="0.001" />
+      <Word id="l_0021-w_0011" text="Planet" error_score="0.001" />
+      <Word id="l_0021-w_0012" text="unſeres" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0022" text="Sonnenſyſtems. Jm genannten Jahre aber entdeckte der engliſche Aſtronom Wil⸗">
+      <Coords points="353,1221 353,1231 528,1237 529,1237 1253,1223 1411,1229 1413,1229 1488,1221 1589,1227 1590,1227 1766,1218 1768,1208 1766,1181 1748,1172 1747,1172 1745,1172 1587,1181 1414,1173 1413,1173 1411,1173 1409,1173 1395,1183 1284,1175 1283,1175 1281,1175 1279,1175 1266,1183 1164,1177 1163,1177 1095,1185 1062,1177 1061,1177 1059,1177 1057,1177 1026,1186 913,1178 911,1178 909,1178 908,1178 894,1186 654,1181 653,1181 607,1190 529,1181 528,1181 465,1191 366,1183 365,1183 363,1183 361,1183 352,1190 353,1221" />
+      <Word id="l_0022-w_0001" text="Sonnenſyſtems." error_score="0.001" />
+      <Word id="l_0022-w_0002" text="Jm" error_score="0.001" />
+      <Word id="l_0022-w_0003" text="genannten" error_score="0.001" />
+      <Word id="l_0022-w_0004" text="Jahre" error_score="0.000" />
+      <Word id="l_0022-w_0005" text="aber" error_score="0.000" />
+      <Word id="l_0022-w_0006" text="entdeckte" error_score="0.000" />
+      <Word id="l_0022-w_0007" text="der" error_score="0.000" />
+      <Word id="l_0022-w_0008" text="engliſche" error_score="0.000" />
+      <Word id="l_0022-w_0009" text="Aſtronom" error_score="0.000" />
+      <Word id="l_0022-w_0010" text="Wil⸗" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="liam Herſchel den Uranus und im Jahre 1846 der Franʒoſe Leverrier">
+      <Coords points="353,1264 353,1272 551,1280 552,1280 641,1270 684,1277 686,1277 1077,1267 1151,1275 1153,1275 1154,1275 1191,1265 1352,1274 1353,1274 1355,1274 1357,1274 1368,1264 1525,1272 1526,1272 1528,1272 1529,1272 1541,1264 1753,1270 1755,1270 1757,1270 1758,1270 1770,1260 1770,1252 1766,1226 1710,1216 1709,1216 1707,1216 1706,1216 1692,1226 1592,1226 1571,1216 1569,1216 1567,1216 1566,1216 1564,1216 1551,1226 1408,1218 1406,1218 1360,1227 1210,1219 1209,1219 1207,1219 1205,1219 1192,1227 1092,1221 1090,1221 1089,1221 1087,1221 1074,1229 972,1221 970,1221 968,1221 929,1231 756,1223 755,1223 753,1223 732,1232 556,1224 554,1224 552,1224 529,1234 366,1226 365,1226 363,1226 361,1226 352,1231 353,1264" />
+      <Word id="l_0023-w_0001" text="liam" error_score="0.000" />
+      <Word id="l_0023-w_0002" text="Herſchel" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="den" error_score="0.000" />
+      <Word id="l_0023-w_0004" text="Uranus" error_score="0.000" />
+      <Word id="l_0023-w_0005" text="und" error_score="0.017" />
+      <Word id="l_0023-w_0006" text="im" error_score="0.017" />
+      <Word id="l_0023-w_0007" text="Jahre" error_score="0.017" />
+      <Word id="l_0023-w_0008" text="1846" error_score="0.017" />
+      <Word id="l_0023-w_0009" text="der" error_score="0.017" />
+      <Word id="l_0023-w_0010" text="Franʒoſe" error_score="0.017" />
+      <Word id="l_0023-w_0011" text="Leverrier" error_score="0.017" />
+    </TextLine>
+    <TextLine id="l_0024" text="durch Rechnung den Ort, wo noch ein weiter von der Sonne abſtehender großer">
+      <Coords points="355,1306 355,1320 1362,1320 1362,1318 1449,1310 1566,1316 1567,1316 1643,1308 1752,1315 1753,1315 1755,1315 1757,1315 1770,1306 1770,1295 1766,1270 1592,1260 1590,1260 1475,1270 1363,1262 1362,1262 1360,1262 1332,1272 1270,1264 1268,1264 1266,1264 1265,1264 1251,1274 1159,1274 1005,1265 1003,1265 1001,1265 975,1274 964,1265 962,1265 960,1265 959,1265 957,1265 916,1277 794,1277 776,1267 774,1267 773,1267 709,1277 649,1269 648,1269 646,1269 644,1269 631,1278 353,1278 355,1306" />
+      <Word id="l_0024-w_0001" text="durch" error_score="0.017" />
+      <Word id="l_0024-w_0002" text="Rechnung" error_score="0.017" />
+      <Word id="l_0024-w_0003" text="den" error_score="0.017" />
+      <Word id="l_0024-w_0004" text="Ort," error_score="0.153" />
+      <Word id="l_0024-w_0005" text="wo" error_score="0.153" />
+      <Word id="l_0024-w_0006" text="noch" error_score="0.153" />
+      <Word id="l_0024-w_0007" text="ein" error_score="0.153" />
+      <Word id="l_0024-w_0008" text="weiter" error_score="0.153" />
+      <Word id="l_0024-w_0009" text="von" error_score="0.153" />
+      <Word id="l_0024-w_0010" text="der" error_score="0.153" />
+      <Word id="l_0024-w_0011" text="Sonne" error_score="0.153" />
+      <Word id="l_0024-w_0012" text="abſtehender" error_score="0.153" />
+      <Word id="l_0024-w_0013" text="großer" error_score="0.153" />
+    </TextLine>
+    <TextLine id="l_0025" text="Planet ſtehen müſſe. Nicht weit von dem berechneten Orte wurde der Planet wirk⸗">
+      <Coords points="355,1352 355,1364 1237,1364 1237,1362 1238,1362 1258,1354 1409,1361 1411,1361 1467,1352 1589,1359 1590,1359 1766,1349 1768,1339 1766,1313 1743,1303 1742,1303 1740,1303 1607,1311 1594,1303 1592,1303 1590,1303 1589,1303 1543,1313 1487,1305 1485,1305 1483,1305 1451,1313 1437,1305 1436,1305 1434,1305 1432,1305 1431,1305 1411,1315 1276,1306 1274,1306 1189,1316 1080,1308 1079,1308 1077,1308 1057,1318 993,1310 992,1310 903,1318 886,1310 885,1310 883,1310 822,1320 725,1311 723,1311 722,1311 720,1311 704,1321 531,1313 529,1313 477,1323 467,1315 465,1315 463,1315 462,1315 460,1315 442,1323 407,1315 406,1315 404,1315 353,1321 355,1352" />
+      <Word id="l_0025-w_0001" text="Planet" error_score="0.020" />
+      <Word id="l_0025-w_0002" text="ſtehen" error_score="0.020" />
+      <Word id="l_0025-w_0003" text="müſſe." error_score="0.020" />
+      <Word id="l_0025-w_0004" text="Nicht" error_score="0.020" />
+      <Word id="l_0025-w_0005" text="weit" error_score="0.020" />
+      <Word id="l_0025-w_0006" text="von" error_score="0.020" />
+      <Word id="l_0025-w_0007" text="dem" error_score="0.020" />
+      <Word id="l_0025-w_0008" text="berechneten" error_score="0.020" />
+      <Word id="l_0025-w_0009" text="Orte" error_score="0.020" />
+      <Word id="l_0025-w_0010" text="wurde" error_score="0.020" />
+      <Word id="l_0025-w_0011" text="der" error_score="0.003" />
+      <Word id="l_0025-w_0012" text="Planet" error_score="0.003" />
+      <Word id="l_0025-w_0013" text="wirk⸗" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0026" text="lich gefunden. Man gab ihm den Namen Neptun. Um den Raum, der ʒwiſchen">
+      <Coords points="355,1394 355,1407 1766,1395 1768,1382 1765,1357 1681,1347 1679,1347 1678,1347 1676,1347 1663,1356 1567,1349 1566,1349 1564,1349 1562,1349 1553,1359 1474,1359 1439,1349 1437,1349 1436,1349 1380,1357 1367,1349 1365,1349 1363,1349 1362,1349 1360,1349 1358,1349 1345,1359 1168,1351 1166,1351 1164,1351 1163,1351 1149,1361 1077,1352 1075,1352 1074,1352 1072,1352 1061,1362 988,1362 962,1352 960,1352 959,1352 957,1352 926,1362 758,1354 756,1354 755,1354 725,1364 607,1356 605,1356 541,1366 529,1357 528,1357 526,1357 524,1357 421,1366 366,1357 365,1357 363,1357 361,1357 353,1362 355,1394" />
+      <Word id="l_0026-w_0001" text="lich" error_score="0.003" />
+      <Word id="l_0026-w_0002" text="gefunden." error_score="0.003" />
+      <Word id="l_0026-w_0003" text="Man" error_score="0.003" />
+      <Word id="l_0026-w_0004" text="gab" error_score="0.003" />
+      <Word id="l_0026-w_0005" text="ihm" error_score="0.003" />
+      <Word id="l_0026-w_0006" text="den" error_score="0.003" />
+      <Word id="l_0026-w_0007" text="Namen" error_score="0.003" />
+      <Word id="l_0026-w_0008" text="Neptun." error_score="0.003" />
+      <Word id="l_0026-w_0009" text="Um" error_score="0.002" />
+      <Word id="l_0026-w_0010" text="den" error_score="0.002" />
+      <Word id="l_0026-w_0011" text="Raum," error_score="0.002" />
+      <Word id="l_0026-w_0012" text="der" error_score="0.002" />
+      <Word id="l_0026-w_0013" text="ʒwiſchen" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0027" text="der Sonne und dem Neptun liegt, ʒu durcheilen, braucht das Licht 4 Stunden">
+      <Coords points="353,1440 353,1449 1766,1440 1768,1426 1765,1400 1631,1392 1630,1392 1628,1392 1610,1400 1597,1392 1595,1392 1594,1392 1592,1392 1590,1392 1589,1392 1576,1402 1492,1394 1490,1394 1388,1403 1260,1395 1258,1395 1256,1395 1233,1405 1059,1397 1057,1397 1056,1397 1054,1397 1039,1407 901,1398 899,1398 898,1398 878,1408 825,1400 750,1400 748,1400 746,1400 745,1400 733,1408 352,1408 353,1440" />
+      <Word id="l_0027-w_0001" text="der" error_score="0.002" />
+      <Word id="l_0027-w_0002" text="Sonne" error_score="0.002" />
+      <Word id="l_0027-w_0003" text="und" error_score="0.002" />
+      <Word id="l_0027-w_0004" text="dem" error_score="0.002" />
+      <Word id="l_0027-w_0005" text="Neptun" error_score="0.002" />
+      <Word id="l_0027-w_0006" text="liegt," error_score="0.040" />
+      <Word id="l_0027-w_0007" text="ʒu" error_score="0.040" />
+      <Word id="l_0027-w_0008" text="durcheilen," error_score="0.040" />
+      <Word id="l_0027-w_0009" text="braucht" error_score="0.040" />
+      <Word id="l_0027-w_0010" text="das" error_score="0.040" />
+      <Word id="l_0027-w_0011" text="Licht" error_score="0.040" />
+      <Word id="l_0027-w_0012" text="4" error_score="0.040" />
+      <Word id="l_0027-w_0013" text="Stunden" error_score="0.040" />
+    </TextLine>
+    <TextLine id="l_0028" text="ꝰ Minuten.">
+      <Coords points="355,1477 353,1489 554,1494 557,1482 556,1456 422,1443 421,1443 355,1449 355,1477" />
+      <Word id="l_0028-w_0001" text="ꝰ" error_score="0.040" />
+      <Word id="l_0028-w_0002" text="Minuten." error_score="0.040" />
+    </TextLine>
+    <TextLine id="l_0029" text="6. Der Erdenmond. Die dem bloßen Auge ſich ʒeigenden ſchwächer">
+      <Coords points="455,1525 455,1535 529,1535 544,1543 546,1543 547,1543 549,1543 620,1533 720,1540 722,1540 1097,1530 1169,1538 1171,1538 1217,1528 1307,1537 1309,1537 1311,1537 1335,1527 1347,1537 1349,1537 1350,1537 1352,1537 1414,1528 1437,1537 1439,1537 1441,1537 1580,1535 1582,1535 1584,1535 1595,1525 1613,1533 1615,1533 1617,1535 1740,1535 1740,1533 1742,1533 1770,1523 1770,1512 1768,1489 1725,1477 1724,1477 1625,1477 1623,1477 1622,1477 1620,1477 1602,1489 1469,1481 1467,1481 1465,1481 1437,1491 1393,1481 1391,1481 1339,1491 1243,1482 1242,1482 1240,1482 1238,1482 1225,1492 1112,1482 1110,1482 1108,1482 1107,1482 1089,1494 1023,1484 1021,1484 1019,1484 992,1494 952,1484 950,1484 949,1484 947,1484 904,1495 845,1486 843,1486 756,1497 630,1487 628,1487 626,1487 625,1487 625,1489 611,1499 534,1489 533,1489 531,1489 498,1499 473,1489 472,1489 470,1489 468,1489 467,1489 454,1497 455,1525" />
+      <Word id="l_0029-w_0001" text="6." error_score="0.056" />
+      <Word id="l_0029-w_0002" text="Der" error_score="0.056" />
+      <Word id="l_0029-w_0003" text="Erdenmond." error_score="0.056" />
+      <Word id="l_0029-w_0004" text="Die" error_score="0.056" />
+      <Word id="l_0029-w_0005" text="dem" error_score="0.056" />
+      <Word id="l_0029-w_0006" text="bloßen" error_score="0.056" />
+      <Word id="l_0029-w_0007" text="Auge" error_score="0.056" />
+      <Word id="l_0029-w_0008" text="ſich" error_score="0.056" />
+      <Word id="l_0029-w_0009" text="ʒeigenden" error_score="0.056" />
+      <Word id="l_0029-w_0010" text="ſchwächer" error_score="0.056" />
+    </TextLine>
+    <TextLine id="l_0030" text="leuchtenden Teile der Mondſcheibe (die Flecken) erſcheinen im Fernrohre als Ebenen,">
+      <Coords points="353,1571 353,1583 1768,1573 1770,1560 1766,1532 1666,1522 1664,1522 1562,1532 1403,1523 1401,1523 1400,1523 1360,1533 1196,1525 1194,1525 1192,1525 1161,1535 1133,1527 1131,1527 1130,1527 1128,1527 1110,1535 1023,1527 1021,1527 1019,1527 998,1535 960,1527 959,1527 957,1527 955,1527 939,1537 756,1528 755,1528 753,1528 717,1538 564,1530 562,1530 560,1530 559,1530 546,1540 419,1532 417,1532 416,1532 388,1540 368,1532 366,1532 365,1532 363,1532 361,1532 352,1538 353,1571" />
+      <Word id="l_0030-w_0001" text="leuchtenden" error_score="0.008" />
+      <Word id="l_0030-w_0002" text="Teile" error_score="0.008" />
+      <Word id="l_0030-w_0003" text="der" error_score="0.008" />
+      <Word id="l_0030-w_0004" text="Mondſcheibe" error_score="0.008" />
+      <Word id="l_0030-w_0005" text="(die" error_score="0.008" />
+      <Word id="l_0030-w_0006" text="Flecken)" error_score="0.008" />
+      <Word id="l_0030-w_0007" text="erſcheinen" error_score="0.008" />
+      <Word id="l_0030-w_0008" text="im" error_score="0.008" />
+      <Word id="l_0030-w_0009" text="Fernrohre" error_score="0.008" />
+      <Word id="l_0030-w_0010" text="als" error_score="0.008" />
+      <Word id="l_0030-w_0011" text="Ebenen," error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0031" text="die heller leuchtenden als Gebirge. Letʒtere gleichen in ſeltenen Fällen den Gebirgs⸗">
+      <Coords points="355,1612 355,1624 605,1630 607,1630 829,1620 911,1629 913,1629 982,1619 1138,1627 1140,1627 1242,1617 1301,1625 1302,1625 1543,1615 1562,1622 1564,1622 1566,1622 1615,1614 1737,1622 1738,1622 1740,1622 1770,1612 1770,1601 1766,1576 1630,1566 1628,1566 1544,1576 1444,1568 1442,1568 1441,1568 1439,1568 1426,1576 1309,1569 1307,1569 1306,1569 1279,1578 1268,1569 1266,1569 1265,1569 1263,1569 1215,1578 1166,1569 1164,1569 1163,1569 1120,1579 985,1571 983,1571 982,1571 957,1581 806,1573 804,1573 802,1573 801,1573 788,1581 760,1573 758,1573 756,1573 755,1573 733,1583 590,1574 588,1574 521,1584 365,1576 363,1576 361,1576 360,1576 353,1581 355,1612" />
+      <Word id="l_0031-w_0001" text="die" error_score="0.002" />
+      <Word id="l_0031-w_0002" text="heller" error_score="0.002" />
+      <Word id="l_0031-w_0003" text="leuchtenden" error_score="0.002" />
+      <Word id="l_0031-w_0004" text="als" error_score="0.002" />
+      <Word id="l_0031-w_0005" text="Gebirge." error_score="0.002" />
+      <Word id="l_0031-w_0006" text="Letʒtere" error_score="0.002" />
+      <Word id="l_0031-w_0007" text="gleichen" error_score="0.002" />
+      <Word id="l_0031-w_0008" text="in" error_score="0.002" />
+      <Word id="l_0031-w_0009" text="ſeltenen" error_score="0.002" />
+      <Word id="l_0031-w_0010" text="Fällen" error_score="0.003" />
+      <Word id="l_0031-w_0011" text="den" error_score="0.003" />
+      <Word id="l_0031-w_0012" text="Gebirgs⸗" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0032" text="ketten der Erde; ſie ſind meiſt Maſſengebirge mit tiefeingeſchnittenen Quertälern,">
+      <Coords points="355,1658 355,1668 1768,1660 1770,1647 1766,1620 1580,1611 1579,1611 1577,1611 1576,1611 1561,1620 1383,1612 1381,1612 1380,1612 1360,1622 1200,1614 1199,1614 1197,1614 1158,1624 972,1615 970,1615 899,1625 763,1617 761,1617 709,1627 687,1619 686,1619 684,1619 618,1627 556,1619 554,1619 552,1619 526,1629 365,1620 363,1620 361,1620 360,1620 353,1625 355,1658" />
+      <Word id="l_0032-w_0001" text="ketten" error_score="0.003" />
+      <Word id="l_0032-w_0002" text="der" error_score="0.003" />
+      <Word id="l_0032-w_0003" text="Erde;" error_score="0.003" />
+      <Word id="l_0032-w_0004" text="ſie" error_score="0.003" />
+      <Word id="l_0032-w_0005" text="ſind" error_score="0.003" />
+      <Word id="l_0032-w_0006" text="meiſt" error_score="0.003" />
+      <Word id="l_0032-w_0007" text="Maſſengebirge" error_score="0.003" />
+      <Word id="l_0032-w_0008" text="mit" error_score="0.003" />
+      <Word id="l_0032-w_0009" text="tiefeingeſchnittenen" error_score="0.062" />
+      <Word id="l_0032-w_0010" text="Quertälern," error_score="0.062" />
+    </TextLine>
+    <TextLine id="l_0033" text="Hochländer mit ausgeʒackten Randgebirgen. Jn den Ebenen ſtehen einʒelnſtehende">
+      <Coords points="356,1701 356,1712 1770,1701 1771,1689 1768,1663 778,1661 776,1661 774,1661 751,1670 595,1663 593,1663 552,1671 368,1665 366,1665 365,1665 363,1665 355,1670 356,1701" />
+      <Word id="l_0033-w_0001" text="Hochländer" error_score="0.062" />
+      <Word id="l_0033-w_0002" text="mit" error_score="0.062" />
+      <Word id="l_0033-w_0003" text="ausgeʒackten" error_score="0.062" />
+      <Word id="l_0033-w_0004" text="Randgebirgen." error_score="0.062" />
+      <Word id="l_0033-w_0005" text="Jn" error_score="0.062" />
+      <Word id="l_0033-w_0006" text="den" error_score="0.062" />
+      <Word id="l_0033-w_0007" text="Ebenen" error_score="0.062" />
+      <Word id="l_0033-w_0008" text="ſtehen" error_score="0.062" />
+      <Word id="l_0033-w_0009" text="einʒelnſtehende" error_score="0.029" />
+    </TextLine>
+    <TextLine id="l_0034" text="Berge, Bergkränʒe, die eine kleinere Ebene wallartig umgeben und in denen häufig">
+      <Coords points="358,1744 358,1755 1770,1752 1771,1734 1770,1709 1745,1699 1743,1699 1742,1699 1608,1708 1559,1699 1557,1699 1556,1699 1533,1709 1513,1701 1511,1701 1510,1701 1400,1709 1347,1701 1345,1701 1284,1711 1154,1703 1153,1703 1092,1711 985,1704 983,1704 982,1704 980,1704 967,1712 845,1704 843,1704 842,1704 840,1704 824,1714 600,1706 598,1706 552,1716 491,1708 490,1708 488,1708 486,1708 475,1717 407,1717 368,1708 366,1708 365,1708 363,1708 356,1712 358,1744" />
+      <Word id="l_0034-w_0001" text="Berge," error_score="0.029" />
+      <Word id="l_0034-w_0002" text="Bergkränʒe," error_score="0.029" />
+      <Word id="l_0034-w_0003" text="die" error_score="0.029" />
+      <Word id="l_0034-w_0004" text="eine" error_score="0.029" />
+      <Word id="l_0034-w_0005" text="kleinere" error_score="0.029" />
+      <Word id="l_0034-w_0006" text="Ebene" error_score="0.029" />
+      <Word id="l_0034-w_0007" text="wallartig" error_score="0.029" />
+      <Word id="l_0034-w_0008" text="umgeben" error_score="0.029" />
+      <Word id="l_0034-w_0009" text="und" error_score="0.029" />
+      <Word id="l_0034-w_0010" text="in" error_score="0.002" />
+      <Word id="l_0034-w_0011" text="denen" error_score="0.002" />
+      <Word id="l_0034-w_0012" text="häufig" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0035" text="ein kegelförmiger Ʒentralberg aufragt (Ringgebirge). Bei der Durchforſchung der">
+      <Coords points="356,1788 356,1800 511,1808 513,1808 636,1798 664,1806 666,1806 667,1806 794,1798 842,1804 843,1804 845,1804 871,1796 960,1804 962,1804 964,1804 995,1795 1135,1803 1136,1803 1253,1793 1564,1800 1566,1800 1770,1788 1771,1777 1768,1752 1599,1742 1597,1742 1595,1742 1579,1750 1460,1744 1459,1744 1398,1752 1385,1744 1383,1744 1381,1744 1380,1744 1378,1744 1376,1744 1362,1754 1345,1745 1344,1745 1342,1745 1245,1754 1225,1745 1223,1745 1222,1745 1220,1745 1196,1754 1169,1745 1168,1745 1166,1745 1164,1745 1133,1755 1026,1747 1024,1747 1023,1747 1000,1755 990,1747 988,1747 987,1747 985,1747 983,1747 959,1757 766,1749 764,1749 763,1749 761,1749 750,1757 579,1750 577,1750 411,1760 381,1752 380,1752 378,1752 376,1752 355,1760 356,1788" />
+      <Word id="l_0035-w_0001" text="ein" error_score="0.002" />
+      <Word id="l_0035-w_0002" text="kegelförmiger" error_score="0.002" />
+      <Word id="l_0035-w_0003" text="Ʒentralberg" error_score="0.002" />
+      <Word id="l_0035-w_0004" text="aufragt" error_score="0.002" />
+      <Word id="l_0035-w_0005" text="(Ringgebirge)." error_score="0.002" />
+      <Word id="l_0035-w_0006" text="Bei" error_score="0.002" />
+      <Word id="l_0035-w_0007" text="der" error_score="0.002" />
+      <Word id="l_0035-w_0008" text="Durchforſchung" error_score="0.001" />
+      <Word id="l_0035-w_0009" text="der" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0036" text="Mondoberfläche deutet keine Erſcheinung darauf hin, daß der Mond eine Atmo⸗">
+      <Coords points="358,1832 358,1846 1240,1846 1240,1844 1299,1836 1406,1842 1408,1842 1452,1834 1592,1841 1594,1841 1770,1831 1771,1819 1768,1795 1669,1785 1668,1785 1589,1795 1472,1786 1470,1786 1386,1796 1248,1788 1247,1788 1245,1788 1215,1798 1189,1790 1187,1790 1186,1790 1112,1798 1094,1790 1092,1790 1090,1790 1089,1790 1061,1800 888,1791 886,1791 885,1791 860,1801 768,1793 766,1793 764,1793 746,1801 730,1793 728,1793 727,1793 684,1801 534,1795 533,1795 531,1795 511,1804 356,1804 358,1832" />
+      <Word id="l_0036-w_0001" text="Mondoberfläche" error_score="0.001" />
+      <Word id="l_0036-w_0002" text="deutet" error_score="0.001" />
+      <Word id="l_0036-w_0003" text="keine" error_score="0.001" />
+      <Word id="l_0036-w_0004" text="Erſcheinung" error_score="0.001" />
+      <Word id="l_0036-w_0005" text="darauf" error_score="0.001" />
+      <Word id="l_0036-w_0006" text="hin," error_score="0.001" />
+      <Word id="l_0036-w_0007" text="daß" error_score="0.001" />
+      <Word id="l_0036-w_0008" text="der" error_score="0.001" />
+      <Word id="l_0036-w_0009" text="Mond" error_score="0.005" />
+      <Word id="l_0036-w_0010" text="eine" error_score="0.005" />
+      <Word id="l_0036-w_0011" text="Atmo⸗" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0037" text="ſphäre oder Waſſer hätte; mithin iſt ein Pflanʒen⸗ und Tierleben, wie es die Erde">
+      <Coords points="358,1875 358,1890 1771,1875 1773,1862 1770,1837 1636,1828 1635,1828 1633,1828 1631,1828 1618,1836 1536,1829 1534,1829 1533,1829 1531,1829 1520,1839 1444,1839 1432,1829 1431,1829 1429,1829 1427,1829 1426,1829 1385,1839 1327,1831 1325,1831 1238,1841 1067,1832 1066,1832 1064,1832 1062,1832 1051,1842 888,1834 886,1834 832,1844 712,1836 710,1836 709,1836 689,1846 575,1837 574,1837 572,1837 533,1847 511,1839 509,1839 508,1839 445,1847 368,1839 366,1839 365,1839 363,1839 356,1844 358,1875" />
+      <Word id="l_0037-w_0001" text="ſphäre" error_score="0.005" />
+      <Word id="l_0037-w_0002" text="oder" error_score="0.005" />
+      <Word id="l_0037-w_0003" text="Waſſer" error_score="0.005" />
+      <Word id="l_0037-w_0004" text="hätte;" error_score="0.005" />
+      <Word id="l_0037-w_0005" text="mithin" error_score="0.005" />
+      <Word id="l_0037-w_0006" text="iſt" error_score="0.005" />
+      <Word id="l_0037-w_0007" text="ein" error_score="0.005" />
+      <Word id="l_0037-w_0008" text="Pflanʒen⸗" error_score="0.005" />
+      <Word id="l_0037-w_0009" text="und" error_score="0.004" />
+      <Word id="l_0037-w_0010" text="Tierleben," error_score="0.004" />
+      <Word id="l_0037-w_0011" text="wie" error_score="0.004" />
+      <Word id="l_0037-w_0012" text="es" error_score="0.004" />
+      <Word id="l_0037-w_0013" text="die" error_score="0.004" />
+      <Word id="l_0037-w_0014" text="Erde" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0038" text="beſitʒt, auf dem Monde ausgeſchloſſen.">
+      <Coords points="358,1920 358,1929 457,1939 458,1939 460,1939 462,1939 462,1938 470,1931 529,1938 531,1938 533,1938 534,1938 534,1936 542,1929 644,1936 646,1936 769,1928 837,1936 839,1936 1001,1926 1001,1913 998,1888 863,1878 862,1878 860,1878 834,1890 738,1890 720,1880 718,1880 717,1880 715,1880 697,1888 679,1880 677,1880 676,1880 674,1880 631,1890 524,1882 523,1882 521,1882 519,1882 519,1883 509,1892 375,1883 373,1883 371,1883 370,1883 356,1890 358,1920" />
+      <Word id="l_0038-w_0001" text="beſitʒt," error_score="0.004" />
+      <Word id="l_0038-w_0002" text="auf" error_score="0.004" />
+      <Word id="l_0038-w_0003" text="dem" error_score="0.004" />
+      <Word id="l_0038-w_0004" text="Monde" error_score="0.004" />
+      <Word id="l_0038-w_0005" text="ausgeſchloſſen." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0039" text="7. Die Kometen ſind Himmelskörper von eigentümlicher Geſtalt, die ſich">
+      <Coords points="467,1962 467,1980 1773,1967 1775,1952 1773,1924 1761,1916 1760,1916 1758,1916 1757,1916 1615,1924 1556,1916 1554,1916 1492,1926 1401,1918 1400,1918 1398,1918 1375,1926 1357,1918 1355,1918 1353,1918 1352,1918 1330,1928 1279,1920 1278,1920 1276,1920 1258,1929 1110,1929 904,1921 903,1921 901,1921 899,1921 888,1931 817,1923 815,1923 743,1931 732,1923 730,1923 728,1923 727,1923 681,1933 534,1924 533,1924 531,1924 500,1933 477,1924 475,1924 473,1924 472,1924 470,1924 470,1926 465,1929 467,1962" />
+      <Word id="l_0039-w_0001" text="7." error_score="0.000" />
+      <Word id="l_0039-w_0002" text="Die" error_score="0.000" />
+      <Word id="l_0039-w_0003" text="Kometen" error_score="0.000" />
+      <Word id="l_0039-w_0004" text="ſind" error_score="0.000" />
+      <Word id="l_0039-w_0005" text="Himmelskörper" error_score="0.000" />
+      <Word id="l_0039-w_0006" text="von" error_score="0.000" />
+      <Word id="l_0039-w_0007" text="eigentümlicher" error_score="0.000" />
+      <Word id="l_0039-w_0008" text="Geſtalt," error_score="0.000" />
+      <Word id="l_0039-w_0009" text="die" error_score="0.000" />
+      <Word id="l_0039-w_0010" text="ſich" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0040" text="im Himmelsraume bewegen und meiſt unſerem Sonnenſyſtem nicht angehören. Nä⸗">
+      <Coords points="360,2007 360,2020 1770,2008 1771,1995 1768,1971 1574,1962 1572,1962 1571,1962 1569,1962 1559,1971 1171,1966 1169,1966 1168,1966 1166,1966 1156,1974 964,1967 962,1967 960,1967 959,1967 949,1975 559,1971 557,1971 556,1971 528,1980 358,1980 360,2007" />
+      <Word id="l_0040-w_0001" text="im" error_score="0.001" />
+      <Word id="l_0040-w_0002" text="Himmelsraume" error_score="0.001" />
+      <Word id="l_0040-w_0003" text="bewegen" error_score="0.001" />
+      <Word id="l_0040-w_0004" text="und" error_score="0.001" />
+      <Word id="l_0040-w_0005" text="meiſt" error_score="0.001" />
+      <Word id="l_0040-w_0006" text="unſerem" error_score="0.001" />
+      <Word id="l_0040-w_0007" text="Sonnenſyſtem" error_score="0.001" />
+      <Word id="l_0040-w_0008" text="nicht" error_score="0.001" />
+      <Word id="l_0040-w_0009" text="angehören." error_score="0.001" />
+      <Word id="l_0040-w_0010" text="Nä⸗" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0041" text="hern ſie ſich auf ihrem Wege der Sonne oder einem der großen Planeten, dann">
+      <Coords points="358,2051 358,2061 557,2069 559,2069 560,2069 562,2069 577,2061 1566,2061 1567,2061 1773,2049 1773,2040 1770,2015 1620,2007 1618,2007 1505,2015 975,2012 973,2012 972,2012 970,2012 959,2020 783,2013 781,2013 779,2013 758,2021 559,2015 557,2015 356,2023 358,2051" />
+      <Word id="l_0041-w_0001" text="hern" error_score="0.003" />
+      <Word id="l_0041-w_0002" text="ſie" error_score="0.003" />
+      <Word id="l_0041-w_0003" text="ſich" error_score="0.003" />
+      <Word id="l_0041-w_0004" text="auf" error_score="0.003" />
+      <Word id="l_0041-w_0005" text="ihrem" error_score="0.003" />
+      <Word id="l_0041-w_0006" text="Wege" error_score="0.003" />
+      <Word id="l_0041-w_0007" text="der" error_score="0.003" />
+      <Word id="l_0041-w_0008" text="Sonne" error_score="0.003" />
+      <Word id="l_0041-w_0009" text="oder" error_score="0.003" />
+      <Word id="l_0041-w_0010" text="einem" error_score="0.003" />
+      <Word id="l_0041-w_0011" text="der" error_score="0.001" />
+      <Word id="l_0041-w_0012" text="großen" error_score="0.001" />
+      <Word id="l_0041-w_0013" text="Planeten," error_score="0.001" />
+      <Word id="l_0041-w_0014" text="dann" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0042" text="kann ihre Bahn ſo umgeſtaltet werden, daß ſie den Himmelsraum, den unſer">
+      <Coords points="361,2095 361,2107 1569,2107 1569,2105 1571,2105 1572,2105 1584,2095 1676,2095 1689,2104 1691,2104 1692,2104 1694,2104 1773,2094 1775,2084 1771,2059 1602,2049 1600,2049 1599,2049 1567,2059 1452,2051 1451,2051 1388,2059 1372,2051 1370,2051 1368,2051 1322,2061 1191,2053 1189,2053 1125,2063 1112,2054 1110,2054 1108,2054 1107,2054 1059,2063 1006,2054 1005,2054 944,2064 827,2056 825,2056 743,2066 695,2058 694,2058 692,2058 671,2066 628,2058 562,2058 560,2058 559,2058 557,2058 546,2068 500,2059 498,2059 360,2064 361,2095" />
+      <Word id="l_0042-w_0001" text="kann" error_score="0.001" />
+      <Word id="l_0042-w_0002" text="ihre" error_score="0.001" />
+      <Word id="l_0042-w_0003" text="Bahn" error_score="0.001" />
+      <Word id="l_0042-w_0004" text="ſo" error_score="0.001" />
+      <Word id="l_0042-w_0005" text="umgeſtaltet" error_score="0.001" />
+      <Word id="l_0042-w_0006" text="werden," error_score="0.001" />
+      <Word id="l_0042-w_0007" text="daß" error_score="0.000" />
+      <Word id="l_0042-w_0008" text="ſie" error_score="0.000" />
+      <Word id="l_0042-w_0009" text="den" error_score="0.000" />
+      <Word id="l_0042-w_0010" text="Himmelsraum," error_score="0.000" />
+      <Word id="l_0042-w_0011" text="den" error_score="0.000" />
+      <Word id="l_0042-w_0012" text="unſer" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0043" text="Sonnenſyſtem einnimmt, nicht verlaſſen können. Jhre Umlaufsʒeiten erſtrecken ſich">
+      <Coords points="363,2138 363,2150 1773,2141 1775,2128 1771,2100 1590,2094 1589,2094 1534,2104 1485,2095 1483,2095 1482,2095 1462,2104 1427,2095 1426,2095 1424,2095 1423,2095 1400,2104 1317,2095 1316,2095 1314,2095 1312,2095 1298,2105 1227,2097 1225,2097 1223,2097 1222,2097 1209,2107 1108,2107 1069,2097 1067,2097 1066,2097 1046,2107 944,2099 942,2099 876,2107 835,2099 834,2099 718,2109 628,2100 626,2100 625,2100 593,2110 373,2102 371,2102 370,2102 368,2102 361,2107 363,2138" />
+      <Word id="l_0043-w_0001" text="Sonnenſyſtem" error_score="0.000" />
+      <Word id="l_0043-w_0002" text="einnimmt," error_score="0.000" />
+      <Word id="l_0043-w_0003" text="nicht" error_score="0.000" />
+      <Word id="l_0043-w_0004" text="verlaſſen" error_score="0.000" />
+      <Word id="l_0043-w_0005" text="können." error_score="0.003" />
+      <Word id="l_0043-w_0006" text="Jhre" error_score="0.003" />
+      <Word id="l_0043-w_0007" text="Umlaufsʒeiten" error_score="0.003" />
+      <Word id="l_0043-w_0008" text="erſtrecken" error_score="0.003" />
+      <Word id="l_0043-w_0009" text="ſich" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0044" text="häufig auf Jahrhunderte. Die Anʒahl der Kometen iſt eine große: aber die meiſten">
+      <Coords points="361,2183 361,2196 1773,2184 1775,2171 1771,2146 1594,2137 1592,2137 1590,2137 1567,2146 1442,2138 1441,2138 1365,2148 1191,2140 1189,2140 1187,2140 1166,2150 980,2141 978,2141 977,2141 955,2151 809,2143 807,2143 806,2143 804,2143 791,2151 564,2145 562,2145 560,2145 559,2145 549,2155 360,2155 361,2183" />
+      <Word id="l_0044-w_0001" text="häufig" error_score="0.003" />
+      <Word id="l_0044-w_0002" text="auf" error_score="0.003" />
+      <Word id="l_0044-w_0003" text="Jahrhunderte." error_score="0.003" />
+      <Word id="l_0044-w_0004" text="Die" error_score="0.003" />
+      <Word id="l_0044-w_0005" text="Anʒahl" error_score="0.003" />
+      <Word id="l_0044-w_0006" text="der" error_score="0.004" />
+      <Word id="l_0044-w_0007" text="Kometen" error_score="0.004" />
+      <Word id="l_0044-w_0008" text="iſt" error_score="0.004" />
+      <Word id="l_0044-w_0009" text="eine" error_score="0.004" />
+      <Word id="l_0044-w_0010" text="große:" error_score="0.004" />
+      <Word id="l_0044-w_0011" text="aber" error_score="0.004" />
+      <Word id="l_0044-w_0012" text="die" error_score="0.004" />
+      <Word id="l_0044-w_0013" text="meiſten" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0045" text="ſind klein und lichtſchwach. Große, mit freiem Auge ſichtbare Kometen ſind da⸗">
+      <Coords points="361,2227 361,2242 797,2243 799,2243 801,2243 834,2234 957,2242 959,2242 960,2242 990,2232 1092,2240 1094,2240 1179,2230 1274,2238 1276,2238 1278,2238 1302,2229 1314,2237 1316,2237 1317,2237 1319,2238 1439,2238 1439,2237 1441,2237 1460,2227 1478,2235 1480,2235 1482,2237 1607,2237 1607,2235 1608,2235 1610,2235 1620,2227 1630,2234 1631,2234 1633,2234 1635,2234 1701,2225 1750,2234 1752,2234 1753,2234 1775,2224 1775,2212 1771,2189 1682,2179 1681,2179 1679,2179 1678,2179 1666,2188 1646,2178 1645,2178 1643,2178 1641,2178 1613,2191 1518,2191 1492,2179 1490,2179 1488,2179 1487,2179 1455,2191 1324,2181 1322,2181 1321,2181 1299,2192 1212,2183 1210,2183 1209,2183 1207,2183 1192,2192 1084,2184 1082,2184 1080,2184 1057,2194 1029,2184 1028,2184 1026,2184 1024,2184 983,2196 860,2186 858,2186 857,2186 829,2197 794,2188 792,2188 791,2188 789,2188 756,2197 723,2188 722,2188 720,2188 626,2189 625,2189 623,2189 611,2199 598,2189 597,2189 595,2189 593,2189 541,2199 498,2191 496,2191 360,2196 361,2227" />
+      <Word id="l_0045-w_0001" text="ſind" error_score="0.004" />
+      <Word id="l_0045-w_0002" text="klein" error_score="0.004" />
+      <Word id="l_0045-w_0003" text="und" error_score="0.001" />
+      <Word id="l_0045-w_0004" text="lichtſchwach." error_score="0.001" />
+      <Word id="l_0045-w_0005" text="Große," error_score="0.001" />
+      <Word id="l_0045-w_0006" text="mit" error_score="0.001" />
+      <Word id="l_0045-w_0007" text="freiem" error_score="0.001" />
+      <Word id="l_0045-w_0008" text="Auge" error_score="0.001" />
+      <Word id="l_0045-w_0009" text="ſichtbare" error_score="0.001" />
+      <Word id="l_0045-w_0010" text="Kometen" error_score="0.001" />
+      <Word id="l_0045-w_0011" text="ſind" error_score="0.001" />
+      <Word id="l_0045-w_0012" text="da⸗" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0046" text="gegen ſelten, bieten aber dann wegen der von einem Lichtkern ausgehenden Verlän⸗">
+      <Coords points="361,2271 361,2286 1773,2271 1775,2260 1771,2235 1572,2225 1571,2225 1569,2225 1567,2225 1551,2235 1533,2227 1531,2227 1529,2227 1528,2227 1502,2235 1274,2229 1273,2229 1271,2229 1270,2229 1258,2237 1171,2229 1169,2229 1168,2229 1166,2229 1154,2238 794,2232 792,2232 791,2232 789,2232 778,2240 595,2234 593,2234 592,2234 557,2243 477,2235 475,2235 473,2235 472,2235 458,2245 360,2245 361,2271" />
+      <Word id="l_0046-w_0001" text="gegen" error_score="0.001" />
+      <Word id="l_0046-w_0002" text="ſelten," error_score="0.001" />
+      <Word id="l_0046-w_0003" text="bieten" error_score="0.001" />
+      <Word id="l_0046-w_0004" text="aber" error_score="0.001" />
+      <Word id="l_0046-w_0005" text="dann" error_score="0.001" />
+      <Word id="l_0046-w_0006" text="wegen" error_score="0.001" />
+      <Word id="l_0046-w_0007" text="der" error_score="0.001" />
+      <Word id="l_0046-w_0008" text="von" error_score="0.001" />
+      <Word id="l_0046-w_0009" text="einem" error_score="0.001" />
+      <Word id="l_0046-w_0010" text="Lichtkern" error_score="0.001" />
+      <Word id="l_0046-w_0011" text="ausgehenden" error_score="0.001" />
+      <Word id="l_0046-w_0012" text="Verlän⸗" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0047" text="gerung ihrer leuchtenden Maſſe, des Kometenſchweifes, einen prachtvollen Anblick.">
+      <Coords points="360,2312 360,2329 1724,2317 1725,2303 1722,2276 1600,2268 1599,2268 1553,2276 1539,2268 1538,2268 1536,2268 1534,2268 1490,2278 1457,2270 1455,2270 1454,2270 1452,2270 1451,2270 1437,2280 1324,2280 1306,2270 1304,2270 1302,2270 1301,2270 1299,2270 1286,2278 1205,2271 1204,2271 1202,2271 1174,2280 1080,2271 1079,2271 1077,2271 1057,2280 992,2273 990,2273 937,2281 916,2273 914,2273 913,2273 911,2273 883,2281 814,2273 812,2273 811,2273 776,2283 651,2275 649,2275 648,2275 620,2283 602,2275 600,2275 598,2275 597,2275 595,2275 580,2285 501,2276 500,2276 498,2276 496,2276 485,2286 358,2286 360,2312" />
+      <Word id="l_0047-w_0001" text="gerung" error_score="0.001" />
+      <Word id="l_0047-w_0002" text="ihrer" error_score="0.001" />
+      <Word id="l_0047-w_0003" text="leuchtenden" error_score="0.001" />
+      <Word id="l_0047-w_0004" text="Maſſe," error_score="0.001" />
+      <Word id="l_0047-w_0005" text="des" error_score="0.001" />
+      <Word id="l_0047-w_0006" text="Kometenſchweifes," error_score="0.001" />
+      <Word id="l_0047-w_0007" text="einen" error_score="0.001" />
+      <Word id="l_0047-w_0008" text="prachtvollen" error_score="0.001" />
+      <Word id="l_0047-w_0009" text="Anblick." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0048" text="8. Die Sternſchnuppen oder Meteore ſind kleine Körper, die ſich im">
+      <Coords points="467,2358 467,2370 1773,2360 1775,2345 1771,2321 1664,2311 1663,2311 1661,2311 1633,2319 1620,2311 1618,2311 1617,2311 1615,2311 1613,2311 1582,2321 1465,2312 1464,2312 1462,2312 1460,2312 1444,2322 1284,2314 1283,2314 1281,2314 1253,2326 1153,2326 1141,2316 1140,2316 1138,2316 1136,2316 1135,2316 1133,2316 1121,2324 978,2317 977,2317 975,2317 954,2327 737,2321 735,2321 664,2329 631,2321 630,2321 628,2321 626,2321 595,2331 477,2322 475,2322 473,2322 472,2322 472,2324 465,2329 467,2358" />
+      <Word id="l_0048-w_0001" text="8." error_score="0.001" />
+      <Word id="l_0048-w_0002" text="Die" error_score="0.001" />
+      <Word id="l_0048-w_0003" text="Sternſchnuppen" error_score="0.001" />
+      <Word id="l_0048-w_0004" text="oder" error_score="0.001" />
+      <Word id="l_0048-w_0005" text="Meteore" error_score="0.001" />
+      <Word id="l_0048-w_0006" text="ſind" error_score="0.001" />
+      <Word id="l_0048-w_0007" text="kleine" error_score="0.001" />
+      <Word id="l_0048-w_0008" text="Körper," error_score="0.001" />
+      <Word id="l_0048-w_0009" text="die" error_score="0.001" />
+      <Word id="l_0048-w_0010" text="ſich" error_score="0.001" />
+      <Word id="l_0048-w_0011" text="im" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0049" text="Himmelsraume bewegen. Treten ſie in die Atmoſphäre der Erde ein, ſo werden">
+      <Coords points="365,2401 365,2413 1778,2403 1780,2391 1776,2367 1719,2357 1717,2357 1631,2365 1608,2357 1607,2357 1605,2357 1521,2367 1355,2358 1353,2358 1352,2358 1350,2358 1337,2367 1225,2360 1223,2360 1222,2360 1220,2360 1207,2368 1074,2360 1072,2360 1070,2360 1069,2360 1057,2370 1018,2362 1016,2362 919,2370 837,2362 835,2362 834,2362 801,2372 636,2363 635,2363 633,2363 597,2373 375,2365 373,2365 371,2365 370,2365 363,2368 365,2401" />
+      <Word id="l_0049-w_0001" text="Himmelsraume" error_score="0.000" />
+      <Word id="l_0049-w_0002" text="bewegen." error_score="0.000" />
+      <Word id="l_0049-w_0003" text="Treten" error_score="0.000" />
+      <Word id="l_0049-w_0004" text="ſie" error_score="0.000" />
+      <Word id="l_0049-w_0005" text="in" error_score="0.000" />
+      <Word id="l_0049-w_0006" text="die" error_score="0.000" />
+      <Word id="l_0049-w_0007" text="Atmoſphäre" error_score="0.000" />
+      <Word id="l_0049-w_0008" text="der" error_score="0.000" />
+      <Word id="l_0049-w_0009" text="Erde" error_score="0.000" />
+      <Word id="l_0049-w_0010" text="ein," error_score="0.000" />
+      <Word id="l_0049-w_0011" text="ſo" error_score="0.002" />
+      <Word id="l_0049-w_0012" text="werden" error_score="0.002" />
+    </TextLine>
+    <TextLine id="l_0050" text="ſie durch den Widerſtand, den ſie hier in ihrer Bewegung finden, glühend und uns">
+      <Coords points="365,2446 365,2459 1775,2447 1776,2434 1773,2409 1620,2409 1605,2400 1604,2400 1602,2400 1600,2400 1599,2400 1571,2409 1557,2401 1556,2401 1554,2401 1553,2401 1439,2409 1372,2401 1370,2401 1368,2401 1367,2401 1352,2411 1182,2403 1181,2403 1179,2403 1177,2403 1166,2413 968,2405 967,2405 965,2405 934,2414 815,2406 814,2406 812,2406 788,2414 768,2406 766,2406 764,2406 763,2406 741,2416 610,2408 608,2408 607,2408 605,2408 592,2418 363,2418 365,2446" />
+      <Word id="l_0050-w_0001" text="ſie" error_score="0.002" />
+      <Word id="l_0050-w_0002" text="durch" error_score="0.002" />
+      <Word id="l_0050-w_0003" text="den" error_score="0.002" />
+      <Word id="l_0050-w_0004" text="Widerſtand," error_score="0.002" />
+      <Word id="l_0050-w_0005" text="den" error_score="0.002" />
+      <Word id="l_0050-w_0006" text="ſie" error_score="0.002" />
+      <Word id="l_0050-w_0007" text="hier" error_score="0.002" />
+      <Word id="l_0050-w_0008" text="in" error_score="0.002" />
+      <Word id="l_0050-w_0009" text="ihrer" error_score="0.003" />
+      <Word id="l_0050-w_0010" text="Bewegung" error_score="0.003" />
+      <Word id="l_0050-w_0011" text="finden," error_score="0.003" />
+      <Word id="l_0050-w_0012" text="glühend" error_score="0.003" />
+      <Word id="l_0050-w_0013" text="und" error_score="0.003" />
+      <Word id="l_0050-w_0014" text="uns" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0051" text="ſichtbar. Man unterſcheidet ſporadiſche und periodiſche Sternſchnuppenfälle. Erſtere">
+      <Coords points="366,2488 366,2505 1776,2492 1778,2478 1775,2454 1561,2444 1559,2444 1557,2444 1538,2454 1314,2446 1312,2446 1311,2446 1309,2446 1298,2455 1176,2447 1174,2447 1105,2455 1085,2447 1084,2447 1082,2447 1080,2447 1061,2457 936,2449 934,2449 883,2457 860,2449 858,2449 857,2449 855,2449 853,2449 840,2457 728,2451 727,2451 725,2451 705,2460 365,2460 366,2488" />
+      <Word id="l_0051-w_0001" text="ſichtbar." error_score="0.003" />
+      <Word id="l_0051-w_0002" text="Man" error_score="0.003" />
+      <Word id="l_0051-w_0003" text="unterſcheidet" error_score="0.003" />
+      <Word id="l_0051-w_0004" text="ſporadiſche" error_score="0.003" />
+      <Word id="l_0051-w_0005" text="und" error_score="0.001" />
+      <Word id="l_0051-w_0006" text="periodiſche" error_score="0.001" />
+      <Word id="l_0051-w_0007" text="Sternſchnuppenfälle." error_score="0.001" />
+      <Word id="l_0051-w_0008" text="Erſtere" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0052" text="treten das ganʒe Jahr hindurch auf und die Sternſchnuppen ſcheinen aus den ver⸗">
+      <Coords points="366,2531 366,2544 1778,2536 1780,2523 1776,2500 1638,2490 1636,2490 1635,2490 1633,2490 1620,2498 1421,2492 1419,2492 1418,2492 1416,2492 1404,2501 1304,2501 1245,2492 1243,2492 1242,2492 1209,2501 1192,2493 1191,2493 1189,2493 988,2501 967,2493 965,2493 964,2493 962,2493 926,2503 769,2495 768,2495 766,2495 748,2503 672,2495 671,2495 669,2495 644,2505 421,2497 419,2497 365,2506 366,2531" />
+      <Word id="l_0052-w_0001" text="treten" error_score="0.001" />
+      <Word id="l_0052-w_0002" text="das" error_score="0.001" />
+      <Word id="l_0052-w_0003" text="ganʒe" error_score="0.001" />
+      <Word id="l_0052-w_0004" text="Jahr" error_score="0.001" />
+      <Word id="l_0052-w_0005" text="hindurch" error_score="0.001" />
+      <Word id="l_0052-w_0006" text="auf" error_score="0.001" />
+      <Word id="l_0052-w_0007" text="und" error_score="0.001" />
+      <Word id="l_0052-w_0008" text="die" error_score="0.001" />
+      <Word id="l_0052-w_0009" text="Sternſchnuppen" error_score="0.001" />
+      <Word id="l_0052-w_0010" text="ſcheinen" error_score="0.001" />
+      <Word id="l_0052-w_0011" text="aus" error_score="0.001" />
+      <Word id="l_0052-w_0012" text="den" error_score="0.001" />
+      <Word id="l_0052-w_0013" text="ver⸗" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0053" text="ſchiedenſten Teilen des Himmels ʒu kommen; letʒtere hingegen erſcheinen ʒu be⸗">
+      <Coords points="1770,2541 1742,2533 1740,2533 1738,2533 1737,2533 1715,2543 1595,2543 1541,2533 1539,2533 1538,2533 1500,2543 1316,2534 1314,2534 1312,2534 1311,2534 1298,2544 1181,2536 1179,2536 1177,2536 1176,2536 1164,2546 1034,2546 1011,2538 1010,2538 1008,2538 1006,2538 1005,2538 992,2548 913,2548 880,2538 878,2538 876,2538 832,2548 804,2539 802,2539 801,2539 746,2548 692,2539 690,2539 689,2539 669,2548 613,2539 611,2539 559,2549 508,2541 506,2541 363,2548 365,2575 365,2595 1148,2595 1148,2594 1149,2594 1151,2594 1161,2585 1191,2594 1192,2594 1194,2594 1286,2585 1416,2592 1418,2592 1457,2584 1538,2592 1539,2592 1775,2580 1776,2566 1775,2549 1770,2541" />
+      <Word id="l_0053-w_0001" text="ſchiedenſten" error_score="0.001" />
+      <Word id="l_0053-w_0002" text="Teilen" error_score="0.001" />
+      <Word id="l_0053-w_0003" text="des" error_score="0.001" />
+      <Word id="l_0053-w_0004" text="Himmels" error_score="0.001" />
+      <Word id="l_0053-w_0005" text="ʒu" error_score="0.001" />
+      <Word id="l_0053-w_0006" text="kommen;" error_score="0.001" />
+      <Word id="l_0053-w_0007" text="letʒtere" error_score="0.001" />
+      <Word id="l_0053-w_0008" text="hingegen" error_score="0.001" />
+      <Word id="l_0053-w_0009" text="erſcheinen" error_score="0.001" />
+      <Word id="l_0053-w_0010" text="ʒu" error_score="0.001" />
+      <Word id="l_0053-w_0011" text="be⸗" error_score="0.001" />
+    </TextLine>
+  </TextRegion>
+</Page>

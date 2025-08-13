@@ -1,0 +1,1065 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1744303657_00000369.bin.png" imageHeight="2847" imageWidth="1626" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="419,373 858,373 928,379 968,411 1181,404 1265,379 1339,392 1339,2187 1320,2421 75,2421 56,2402 75,417 365,398 419,373" />
+    <TextLine id="l_0001" text="Seite">
+      <Coords points="493,373 477,373 474,373 414,376 414,400 414,411 498,411 498,400 496,373 493,373" />
+      <Word id="l_0001-w_0001" text="Seite" error_score="0.592" />
+    </TextLine>
+    <TextLine id="l_0002" text="Bürgas, Hoher.. 247">
+      <Coords points="189,409 188,409 167,409 161,411 145,412 129,412 113,414 98,415 82,415 82,439 82,449 126,458 128,460 204,460 204,458 205,458 207,458 207,457 213,452 221,458 223,458 224,458 226,460 300,460 300,458 302,458 303,458 303,457 311,450 423,450 442,458 444,458 446,458 493,449 493,439 493,415 487,409 487,408 485,408 484,408 436,408 434,408 433,408 431,408 431,409 422,419 310,419 276,408 275,408 227,408 226,408 224,408 223,408 213,417 191,409 189,409" />
+      <Word id="l_0002-w_0001" text="Bürgas," error_score="0.020" />
+      <Word id="l_0002-w_0002" text="Hoher.." error_score="0.020" />
+      <Word id="l_0002-w_0003" text="247" error_score="0.020" />
+    </TextLine>
+    <TextLine id="l_0003" text="Burgos">
+      <Coords points="86,474 85,487 162,493 164,493 224,482 226,476 224,453 86,442 86,474" />
+      <Word id="l_0003-w_0001" text="Burgos" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0004" text="A">
+      <Coords points="257,476 257,482 303,482 303,476 303,457 257,457 257,476" />
+      <Word id="l_0004-w_0001" text="A" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0005" text="81">
+      <Coords points="319,476 319,480 482,488 485,474 480,447 317,455 319,476" />
+      <Word id="l_0005-w_0001" text="81" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0006" text="Burgos, Plateau von. 64">
+      <Coords points="82,509 82,521 493,521 493,509 493,487 82,483 82,509" />
+      <Word id="l_0006-w_0001" text="Burgos," error_score="0.027" />
+      <Word id="l_0006-w_0002" text="Plateau" error_score="0.027" />
+      <Word id="l_0006-w_0003" text="von." error_score="0.027" />
+      <Word id="l_0006-w_0004" text="64" error_score="0.027" />
+    </TextLine>
+    <TextLine id="l_0007" text="Burgund.. ꝰ7, 103">
+      <Coords points="82,540 80,552 207,559 208,559 210,559 211,559 226,548 349,548 368,561 370,561 371,561 411,563 412,563 488,550 490,545 488,520 82,517 82,540" />
+      <Word id="l_0007-w_0001" text="Burgund.." error_score="0.000" />
+      <Word id="l_0007-w_0002" text="ꝰ7," error_score="0.000" />
+      <Word id="l_0007-w_0003" text="103" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0008" text="Burgundiſcher⸗Kanal. ꝰꝰ">
+      <Coords points="82,580 82,591 162,599 164,599 484,589 485,575 480,550 80,555 82,580" />
+      <Word id="l_0008-w_0001" text="Burgundiſcher⸗Kanal." error_score="0.000" />
+      <Word id="l_0008-w_0002" text="ꝰꝰ" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0009" text="Burʒenland.... 328">
+      <Coords points="82,610 80,621 216,631 218,632 243,632 243,631 245,631 246,631 246,629 259,618 484,624 487,615 485,588 82,588 82,610" />
+      <Word id="l_0009-w_0001" text="Burʒenland...." error_score="1.000" error_type="merge" />
+      <Word id="l_0009-w_0002" text="328" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0010" text="Byʒantium. .. .. 203">
+      <Coords points="80,648 80,657 112,669 113,669 115,670 229,670 229,669 230,669 249,659 273,667 275,667 276,667 330,659 340,667 340,669 341,669 343,669 344,669 346,669 347,669 359,659 376,669 378,669 379,669 381,669 404,659 455,669 457,669 458,669 490,657 490,648 490,626 80,624 80,648" />
+      <Word id="l_0010-w_0001" text="Byʒantium." error_score="1.000" error_type="merge" />
+      <Word id="l_0010-w_0002" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0010-w_0003" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0010-w_0004" text="203" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0011" text="Cabo de la Nao... 64">
+      <Coords points="79,718 79,727 94,735 96,735 98,737 158,737 158,735 159,735 161,735 161,733 167,729 175,735 177,735 178,735 180,735 181,735 213,727 224,735 226,735 227,735 229,737 316,737 316,735 317,735 319,735 319,733 327,727 480,735 482,735 484,735 485,735 485,733 491,727 491,718 490,692 305,695 267,686 265,686 264,686 262,686 260,686 249,695 232,686 230,686 229,686 227,686 196,695 185,686 183,686 181,686 180,686 178,686 161,695 145,686 143,686 142,686 90,686 88,686 86,686 85,686 85,688 79,694 79,718" />
+      <Word id="l_0011-w_0001" text="Cabo" error_score="0.017" />
+      <Word id="l_0011-w_0002" text="de" error_score="0.017" />
+      <Word id="l_0011-w_0003" text="la" error_score="0.017" />
+      <Word id="l_0011-w_0004" text="Nao..." error_score="0.017" />
+      <Word id="l_0011-w_0005" text="64" error_score="0.017" />
+    </TextLine>
+    <TextLine id="l_0012" text="Cabulja⸗Planina. 18ꝰ">
+      <Coords points="80,754 80,760 257,771 259,771 327,759 419,759 442,770 444,770 446,770 477,768 479,768 480,768 480,767 482,767 488,759 488,751 485,727 207,722 205,722 204,722 202,722 191,730 180,722 178,722 177,722 98,722 96,722 94,722 93,722 79,730 80,754" />
+      <Word id="l_0012-w_0001" text="Cabulja⸗Planina." error_score="0.000" />
+      <Word id="l_0012-w_0002" text="18ꝰ" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0013" text="Caͤdiʒ.. 78, 81, 82, 83">
+      <Coords points="85,790 85,800 259,798 305,806 306,806 308,806 310,806 319,798 366,806 368,806 370,806 371,806 381,798 425,806 427,806 428,806 430,806 442,798 491,806 495,789 490,762 83,762 85,790" />
+      <Word id="l_0013-w_0001" text="Caͤdiʒ.." error_score="0.051" />
+      <Word id="l_0013-w_0002" text="78," error_score="0.051" />
+      <Word id="l_0013-w_0003" text="81," error_score="0.051" />
+      <Word id="l_0013-w_0004" text="82," error_score="0.051" />
+      <Word id="l_0013-w_0005" text="83" error_score="0.051" />
+    </TextLine>
+    <TextLine id="l_0014" text="Cagliari. .. . 222">
+      <Coords points="80,893 80,904 90,911 91,911 93,911 94,911 488,903 488,893 487,869 80,869 80,893" />
+      <Word id="l_0014-w_0001" text="Cagliari." error_score="1.000" error_type="merge" />
+      <Word id="l_0014-w_0002" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0014-w_0003" text="." error_score="1.000" error_type="merge" />
+      <Word id="l_0014-w_0004" text="222" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0015" text="Seite">
+      <Coords points="1322,389 1306,385 1303,384 1259,385 1260,409 1260,422 1334,417 1334,406 1330,389 1322,389" />
+      <Word id="l_0015-w_0001" text="Seite" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0016" text="Carlberg..... 164 Charlottenburg. 275">
+      <Coords points="502,438 501,447 507,453 509,453 509,455 510,455 512,455 514,457 637,457 637,455 639,455 640,455 651,446 843,446 854,457 855,457 857,457 858,457 926,452 939,460 941,460 942,460 1148,461 1149,461 1151,461 1153,461 1153,460 1164,450 1259,450 1271,461 1271,463 1273,463 1274,463 1276,463 1331,455 1333,447 1331,423 936,412 934,412 933,412 931,412 918,422 907,412 907,411 906,411 904,411 855,411 854,411 852,411 850,411 850,412 841,420 642,420 585,408 583,408 547,415 517,408 515,408 514,408 512,408 510,408 502,412 502,438" />
+      <Word id="l_0016-w_0001" text="Carlberg....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0002" text="164" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0003" text="Charlottenburg." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0016-w_0004" text="275" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0017" text="Carlisle.. 140) Charollais⸗Gbg.... 88">
+      <Coords points="504,474 502,485 506,488 507,488 507,490 509,490 510,490 512,491 621,491 621,490 623,490 624,490 642,480 775,480 797,493 798,493 800,493 801,493 822,483 830,491 830,493 831,493 833,493 835,493 909,485 937,495 939,495 1159,496 1160,496 1162,496 1164,496 1164,495 1173,487 1216,498 1217,498 1219,498 1221,498 1222,498 1238,488 1327,495 1330,483 1328,455 643,455 610,444 608,444 607,444 504,450 504,474" />
+      <Word id="l_0017-w_0001" text="Carlisle.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0002" text="140)" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0003" text="Charollais⸗Gbg...." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0017-w_0004" text="88" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0018" text="Carlopago. 32ꝰ Chartres.. 104">
+      <Coords points="502,507 501,518 504,521 506,521 506,523 507,523 509,523 510,523 771,514 836,514 849,525 849,526 850,526 852,526 854,526 1194,518 1331,528 1334,517 1334,495 502,487 502,507" />
+      <Word id="l_0018-w_0001" text="Carlopago." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0002" text="32ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0003" text="Chartres.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0018-w_0004" text="104" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0019" text="Carlsborg.. .. . 167 Chateauroux.">
+      <Coords points="502,544 501,552 510,559 510,561 512,561 514,561 653,563 654,563 656,563 657,563 657,561 667,553 756,553 762,561 763,561 763,563 765,563 767,563 768,563 770,563 789,555 797,563 797,564 798,564 800,564 801,564 803,564 805,564 816,555 906,566 907,566 1164,559 1165,552 1164,529 996,520 994,520 915,526 903,518 901,518 899,518 898,518 502,520 502,544" />
+      <Word id="l_0019-w_0001" text="Carlsborg.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0003" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0004" text="167" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0019-w_0005" text="Chateauroux." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0020" text="105">
+      <Coords points="1270,553 1270,566 1331,566 1331,550 1327,523 1266,525 1270,553" />
+      <Word id="l_0020-w_0001" text="105" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0021" text="Carlskrona..... 167/ Chatham. .. .438, 13ꝰ">
+      <Coords points="504,577 502,586 512,594 512,596 514,596 515,596 517,596 778,586 955,601 956,601 1162,591 1192,604 1194,604 1195,605 1254,605 1254,604 1255,604 1257,604 1257,602 1265,596 1273,604 1274,604 1276,604 1278,604 1320,602 1322,602 1323,602 1331,594 1333,586 1331,564 1194,555 1192,555 1191,555 1189,555 1189,556 1181,564 1059,564 1009,553 934,553 933,553 931,553 930,553 920,561 907,552 906,552 904,552 903,552 643,558 602,548 601,548 599,548 504,555 504,577" />
+      <Word id="l_0021-w_0001" text="Carlskrona....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0002" text="167/" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0003" text="Chatham." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0004" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0005" text=".438," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0021-w_0006" text="13ꝰ" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0022" text="Carniſche Alpen. .. 24ꝰ Chaumont. .. 103">
+      <Coords points="504,612 502,621 512,629 512,631 514,631 515,631 517,631 643,624 651,631 651,632 653,632 654,632 656,634 737,634 737,632 738,632 740,632 740,631 752,620 955,635 956,637 1075,637 1075,635 1077,635 1078,635 1078,634 1089,624 1262,624 1273,635 1273,637 1274,637 1276,637 1311,638 1312,638 1314,638 1331,629 1333,621 1331,599 918,586 917,586 504,588 504,612" />
+      <Word id="l_0022-w_0001" text="Carniſche" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0002" text="Alpen." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0003" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0004" text="24ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0005" text="Chaumont." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0006" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0022-w_0007" text="103" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0023" text="Carpi">
+      <Coords points="504,650 504,657 559,667 561,667 615,657 615,650 615,627 504,627 504,650" />
+      <Word id="l_0023-w_0001" text="Carpi" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0024" text="..220 Chaur de Fonds">
+      <Coords points="719,651 718,662 726,669 727,669 729,669 730,669 732,669 733,669 744,661 763,669 765,669 767,669 768,669 770,669 778,661 798,669 800,669 801,669 803,669 805,669 813,661 830,669 831,669 833,669 835,669 836,669 846,661 868,669 869,669 871,669 926,661 953,670 955,670 956,672 1167,672 1167,670 1168,670 1189,661 1191,654 1191,632 1167,623 1165,623 1164,623 1020,631 953,621 952,621 950,621 925,629 904,621 903,621 901,621 719,627 719,651" />
+      <Word id="l_0024-w_0001" text="..220" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0002" text="Chaur" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0003" text="de" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0024-w_0004" text="Fonds" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0025" text="Carraͤntuohill....">
+      <Coords points="510,684 509,694 697,703 699,703 700,703 702,703 702,702 713,692 811,692 813,686 811,664 510,654 510,684" />
+      <Word id="l_0025-w_0001" text="Carraͤntuohill...." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0026" text="334">
+      <Coords points="1210,656 1210,667 1219,673 1221,673 1222,673 1224,673 1225,673 1227,673 1235,665 1254,673 1255,673 1257,673 1334,669 1334,656 1334,637 1278,627 1276,627 1274,627 1273,627 1273,629 1265,637 1210,637 1210,656" />
+      <Word id="l_0026-w_0001" text="334" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0027" text="128 Chelmos.....">
+      <Coords points="846,686 844,694 1043,703 1045,703 1047,703 1048,703 1048,702 1058,694 1104,694 1111,703 1113,703 1113,705 1115,705 1116,705 1118,705 1119,705 1121,705 1134,695 1146,705 1148,705 1149,705 1151,707 1151,705 1153,705 1154,705 1167,695 1178,705 1179,705 1181,705 1183,705 1241,694 1243,691 1241,670 966,657 964,657 846,664 846,686" />
+      <Word id="l_0027-w_0001" text="128" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0027-w_0002" text="Chelmos....." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0028" text="1ꝰ0">
+      <Coords points="1268,691 1268,703 1333,703 1333,691 1333,667 1268,667 1268,691" />
+      <Word id="l_0028-w_0001" text="1ꝰ0" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0029" text="Cartagena. 81, 82, 83 Chelſea. ... 135, 138">
+      <Coords points="502,718 501,725 510,733 510,735 512,735 514,735 563,737 564,738 650,738 650,737 651,737 653,737 653,735 664,725 700,725 711,737 711,738 713,738 714,738 716,740 756,740 756,738 757,738 759,738 759,737 768,727 790,737 792,737 794,737 858,729 881,738 882,738 884,738 885,738 923,729 936,738 937,738 939,738 1005,741 1007,741 1009,741 1039,730 1162,730 1170,740 1172,740 1172,741 1173,741 1175,741 1176,741 1178,741 1191,735 1216,743 1217,743 1219,743 1331,735 1333,725 1331,702 502,695 502,718" />
+      <Word id="l_0029-w_0001" text="Cartagena." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0002" text="81," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0003" text="82," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0004" text="83" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0005" text="Chelſea." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0006" text="..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0007" text="135," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0029-w_0008" text="138" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0030" text="Caſale... 218 Cheltenham. 13ꝰ">
+      <Coords points="504,751 502,763 504,765 506,765 506,767 507,767 509,767 510,767 771,757 833,757 847,770 849,770 850,770 852,770 911,762 930,771 931,771 1092,773 1094,773 1096,773 1097,773 1115,762 1259,762 1271,773 1271,775 1273,775 1274,775 1276,775 1330,768 1331,760 1330,737 504,730 504,751" />
+      <Word id="l_0030-w_0001" text="Caſale..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0002" text="218" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0003" text="Cheltenham." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0030-w_0004" text="13ꝰ" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0031" text="Caſerta. 221 Chemnitʒ. .. 281, 282">
+      <Coords points="498,787 496,803 608,805 610,805 612,805 613,805 613,803 624,793 662,793 827,793 849,808 850,808 852,808 854,809 903,809 903,808 904,808 906,808 922,797 934,808 936,808 937,808 1072,809 1073,809 1075,809 1077,809 1077,808 1086,800 1099,808 1100,808 1102,808 1104,808 1105,808 1107,808 1121,798 1176,798 1187,809 1187,811 1189,811 1191,811 1192,811 1330,806 1331,795 1330,770 498,760 498,787" />
+      <Word id="l_0031-w_0001" text="Caſerta." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0002" text="221" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0003" text="Chemnitʒ." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0004" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0005" text="281," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0031-w_0006" text="282" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0032" text="Caen. ........ 104. Caſſano.">
+      <Coords points="85,824 83,833 153,839 155,839 156,839 183,831 194,839 196,839 197,839 199,839 200,839 216,831 229,839 230,839 232,839 234,839 235,839 253,831 262,839 264,839 265,839 267,839 268,839 287,831 295,839 297,839 298,839 300,839 302,839 322,831 330,839 332,839 333,839 335,839 336,839 355,831 366,839 368,839 370,839 371,839 414,831 444,839 446,839 447,839 504,831 610,839 612,839 669,830 670,825 669,805 570,795 493,795 491,795 490,795 488,795 488,797 484,801 477,797 477,795 476,795 474,795 420,795 419,795 417,795 415,795 415,797 408,803 85,797 85,824" />
+      <Word id="l_0032-w_0001" text="Caen." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0002" text="........" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0003" text="104." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0032-w_0004" text="Caſſano." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0033" text="Caernarvon⸗Bai. .. 12ꝰ">
+      <Coords points="79,858 79,869 491,869 491,858 490,828 79,835 79,858" />
+      <Word id="l_0033-w_0001" text="Caernarvon⸗Bai." error_score="0.033" />
+      <Word id="l_0033-w_0002" text=".." error_score="0.033" />
+      <Word id="l_0033-w_0003" text="12ꝰ" error_score="0.033" />
+    </TextLine>
+    <TextLine id="l_0034" text="Seite">
+      <Coords points="907,376 838,381 839,403 839,414 918,419 920,400 915,376 907,376" />
+      <Word id="l_0034-w_0001" text="Seite" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0035" text="..">
+      <Coords points="759,825 759,836 813,831 813,825 813,806 759,806 759,825" />
+      <Word id="l_0035-w_0001" text=".." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0036" text="220 Cher.">
+      <Coords points="835,825 833,841 1028,841 1029,830 1028,808 964,797 963,797 835,801 835,825" />
+      <Word id="l_0036-w_0001" text="220" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0036-w_0002" text="Cher." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0037" text=".">
+      <Coords points="1145,830 1145,843 1167,839 1167,830 1167,811 1145,811 1145,830" />
+      <Word id="l_0037-w_0001" text="." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="A">
+      <Coords points="1173,830 1173,839 1200,839 1200,830 1200,811 1173,811 1173,830" />
+      <Word id="l_0038-w_0001" text="A" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0039" text="ꝰ3">
+      <Coords points="1279,830 1279,841 1293,849 1295,849 1297,849 1330,841 1330,830 1330,806 1279,806 1279,830" />
+      <Word id="l_0039-w_0001" text="ꝰ3" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0040" text="Caſſel 268, 273, 276, 277 Cherbourg.. . 102, 104">
+      <Coords points="1004,830 1002,830 1001,830 918,838 907,828 906,828 904,828 903,828 751,836 707,827 705,827 703,827 688,835 620,827 618,827 616,827 615,827 615,828 607,836 544,836 498,825 498,858 496,876 574,877 575,877 577,877 608,868 670,877 672,877 673,877 675,877 686,868 729,879 730,879 732,879 733,879 762,871 830,879 831,879 833,879 835,879 835,877 843,871 849,877 850,877 852,877 854,877 912,869 963,880 964,882 1078,882 1078,880 1080,880 1081,880 1081,879 1091,871 1186,871 1195,880 1195,882 1197,882 1198,882 1200,884 1257,884 1257,882 1259,882 1260,882 1260,880 1270,873 1330,877 1333,865 1333,839 1018,839 1005,830 1004,830" />
+      <Word id="l_0040-w_0001" text="Caſſel" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0002" text="268," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0003" text="273," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0004" text="276," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0005" text="277" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0006" text="Cherbourg.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0007" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0008" text="102," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0040-w_0009" text="104" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0041" text="Caſtel Gandolfo 21ꝰ Cherſo">
+      <Coords points="499,893 498,899 507,909 507,911 509,911 510,911 512,912 585,912 585,911 586,911 588,911 588,909 597,901 607,909 607,911 608,911 610,911 684,912 686,914 733,914 733,912 735,912 763,899 838,899 849,911 849,912 850,912 852,912 854,912 918,903 930,912 930,914 931,914 933,914 934,914 1017,912 1018,912 1043,901 1233,903 1236,899 1235,879 499,868 499,893" />
+      <Word id="l_0041-w_0001" text="Caſtel" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0041-w_0002" text="Gandolfo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0041-w_0003" text="21ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0041-w_0004" text="Cherſo" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0042" text="322">
+      <Coords points="1252,899 1252,914 1331,912 1331,899 1331,877 1252,877 1252,899" />
+      <Word id="l_0042-w_0001" text="322" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0043" text="Cagots..... ꝰ7 Caſtello Branco... 75 Cherſſon. ... 184, 185">
+      <Coords points="83,930 82,939 1325,947 1328,936 1325,906 1055,912 1013,901 1012,901 871,901 869,901 868,901 866,901 852,912 738,912 654,899 653,899 651,899 618,909 604,899 602,899 601,899 514,899 512,899 510,899 491,909 447,899 446,899 393,909 83,899 83,930" />
+      <Word id="l_0043-w_0001" text="Cagots....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0002" text="ꝰ7" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0003" text="Caſtello" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0004" text="Branco..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0005" text="75" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0006" text="Cherſſon." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0007" text="..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0008" text="184," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0043-w_0009" text="185" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0044" text="Cahors... .. .. 105">
+      <Coords points="79,964 79,971 112,980 113,980 115,982 180,982 180,980 181,980 183,980 183,979 189,974 197,980 199,980 200,980 202,980 204,980 205,980 205,979 215,971 272,979 273,979 275,979 276,979 276,977 278,977 283,971 300,979 302,979 303,979 305,979 306,979 317,969 335,979 336,979 338,979 340,979 341,979 355,969 392,969 401,977 401,979 403,979 404,979 406,979 485,972 487,961 482,939 200,942 183,934 181,934 83,934 82,934 80,934 79,934 79,936 77,936 79,964" />
+      <Word id="l_0044-w_0001" text="Cahors..." error_score="1.000" error_type="merge" />
+      <Word id="l_0044-w_0002" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0044-w_0003" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0044-w_0004" text="105" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0045" text="Caſtiglione">
+      <Coords points="501,963 499,972 506,979 507,979 507,980 509,980 510,980 604,982 605,983 656,983 656,982 657,982 692,969 805,971 808,967 806,947 501,942 501,963" />
+      <Word id="l_0045-w_0001" text="Caſtiglione" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0046" text="220 Cheſter.">
+      <Coords points="839,967 838,979 849,985 850,985 852,985 854,985 1064,977 1066,969 1064,945 993,936 991,936 990,936 969,945 911,945 903,937 903,936 901,936 899,936 898,936 839,942 839,967" />
+      <Word id="l_0046-w_0001" text="220" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0046-w_0002" text="Cheſter." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0047" text="">
+      <Coords points="1115,971 1115,985 1130,982 1130,971 1130,952 1115,952 1115,971" />
+    </TextLine>
+    <TextLine id="l_0048" text="...">
+      <Coords points="1137,971 1137,980 1145,986 1146,986 1148,986 1149,986 1243,977 1243,971 1243,952 1137,952 1137,971" />
+      <Word id="l_0048-w_0001" text="..." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0049" text="140">
+      <Coords points="1268,971 1268,983 1331,983 1331,971 1331,945 1268,945 1268,971" />
+      <Word id="l_0049-w_0001" text="140" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0050" text="Cairngorm⸗Kette. .. 127 Caſtiliſches Scheidegbg. 65 Cheviot⸗Hills... 126">
+      <Coords points="80,999 79,1007 164,1018 166,1018 322,1009 485,1020 487,1021 623,1021 623,1020 624,1020 661,1010 711,1021 713,1023 836,1023 836,1021 838,1021 839,1021 852,1012 1048,1023 1050,1024 1111,1024 1111,1023 1113,1023 1115,1023 1127,1013 1325,1018 1328,1005 1327,977 80,972 80,999" />
+      <Word id="l_0050-w_0001" text="Cairngorm⸗Kette." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0003" text="127" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0004" text="Caſtiliſches" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0005" text="Scheidegbg." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0006" text="65" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0007" text="Cheviot⸗Hills..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0050-w_0008" text="126" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0051" text="Calabrien.">
+      <Coords points="79,1031 77,1040 86,1048 86,1050 88,1050 90,1050 169,1051 170,1051 256,1040 257,1034 256,1012 79,1009 79,1031" />
+      <Word id="l_0051-w_0001" text="Calabrien." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0052" text="Colabriſche Halbinſel">
+      <Coords points="79,1069 79,1081 398,1081 398,1069 398,1043 79,1043 79,1069" />
+      <Word id="l_0052-w_0001" text="Colabriſche" error_score="0.000" />
+      <Word id="l_0052-w_0002" text="Halbinſel" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0053" text="221">
+      <Coords points="425,1035 425,1045 493,1042 493,1034 488,1007 423,1007 425,1035" />
+      <Word id="l_0053-w_0001" text="221" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0054" text="36">
+      <Coords points="436,1069 436,1078 490,1078 490,1069 490,1045 436,1045 436,1069" />
+      <Word id="l_0054-w_0001" text="36" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0055" text="Calabriſcher Apennin 210">
+      <Coords points="79,1104 79,1115 216,1122 218,1122 219,1122 249,1115 330,1121 332,1121 487,1111 488,1100 485,1078 85,1072 83,1072 82,1072 80,1072 80,1073 79,1073 77,1073 79,1104" />
+      <Word id="l_0055-w_0001" text="Calabriſcher" error_score="0.009" />
+      <Word id="l_0055-w_0002" text="Apennin" error_score="0.009" />
+      <Word id="l_0055-w_0003" text="210" error_score="0.009" />
+    </TextLine>
+    <TextLine id="l_0056" text="Catalanen..">
+      <Coords points="498,1034 496,1043 640,1053 642,1053 724,1043 726,1037 724,1015 498,1009 498,1034" />
+      <Word id="l_0056-w_0001" text="Catalanen.." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0057" text="A">
+      <Coords points="752,1037 751,1043 814,1043 816,1039 814,1018 752,1017 752,1037" />
+      <Word id="l_0057-w_0001" text="A" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0058" text="77 Chiana. ..">
+      <Coords points="866,1037 865,1047 868,1050 869,1050 869,1051 871,1051 873,1051 999,1054 1001,1054 1132,1043 1134,1040 1132,1018 866,1009 866,1037" />
+      <Word id="l_0058-w_0001" text="77" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0002" text="Chiana." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0058-w_0003" text=".." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0059" text="Calviner. ..... 20">
+      <Coords points="75,1314 75,1323 85,1330 86,1330 88,1330 90,1331 200,1331 200,1330 202,1330 204,1330 204,1328 211,1322 232,1330 234,1330 235,1330 237,1330 238,1330 251,1322 268,1330 270,1330 272,1330 273,1330 275,1330 287,1322 363,1322 371,1328 371,1330 373,1330 374,1330 376,1330 434,1322 458,1330 460,1330 461,1330 463,1330 488,1320 488,1314 487,1287 75,1292 75,1314" />
+      <Word id="l_0059-w_0001" text="Calviner." error_score="1.000" error_type="merge" />
+      <Word id="l_0059-w_0002" text="....." error_score="1.000" error_type="merge" />
+      <Word id="l_0059-w_0003" text="20" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0060" text="Campagna di Roma. 208">
+      <Coords points="75,1559 75,1570 485,1570 485,1559 485,1537 75,1535 75,1559" />
+      <Word id="l_0060-w_0001" text="Campagna" error_score="0.025" />
+      <Word id="l_0060-w_0002" text="di" error_score="0.025" />
+      <Word id="l_0060-w_0003" text="Roma." error_score="0.025" />
+      <Word id="l_0060-w_0004" text="208" error_score="0.025" />
+    </TextLine>
+    <TextLine id="l_0061" text="Campaniſche Tiefebene 208">
+      <Coords points="74,1594 74,1606 485,1606 485,1594 485,1570 74,1570 74,1594" />
+      <Word id="l_0061-w_0001" text="Campaniſche" error_score="0.028" />
+      <Word id="l_0061-w_0002" text="Tiefebene" error_score="0.028" />
+      <Word id="l_0061-w_0003" text="208" error_score="0.028" />
+    </TextLine>
+    <TextLine id="l_0062" text="Campine. .. . 108, 111">
+      <Coords points="74,1629 74,1637 479,1641 480,1629 479,1605 74,1605 74,1629" />
+      <Word id="l_0062-w_0001" text="Campine." error_score="0.000" />
+      <Word id="l_0062-w_0002" text=".." error_score="0.000" />
+      <Word id="l_0062-w_0003" text="." error_score="0.000" />
+      <Word id="l_0062-w_0004" text="108," error_score="0.000" />
+      <Word id="l_0062-w_0005" text="111" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0063" text="Camvo de Gibraltar. 65">
+      <Coords points="72,1663 72,1671 484,1673 485,1663 485,1640 248,1632 246,1632 245,1632 243,1632 243,1633 235,1641 115,1641 83,1632 82,1632 80,1632 79,1632 77,1632 77,1633 72,1638 72,1663" />
+      <Word id="l_0063-w_0001" text="Camvo" error_score="0.030" />
+      <Word id="l_0063-w_0002" text="de" error_score="0.030" />
+      <Word id="l_0063-w_0003" text="Gibraltar." error_score="0.030" />
+      <Word id="l_0063-w_0004" text="65" error_score="0.030" />
+    </TextLine>
+    <TextLine id="l_0064" text="Campoformio. .. . 21ꝰ">
+      <Coords points="72,1700 72,1709 477,1709 479,1695 476,1670 177,1668 175,1668 173,1668 158,1676 77,1668 75,1668 74,1668 72,1668 72,1670 71,1670 72,1700" />
+      <Word id="l_0064-w_0001" text="Campoformio." error_score="0.000" />
+      <Word id="l_0064-w_0002" text=".." error_score="0.000" />
+      <Word id="l_0064-w_0003" text="." error_score="0.000" />
+      <Word id="l_0064-w_0004" text="21ꝰ" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0065" text="Camporaghena, Alpe di 10ꝰ">
+      <Coords points="72,1731 72,1746 484,1746 484,1731 484,1709 72,1709 72,1731" />
+      <Word id="l_0065-w_0001" text="Camporaghena," error_score="0.028" />
+      <Word id="l_0065-w_0002" text="Alpe" error_score="0.028" />
+      <Word id="l_0065-w_0003" text="di" error_score="0.028" />
+      <Word id="l_0065-w_0004" text="10ꝰ" error_score="0.028" />
+    </TextLine>
+    <TextLine id="l_0066" text="Canale della Morlacea 305">
+      <Coords points="72,1768 72,1780 484,1779 485,1766 482,1744 79,1736 77,1736 75,1736 74,1736 74,1738 72,1738 71,1738 72,1768" />
+      <Word id="l_0066-w_0001" text="Canale" error_score="0.026" />
+      <Word id="l_0066-w_0002" text="della" error_score="0.026" />
+      <Word id="l_0066-w_0003" text="Morlacea" error_score="0.026" />
+      <Word id="l_0066-w_0004" text="305" error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0067" text="Canale del Quarnerolo 305">
+      <Coords points="71,1803 71,1817 485,1817 485,1803 485,1779 71,1779 71,1803" />
+      <Word id="l_0067-w_0001" text="Canale" error_score="0.042" />
+      <Word id="l_0067-w_0002" text="del" error_score="0.042" />
+      <Word id="l_0067-w_0003" text="Quarnerolo" error_score="0.042" />
+      <Word id="l_0067-w_0004" text="305" error_score="0.042" />
+    </TextLine>
+    <TextLine id="l_0068" text="Canal du Centre. . ꝰꝰ">
+      <Coords points="71,1839 71,1847 208,1855 210,1855 211,1855 213,1855 226,1847 249,1855 251,1855 253,1855 477,1845 479,1836 476,1812 75,1809 74,1809 72,1809 71,1809 71,1811 69,1811 71,1839" />
+      <Word id="l_0068-w_0001" text="Canal" error_score="0.000" />
+      <Word id="l_0068-w_0002" text="du" error_score="0.000" />
+      <Word id="l_0068-w_0003" text="Centre." error_score="0.000" />
+      <Word id="l_0068-w_0004" text="." error_score="0.000" />
+      <Word id="l_0068-w_0005" text="ꝰꝰ" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0069" text="Canal la Manche 35, ꝰ3">
+      <Coords points="69,1909 69,1918 479,1916 480,1907 477,1882 362,1875 360,1875 324,1883 302,1875 300,1875 298,1875 297,1875 265,1883 221,1875 219,1875 218,1875 216,1875 216,1877 208,1885 110,1885 80,1875 79,1875 77,1875 75,1875 74,1875 68,1879 69,1909" />
+      <Word id="l_0069-w_0001" text="Canal" error_score="0.000" />
+      <Word id="l_0069-w_0002" text="la" error_score="0.000" />
+      <Word id="l_0069-w_0003" text="Manche" error_score="0.000" />
+      <Word id="l_0069-w_0004" text="35," error_score="0.000" />
+      <Word id="l_0069-w_0005" text="ꝰ3" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0070" text="Catalonien. .. 78, 83 Chiapovano, Plat. v. 24ꝰ">
+      <Coords points="501,1069 499,1077 517,1086 518,1086 589,1088 591,1088 707,1078 830,1089 831,1089 833,1089 865,1080 915,1091 917,1092 1108,1092 1108,1091 1110,1091 1111,1091 1118,1085 1123,1091 1124,1091 1124,1092 1126,1092 1127,1092 1129,1094 1194,1094 1194,1092 1195,1092 1197,1092 1206,1083 1219,1092 1221,1092 1222,1092 1224,1092 1225,1092 1266,1083 1314,1092 1315,1092 1317,1092 1319,1092 1330,1081 1331,1075 1331,1051 501,1047 501,1069" />
+      <Word id="l_0070-w_0001" text="Catalonien." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0003" text="78," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0004" text="83" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0005" text="Chiapovano," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0006" text="Plat." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0007" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0070-w_0008" text="24ꝰ" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0071" text="204">
+      <Coords points="1247,1216 1247,1225 1328,1232 1330,1216 1330,1194 1247,1194 1247,1216" />
+      <Word id="l_0071-w_0001" text="204" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0072" text="Cauſſe Mejean. . 8ꝰ Chimariotiſches Gbge. 1ꝰ0">
+      <Coords points="499,1243 498,1249 561,1263 563,1263 564,1263 604,1252 653,1263 654,1263 724,1254 857,1254 868,1262 869,1262 871,1262 873,1262 912,1254 950,1266 952,1266 1135,1268 1137,1268 1138,1268 1140,1268 1153,1259 1164,1266 1164,1268 1165,1268 1167,1268 1168,1270 1227,1270 1227,1268 1228,1268 1266,1257 1319,1268 1320,1268 1322,1268 1323,1268 1323,1266 1330,1259 1331,1249 1330,1227 499,1216 499,1243" />
+      <Word id="l_0072-w_0001" text="Cauſſe" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0002" text="Mejean." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0003" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0004" text="8ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0005" text="Chimariotiſches" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0006" text="Gbge." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0072-w_0007" text="1ꝰ0" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0073" text="Cauſſe de la Rouergue 8ꝰ Chiuſa di Verona. 253">
+      <Coords points="499,1277 498,1285 548,1296 550,1296 651,1289 705,1298 707,1298 925,1292 993,1301 994,1301 996,1301 1024,1293 1037,1301 1039,1301 1040,1301 1042,1301 1043,1301 1070,1293 1086,1301 1088,1301 1089,1301 1322,1300 1323,1285 1322,1257 499,1255 499,1277" />
+      <Word id="l_0073-w_0001" text="Cauſſe" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0002" text="de" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0003" text="la" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0004" text="Rouergue" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0005" text="8ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0006" text="Chiuſa" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0007" text="di" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0008" text="Verona." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0073-w_0009" text="253" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0074" text="Centrale Mittelalpen 241 Chiuſa veneʒiana.">
+      <Coords points="496,1312 495,1320 533,1331 534,1331 536,1331 841,1327 846,1333 847,1333 847,1334 849,1334 850,1334 852,1334 926,1328 1004,1338 1005,1338 1007,1338 1036,1330 1092,1339 1094,1339 1200,1330 1202,1322 1202,1298 496,1289 496,1312" />
+      <Word id="l_0074-w_0001" text="Centrale" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0002" text="Mittelalpen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0003" text="241" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0004" text="Chiuſa" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0074-w_0005" text="veneʒiana." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0075" text="dinavien)">
+      <Coords points="533,1383 531,1395 539,1401 540,1401 542,1401 544,1401 702,1393 703,1387 702,1363 618,1353 616,1353 533,1358 533,1383" />
+      <Word id="l_0075-w_0001" text="dinavien)" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0076" text="156/ Chriſtenthum">
+      <Coords points="722,1387 721,1396 892,1404 893,1404 895,1404 923,1396 952,1407 953,1407 955,1407 1108,1406 1110,1406 1127,1396 1129,1390 1127,1368 1064,1358 1062,1358 912,1364 904,1358 904,1357 903,1357 901,1357 899,1357 722,1363 722,1387" />
+      <Word id="l_0076-w_0001" text="156/" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0076-w_0002" text="Chriſtenthum" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0077" text="Cambrai. .. . 102, 103/ Centrales Taffelland">
+      <Coords points="744,1388 729,1388 727,1387 697,1387 681,1387 665,1387 654,1387 653,1387 651,1387 650,1387 650,1388 642,1395 607,1387 605,1387 604,1387 583,1395 526,1387 525,1387 523,1387 498,1395 479,1387 477,1387 476,1387 420,1395 398,1387 397,1387 395,1387 340,1395 80,1391 80,1418 79,1428 794,1434 797,1420 795,1396 752,1388 744,1388" />
+      <Word id="l_0077-w_0001" text="Cambrai." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0003" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0004" text="102," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0005" text="103/" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0006" text="Centrales" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0077-w_0007" text="Taffelland" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0078" text="Camburg... .. 2ꝰ0">
+      <Coords points="80,1524 80,1535 476,1537 479,1523 474,1494 417,1502 79,1497 80,1524" />
+      <Word id="l_0078-w_0001" text="Camburg..." error_score="0.000" />
+      <Word id="l_0078-w_0002" text=".." error_score="0.000" />
+      <Word id="l_0078-w_0003" text="2ꝰ0" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0079" text="221">
+      <Coords points="1268,1145 1266,1157 1325,1160 1328,1148 1328,1119 1268,1116 1268,1145" />
+      <Word id="l_0079-w_0001" text="221" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0080" text="Cauſſe de la Caune. 8ꝰ Chiltern⸗Hills. .. 128">
+      <Coords points="899,1145 898,1145 784,1153 729,1143 727,1143 645,1151 627,1143 623,1143 607,1143 605,1143 545,1149 504,1141 496,1141 496,1172 495,1189 589,1190 591,1190 593,1190 594,1190 607,1181 634,1192 635,1192 637,1192 639,1192 640,1192 651,1183 672,1192 673,1192 675,1192 676,1192 697,1183 708,1192 710,1192 711,1192 775,1194 776,1194 778,1194 803,1184 1056,1197 1058,1198 1119,1198 1119,1197 1121,1197 1123,1197 1123,1195 1132,1187 1309,1198 1311,1198 1312,1198 1330,1190 1331,1181 1331,1157 991,1146 990,1146 922,1154 901,1145 899,1145" />
+      <Word id="l_0080-w_0001" text="Cauſſe" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0002" text="de" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0003" text="la" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0004" text="Caune." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0005" text="8ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0006" text="Chiltern⸗Hills." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0007" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0080-w_0008" text="128" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0081" text="Cauſſe de Larʒac. .. 8ꝰ Chimarioten..">
+      <Coords points="498,1208 496,1214 529,1225 531,1225 533,1227 591,1227 591,1225 593,1225 594,1225 605,1216 667,1227 669,1227 909,1219 933,1228 934,1228 1048,1232 1050,1232 1186,1221 1187,1216 1186,1194 498,1186 498,1208" />
+      <Word id="l_0081-w_0001" text="Cauſſe" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0002" text="de" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0003" text="Larʒac." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0004" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0005" text="8ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0081-w_0006" text="Chimarioten.." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0082" text="Calw...... 283 Centrales Gbae. (Skan⸗">
+      <Coords points="83,1349 82,1358 858,1358 860,1350 858,1328 808,1319 806,1319 752,1327 428,1319 427,1319 425,1319 423,1319 423,1320 415,1328 156,1328 83,1319 83,1349" />
+      <Word id="l_0082-w_0001" text="Calw......" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0002" text="283" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0003" text="Centrales" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0004" text="Gbae." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0082-w_0005" text="(Skan⸗" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0083" text="Camargue. .. . ꝰ4, ꝰ5">
+      <Coords points="75,1385 75,1393 218,1401 219,1401 221,1401 223,1401 223,1399 230,1393 275,1399 276,1399 278,1399 279,1399 279,1398 281,1398 286,1391 374,1391 425,1399 427,1399 428,1399 430,1399 430,1398 436,1391 450,1399 452,1399 453,1399 455,1399 485,1390 485,1382 482,1360 82,1353 80,1353 79,1353 77,1353 77,1355 75,1355 74,1355 75,1385" />
+      <Word id="l_0083-w_0001" text="Camargue." error_score="0.004" />
+      <Word id="l_0083-w_0002" text=".." error_score="0.004" />
+      <Word id="l_0083-w_0003" text="." error_score="0.004" />
+      <Word id="l_0083-w_0004" text="ꝰ4," error_score="0.004" />
+      <Word id="l_0083-w_0005" text="ꝰ5" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0084" text="Cambridge. . . 135, 13ꝰ">
+      <Coords points="75,1455 75,1463 131,1472 132,1472 484,1463 484,1455 484,1429 85,1423 83,1423 82,1423 80,1423 80,1425 75,1429 75,1455" />
+      <Word id="l_0084-w_0001" text="Cambridge." error_score="1.000" error_type="merge" />
+      <Word id="l_0084-w_0002" text="." error_score="1.000" error_type="merge" />
+      <Word id="l_0084-w_0003" text="." error_score="1.000" error_type="merge" />
+      <Word id="l_0084-w_0004" text="135," error_score="1.000" error_type="merge" />
+      <Word id="l_0084-w_0005" text="13ꝰ" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0085" text="Cambriſches Gbge.. . 127">
+      <Coords points="75,1489 75,1497 215,1508 216,1508 218,1508 260,1497 273,1508 275,1508 276,1508 278,1508 355,1496 457,1505 458,1505 460,1505 484,1494 484,1486 480,1461 82,1458 80,1458 79,1458 77,1458 77,1459 75,1459 74,1459 75,1489" />
+      <Word id="l_0085-w_0001" text="Cambriſches" error_score="0.003" />
+      <Word id="l_0085-w_0002" text="Gbge.." error_score="0.003" />
+      <Word id="l_0085-w_0003" text="." error_score="0.003" />
+      <Word id="l_0085-w_0004" text="127" error_score="0.003" />
+    </TextLine>
+    <TextLine id="l_0086" text="212">
+      <Coords points="1157,1040 1156,1047 1179,1056 1181,1056 1183,1056 1184,1056 1200,1048 1325,1054 1328,1042 1325,1013 1157,1018 1157,1040" />
+      <Word id="l_0086-w_0001" text="212" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0087" text="Catania. .. 221, 222 Chiem⸗See. 4ꝰ, 25ꝰ, 261">
+      <Coords points="501,1102 499,1111 509,1119 510,1119 512,1119 567,1122 569,1122 665,1111 822,1124 824,1124 825,1124 843,1116 849,1122 849,1124 850,1124 852,1124 1078,1127 1080,1127 1081,1127 1083,1127 1083,1126 1094,1116 1126,1116 1162,1129 1164,1129 1165,1129 1167,1129 1187,1121 1254,1129 1255,1129 1257,1129 1259,1129 1259,1127 1268,1119 1327,1126 1330,1110 1328,1086 501,1080 501,1102" />
+      <Word id="l_0087-w_0001" text="Catania." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0003" text="221," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0004" text="222" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0005" text="Chiem⸗See." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0006" text="4ꝰ," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0007" text="25ꝰ," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0087-w_0008" text="261" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0088" text="Calais..... 102, 103 Cattavo. .. 321, 325 Chieti">
+      <Coords points="82,1138 82,1148 502,1148 575,1156 577,1156 765,1149 822,1157 824,1157 1067,1149 1069,1145 1067,1122 1023,1122 1013,1113 1013,1111 1012,1111 1010,1111 934,1111 933,1111 931,1111 909,1121 901,1113 901,1111 899,1111 898,1111 860,1111 858,1111 857,1111 831,1121 824,1111 822,1111 822,1110 820,1110 819,1110 776,1110 775,1110 773,1110 771,1110 771,1111 762,1121 613,1121 564,1108 436,1108 434,1108 433,1108 431,1108 419,1118 400,1108 398,1108 355,1108 354,1108 352,1108 351,1108 336,1118 82,1111 82,1138" />
+      <Word id="l_0088-w_0001" text="Calais....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0002" text="102," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0003" text="103" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0004" text="Cattavo." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0005" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0006" text="321," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0007" text="325" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0088-w_0008" text="Chieti" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0089" text="Caldiero. ... . 21ꝰ">
+      <Coords points="77,1173 77,1183 83,1189 85,1189 86,1189 88,1190 199,1190 199,1189 200,1189 202,1189 202,1187 210,1181 232,1189 234,1189 235,1189 237,1189 238,1189 249,1181 268,1189 270,1189 272,1189 273,1189 275,1189 284,1181 302,1189 303,1189 305,1189 306,1189 308,1189 317,1181 336,1189 338,1189 340,1189 341,1189 343,1189 355,1181 468,1189 469,1189 471,1189 490,1179 490,1173 490,1153 484,1146 484,1145 482,1145 480,1145 479,1145 207,1153 86,1145 85,1145 83,1145 82,1145 82,1146 77,1151 77,1173" />
+      <Word id="l_0089-w_0001" text="Caldiero." error_score="1.000" error_type="merge" />
+      <Word id="l_0089-w_0002" text="..." error_score="1.000" error_type="merge" />
+      <Word id="l_0089-w_0003" text="." error_score="1.000" error_type="merge" />
+      <Word id="l_0089-w_0004" text="21ꝰ" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0090" text="Caldonaʒʒo⸗See. .. 261">
+      <Coords points="77,1208 77,1217 485,1216 487,1206 485,1184 476,1176 474,1176 472,1176 471,1176 419,1184 254,1176 253,1176 251,1176 249,1176 249,1178 242,1186 148,1186 140,1178 140,1176 139,1176 137,1176 83,1176 82,1176 80,1176 79,1176 79,1178 77,1178 75,1179 77,1208" />
+      <Word id="l_0090-w_0001" text="Caldonaʒʒo⸗See." error_score="1.000" error_type="merge" />
+      <Word id="l_0090-w_0002" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0090-w_0003" text="261" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0091" text="Caledoniſches Gbge. 127">
+      <Coords points="77,1244 77,1254 235,1262 237,1262 238,1262 279,1252 325,1260 327,1260 395,1252 404,1260 406,1260 408,1260 409,1262 409,1260 411,1260 412,1260 420,1252 439,1260 441,1260 442,1260 482,1251 484,1241 479,1213 162,1219 155,1213 155,1211 153,1211 151,1211 85,1211 83,1211 82,1211 80,1211 80,1213 79,1213 75,1216 77,1244" />
+      <Word id="l_0091-w_0001" text="Caledoniſches" error_score="0.000" />
+      <Word id="l_0091-w_0002" text="Gbge." error_score="0.000" />
+      <Word id="l_0091-w_0003" text="127" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0092" text="Calmar. .... 167">
+      <Coords points="79,1279 79,1285 183,1293 185,1293 223,1285 235,1293 237,1293 238,1293 240,1293 242,1293 257,1285 272,1293 273,1293 275,1293 276,1293 278,1293 278,1292 279,1292 284,1285 298,1292 300,1292 302,1293 302,1292 303,1292 319,1284 472,1292 474,1292 476,1292 477,1292 487,1282 487,1276 482,1251 191,1257 83,1249 82,1249 80,1249 79,1249 79,1251 77,1251 79,1279" />
+      <Word id="l_0092-w_0001" text="Calmar." error_score="1.000" error_type="merge" />
+      <Word id="l_0092-w_0002" text="...." error_score="1.000" error_type="merge" />
+      <Word id="l_0092-w_0003" text="167" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0093" text="Canal du midi">
+      <Coords points="74,1872 72,1882 98,1891 99,1891 101,1891 335,1882 336,1874 335,1850 74,1845 74,1872" />
+      <Word id="l_0093-w_0001" text="Canal" error_score="1.000" error_type="merge" />
+      <Word id="l_0093-w_0002" text="du" error_score="1.000" error_type="merge" />
+      <Word id="l_0093-w_0003" text="midi" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0094" text="ꝰꝰ">
+      <Coords points="349,1874 349,1879 476,1880 479,1872 474,1848 347,1853 349,1874" />
+      <Word id="l_0094-w_0001" text="ꝰꝰ" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0095" text="(England)">
+      <Coords points="531,1451 529,1463 586,1474 588,1474 694,1467 695,1456 694,1432 531,1428 531,1451" />
+      <Word id="l_0095-w_0001" text="(England)" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0096" text="Choper">
+      <Coords points="928,1353 926,1361 950,1371 952,1371 953,1371 1059,1361 1061,1355 1059,1331 928,1327 928,1353" />
+      <Word id="l_0096-w_0001" text="Choper" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0097" text="">
+      <Coords points="1099,1355 1099,1366 1110,1372 1113,1355 1113,1336 1099,1336 1099,1355" />
+    </TextLine>
+    <TextLine id="l_0098" text="Centraliſation (im">
+      <Coords points="498,1488 496,1499 768,1502 771,1491 770,1467 498,1464 498,1488" />
+      <Word id="l_0098-w_0001" text="Centraliſation" error_score="0.060" />
+      <Word id="l_0098-w_0002" text="(im" error_score="0.060" />
+    </TextLine>
+    <TextLine id="l_0099" text="126">
+      <Coords points="844,1458 844,1470 904,1466 904,1453 899,1425 841,1428 844,1458" />
+      <Word id="l_0099-w_0001" text="126" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0100" text="254">
+      <Coords points="1268,1322 1268,1334 1330,1336 1331,1322 1331,1296 1268,1296 1268,1322" />
+      <Word id="l_0100-w_0001" text="254" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0101" text="4ꝰ, 173">
+      <Coords points="1167,1355 1165,1369 1167,1371 1168,1371 1168,1372 1170,1372 1172,1372 1173,1372 1206,1366 1247,1374 1249,1374 1328,1366 1330,1358 1330,1331 1293,1325 1292,1325 1290,1325 1255,1334 1224,1323 1222,1323 1221,1323 1219,1323 1217,1323 1217,1325 1208,1333 1167,1333 1167,1355" />
+      <Word id="l_0101-w_0001" text="4ꝰ," error_score="1.000" error_type="merge" />
+      <Word id="l_0101-w_0002" text="173" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0102" text="20">
+      <Coords points="1285,1390 1285,1404 1327,1402 1327,1387 1322,1361 1282,1363 1285,1390" />
+      <Word id="l_0102-w_0001" text="20" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0103" text="Chriſtiania 163, 164, 165">
+      <Coords points="925,1423 923,1436 933,1442 934,1442 936,1442 937,1442 1330,1437 1331,1428 1330,1401 1168,1401 1134,1393 1132,1393 1130,1393 1061,1401 1013,1391 1012,1391 925,1398 925,1423" />
+      <Word id="l_0103-w_0001" text="Chriſtiania" error_score="0.026" />
+      <Word id="l_0103-w_0002" text="163," error_score="0.026" />
+      <Word id="l_0103-w_0003" text="164," error_score="0.026" />
+      <Word id="l_0103-w_0004" text="165" error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0104" text="167, 168">
+      <Coords points="1192,1461 1192,1475 1330,1474 1330,1461 1330,1437 1192,1437 1192,1461" />
+      <Word id="l_0104-w_0001" text="167," error_score="0.000" />
+      <Word id="l_0104-w_0002" text="168" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0105" text="Chriſtianiafjord. .. 158">
+      <Coords points="925,1493 923,1501 949,1512 950,1512 952,1512 1328,1505 1330,1497 1328,1474 1149,1474 1140,1464 1140,1463 1138,1463 1137,1463 1135,1463 1073,1469 1062,1461 1061,1461 1059,1461 1058,1461 925,1466 925,1493" />
+      <Word id="l_0105-w_0001" text="Chriſtianiafjord." error_score="1.000" error_type="merge" />
+      <Word id="l_0105-w_0002" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0105-w_0003" text="158" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0106" text="Staate)..... 25 Chriſtianſand.. 168">
+      <Coords points="533,1526 531,1534 544,1543 545,1543 547,1543 627,1545 629,1545 631,1545 648,1537 657,1543 659,1543 661,1543 662,1543 664,1543 665,1543 665,1542 675,1534 689,1543 691,1543 692,1543 694,1543 695,1543 697,1543 697,1542 710,1532 749,1532 760,1542 762,1542 763,1542 765,1542 767,1542 768,1542 778,1532 792,1542 794,1542 795,1542 797,1542 850,1532 860,1540 860,1542 862,1542 863,1542 926,1546 928,1546 1260,1534 1273,1545 1273,1546 1274,1546 1276,1546 1278,1548 1320,1548 1322,1529 1319,1502 533,1502 533,1526" />
+      <Word id="l_0106-w_0001" text="Staate)....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0106-w_0002" text="25" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0106-w_0003" text="Chriſtianſand.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0106-w_0004" text="168" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0107" text="Centralkarpathen. .">
+      <Coords points="496,1557 495,1567 654,1580 656,1580 813,1573 814,1564 814,1542 496,1535 496,1557" />
+      <Word id="l_0107-w_0001" text="Centralkarpathen." error_score="1.000" error_type="merge" />
+      <Word id="l_0107-w_0002" text="." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0108" text="Cerkow. ...">
+      <Coords points="501,1594 499,1602 582,1611 583,1611 661,1603 684,1613 686,1613 688,1613 743,1603 744,1599 743,1578 501,1570 501,1594" />
+      <Word id="l_0108-w_0001" text="Cerkow." error_score="1.000" error_type="merge" />
+      <Word id="l_0108-w_0002" text="..." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0109" text=".">
+      <Coords points="790,1599 790,1611 806,1610 806,1599 806,1580 790,1580 790,1599" />
+      <Word id="l_0109-w_0001" text="." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0110" text="302">
+      <Coords points="825,1564 825,1575 903,1575 904,1562 901,1537 852,1529 850,1529 849,1529 824,1538 825,1564" />
+      <Word id="l_0110-w_0001" text="302" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0111" text="Chrudim 323">
+      <Coords points="922,1562 920,1573 923,1576 925,1576 925,1578 926,1578 928,1578 930,1580 1053,1580 1053,1578 1055,1578 1078,1569 1254,1569 1268,1581 1270,1581 1271,1581 1273,1581 1328,1575 1330,1567 1328,1543 922,1542 922,1562" />
+      <Word id="l_0111-w_0001" text="Chrudim" error_score="1.000" error_type="merge" />
+      <Word id="l_0111-w_0002" text="323" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0112" text="233 Chrʒanow 324">
+      <Coords points="822,1599 820,1606 1064,1616 1066,1616 1067,1616 1069,1616 1069,1614 1080,1605 1257,1605 1268,1614 1268,1616 1270,1616 1271,1616 1273,1618 1320,1618 1322,1600 1319,1572 822,1576 822,1599" />
+      <Word id="l_0112-w_0001" text="233" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0112-w_0002" text="Chrʒanow" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0112-w_0003" text="324" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0113" text="Cernoſek. .... 323">
+      <Coords points="498,1627 496,1637 903,1641 906,1633 906,1608 498,1602 498,1627" />
+      <Word id="l_0113-w_0001" text="Cernoſek." error_score="1.000" error_type="merge" />
+      <Word id="l_0113-w_0002" text="...." error_score="1.000" error_type="merge" />
+      <Word id="l_0113-w_0003" text="323" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0114" text="Cerreto, Paſſo del">
+      <Coords points="495,1662 493,1676 608,1684 610,1684 612,1684 613,1684 624,1676 632,1682 632,1684 634,1684 635,1684 637,1686 703,1686 703,1684 705,1684 719,1676 733,1686 735,1686 737,1686 738,1686 800,1674 801,1667 801,1644 495,1640 495,1662" />
+      <Word id="l_0114-w_0001" text="Cerreto," error_score="1.000" error_type="merge" />
+      <Word id="l_0114-w_0002" text="Paſſo" error_score="1.000" error_type="merge" />
+      <Word id="l_0114-w_0003" text="del" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0115" text="Cetina. ...">
+      <Coords points="501,1698 499,1708 627,1708 635,1714 635,1716 637,1716 639,1716 640,1716 732,1706 733,1701 732,1681 501,1673 501,1698" />
+      <Word id="l_0115-w_0001" text="Cetina." error_score="0.001" />
+      <Word id="l_0115-w_0002" text="..." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0116" text="Chur. ...... 335">
+      <Coords points="923,1632 922,1640 1325,1644 1328,1638 1328,1614 923,1610 923,1632" />
+      <Word id="l_0116-w_0001" text="Chur." error_score="0.026" />
+      <Word id="l_0116-w_0002" text="......" error_score="0.026" />
+      <Word id="l_0116-w_0003" text="335" error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0117" text="210 Cilli, Bergld. v. —. 251">
+      <Coords points="843,1667 841,1676 877,1686 879,1686 881,1686 904,1678 963,1687 964,1687 1005,1679 1085,1689 1086,1689 1124,1681 1140,1689 1141,1689 1143,1689 1145,1689 1168,1681 1325,1686 1328,1673 1327,1649 1110,1649 1102,1641 1102,1640 1100,1640 1099,1640 1097,1640 1067,1646 1039,1638 1037,1638 1036,1638 994,1646 950,1637 949,1637 843,1643 843,1667" />
+      <Word id="l_0117-w_0001" text="210" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0117-w_0002" text="Cilli," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0117-w_0003" text="Bergld." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0117-w_0004" text="v." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0117-w_0005" text="—." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0117-w_0006" text="251" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0118" text="48, 306 Cimone 20ꝰ">
+      <Coords points="779,1701 778,1711 784,1717 786,1717 786,1719 787,1719 789,1719 790,1720 896,1720 896,1719 898,1719 899,1719 899,1717 909,1708 928,1719 930,1719 931,1720 1031,1720 1031,1719 1032,1719 1055,1708 1257,1708 1268,1719 1268,1720 1270,1720 1271,1720 1273,1722 1327,1722 1328,1705 1327,1681 779,1681 779,1701" />
+      <Word id="l_0118-w_0001" text="48," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0118-w_0002" text="306" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0118-w_0003" text="Cimone" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0118-w_0004" text="20ꝰ" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0119" text="Cetinje.. . ... 205 Cima di Brenta... 244">
+      <Coords points="495,1733 493,1739 506,1749 507,1749 509,1749 510,1750 597,1750 597,1749 599,1749 601,1749 608,1741 616,1747 616,1749 618,1749 620,1749 621,1749 623,1749 624,1749 637,1741 768,1741 835,1741 844,1750 844,1752 846,1752 847,1752 849,1754 896,1754 896,1752 898,1752 899,1752 899,1750 907,1742 926,1754 928,1754 930,1755 999,1755 999,1754 1001,1754 1002,1754 1010,1747 1018,1754 1020,1754 1021,1754 1023,1754 1051,1747 1059,1754 1059,1755 1061,1755 1062,1755 1064,1757 1160,1757 1160,1755 1162,1755 1184,1746 1320,1757 1323,1742 1320,1716 1186,1720 1064,1709 1062,1709 1061,1709 1059,1709 1059,1711 1053,1717 1047,1709 1045,1709 1045,1708 1043,1708 1042,1708 1040,1708 1039,1708 1001,1717 847,1706 846,1706 844,1706 843,1706 843,1708 833,1716 634,1716 588,1703 586,1703 504,1703 502,1703 501,1703 499,1703 499,1705 495,1709 495,1733" />
+      <Word id="l_0119-w_0001" text="Cetinje.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0119-w_0002" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0119-w_0003" text="..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0119-w_0004" text="205" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0119-w_0005" text="Cima" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0119-w_0006" text="di" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0119-w_0007" text="Brenta..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0119-w_0008" text="244" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0120" text="Cetiſche Alpen.">
+      <Coords points="495,1766 493,1776 499,1782 501,1782 501,1784 502,1784 504,1784 575,1787 577,1788 602,1788 602,1787 604,1787 605,1787 605,1785 616,1776 627,1785 627,1787 629,1787 631,1787 656,1788 657,1788 707,1787 708,1787 710,1787 710,1785 721,1776 814,1776 817,1773 816,1750 676,1749 657,1739 656,1739 654,1739 495,1742 495,1766" />
+      <Word id="l_0120-w_0001" text="Cetiſche" error_score="1.000" error_type="merge" />
+      <Word id="l_0120-w_0002" text="Alpen." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0121" text="Cette">
+      <Coords points="493,1801 491,1814 564,1820 566,1820 567,1820 569,1820 569,1818 580,1809 620,1809 623,1806 623,1784 493,1779 493,1801" />
+      <Word id="l_0121-w_0001" text="Cette" error_score="0.205" />
+    </TextLine>
+    <TextLine id="l_0122" text="Ceuta">
+      <Coords points="496,1836 495,1845 502,1853 502,1855 504,1855 506,1855 558,1856 559,1856 605,1845 607,1839 605,1817 496,1814 496,1836" />
+      <Word id="l_0122-w_0001" text="Ceuta" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0123" text=".">
+      <Coords points="672,1806 672,1817 697,1814 697,1806 697,1787 672,1787 672,1806" />
+      <Word id="l_0123-w_0001" text="." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0124" text="246 Cima di Gelas...">
+      <Coords points="836,1773 835,1777 873,1790 874,1790 1039,1792 1040,1792 1042,1792 1043,1792 1053,1784 1061,1790 1061,1792 1062,1792 1064,1792 1116,1793 1118,1793 1119,1793 1149,1784 1255,1784 1257,1777 1255,1755 1123,1754 1113,1744 1111,1744 1110,1744 1108,1744 1053,1752 960,1742 958,1742 836,1749 836,1773" />
+      <Word id="l_0124-w_0001" text="246" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0124-w_0002" text="Cima" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0124-w_0003" text="di" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0124-w_0004" text="Gelas..." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0125" text="102. 106 Cinca...">
+      <Coords points="757,1807 756,1815 763,1822 765,1822 767,1822 768,1823 896,1823 896,1822 898,1822 915,1814 922,1822 923,1822 923,1823 925,1823 926,1823 928,1823 1243,1814 1244,1812 1243,1792 899,1779 898,1779 757,1785 757,1807" />
+      <Word id="l_0125-w_0001" text="102." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0125-w_0002" text="106" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0125-w_0003" text="Cinca..." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0126" text="....">
+      <Coords points="631,1839 629,1850 632,1853 634,1853 634,1855 635,1855 637,1855 639,1855 697,1847 713,1856 714,1856 716,1856 718,1856 719,1856 721,1856 721,1855 727,1850 738,1856 740,1856 741,1856 743,1856 800,1847 801,1842 801,1822 631,1818 631,1839" />
+      <Word id="l_0126-w_0001" text="...." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0127" text="Cevennen. ...">
+      <Coords points="495,1872 493,1882 498,1886 499,1886 499,1888 501,1888 502,1888 574,1890 575,1890 729,1880 754,1893 756,1893 757,1893 809,1882 811,1879 811,1858 495,1852 495,1872" />
+      <Word id="l_0127-w_0001" text="Cevennen." error_score="0.046" />
+      <Word id="l_0127-w_0002" text="..." error_score="0.046" />
+    </TextLine>
+    <TextLine id="l_0128" text="Chablais, Gbg. des.">
+      <Coords points="490,1907 488,1918 620,1929 621,1929 623,1929 646,1920 653,1928 654,1928 654,1929 656,1929 657,1929 692,1931 694,1931 695,1931 726,1921 738,1929 740,1929 741,1929 743,1929 808,1921 809,1913 808,1890 490,1883 490,1907" />
+      <Word id="l_0128-w_0001" text="Chablais," error_score="0.094" />
+      <Word id="l_0128-w_0002" text="Gbg." error_score="0.094" />
+      <Word id="l_0128-w_0003" text="des." error_score="0.094" />
+    </TextLine>
+    <TextLine id="l_0129" text="86">
+      <Coords points="1274,1777 1274,1787 1290,1795 1292,1795 1293,1795 1328,1788 1328,1777 1327,1754 1274,1754 1274,1777" />
+      <Word id="l_0129-w_0001" text="86" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0130" text="6ꝰ">
+      <Coords points="1279,1814 1279,1825 1325,1825 1327,1811 1322,1785 1276,1788 1279,1814" />
+      <Word id="l_0130-w_0001" text="6ꝰ" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0131" text="76 Cintra. 75">
+      <Coords points="858,1842 857,1852 860,1855 862,1855 862,1856 863,1856 865,1856 866,1856 904,1848 923,1856 925,1856 1017,1858 1018,1858 1020,1858 1043,1848 1325,1856 1328,1847 1328,1822 858,1817 858,1842" />
+      <Word id="l_0131-w_0001" text="76" error_score="0.583" />
+      <Word id="l_0131-w_0002" text="Cintra." error_score="0.583" />
+      <Word id="l_0131-w_0003" text="75" error_score="0.583" />
+    </TextLine>
+    <TextLine id="l_0132" text="88 Cirenceſter. 135">
+      <Coords points="852,1879 850,1886 863,1894 865,1894 866,1894 868,1894 869,1894 904,1885 925,1894 926,1894 1069,1896 1070,1896 1072,1896 1110,1885 1323,1893 1327,1883 1323,1856 1075,1860 1043,1850 1042,1850 1040,1850 1039,1850 1015,1856 928,1848 926,1848 925,1848 907,1858 899,1850 899,1848 898,1848 896,1848 863,1848 862,1848 860,1848 858,1848 852,1853 852,1879" />
+      <Word id="l_0132-w_0001" text="88" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0132-w_0002" text="Cirenceſter." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0132-w_0003" text="135" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0133" text="87 Cirque de Gavarnie. 63">
+      <Coords points="854,1910 852,1921 863,1929 865,1929 866,1929 868,1929 918,1921 972,1932 974,1934 1017,1934 1017,1932 1018,1932 1020,1932 1020,1931 1028,1923 1053,1932 1055,1932 1056,1932 1058,1932 1077,1923 1091,1934 1092,1934 1094,1934 1096,1934 1325,1928 1327,1916 1325,1894 854,1888 854,1910" />
+      <Word id="l_0133-w_0001" text="87" error_score="0.558" />
+      <Word id="l_0133-w_0002" text="Cirque" error_score="0.558" />
+      <Word id="l_0133-w_0003" text="de" error_score="0.558" />
+      <Word id="l_0133-w_0004" text="Gavarnie." error_score="0.558" />
+      <Word id="l_0133-w_0005" text="63" error_score="0.558" />
+    </TextLine>
+    <TextLine id="l_0134" text="Canalthal⸗Defilé (Görʒ) 254 Chaeronaea..... 1ꝰ6 Cirque de Troumouſe 63">
+      <Coords points="75,1945 74,1954 406,1962 408,1962 495,1953 528,1964 529,1964 531,1964 835,1956 857,1966 858,1966 860,1966 909,1956 925,1966 926,1966 928,1966 930,1966 1026,1959 1115,1969 1116,1970 1240,1970 1240,1969 1241,1969 1276,1959 1314,1969 1319,1951 1319,1924 75,1915 75,1945" />
+      <Word id="l_0134-w_0001" text="Canalthal⸗Defilé" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0134-w_0002" text="(Görʒ)" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0134-w_0003" text="254" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0134-w_0004" text="Chaeronaea....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0134-w_0005" text="1ꝰ6" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0134-w_0006" text="Cirque" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0134-w_0007" text="de" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0134-w_0008" text="Troumouſe" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0134-w_0009" text="63" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0135" text="Canariſche Jnſel. 76, 83">
+      <Coords points="69,1980 69,1988 461,1996 463,1996 465,1996 484,1986 484,1978 482,1954 469,1947 468,1947 466,1947 465,1947 463,1947 430,1954 164,1947 162,1947 112,1954 79,1947 77,1947 75,1947 74,1947 72,1947 72,1948 71,1948 68,1950 69,1980" />
+      <Word id="l_0135-w_0001" text="Canariſche" error_score="1.000" error_type="merge" />
+      <Word id="l_0135-w_0002" text="Jnſel." error_score="1.000" error_type="merge" />
+      <Word id="l_0135-w_0003" text="76," error_score="1.000" error_type="merge" />
+      <Word id="l_0135-w_0004" text="83" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0136" text="Candia (Kreta) 204">
+      <Coords points="69,2015 69,2024 476,2026 479,2013 476,1989 200,1983 199,1983 197,1983 170,1991 75,1983 74,1983 72,1983 71,1983 71,1984 69,1984 68,1986 69,2015" />
+      <Word id="l_0136-w_0001" text="Candia" error_score="0.000" />
+      <Word id="l_0136-w_0002" text="(Kreta)" error_score="0.000" />
+      <Word id="l_0136-w_0003" text="204" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0137" text="Cannae. ..... 221">
+      <Coords points="69,2051 69,2057 471,2062 474,2048 469,2024 68,2027 69,2051" />
+      <Word id="l_0137-w_0001" text="Cannae." error_score="1.000" error_type="merge" />
+      <Word id="l_0137-w_0002" text="....." error_score="1.000" error_type="merge" />
+      <Word id="l_0137-w_0003" text="221" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0138" text="Cannſtadt. .. .. 283">
+      <Coords points="68,2086 68,2095 482,2095 482,2086 482,2064 68,2064 68,2086" />
+      <Word id="l_0138-w_0001" text="Cannſtadt." error_score="1.000" error_type="merge" />
+      <Word id="l_0138-w_0002" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0138-w_0003" text=".." error_score="1.000" error_type="merge" />
+      <Word id="l_0138-w_0004" text="283" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0139" text="Cantabriſch⸗aſturiſches">
+      <Coords points="68,2121 68,2135 390,2132 392,2117 387,2094 66,2095 68,2121" />
+      <Word id="l_0139-w_0001" text="Cantabriſch⸗aſturiſches" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0140" text="Gbge...... 42, 63">
+      <Coords points="102,2157 102,2165 479,2166 482,2155 479,2125 439,2125 438,2125 436,2125 434,2125 434,2127 425,2135 381,2125 379,2125 378,2125 376,2125 376,2127 366,2136 188,2136 112,2125 110,2125 109,2125 107,2125 107,2127 105,2127 101,2132 102,2157" />
+      <Word id="l_0140-w_0001" text="Gbge......" error_score="1.000" error_type="merge" />
+      <Word id="l_0140-w_0002" text="42," error_score="1.000" error_type="merge" />
+      <Word id="l_0140-w_0003" text="63" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0141" text="Cantal⸗Gr. 8ꝰ">
+      <Coords points="68,2192 68,2196 93,2206 94,2206 96,2206 238,2204 240,2204 242,2204 256,2193 468,2201 471,2187 466,2162 66,2168 68,2192" />
+      <Word id="l_0141-w_0001" text="Cantal⸗Gr." error_score="0.000" />
+      <Word id="l_0141-w_0002" text="8ꝰ" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0142" text="Chagny">
+      <Coords points="493,1980 491,1988 523,1999 525,1999 526,2000 602,2000 602,1999 604,1999 631,1988 632,1981 631,1958 493,1956 493,1980" />
+      <Word id="l_0142-w_0001" text="Chagny" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0143" text="102 City (London)... 138">
+      <Coords points="830,1984 828,1997 917,1992 977,2002 979,2002 980,2002 982,2002 991,1994 998,2002 999,2002 999,2003 1001,2003 1002,2003 1004,2005 1123,2005 1123,2003 1124,2003 1126,2003 1137,1994 1178,2003 1179,2003 1181,2003 1183,2003 1194,1996 1208,2005 1210,2005 1211,2005 1213,2005 1214,2005 1216,2005 1230,1996 1317,2003 1320,1989 1317,1961 830,1961 830,1984" />
+      <Word id="l_0143-w_0001" text="102" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0143-w_0002" text="City" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0143-w_0003" text="(London)..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0143-w_0004" text="138" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0144" text="Chalkidiſcher Cherſonnes 37 Ciudad Rodrigo. .. 81">
+      <Coords points="490,2013 488,2022 518,2035 520,2035 521,2035 676,2029 688,2037 689,2037 691,2037 831,2038 833,2038 835,2038 836,2038 836,2037 846,2027 860,2035 862,2035 863,2035 903,2027 955,2040 956,2040 958,2040 1018,2038 1020,2038 1021,2038 1021,2037 1029,2030 1047,2041 1048,2041 1050,2041 1051,2043 1148,2043 1148,2041 1149,2041 1151,2041 1168,2030 1319,2038 1322,2022 1322,2000 955,1989 953,1989 907,1996 890,1988 888,1988 887,1988 770,1994 757,1986 756,1986 754,1986 752,1986 653,1992 627,1984 626,1984 624,1984 536,1991 490,1983 490,2013" />
+      <Word id="l_0144-w_0001" text="Chalkidiſcher" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0144-w_0002" text="Cherſonnes" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0144-w_0003" text="37" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0144-w_0004" text="Ciudad" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0144-w_0005" text="Rodrigo." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0144-w_0006" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0144-w_0007" text="81" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0145" text="187 Civeʒʒano⸗Paſs. 253, 321">
+      <Coords points="841,2054 839,2065 1320,2073 1323,2059 1323,2035 841,2030 841,2054" />
+      <Word id="l_0145-w_0001" text="187" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0145-w_0002" text="Civeʒʒano⸗Paſs." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0145-w_0003" text="253," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0145-w_0004" text="321" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0146" text="Chalkis 1ꝰ7 Civita vecchia. ..">
+      <Coords points="488,2084 487,2094 495,2100 496,2100 498,2100 499,2102 597,2102 597,2100 599,2100 601,2100 601,2098 610,2090 830,2092 858,2105 860,2105 862,2105 911,2095 922,2105 923,2105 925,2105 985,2106 986,2106 988,2106 1018,2097 1028,2105 1028,2106 1029,2106 1031,2106 1110,2108 1111,2108 1232,2097 1233,2094 1233,2073 1130,2073 1110,2062 1108,2062 1107,2062 1024,2070 980,2060 925,2060 923,2060 922,2060 920,2060 920,2062 914,2068 896,2060 895,2060 893,2060 615,2065 597,2056 596,2056 594,2056 593,2056 488,2062 488,2084" />
+      <Word id="l_0146-w_0001" text="Chalkis" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0146-w_0002" text="1ꝰ7" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0146-w_0003" text="Civita" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0146-w_0004" text="vecchia." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0146-w_0005" text=".." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0147" text="218">
+      <Coords points="1255,2094 1255,2106 1325,2106 1325,2094 1325,2070 1255,2070 1255,2094" />
+      <Word id="l_0147-w_0001" text="218" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0148" text="Chalons ſur Marne 101, 103 Clausthal... 268, 276">
+      <Coords points="495,2121 493,2130 518,2139 520,2139 827,2143 828,2143 918,2135 994,2144 996,2144 1157,2136 1312,2146 1314,2146 1315,2146 1317,2146 1325,2138 1327,2128 1327,2105 495,2094 495,2121" />
+      <Word id="l_0148-w_0001" text="Chalons" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0148-w_0002" text="ſur" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0148-w_0003" text="Marne" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0148-w_0004" text="101," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0148-w_0005" text="103" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0148-w_0006" text="Clausthal..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0148-w_0007" text="268," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0148-w_0008" text="276" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0149" text="Chambery">
+      <Coords points="485,2154 484,2163 615,2176 616,2176 659,2168 661,2158 661,2136 588,2124 586,2124 585,2124 548,2133 485,2119 485,2154" />
+      <Word id="l_0149-w_0001" text="Chambery" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0150" text="106 Clermont Ferrand 101, 105">
+      <Coords points="775,2160 773,2170 1322,2174 1325,2162 1322,2132 775,2135 775,2160" />
+      <Word id="l_0150-w_0001" text="106" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0150-w_0002" text="Clermont" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0150-w_0003" text="Ferrand" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0150-w_0004" text="101," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0150-w_0005" text="105" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0151" text="Chamounythal... 106 Clſſa">
+      <Coords points="491,2192 490,2198 518,2209 520,2209 667,2211 669,2212 702,2212 702,2211 703,2211 705,2211 705,2209 714,2201 830,2201 841,2211 841,2212 843,2212 844,2212 846,2212 899,2203 983,2212 985,2212 986,2212 1020,2201 1021,2196 1021,2174 988,2165 986,2165 985,2165 915,2173 893,2165 892,2165 890,2165 491,2166 491,2192" />
+      <Word id="l_0151-w_0001" text="Chamounythal..." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0151-w_0002" text="106" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0151-w_0003" text="Clſſa" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0152" text="..">
+      <Coords points="1105,2198 1104,2208 1162,2204 1172,2212 1178,2200 1176,2179 1105,2177 1105,2198" />
+      <Word id="l_0152-w_0001" text=".." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0153" text="320">
+      <Coords points="1246,2198 1246,2215 1319,2214 1319,2198 1317,2174 1246,2174 1246,2198" />
+      <Word id="l_0153-w_0001" text="320" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0154" text="Capo d'Jſtria.. . . 322/ Chamouſſet.. 102, 106 Clyde. .. .. 12ꝰ, 134">
+      <Coords points="66,2225 64,2233 80,2242 82,2242 83,2242 85,2242 148,2234 159,2242 161,2242 162,2242 164,2244 259,2244 259,2242 260,2242 262,2242 276,2233 289,2241 291,2241 292,2241 294,2241 295,2241 314,2233 324,2242 325,2242 327,2242 328,2242 330,2242 332,2242 343,2234 395,2242 397,2242 490,2234 572,2245 574,2245 749,2236 763,2245 765,2245 767,2245 768,2245 1069,2238 1097,2249 1099,2249 1100,2249 1102,2249 1104,2249 1119,2239 1320,2247 1323,2233 1322,2209 66,2201 66,2225" />
+      <Word id="l_0154-w_0001" text="Capo" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0002" text="d'Jſtria.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0003" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0004" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0005" text="322/" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0006" text="Chamouſſet.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0007" text="102," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0008" text="106" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0009" text="Clyde." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0010" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0011" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0012" text="12ꝰ," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0154-w_0013" text="134" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0155" text="Capri. .... 211, 221">
+      <Coords points="68,2261 68,2269 109,2279 110,2279 158,2271 178,2279 180,2279 181,2279 183,2279 185,2279 196,2271 306,2271 314,2277 314,2279 316,2279 317,2279 319,2279 474,2272 474,2261 474,2239 468,2233 468,2231 466,2231 465,2231 463,2231 408,2239 389,2231 387,2231 385,2231 328,2239 68,2238 68,2261" />
+      <Word id="l_0155-w_0001" text="Capri." error_score="0.000" />
+      <Word id="l_0155-w_0002" text="...." error_score="0.000" />
+      <Word id="l_0155-w_0003" text="211," error_score="0.000" />
+      <Word id="l_0155-w_0004" text="221" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0156" text="Capua. .. 218, 221">
+      <Coords points="66,2296 66,2302 96,2313 98,2313 99,2315 158,2315 158,2313 159,2313 161,2313 172,2304 234,2304 243,2312 243,2313 245,2313 246,2313 248,2313 249,2313 251,2313 260,2304 279,2313 281,2313 283,2313 284,2313 286,2313 295,2304 316,2313 317,2313 319,2315 398,2315 398,2313 400,2313 401,2313 401,2312 409,2306 477,2313 479,2296 477,2272 66,2272 66,2296" />
+      <Word id="l_0156-w_0001" text="Capua." error_score="0.010" />
+      <Word id="l_0156-w_0002" text=".." error_score="0.010" />
+      <Word id="l_0156-w_0003" text="218," error_score="0.010" />
+      <Word id="l_0156-w_0004" text="221" error_score="0.010" />
+    </TextLine>
+    <TextLine id="l_0157" text="Champagne ꝰ5, ꝰ7, ꝰ8, 103 Clyde⸗Buſen..">
+      <Coords points="488,2261 487,2269 520,2280 521,2280 523,2280 662,2276 670,2282 670,2283 672,2283 673,2283 675,2283 917,2276 1066,2287 1067,2287 1170,2276 1172,2268 1170,2244 488,2238 488,2261" />
+      <Word id="l_0157-w_0001" text="Champagne" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0157-w_0002" text="ꝰ5," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0157-w_0003" text="ꝰ7," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0157-w_0004" text="ꝰ8," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0157-w_0005" text="103" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0157-w_0006" text="Clyde⸗Buſen.." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0158" text="12ꝰ">
+      <Coords points="1263,2269 1263,2282 1319,2280 1319,2266 1314,2239 1260,2241 1263,2269" />
+      <Word id="l_0158-w_0001" text="12ꝰ" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0159" text="Chamſin.. 15 Coblenʒ 268, 276">
+      <Coords points="485,2294 484,2304 498,2312 499,2312 501,2312 817,2301 863,2315 865,2315 866,2315 868,2315 899,2302 926,2315 928,2315 1032,2317 1034,2317 1036,2317 1062,2304 1165,2304 1178,2317 1178,2318 1179,2318 1181,2318 1183,2318 1319,2313 1320,2302 1317,2279 1029,2279 985,2269 983,2269 653,2276 594,2266 593,2266 485,2272 485,2294" />
+      <Word id="l_0159-w_0001" text="Chamſin.." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0159-w_0002" text="15" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0159-w_0003" text="Coblenʒ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0159-w_0004" text="268," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0159-w_0005" text="276" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0160" text="Carcaſſonne. .. . 106 Charente.">
+      <Coords points="72,2331 71,2339 219,2347 221,2347 279,2339 289,2347 291,2347 292,2347 294,2347 295,2347 314,2339 325,2347 327,2347 328,2347 330,2347 332,2347 351,2339 415,2348 417,2348 670,2339 672,2334 670,2312 602,2302 601,2302 371,2310 72,2302 72,2331" />
+      <Word id="l_0160-w_0001" text="Carcaſſonne." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0160-w_0002" text=".." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0160-w_0003" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0160-w_0004" text="106" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0160-w_0005" text="Charente." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0161" text=".">
+      <Coords points="681,2336 683,2350 697,2345 697,2336 697,2317 681,2317 681,2336" />
+      <Word id="l_0161-w_0001" text="." error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0162" text="ꝰ3 Coburg">
+      <Coords points="743,2334 741,2345 746,2350 748,2350 748,2351 749,2351 751,2351 752,2351 754,2351 756,2351 765,2342 782,2350 784,2350 786,2350 787,2350 789,2350 800,2342 876,2351 877,2351 879,2351 881,2351 896,2342 963,2351 964,2351 1031,2345 1032,2336 1031,2313 743,2312 743,2334" />
+      <Word id="l_0162-w_0001" text="ꝰ3" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0162-w_0002" text="Coburg" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0163" text="Cardigan⸗Bai. . . . 12ꝰ Charkow 180, 183, 185, 186 Cognatiſche Erbfolge">
+      <Coords points="69,2366 68,2375 142,2385 143,2385 273,2377 676,2388 678,2388 763,2381 792,2389 794,2389 795,2389 917,2381 1028,2391 1029,2391 1085,2383 1097,2391 1099,2391 1100,2391 1102,2393 1211,2393 1211,2391 1213,2391 1244,2381 1246,2374 1244,2348 69,2337 69,2366" />
+      <Word id="l_0163-w_0001" text="Cardigan⸗Bai." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0002" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0003" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0004" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0005" text="12ꝰ" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0006" text="Charkow" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0007" text="180," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0008" text="183," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0009" text="185," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0010" text="186" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0011" text="Cognatiſche" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0163-w_0012" text="Erbfolge" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0164" text="Cardona. .... . 83 Charleroi. ..... 116 Coimbra">
+      <Coords points="69,2402 68,2415 77,2421 79,2421 80,2421 82,2421 385,2413 472,2423 474,2423 702,2415 710,2421 710,2423 711,2423 713,2423 714,2423 771,2416 779,2423 779,2424 781,2424 782,2424 784,2424 786,2424 787,2424 800,2416 816,2424 817,2424 819,2426 1039,2426 1039,2424 1040,2424 1059,2415 1061,2407 1059,2386 1009,2377 1007,2377 640,2383 632,2377 632,2375 631,2375 629,2375 627,2375 192,2381 69,2372 69,2402" />
+      <Word id="l_0164-w_0001" text="Cardona." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0164-w_0002" text="...." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0164-w_0003" text="." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0164-w_0004" text="83" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0164-w_0005" text="Charleroi." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0164-w_0006" text="....." error_score="1.000" error_type="hallucination" />
+      <Word id="l_0164-w_0007" text="116" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0164-w_0008" text="Coimbra" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0165" text="2ꝰ2">
+      <Coords points="1252,2342 1252,2355 1319,2353 1319,2336 1314,2310 1249,2315 1252,2342" />
+      <Word id="l_0165-w_0001" text="2ꝰ2" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0166" text="22">
+      <Coords points="1279,2374 1279,2388 1312,2389 1314,2374 1314,2347 1279,2347 1279,2374" />
+      <Word id="l_0166-w_0001" text="22" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0167" text="70, 73, 75">
+      <Coords points="1314,2381 1221,2377 1219,2377 1217,2377 1194,2386 1162,2378 1160,2378 1159,2378 1092,2388 1094,2410 1094,2419 1200,2429 1202,2429 1203,2429 1205,2429 1205,2427 1206,2427 1211,2421 1225,2427 1227,2427 1228,2427 1271,2419 1309,2427 1311,2427 1312,2427 1314,2427 1314,2426 1315,2426 1319,2421 1319,2407 1317,2400 1314,2381" />
+      <Word id="l_0167-w_0001" text="70," error_score="0.000" />
+      <Word id="l_0167-w_0002" text="73," error_score="0.000" />
+      <Word id="l_0167-w_0003" text="75" error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="672,291 808,297 827,333 594,333 672,291" />
+    <TextLine id="l_0168" text="341 —">
+      <Coords points="819,317 808,303 676,291 672,291 672,292 661,303 662,327 662,336 673,344 675,344 676,344 678,346 738,346 738,344 740,344 741,344 741,343 743,343 751,333 822,336 825,324 822,305 819,303 819,317" />
+      <Word id="l_0168-w_0001" text="341" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0168-w_0002" text="—" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+</Page>

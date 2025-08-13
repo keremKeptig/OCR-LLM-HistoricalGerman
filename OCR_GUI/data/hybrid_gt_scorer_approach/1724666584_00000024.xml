@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1724666584_00000024.bin.png" imageHeight="2884" imageWidth="1894" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="735,922 741,922 741,927 730,927 735,922" />
+  </TextRegion>
+  <TextRegion id="r_0002" type="paragraph">
+    <Coords points="769,1262 825,1262 882,1312 818,1376 685,1382 692,1288 769,1262" />
+    <TextLine id="l_0001" text="We te.">
+      <Coords points="690,1307 690,1310 689,1321 833,1341 836,1313 836,1288 749,1275 748,1275 703,1283 690,1307" />
+      <Word id="l_0001-w_0001" text="We" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0001-w_0002" text="te." error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0002" text="Q">
+      <Coords points="695,1353 695,1382 724,1382 749,1400 751,1400 753,1400 754,1401 809,1401 809,1352 805,1328 693,1321 695,1353" />
+      <Word id="l_0002-w_0001" text="Q" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0003" type="paragraph">
+    <Coords points="884,884 996,890 996,914 781,927 826,916 717,921 692,902 884,884" />
+    <TextLine id="l_0003" text="S⸗">
+      <Coords points="738,897 722,898 706,900 706,910 705,934 749,934 751,911 749,895 738,897" />
+      <Word id="l_0003-w_0001" text="S⸗" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0004" text="1">
+      <Coords points="833,887 833,913 833,935 847,935 847,913 847,887 833,887" />
+      <Word id="l_0004-w_0001" text="1" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0004" type="paragraph">
+    <Coords points="1073,224 1176,243 1113,267 1113,288 1714,307 1727,2420 929,2440 895,2478 416,2478 423,2390 628,2369 487,2337 467,2255 493,2211 773,2198 857,2211 865,2249 1240,2249 1267,2287 1293,2273 1312,1948 1286,1506 985,1491 844,1506 983,1512 927,1530 801,1530 788,1512 812,1498 660,1498 741,1517 640,1530 626,1568 564,1581 570,1499 544,1467 677,1461 698,1422 858,1409 1273,1466 1299,1421 1299,602 1278,575 416,581 382,596 370,652 249,652 198,581 198,442 243,421 198,307 1028,288 1022,267 953,262 1073,224" />
+    <TextLine id="l_0005" text="16">
+      <Coords points="1039,233 1043,264 1044,277 1096,272 1096,259 1091,229 1039,232 1039,233" />
+      <Word id="l_0005-w_0001" text="16" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0006" text="Rückzug der wichen zurück und ließen sich in keine offene Schlacht ein, sondern">
+      <Coords points="1688,306 1672,306 1656,304 1640,304 1624,304 1608,302 1592,302 1576,302 1560,301 1544,301 1528,301 1512,301 1496,299 1480,299 1464,299 1448,298 1432,298 1416,298 1400,296 1384,296 1368,296 1352,294 1336,294 1320,294 1304,293 1289,293 1270,299 1193,291 1192,291 1121,299 1096,291 1094,291 1092,291 1035,301 926,293 924,293 922,293 906,301 741,294 740,294 677,302 653,296 647,296 631,296 629,296 554,304 487,299 487,299 471,301 455,301 439,301 423,301 407,306 338,302 326,304 310,304 294,304 278,304 262,306 246,306 230,306 214,306 198,317 200,333 200,344 1706,334 1706,322 1703,306 1688,306" />
+      <Word id="l_0006-w_0001" text="Rückzug" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0002" text="der" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0003" text="wichen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0004" text="zurück" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0005" text="und" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0006" text="ließen" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0007" text="sich" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0008" text="in" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0009" text="keine" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0010" text="offene" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0011" text="Schlacht" error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0012" text="ein," error_score="1.000" error_type="hallucination" />
+      <Word id="l_0006-w_0013" text="sondern" error_score="1.000" error_type="hallucination" />
+    </TextLine>
+    <TextLine id="l_0007" text="Skythen.">
+      <Coords points="235,368 233,381 238,386 238,387 240,387 241,387 243,387 379,381 381,371 379,346 235,342 235,368" />
+      <Word id="l_0007-w_0001" text="Skythen." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0008" text="verwüsteten nur das Land und verschütteten die Brunnen, bis den">
+      <Coords points="408,373 408,386 1704,381 1706,366 1703,344 1381,336 1379,336 1378,336 1358,344 737,339 735,339 733,339 732,339 722,347 503,341 501,341 407,349 408,373" />
+      <Word id="l_0008-w_0001" text="verwüsteten" error_score="0.020" />
+      <Word id="l_0008-w_0002" text="nur" error_score="0.020" />
+      <Word id="l_0008-w_0003" text="das" error_score="0.020" />
+      <Word id="l_0008-w_0004" text="Land" error_score="0.020" />
+      <Word id="l_0008-w_0005" text="und" error_score="0.020" />
+      <Word id="l_0008-w_0006" text="verschütteten" error_score="0.020" />
+      <Word id="l_0008-w_0007" text="die" error_score="0.020" />
+      <Word id="l_0008-w_0008" text="Brunnen," error_score="0.020" />
+      <Word id="l_0008-w_0009" text="bis" error_score="0.020" />
+      <Word id="l_0008-w_0010" text="den" error_score="0.020" />
+    </TextLine>
+    <TextLine id="l_0009" text="Persern die Lebensmittel ausgingen und Darius den Befehl zum">
+      <Coords points="411,418 411,432 1704,426 1706,411 1703,389 1607,389 1594,379 1592,379 1591,379 1589,379 1421,387 1395,379 1394,379 1392,379 1390,379 1389,379 1376,389 1310,381 1309,381 1307,381 1305,381 1293,389 1262,381 1261,381 1259,381 1052,390 1025,382 1023,382 1022,382 1020,382 995,392 910,392 897,382 895,382 894,382 892,382 814,390 717,384 716,384 714,384 713,384 703,392 693,384 692,384 690,384 689,384 687,384 658,392 616,384 615,384 613,384 578,392 410,387 411,418" />
+      <Word id="l_0009-w_0001" text="Persern" error_score="0.014" />
+      <Word id="l_0009-w_0002" text="die" error_score="0.014" />
+      <Word id="l_0009-w_0003" text="Lebensmittel" error_score="0.014" />
+      <Word id="l_0009-w_0004" text="ausgingen" error_score="0.014" />
+      <Word id="l_0009-w_0005" text="und" error_score="0.014" />
+      <Word id="l_0009-w_0006" text="Darius" error_score="0.014" />
+      <Word id="l_0009-w_0007" text="den" error_score="0.014" />
+      <Word id="l_0009-w_0008" text="Befehl" error_score="0.014" />
+      <Word id="l_0009-w_0009" text="zum" error_score="0.014" />
+    </TextLine>
+    <TextLine id="l_0010" text="Ruckzug der Rückzug gab. Jetzt begannen die Skythen die Verfolgung, um-">
+      <Coords points="203,467 203,482 387,487 389,487 447,477 565,485 567,485 568,485 570,485 583,475 623,483 624,483 801,474 902,482 903,482 1007,472 1187,479 1188,479 1362,469 1515,477 1517,477 1615,467 1684,475 1685,475 1687,475 1706,466 1706,455 1703,432 1466,422 1464,422 1462,422 1437,432 1397,422 1395,422 1394,422 1392,422 1355,432 1331,422 1329,422 1328,422 1326,422 1296,434 1142,424 1140,424 1139,424 1112,435 1044,426 1043,426 1041,426 1039,426 1023,437 878,437 836,427 834,427 833,427 831,427 830,427 815,437 719,429 717,429 716,429 676,439 640,429 639,429 637,429 575,440 408,430 407,430 405,430 403,430 386,442 222,434 221,434 219,434 201,440 203,467" />
+      <Word id="l_0010-w_0001" text="Ruckzug" error_score="0.592" />
+      <Word id="l_0010-w_0002" text="der" error_score="0.592" />
+      <Word id="l_0010-w_0003" text="Rückzug" error_score="0.592" />
+      <Word id="l_0010-w_0004" text="gab." error_score="0.592" />
+      <Word id="l_0010-w_0005" text="Jetzt" error_score="0.592" />
+      <Word id="l_0010-w_0006" text="begannen" error_score="0.592" />
+      <Word id="l_0010-w_0007" text="die" error_score="0.592" />
+      <Word id="l_0010-w_0008" text="Skythen" error_score="0.592" />
+      <Word id="l_0010-w_0009" text="die" error_score="0.592" />
+      <Word id="l_0010-w_0010" text="Verfolgung," error_score="0.592" />
+      <Word id="l_0010-w_0011" text="um-" error_score="0.592" />
+    </TextLine>
+    <TextLine id="l_0011" text="Perser.">
+      <Coords points="248,503 246,515 366,520 370,507 370,483 248,479 248,503" />
+      <Word id="l_0011-w_0001" text="Perser." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0012" text="schwärmten das Heer von allen Seiten und bedrängten es so sehr,">
+      <Coords points="408,507 408,519 1701,520 1704,501 1701,479 1661,469 1660,469 1658,469 1634,477 1326,471 1325,471 1323,471 1321,471 1312,479 1293,471 1291,471 1289,471 1158,479 1055,471 1054,471 1052,471 1051,471 1038,480 959,472 958,472 956,472 955,472 940,482 783,482 733,472 732,472 730,472 729,472 717,482 445,474 443,474 442,474 407,483 408,507" />
+      <Word id="l_0012-w_0001" text="schwärmten" error_score="0.020" />
+      <Word id="l_0012-w_0002" text="das" error_score="0.020" />
+      <Word id="l_0012-w_0003" text="Heer" error_score="0.020" />
+      <Word id="l_0012-w_0004" text="von" error_score="0.020" />
+      <Word id="l_0012-w_0005" text="allen" error_score="0.020" />
+      <Word id="l_0012-w_0006" text="Seiten" error_score="0.020" />
+      <Word id="l_0012-w_0007" text="und" error_score="0.020" />
+      <Word id="l_0012-w_0008" text="bedrängten" error_score="0.020" />
+      <Word id="l_0012-w_0009" text="es" error_score="0.020" />
+      <Word id="l_0012-w_0010" text="so" error_score="0.020" />
+      <Word id="l_0012-w_0011" text="sehr," error_score="0.020" />
+    </TextLine>
+    <TextLine id="l_0013" text="Die Griechen daß es froh sein mußte, wieder den Ister zu erreichen. Zum Glück">
+      <Coords points="201,563 201,575 419,575 491,563 858,571 860,571 862,571 863,571 878,562 947,568 948,568 1706,559 1708,544 1706,522 1688,511 1687,511 1685,511 1684,511 1605,512 1603,512 1602,512 1586,523 1514,512 1512,512 1511,512 1472,523 1363,512 1362,512 1286,525 1043,515 1041,515 1039,515 1038,515 1020,527 977,515 975,515 974,515 854,527 799,515 797,515 738,528 695,517 693,517 692,517 639,528 621,517 620,517 618,517 564,517 562,517 560,517 559,517 541,528 423,519 421,519 419,519 418,519 398,531 200,531 201,563" />
+      <Word id="l_0013-w_0001" text="Die" error_score="0.557" />
+      <Word id="l_0013-w_0002" text="Griechen" error_score="0.557" />
+      <Word id="l_0013-w_0003" text="daß" error_score="0.557" />
+      <Word id="l_0013-w_0004" text="es" error_score="0.557" />
+      <Word id="l_0013-w_0005" text="froh" error_score="0.557" />
+      <Word id="l_0013-w_0006" text="sein" error_score="0.557" />
+      <Word id="l_0013-w_0007" text="mußte," error_score="0.557" />
+      <Word id="l_0013-w_0008" text="wieder" error_score="0.557" />
+      <Word id="l_0013-w_0009" text="den" error_score="0.557" />
+      <Word id="l_0013-w_0010" text="Ister" error_score="0.557" />
+      <Word id="l_0013-w_0011" text="zu" error_score="0.557" />
+      <Word id="l_0013-w_0012" text="erreichen." error_score="0.557" />
+      <Word id="l_0013-w_0013" text="Zum" error_score="0.557" />
+      <Word id="l_0013-w_0014" text="Glück" error_score="0.557" />
+    </TextLine>
+    <TextLine id="l_0014" text="bei der">
+      <Coords points="246,600 246,612 370,612 370,600 370,576 246,576 246,600" />
+      <Word id="l_0014-w_0001" text="bei" error_score="1.000" error_type="error" />
+      <Word id="l_0014-w_0002" text="der" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0015" text="Brücke.">
+      <Coords points="363,612 246,610 246,637 246,655 371,655 371,637 370,626 363,612" />
+      <Word id="l_0015-w_0001" text="Brücke." error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0016" text="">
+      <Coords points="820,2204 804,2203 796,2201 762,2199 761,2199 759,2199 727,2214 652,2203 644,2203 632,2203 602,2217 530,2217 514,2209 499,2209 483,2223 485,2243 485,2267 826,2265 828,2239 825,2204 820,2204" />
+    </TextLine>
+    <TextLine id="l_0017" text="Fig. 8. Darius mit Dienern (uber ihm Ormuzd).">
+      <Coords points="483,2292 483,2303 588,2312 589,2312 1245,2297 1245,2284 1241,2262 938,2255 937,2255 935,2255 934,2255 922,2263 791,2257 789,2257 788,2257 786,2257 786,2259 785,2259 780,2265 488,2260 487,2260 485,2260 483,2260 483,2262 482,2262 483,2292" />
+      <Word id="l_0017-w_0001" text="Fig." error_score="0.514" />
+      <Word id="l_0017-w_0002" text="8." error_score="0.514" />
+      <Word id="l_0017-w_0003" text="Darius" error_score="0.514" />
+      <Word id="l_0017-w_0004" text="mit" error_score="0.514" />
+      <Word id="l_0017-w_0005" text="Dienern" error_score="0.514" />
+      <Word id="l_0017-w_0006" text="(uber" error_score="0.514" />
+      <Word id="l_0017-w_0007" text="ihm" error_score="0.514" />
+      <Word id="l_0017-w_0008" text="Ormuzd)." error_score="0.514" />
+    </TextLine>
+    <TextLine id="l_0018" text="Wandbild im Palast zu Persepolis.">
+      <Coords points="632,2332 632,2344 953,2350 955,2350 956,2350 958,2350 969,2342 1107,2348 1108,2348 1110,2348 1128,2339 1128,2328 1123,2308 631,2312 632,2332" />
+      <Word id="l_0018-w_0001" text="Wandbild" error_score="0.000" />
+      <Word id="l_0018-w_0002" text="im" error_score="0.000" />
+      <Word id="l_0018-w_0003" text="Palast" error_score="0.000" />
+      <Word id="l_0018-w_0004" text="zu" error_score="0.000" />
+      <Word id="l_0018-w_0005" text="Persepolis." error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0019" text="fand man dort die">
+      <Coords points="1304,592 1304,602 1382,608 1384,608 1386,608 1416,600 1466,610 1467,610 1469,610 1504,599 1559,608 1560,610 1602,610 1602,608 1603,608 1605,608 1605,607 1607,607 1615,597 1652,607 1653,607 1655,607 1704,600 1706,586 1704,565 1679,555 1677,555 1676,555 1674,555 1647,563 1538,557 1536,557 1535,557 1533,557 1533,559 1525,567 1402,568 1389,560 1387,560 1386,560 1310,560 1309,560 1307,560 1305,560 1305,562 1304,562 1302,562 1304,592" />
+      <Word id="l_0019-w_0001" text="fand" error_score="0.000" />
+      <Word id="l_0019-w_0002" text="man" error_score="0.000" />
+      <Word id="l_0019-w_0003" text="dort" error_score="0.000" />
+      <Word id="l_0019-w_0004" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0020" text="Brücken noch vor;">
+      <Coords points="1302,636 1302,645 1704,652 1706,636 1706,613 1586,613 1578,605 1578,604 1576,604 1575,604 1573,604 1571,604 1544,612 1302,608 1302,636" />
+      <Word id="l_0020-w_0001" text="Brücken" error_score="0.000" />
+      <Word id="l_0020-w_0002" text="noch" error_score="0.000" />
+      <Word id="l_0020-w_0003" text="vor;" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0021" text="der Mann, dem Darius">
+      <Coords points="1304,679 1304,693 1708,693 1708,679 1708,655 1661,645 1660,645 1658,645 1656,645 1644,653 1511,645 1509,645 1507,645 1506,645 1506,647 1498,655 1430,655 1382,645 1381,645 1379,645 1347,653 1321,645 1320,645 1318,645 1317,645 1315,645 1304,652 1304,679" />
+      <Word id="l_0021-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0021-w_0002" text="Mann," error_score="0.000" />
+      <Word id="l_0021-w_0003" text="dem" error_score="0.000" />
+      <Word id="l_0021-w_0004" text="Darius" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0022" text="seine Rettung ver-">
+      <Coords points="1302,724 1302,732 1390,740 1392,740 1434,732 1443,740 1443,741 1445,741 1446,741 1448,743 1503,743 1503,741 1587,740 1589,740 1591,740 1591,738 1600,730 1680,740 1682,740 1684,740 1709,729 1709,721 1706,700 1504,690 1503,690 1440,692 1438,692 1437,692 1437,693 1429,700 1344,692 1342,692 1341,692 1301,701 1302,724" />
+      <Word id="l_0022-w_0001" text="seine" error_score="0.000" />
+      <Word id="l_0022-w_0002" text="Rettung" error_score="0.000" />
+      <Word id="l_0022-w_0003" text="ver-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0023" text="dankte, war Histiäus,">
+      <Coords points="1304,769 1304,780 1704,783 1708,764 1704,741 1586,732 1584,732 1538,741 1368,735 1366,735 1365,735 1345,743 1317,735 1315,735 1313,735 1312,735 1310,735 1302,741 1304,769" />
+      <Word id="l_0023-w_0001" text="dankte," error_score="0.000" />
+      <Word id="l_0023-w_0002" text="war" error_score="0.000" />
+      <Word id="l_0023-w_0003" text="Histiäus," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0024" text="der Stadtherrscher">
+      <Coords points="1304,812 1304,820 1696,828 1698,828 1700,828 1701,828 1701,826 1709,818 1709,809 1706,788 1642,778 1640,778 1639,778 1637,778 1626,788 1560,788 1551,778 1551,777 1549,777 1547,777 1507,777 1506,777 1504,777 1503,777 1503,778 1501,778 1496,785 1446,778 1445,778 1443,778 1442,778 1442,780 1432,788 1317,778 1315,778 1313,778 1312,778 1312,780 1302,786 1304,812" />
+      <Word id="l_0024-w_0001" text="der" error_score="0.000" />
+      <Word id="l_0024-w_0002" text="Stadtherrscher" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0025" text="(Tyrann) von Milet,">
+      <Coords points="1302,860 1302,876 1458,876 1459,876 1461,876 1461,874 1469,868 1704,871 1706,855 1703,829 1602,820 1600,820 1599,820 1597,820 1597,821 1587,831 1466,831 1446,821 1445,821 1443,821 1442,821 1440,821 1424,831 1317,823 1315,823 1313,823 1312,823 1301,828 1302,860" />
+      <Word id="l_0025-w_0001" text="(Tyrann)" error_score="0.000" />
+      <Word id="l_0025-w_0002" text="von" error_score="0.000" />
+      <Word id="l_0025-w_0003" text="Milet," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0026" text="einer der griechischen">
+      <Coords points="1305,900 1305,914 1708,914 1708,900 1708,878 1419,868 1418,868 1360,876 1333,868 1331,868 1329,868 1328,868 1305,876 1305,900" />
+      <Word id="l_0026-w_0001" text="einer" error_score="0.000" />
+      <Word id="l_0026-w_0002" text="der" error_score="0.000" />
+      <Word id="l_0026-w_0003" text="griechischen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0027" text="Städte an der West-">
+      <Coords points="1305,945 1305,954 1485,962 1486,962 1488,962 1506,953 1519,961 1520,961 1522,961 1523,961 1600,953 1608,959 1608,961 1610,961 1611,961 1613,962 1688,962 1688,961 1690,961 1709,951 1709,942 1706,919 1658,919 1644,908 1642,908 1640,908 1639,908 1554,918 1525,908 1523,908 1522,908 1520,908 1519,908 1501,919 1317,910 1315,910 1313,910 1312,910 1312,911 1304,918 1305,945" />
+      <Word id="l_0027-w_0001" text="Städte" error_score="0.000" />
+      <Word id="l_0027-w_0002" text="an" error_score="0.000" />
+      <Word id="l_0027-w_0003" text="der" error_score="0.000" />
+      <Word id="l_0027-w_0004" text="West-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0028" text="küste Kleinasiens. Es">
+      <Coords points="1307,990 1307,1002 1709,1001 1711,986 1708,962 1584,962 1562,953 1560,953 1559,953 1557,953 1539,962 1305,962 1307,990" />
+      <Word id="l_0028-w_0001" text="küste" error_score="0.000" />
+      <Word id="l_0028-w_0002" text="Kleinasiens." error_score="0.000" />
+      <Word id="l_0028-w_0003" text="Es" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0029" text="waren nämlichSkythen">
+      <Coords points="1310,1033 1310,1047 1708,1046 1709,1030 1706,1007 1509,998 1507,998 1506,998 1480,1009 1309,1009 1310,1033" />
+      <Word id="l_0029-w_0001" text="waren" error_score="1.000" error_type="merge" />
+      <Word id="l_0029-w_0002" text="nämlichSkythen" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0030" text="an den Fluß gekom-">
+      <Coords points="1305,1075 1305,1086 1413,1095 1414,1095 1416,1095 1451,1087 1563,1087 1571,1094 1571,1095 1573,1095 1575,1095 1576,1095 1711,1086 1711,1075 1711,1054 1466,1044 1464,1044 1421,1052 1390,1044 1389,1044 1387,1044 1386,1044 1384,1044 1384,1046 1376,1054 1305,1054 1305,1075" />
+      <Word id="l_0030-w_0001" text="an" error_score="0.000" />
+      <Word id="l_0030-w_0002" text="den" error_score="0.000" />
+      <Word id="l_0030-w_0003" text="Fluß" error_score="0.000" />
+      <Word id="l_0030-w_0004" text="gekom-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0031" text="men und hatten den">
+      <Coords points="1305,1119 1305,1132 1711,1132 1711,1119 1711,1099 1554,1089 1552,1089 1551,1089 1530,1097 1509,1089 1507,1089 1506,1089 1504,1089 1483,1097 1462,1089 1461,1089 1459,1089 1305,1097 1305,1119" />
+      <Word id="l_0031-w_0001" text="men" error_score="0.000" />
+      <Word id="l_0031-w_0002" text="und" error_score="0.000" />
+      <Word id="l_0031-w_0003" text="hatten" error_score="0.000" />
+      <Word id="l_0031-w_0004" text="den" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0032" text="Griechen geraten, die">
+      <Coords points="1307,1166 1307,1179 1711,1176 1712,1163 1711,1140 1684,1131 1682,1131 1680,1131 1491,1140 1318,1132 1317,1132 1315,1132 1313,1132 1305,1139 1307,1166" />
+      <Word id="l_0032-w_0001" text="Griechen" error_score="0.000" />
+      <Word id="l_0032-w_0002" text="geraten," error_score="0.000" />
+      <Word id="l_0032-w_0003" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0033" text="Brücken abzubrechen,">
+      <Coords points="1309,1211 1309,1225 1708,1228 1709,1211 1709,1187 1655,1187 1647,1179 1647,1177 1645,1177 1644,1177 1642,1177 1640,1177 1616,1185 1568,1177 1567,1177 1520,1185 1509,1177 1507,1177 1506,1177 1504,1177 1503,1177 1478,1185 1309,1179 1309,1211" />
+      <Word id="l_0033-w_0001" text="Brücken" error_score="1.000" error_type="merge" />
+      <Word id="l_0033-w_0002" text="abzubrechen," error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0034" text="dann würde das ganze">
+      <Coords points="1307,1256 1307,1267 1701,1272 1703,1272 1704,1272 1706,1272 1706,1270 1712,1264 1712,1251 1709,1230 1454,1222 1453,1222 1392,1232 1317,1224 1315,1224 1313,1224 1312,1224 1312,1225 1305,1230 1307,1256" />
+      <Word id="l_0034-w_0001" text="dann" error_score="0.000" />
+      <Word id="l_0034-w_0002" text="würde" error_score="0.000" />
+      <Word id="l_0034-w_0003" text="das" error_score="0.000" />
+      <Word id="l_0034-w_0004" text="ganze" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0035" text="persische Heer zu-">
+      <Coords points="1307,1301 1307,1318 1469,1318 1469,1317 1470,1317 1509,1307 1578,1317 1579,1317 1581,1317 1610,1305 1692,1315 1693,1315 1695,1315 1696,1315 1711,1304 1711,1294 1708,1273 1515,1265 1514,1265 1512,1265 1511,1265 1511,1267 1509,1267 1503,1275 1432,1267 1430,1267 1305,1278 1307,1301" />
+      <Word id="l_0035-w_0001" text="persische" error_score="0.000" />
+      <Word id="l_0035-w_0002" text="Heer" error_score="0.000" />
+      <Word id="l_0035-w_0003" text="zu-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0036" text="grunde gehen; Milti-">
+      <Coords points="1309,1345 1309,1358 1711,1352 1712,1339 1709,1315 1610,1305 1608,1305 1607,1305 1571,1315 1490,1309 1488,1309 1434,1317 1410,1309 1408,1309 1406,1309 1405,1309 1403,1309 1389,1320 1307,1320 1309,1345" />
+      <Word id="l_0036-w_0001" text="grunde" error_score="0.000" />
+      <Word id="l_0036-w_0002" text="gehen;" error_score="0.000" />
+      <Word id="l_0036-w_0003" text="Milti-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0037" text="ades, ein Griechen-">
+      <Coords points="1310,1389 1310,1397 1695,1403 1696,1403 1698,1403 1700,1403 1714,1393 1714,1384 1711,1363 1629,1352 1628,1352 1626,1352 1624,1352 1611,1361 1584,1352 1583,1352 1581,1352 1579,1352 1578,1352 1578,1353 1576,1353 1571,1360 1543,1353 1541,1353 1539,1353 1538,1353 1538,1355 1528,1363 1475,1353 1474,1353 1472,1353 1440,1365 1349,1355 1347,1355 1345,1355 1309,1366 1310,1389" />
+      <Word id="l_0037-w_0001" text="ades," error_score="0.000" />
+      <Word id="l_0037-w_0002" text="ein" error_score="0.000" />
+      <Word id="l_0037-w_0003" text="Griechen-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0038" text="fürst vom Hellespont,">
+      <Coords points="1310,1432 1310,1442 1711,1448 1712,1432 1712,1406 1692,1398 1690,1398 1688,1398 1603,1406 1584,1397 1583,1397 1514,1397 1512,1397 1511,1397 1509,1397 1509,1398 1499,1408 1402,1408 1394,1400 1394,1398 1392,1398 1390,1398 1389,1398 1355,1405 1325,1397 1323,1397 1321,1397 1320,1397 1318,1397 1310,1403 1310,1432" />
+      <Word id="l_0038-w_0001" text="fürst" error_score="0.000" />
+      <Word id="l_0038-w_0002" text="vom" error_score="0.000" />
+      <Word id="l_0038-w_0003" text="Hellespont," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0039" text="hatte dem beigestimmt,">
+      <Coords points="1310,1477 1310,1490 1709,1493 1712,1474 1709,1450 1628,1450 1618,1440 1616,1440 1615,1440 1613,1440 1611,1440 1586,1448 1536,1440 1535,1440 1533,1440 1507,1450 1499,1442 1498,1442 1496,1442 1495,1442 1309,1446 1310,1477" />
+      <Word id="l_0039-w_0001" text="hatte" error_score="0.000" />
+      <Word id="l_0039-w_0002" text="dem" error_score="0.000" />
+      <Word id="l_0039-w_0003" text="beigestimmt," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0040" text="da dann die Griechen">
+      <Coords points="1310,1518 1310,1531 1709,1534 1712,1515 1709,1494 1559,1485 1557,1485 1555,1485 1533,1493 1511,1485 1509,1485 1507,1485 1506,1485 1480,1494 1321,1486 1320,1486 1318,1486 1317,1486 1309,1493 1310,1518" />
+      <Word id="l_0040-w_0001" text="da" error_score="0.000" />
+      <Word id="l_0040-w_0002" text="dann" error_score="0.000" />
+      <Word id="l_0040-w_0003" text="die" error_score="0.000" />
+      <Word id="l_0040-w_0004" text="Griechen" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0041" text="Kleinasiens sich vom">
+      <Coords points="1309,1565 1309,1576 1712,1578 1714,1565 1714,1542 1611,1542 1602,1533 1602,1531 1600,1531 1599,1531 1597,1531 1539,1541 1458,1531 1456,1531 1454,1531 1430,1541 1392,1531 1390,1531 1389,1531 1309,1534 1309,1565" />
+      <Word id="l_0041-w_0001" text="Kleinasiens" error_score="0.000" />
+      <Word id="l_0041-w_0002" text="sich" error_score="0.000" />
+      <Word id="l_0041-w_0003" text="vom" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0042" text="persischen Joche be-">
+      <Coords points="1310,1613 1312,1632 1337,1624 1491,1627 1493,1627 1495,1627 1512,1619 1692,1626 1693,1626 1695,1626 1716,1616 1716,1607 1712,1584 1653,1574 1652,1574 1650,1574 1648,1574 1648,1576 1640,1582 1584,1576 1583,1576 1581,1576 1562,1584 1528,1576 1527,1576 1525,1576 1523,1576 1522,1576 1507,1586 1430,1578 1429,1578 1309,1589 1310,1613" />
+      <Word id="l_0042-w_0001" text="persischen" error_score="0.000" />
+      <Word id="l_0042-w_0002" text="Joche" error_score="0.000" />
+      <Word id="l_0042-w_0003" text="be-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0043" text="freien könnten, aber">
+      <Coords points="1310,1656 1310,1667 1714,1661 1716,1650 1712,1629 1663,1619 1661,1619 1608,1629 1543,1621 1541,1621 1539,1621 1506,1629 1443,1623 1442,1623 1440,1623 1438,1623 1438,1624 1430,1631 1318,1624 1317,1624 1315,1624 1313,1624 1313,1626 1312,1626 1309,1627 1310,1656" />
+      <Word id="l_0043-w_0001" text="freien" error_score="0.000" />
+      <Word id="l_0043-w_0002" text="könnten," error_score="0.000" />
+      <Word id="l_0043-w_0003" text="aber" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0044" text="Histiäus widersprach">
+      <Coords points="1312,1699 1312,1711 1714,1709 1716,1696 1714,1671 1700,1663 1698,1663 1696,1663 1695,1663 1576,1671 1528,1663 1527,1663 1525,1663 1496,1672 1317,1664 1315,1664 1313,1664 1312,1664 1312,1666 1310,1666 1312,1699" />
+      <Word id="l_0044-w_0001" text="Histiäus" error_score="1.000" error_type="merge" />
+      <Word id="l_0044-w_0002" text="widersprach" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0045" text="und meinte umgekehrt,">
+      <Coords points="1313,1744 1313,1757 1711,1759 1714,1741 1711,1717 1363,1711 1362,1711 1312,1719 1313,1744" />
+      <Word id="l_0045-w_0001" text="und" error_score="1.000" error_type="merge" />
+      <Word id="l_0045-w_0002" text="meinte" error_score="1.000" error_type="merge" />
+      <Word id="l_0045-w_0003" text="umgekehrt," error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0046" text="die Stadtherrscher">
+      <Coords points="1313,1788 1313,1797 1703,1804 1704,1804 1706,1804 1708,1804 1717,1794 1717,1784 1714,1764 1655,1752 1653,1752 1652,1752 1650,1752 1636,1764 1568,1764 1559,1754 1559,1752 1557,1752 1555,1752 1517,1752 1515,1752 1514,1752 1512,1752 1512,1754 1511,1754 1504,1762 1456,1754 1454,1754 1453,1754 1451,1754 1451,1756 1442,1764 1323,1754 1321,1754 1320,1754 1318,1754 1318,1756 1317,1756 1312,1760 1313,1788" />
+      <Word id="l_0046-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0046-w_0002" text="Stadtherrscher" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0047" text="hätten alle Ursache,">
+      <Coords points="1313,1831 1313,1840 1366,1850 1368,1850 1435,1842 1714,1847 1716,1831 1716,1808 1682,1808 1672,1799 1672,1797 1671,1797 1669,1797 1668,1797 1666,1797 1642,1807 1591,1797 1589,1797 1587,1797 1547,1807 1507,1797 1506,1797 1504,1797 1503,1797 1466,1807 1382,1799 1381,1799 1339,1805 1331,1799 1331,1797 1329,1797 1328,1797 1326,1797 1325,1797 1313,1802 1313,1831" />
+      <Word id="l_0047-w_0001" text="hätten" error_score="1.000" error_type="merge" />
+      <Word id="l_0047-w_0002" text="alle" error_score="1.000" error_type="merge" />
+      <Word id="l_0047-w_0003" text="Ursache," error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0048" text="die Rettung des per-">
+      <Coords points="1312,1877 1312,1889 1511,1895 1512,1895 1514,1895 1544,1885 1575,1893 1576,1893 1578,1893 1716,1882 1717,1871 1712,1848 1602,1850 1571,1840 1570,1840 1568,1840 1567,1840 1565,1840 1565,1842 1555,1852 1477,1852 1406,1842 1405,1842 1403,1842 1378,1853 1323,1844 1321,1844 1320,1844 1318,1844 1310,1848 1312,1877" />
+      <Word id="l_0048-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0048-w_0002" text="Rettung" error_score="0.000" />
+      <Word id="l_0048-w_0003" text="des" error_score="0.000" />
+      <Word id="l_0048-w_0004" text="per-" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0049" text="sischen Königs und">
+      <Coords points="1313,1922 1313,1930 1443,1937 1445,1937 1446,1937 1480,1929 1525,1938 1527,1938 1717,1927 1717,1914 1716,1890 1701,1882 1700,1882 1698,1882 1696,1882 1695,1882 1685,1892 1594,1892 1563,1884 1562,1884 1560,1884 1559,1884 1557,1884 1557,1885 1549,1892 1486,1885 1485,1885 1483,1885 1482,1885 1469,1897 1405,1897 1395,1887 1394,1887 1392,1887 1390,1887 1312,1898 1313,1922" />
+      <Word id="l_0049-w_0001" text="sischen" error_score="0.000" />
+      <Word id="l_0049-w_0002" text="Königs" error_score="0.000" />
+      <Word id="l_0049-w_0003" text="und" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0050" text="Heeres zu wünschen,">
+      <Coords points="1315,1965 1315,1977 1712,1980 1716,1962 1712,1940 1660,1940 1652,1932 1652,1930 1650,1930 1648,1930 1647,1930 1645,1930 1621,1938 1578,1930 1576,1930 1511,1940 1313,1937 1315,1965" />
+      <Word id="l_0050-w_0001" text="Heeres" error_score="0.000" />
+      <Word id="l_0050-w_0002" text="zu" error_score="0.000" />
+      <Word id="l_0050-w_0003" text="wünschen," error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0051" text="da sie nur durch des">
+      <Coords points="1317,2009 1317,2020 1716,2018 1717,2004 1714,1983 1605,1973 1603,1973 1362,1985 1328,1977 1326,1977 1325,1977 1323,1977 1321,1977 1321,1978 1315,1983 1317,2009" />
+      <Word id="l_0051-w_0001" text="da" error_score="0.000" />
+      <Word id="l_0051-w_0002" text="sie" error_score="0.000" />
+      <Word id="l_0051-w_0003" text="nur" error_score="0.000" />
+      <Word id="l_0051-w_0004" text="durch" error_score="0.000" />
+      <Word id="l_0051-w_0005" text="des" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0052" text="Königs Macht in ihrer">
+      <Coords points="1315,2054 1315,2068 1717,2063 1719,2049 1716,2025 1632,2015 1631,2015 1629,2015 1599,2023 1589,2015 1587,2015 1586,2015 1584,2015 1583,2015 1581,2015 1581,2017 1579,2017 1573,2025 1461,2017 1459,2017 1458,2017 1456,2017 1443,2026 1320,2018 1318,2018 1317,2018 1315,2018 1315,2020 1313,2020 1315,2054" />
+      <Word id="l_0052-w_0001" text="Königs" error_score="0.000" />
+      <Word id="l_0052-w_0002" text="Macht" error_score="0.000" />
+      <Word id="l_0052-w_0003" text="in" error_score="0.000" />
+      <Word id="l_0052-w_0004" text="ihrer" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0053" text="Stellung geschützt">
+      <Coords points="1317,2100 1317,2108 1462,2119 1464,2119 1466,2119 1467,2119 1467,2118 1478,2106 1533,2106 1544,2116 1544,2118 1546,2118 1547,2118 1549,2119 1575,2119 1575,2118 1712,2114 1714,2114 1716,2114 1716,2113 1717,2113 1720,2108 1720,2094 1717,2073 1624,2062 1623,2062 1621,2062 1619,2062 1619,2063 1607,2074 1315,2074 1317,2100" />
+      <Word id="l_0053-w_0001" text="Stellung" error_score="0.000" />
+      <Word id="l_0053-w_0002" text="geschützt" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0054" text="würden. Ohne diesen">
+      <Coords points="1318,2143 1318,2156 1717,2156 1719,2138 1716,2118 1611,2106 1610,2106 1608,2106 1579,2118 1527,2108 1525,2108 1446,2119 1354,2110 1352,2110 1350,2110 1317,2121 1318,2143" />
+      <Word id="l_0054-w_0001" text="würden." error_score="1.000" error_type="merge" />
+      <Word id="l_0054-w_0002" text="Ohne" error_score="1.000" error_type="merge" />
+      <Word id="l_0054-w_0003" text="diesen" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0055" text="Schutz hätten die">
+      <Coords points="1318,2188 1318,2196 1394,2206 1395,2206 1451,2195 1517,2204 1519,2204 1602,2203 1603,2203 1605,2203 1605,2201 1615,2193 1652,2193 1661,2201 1661,2203 1663,2203 1664,2203 1666,2203 1717,2195 1719,2183 1716,2163 1669,2151 1668,2151 1666,2151 1664,2151 1664,2153 1655,2161 1491,2153 1490,2153 1488,2153 1486,2153 1486,2154 1477,2163 1323,2154 1321,2154 1320,2154 1318,2154 1318,2156 1317,2156 1318,2188" />
+      <Word id="l_0055-w_0001" text="Schutz" error_score="0.000" />
+      <Word id="l_0055-w_0002" text="hätten" error_score="0.000" />
+      <Word id="l_0055-w_0003" text="die" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0056" text="Bürgerschaften ihrer">
+      <Coords points="1317,2233 1317,2246 1719,2241 1720,2228 1717,2204 1315,2204 1317,2233" />
+      <Word id="l_0056-w_0001" text="Bürgerschaften" error_score="1.000" error_type="merge" />
+      <Word id="l_0056-w_0002" text="ihrer" error_score="1.000" error_type="merge" />
+    </TextLine>
+    <TextLine id="l_0057" text="Stadte sie schon längst">
+      <Coords points="1317,2279 1317,2292 1722,2284 1724,2271 1720,2249 1608,2241 1607,2241 1605,2241 1603,2241 1603,2243 1595,2249 1533,2243 1531,2243 1530,2243 1528,2243 1519,2251 1462,2244 1461,2244 1459,2244 1429,2252 1398,2244 1397,2244 1395,2244 1320,2246 1318,2246 1317,2246 1317,2247 1315,2247 1317,2279" />
+      <Word id="l_0057-w_0001" text="Stadte" error_score="0.000" />
+      <Word id="l_0057-w_0002" text="sie" error_score="0.000" />
+      <Word id="l_0057-w_0003" text="schon" error_score="0.000" />
+      <Word id="l_0057-w_0004" text="längst" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0058" text="vertrieben. So blieben">
+      <Coords points="1317,2323 1317,2336 1719,2334 1720,2316 1717,2294 1618,2284 1616,2284 1458,2295 1416,2287 1414,2287 1413,2287 1411,2287 1398,2297 1384,2291 1382,2291 1381,2291 1315,2299 1317,2323" />
+      <Word id="l_0058-w_0001" text="vertrieben." error_score="0.000" />
+      <Word id="l_0058-w_0002" text="So" error_score="0.000" />
+      <Word id="l_0058-w_0003" text="blieben" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0059" text="die Brücken erhalten">
+      <Coords points="1317,2366 1317,2377 1434,2385 1435,2385 1722,2376 1722,2363 1719,2340 1607,2331 1605,2331 1603,2331 1602,2331 1589,2339 1480,2332 1478,2332 1434,2340 1398,2332 1397,2332 1395,2332 1394,2332 1370,2340 1331,2332 1329,2332 1328,2332 1326,2332 1315,2339 1317,2366" />
+      <Word id="l_0059-w_0001" text="die" error_score="0.000" />
+      <Word id="l_0059-w_0002" text="Brücken" error_score="0.000" />
+      <Word id="l_0059-w_0003" text="erhalten" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0060" text="und Darius war gerettet. Histiäus wurde belohnt, Miltiades floh in">
+      <Coords points="418,2408 418,2420 418,2433 1717,2422 1719,2408 1716,2384 1414,2376 1413,2376 1411,2376 1392,2385 1241,2377 1240,2377 1238,2377 1237,2377 1225,2387 1195,2379 1193,2379 1192,2379 1060,2388 934,2380 932,2380 930,2380 903,2390 838,2384 836,2384 615,2392 586,2384 584,2384 583,2384 581,2384 580,2384 564,2393 469,2385 467,2385 429,2392 418,2408" />
+      <Word id="l_0060-w_0001" text="und" error_score="0.000" />
+      <Word id="l_0060-w_0002" text="Darius" error_score="0.000" />
+      <Word id="l_0060-w_0003" text="war" error_score="0.000" />
+      <Word id="l_0060-w_0004" text="gerettet." error_score="0.000" />
+      <Word id="l_0060-w_0005" text="Histiäus" error_score="0.000" />
+      <Word id="l_0060-w_0006" text="wurde" error_score="0.000" />
+      <Word id="l_0060-w_0007" text="belohnt," error_score="0.000" />
+      <Word id="l_0060-w_0008" text="Miltiades" error_score="0.000" />
+      <Word id="l_0060-w_0009" text="floh" error_score="0.000" />
+      <Word id="l_0060-w_0010" text="in" error_score="0.000" />
+    </TextLine>
+    <TextLine id="l_0061" text="seine griechische Heimat.">
+      <Coords points="416,2456 418,2464 418,2475 894,2472 894,2459 890,2436 751,2427 749,2427 748,2427 746,2427 730,2436 618,2428 616,2428 615,2428 599,2436 576,2428 575,2428 573,2428 572,2428 570,2428 560,2436 458,2430 456,2430 455,2430 423,2438 416,2456" />
+      <Word id="l_0061-w_0001" text="seine" error_score="0.000" />
+      <Word id="l_0061-w_0002" text="griechische" error_score="0.000" />
+      <Word id="l_0061-w_0003" text="Heimat." error_score="0.000" />
+    </TextLine>
+  </TextRegion>
+  <TextRegion id="r_0005" type="paragraph">
+    <Coords points="1216,1442 1233,1442 1233,1446 1209,1446 1216,1442" />
+  </TextRegion>
+  <TextRegion id="r_0006" type="paragraph">
+    <Coords points="1837,38 1892,38 1892,49 1831,62 1837,38" />
+  </TextRegion>
+  <TextRegion id="r_0007" type="paragraph">
+    <Coords points="1887,435 1887,453 1882,453 1882,435 1887,435" />
+  </TextRegion>
+  <TextRegion id="r_0008" type="paragraph">
+    <Coords points="108,1454 113,1472 102,1472 102,1454 108,1454" />
+  </TextRegion>
+  <TextRegion id="r_0009" type="paragraph">
+    <Coords points="921,2212 942,2223 990,2228 884,2235 921,2212" />
+  </TextRegion>
+  <TextRegion id="r_0010" type="paragraph">
+    <Coords points="1023,2223 1067,2223 1067,2228 1017,2228 1023,2223" />
+  </TextRegion>
+  <TextRegion id="r_0011" type="paragraph">
+    <Coords points="1030,1512 1233,1512 1233,1523 1030,1530 1030,1512" />
+  </TextRegion>
+  <TextRegion id="r_0012" type="paragraph">
+    <Coords points="1139,2217 1169,2217 1208,2228 1075,2228 1139,2217" />
+  </TextRegion>
+  <TextRegion id="r_0013" type="paragraph">
+    <Coords points="1850,2813 1881,2856 1868,2882 1831,2882 1850,2813" />
+    <TextLine id="l_0062" text="">
+      <Coords points="1839,2851 1839,2871 1839,2882 1852,2882 1866,2880 1866,2871 1865,2839 1842,2843 1839,2851" />
+    </TextLine>
+  </TextRegion>
+</Page>

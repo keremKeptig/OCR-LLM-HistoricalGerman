@@ -1,0 +1,10 @@
+{
+  "error_score": 50,
+  "errors": [
+    {
+      "bbox": [0.04, 0.07, 0.12, 0.23],
+      "class": "B",
+      "description": "Marginal notes ('Lage und Bedeutung der Stadt') are merged into the main text box instead of having their own annotation"
+    }
+  ]
+}

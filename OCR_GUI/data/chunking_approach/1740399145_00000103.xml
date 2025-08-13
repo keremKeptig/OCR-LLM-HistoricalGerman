@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Page imageFilename="1740399145_00000103.bin.png" imageHeight="2960" imageWidth="1710" orientation="0.0" overwritePageError="-1.0">
+  <TextRegion id="r_0001" type="paragraph">
+    <Coords points="645,342 808,348 821,373 781,399 822,414 1295,414 1354,440 1354,2504 1277,2524 1222,2570 1163,2530 1051,2524 105,2524 78,2504 78,427 656,407 599,379 645,342" />
+    <TextLine id="l_0001" text="— 83 —">
+      <Coords points="738,345 729,343 720,343 706,343 689,343 673,342 633,346 623,356 625,371 625,381 794,379 796,370 793,350 738,345 738,345" />
+      <Word id="l_0001-w_0001" text="—" error_score="0.389" />
+      <Word id="l_0001-w_0002" text="83" error_score="0.389" />
+      <Word id="l_0001-w_0003" text="—" error_score="0.389" />
+    </TextLine>
+    <TextLine id="l_0002" text="Beskidenzuge im engern Sinne, erheben sich ein-">
+      <Coords points="1319,425 1303,419 1296,416 1283,414 1282,414 1280,414 1250,424 1199,414 1198,414 1053,424 1033,414 1031,414 1030,414 1028,414 1008,424 989,414 987,414 985,414 916,425 803,416 758,416 757,416 755,416 753,416 740,425 222,420 217,422 200,422 184,422 167,424 151,424 134,424 118,425 102,425 85,425 87,453 87,463 352,463 408,471 409,471 411,471 441,463 715,470 717,470 719,470 747,462 757,470 758,470 760,470 762,471 901,471 901,470 903,470 905,470 921,460 954,468 956,468 957,470 1094,470 1094,468 1096,468 1097,468 1109,460 1303,468 1305,468 1306,468 1338,458 1338,448 1334,432 1319,425" />
+      <Word id="l_0002-w_0001" text="Beskidenzuge" error_score="0.389" />
+      <Word id="l_0002-w_0002" text="im" error_score="0.389" />
+      <Word id="l_0002-w_0003" text="engern" error_score="0.389" />
+      <Word id="l_0002-w_0004" text="Sinne," error_score="0.389" />
+      <Word id="l_0002-w_0005" text="erheben" error_score="0.389" />
+      <Word id="l_0002-w_0006" text="sich" error_score="0.389" />
+      <Word id="l_0002-w_0007" text="ein-" error_score="0.389" />
+    </TextLine>
+    <TextLine id="l_0003" text="zelne Kuppen über 1500 m (Babia gora 1725 m). Der Zug">
+      <Coords points="87,504 87,514 264,524 266,524 363,516 566,524 567,524 569,524 571,524 582,516 605,524 607,524 608,524 610,524 640,516 659,524 661,524 663,524 763,516 829,524 831,524 885,516 1007,524 1008,524 1050,516 1091,524 1092,524 1132,516 1338,519 1339,504 1339,478 1282,467 1280,467 1278,467 1242,478 1201,478 1188,467 1186,467 1184,467 1183,467 1181,467 1147,476 1109,467 1107,467 1105,467 1056,476 1041,467 1040,467 1038,467 969,467 967,467 966,467 964,467 951,478 811,478 742,467 740,467 738,467 709,476 664,467 663,467 661,467 659,467 646,478 589,478 576,467 574,467 572,467 503,467 501,467 500,467 498,467 485,478 437,478 413,467 411,467 409,467 408,467 381,478 263,478 213,467 212,467 210,467 169,476 138,467 136,467 134,467 87,476 87,504" />
+      <Word id="l_0003-w_0001" text="zelne" error_score="0.108" />
+      <Word id="l_0003-w_0002" text="Kuppen" error_score="0.108" />
+      <Word id="l_0003-w_0003" text="über" error_score="0.108" />
+      <Word id="l_0003-w_0004" text="1500" error_score="0.108" />
+      <Word id="l_0003-w_0005" text="m" error_score="0.108" />
+      <Word id="l_0003-w_0006" text="(Babia" error_score="0.108" />
+      <Word id="l_0003-w_0007" text="gora" error_score="0.108" />
+      <Word id="l_0003-w_0008" text="1725" error_score="0.108" />
+      <Word id="l_0003-w_0009" text="m)." error_score="0.108" />
+      <Word id="l_0003-w_0010" text="Der" error_score="0.108" />
+      <Word id="l_0003-w_0011" text="Zug" error_score="0.019" />
+    </TextLine>
+    <TextLine id="l_0004" text="der Westbeskiden zeigt schon vielfach Hochgebirgscharakter,">
+      <Coords points="87,557 87,567 1339,570 1341,557 1341,529 1250,519 1249,519 1181,527 1170,519 1168,519 1166,519 1165,519 1087,527 1048,519 1046,519 997,527 984,519 982,519 980,519 979,519 977,519 952,527 901,519 900,519 898,519 878,527 859,519 857,519 855,519 854,519 832,527 757,519 755,519 753,519 752,519 742,529 656,529 638,519 636,519 635,519 569,527 518,519 516,519 421,527 340,519 339,519 297,527 271,519 269,519 268,519 266,519 236,527 181,519 179,519 136,527 110,519 108,519 106,519 105,519 87,527 87,557" />
+      <Word id="l_0004-w_0001" text="der" error_score="0.019" />
+      <Word id="l_0004-w_0002" text="Westbeskiden" error_score="0.019" />
+      <Word id="l_0004-w_0003" text="zeigt" error_score="0.019" />
+      <Word id="l_0004-w_0004" text="schon" error_score="0.019" />
+      <Word id="l_0004-w_0005" text="vielfach" error_score="0.019" />
+      <Word id="l_0004-w_0006" text="Hochgebirgscharakter," error_score="0.019" />
+    </TextLine>
+    <TextLine id="l_0005" text="da seine Gipfel über die Krummholzregion hinausragen. Er">
+      <Coords points="87,610 87,621 1341,621 1341,610 1341,582 1315,572 1313,572 1311,572 1310,572 1272,583 1073,583 1046,572 1045,572 1043,572 1041,572 1000,582 933,572 931,572 862,580 832,572 831,572 829,572 827,572 808,582 786,572 785,572 783,572 714,582 645,572 643,572 641,572 612,582 572,572 571,572 569,572 567,572 566,572 552,583 487,583 449,572 447,572 446,572 444,572 424,582 413,572 411,572 409,572 301,572 299,572 297,572 296,572 283,583 243,583 213,572 212,572 210,572 138,582 108,572 106,572 105,572 103,572 102,572 87,580 87,610" />
+      <Word id="l_0005-w_0001" text="da" error_score="0.019" />
+      <Word id="l_0005-w_0002" text="seine" error_score="0.019" />
+      <Word id="l_0005-w_0003" text="Gipfel" error_score="0.019" />
+      <Word id="l_0005-w_0004" text="über" error_score="0.006" />
+      <Word id="l_0005-w_0005" text="die" error_score="0.006" />
+      <Word id="l_0005-w_0006" text="Krummholzregion" error_score="0.006" />
+      <Word id="l_0005-w_0007" text="hinausragen." error_score="0.006" />
+      <Word id="l_0005-w_0008" text="Er" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0006" text="wird durch zahlreiche, nach allen Richtungen sich öffnende">
+      <Coords points="88,662 88,674 1341,670 1342,659 1341,634 1308,624 1306,624 1305,624 1303,624 1301,624 1288,633 1199,623 1198,623 1135,633 1122,623 1120,623 1119,623 1117,623 1030,633 817,623 816,623 814,623 786,633 719,623 717,623 715,623 694,634 655,624 653,624 651,624 650,624 623,634 386,624 385,624 324,634 311,624 309,624 307,624 222,624 220,624 218,624 195,634 184,624 182,624 181,624 128,624 126,624 125,624 87,636 88,662" />
+      <Word id="l_0006-w_0001" text="wird" error_score="0.006" />
+      <Word id="l_0006-w_0002" text="durch" error_score="0.006" />
+      <Word id="l_0006-w_0003" text="zahlreiche," error_score="0.006" />
+      <Word id="l_0006-w_0004" text="nach" error_score="0.006" />
+      <Word id="l_0006-w_0005" text="allen" error_score="0.006" />
+      <Word id="l_0006-w_0006" text="Richtungen" error_score="0.064" />
+      <Word id="l_0006-w_0007" text="sich" error_score="0.064" />
+      <Word id="l_0006-w_0008" text="öffnende" error_score="0.064" />
+    </TextLine>
+    <TextLine id="l_0007" text="Täler reichlich gegliedert und ist so durch mehrere Pässe">
+      <Coords points="90,715 90,725 1341,725 1341,715 1341,689 1265,677 1224,677 1222,677 1221,677 1219,677 1206,689 1117,689 1104,677 1102,677 1101,677 1099,677 1031,687 992,677 990,677 989,677 943,685 908,677 906,677 905,677 903,677 901,677 888,689 798,689 785,677 783,677 781,677 780,677 732,687 710,677 709,677 707,677 706,677 684,689 617,689 604,677 602,677 600,677 599,677 597,677 574,685 548,677 546,677 544,677 543,677 541,677 529,687 510,677 508,677 506,677 416,687 376,677 375,677 373,677 217,687 90,680 90,715" />
+      <Word id="l_0007-w_0001" text="Täler" error_score="0.064" />
+      <Word id="l_0007-w_0002" text="reichlich" error_score="0.064" />
+      <Word id="l_0007-w_0003" text="gegliedert" error_score="0.064" />
+      <Word id="l_0007-w_0004" text="und" error_score="0.064" />
+      <Word id="l_0007-w_0005" text="ist" error_score="0.064" />
+      <Word id="l_0007-w_0006" text="so" error_score="0.064" />
+      <Word id="l_0007-w_0007" text="durch" error_score="0.064" />
+      <Word id="l_0007-w_0008" text="mehrere" error_score="0.843" error_type="error" />
+      <Word id="l_0007-w_0009" text="Pässe" error_score="0.843" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0008" text="gangbar. Unter ihnen hat der Jablunkapass (551 m), die">
+      <Coords points="87,769 87,782 697,784 699,784 701,784 702,784 714,776 724,784 725,784 727,784 729,786 972,786 972,784 974,784 975,784 987,776 1076,776 1087,784 1089,784 1091,784 1092,786 1163,786 1163,784 1165,784 1184,776 1254,784 1255,784 1257,784 1259,784 1270,776 1328,784 1329,784 1331,784 1333,784 1342,774 1342,766 1341,738 1308,728 1306,728 1305,728 1303,728 1278,736 1096,728 1094,728 1092,728 1091,728 1079,738 923,738 900,728 898,728 896,728 895,728 862,736 788,728 786,728 785,728 760,736 738,728 737,728 735,728 734,728 710,738 668,730 666,730 664,730 646,738 613,730 612,730 610,730 483,738 426,730 424,730 422,730 403,738 286,730 284,730 283,730 251,738 182,730 181,730 85,740 87,769" />
+      <Word id="l_0008-w_0001" text="gangbar." error_score="0.843" error_type="error" />
+      <Word id="l_0008-w_0002" text="Unter" error_score="0.843" error_type="error" />
+      <Word id="l_0008-w_0003" text="ihnen" error_score="0.843" error_type="error" />
+      <Word id="l_0008-w_0004" text="hat" error_score="0.843" error_type="error" />
+      <Word id="l_0008-w_0005" text="der" error_score="0.843" error_type="error" />
+      <Word id="l_0008-w_0006" text="Jablunkapass" error_score="0.843" error_type="error" />
+      <Word id="l_0008-w_0007" text="(551" error_score="0.843" error_type="error" />
+      <Word id="l_0008-w_0008" text="m)," error_score="0.843" error_type="error" />
+      <Word id="l_0008-w_0009" text="die" error_score="0.840" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0009" text="alte Heeresstrasse aus Ungarn nach Schlesien, besondere Be-">
+      <Coords points="87,815 85,827 92,833 92,835 93,835 95,835 97,835 709,828 717,835 717,837 719,837 720,837 722,837 1339,828 1341,818 1339,792 1290,782 1288,782 1249,790 1184,782 1043,782 1041,782 1040,782 1038,782 1026,790 964,782 962,782 961,782 933,790 913,782 911,782 910,782 610,789 592,781 590,781 589,781 539,789 343,781 342,781 340,781 314,789 215,781 213,781 87,787 87,815" />
+      <Word id="l_0009-w_0001" text="alte" error_score="0.840" error_type="error" />
+      <Word id="l_0009-w_0002" text="Heeresstrasse" error_score="0.840" error_type="error" />
+      <Word id="l_0009-w_0003" text="aus" error_score="0.840" error_type="error" />
+      <Word id="l_0009-w_0004" text="Ungarn" error_score="0.840" error_type="error" />
+      <Word id="l_0009-w_0005" text="nach" error_score="0.840" error_type="error" />
+      <Word id="l_0009-w_0006" text="Schlesien," error_score="0.840" error_type="error" />
+      <Word id="l_0009-w_0007" text="besondere" error_score="0.840" error_type="error" />
+      <Word id="l_0009-w_0008" text="Be-" error_score="0.840" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0010" text="deutung. Ihr folgt heute auch die Bahnlinie Zsolna (Sillein) —">
+      <Coords points="85,869 85,883 1336,883 1336,869 1336,843 1273,833 1272,833 485,841 464,833 462,833 460,833 459,833 457,833 444,841 355,833 353,833 314,841 279,833 278,833 276,833 274,833 273,833 263,843 184,843 172,833 171,833 169,833 167,833 166,833 136,841 108,833 106,833 105,833 103,833 85,841 85,869" />
+      <Word id="l_0010-w_0001" text="deutung." error_score="0.840" error_type="error" />
+      <Word id="l_0010-w_0002" text="Ihr" error_score="0.292" />
+      <Word id="l_0010-w_0003" text="folgt" error_score="0.292" />
+      <Word id="l_0010-w_0004" text="heute" error_score="0.292" />
+      <Word id="l_0010-w_0005" text="auch" error_score="0.292" />
+      <Word id="l_0010-w_0006" text="die" error_score="0.292" />
+      <Word id="l_0010-w_0007" text="Bahnlinie" error_score="0.292" />
+      <Word id="l_0010-w_0008" text="Zsolna" error_score="0.292" />
+      <Word id="l_0010-w_0009" text="(Sillein)" error_score="0.292" />
+      <Word id="l_0010-w_0010" text="—" error_score="0.292" />
+    </TextLine>
+    <TextLine id="l_0011" text="Oderberg, welche die Verbindung zwischen dem Bahnnetz">
+      <Coords points="87,922 87,932 245,942 246,942 296,934 1328,942 1329,942 1331,942 1333,942 1342,934 1342,922 1342,896 1308,886 1306,886 1305,886 1303,886 1277,896 1217,886 1155,886 1153,886 1152,886 1150,886 1137,896 1059,886 1058,886 1056,886 1035,897 964,897 951,886 949,886 947,886 946,886 944,886 920,896 895,886 893,886 892,886 827,897 750,897 725,886 724,886 722,886 720,886 719,886 702,896 676,886 674,886 673,886 623,896 607,886 605,886 604,886 602,886 600,886 559,896 521,886 520,886 518,886 516,886 482,896 419,886 418,886 215,896 202,886 200,886 199,886 197,886 195,886 167,894 98,886 97,886 95,886 93,886 87,891 87,922" />
+      <Word id="l_0011-w_0001" text="Oderberg," error_score="0.292" />
+      <Word id="l_0011-w_0002" text="welche" error_score="0.042" />
+      <Word id="l_0011-w_0003" text="die" error_score="0.042" />
+      <Word id="l_0011-w_0004" text="Verbindung" error_score="0.042" />
+      <Word id="l_0011-w_0005" text="zwischen" error_score="0.042" />
+      <Word id="l_0011-w_0006" text="dem" error_score="0.042" />
+      <Word id="l_0011-w_0007" text="Bahnnetz" error_score="0.042" />
+    </TextLine>
+    <TextLine id="l_0012" text="Nordungarns und dem österreichischen sowie dem preussischen">
+      <Coords points="87,975 87,989 1339,986 1341,971 1338,947 85,942 87,975" />
+      <Word id="l_0012-w_0001" text="Nordungarns" error_score="0.042" />
+      <Word id="l_0012-w_0002" text="und" error_score="0.042" />
+      <Word id="l_0012-w_0003" text="dem" error_score="0.042" />
+      <Word id="l_0012-w_0004" text="österreichischen" error_score="0.042" />
+      <Word id="l_0012-w_0005" text="sowie" error_score="0.066" />
+      <Word id="l_0012-w_0006" text="dem" error_score="0.066" />
+      <Word id="l_0012-w_0007" text="preussischen" error_score="0.066" />
+    </TextLine>
+    <TextLine id="l_0013" text="in nördlicher Richtung herstellt.">
+      <Coords points="88,1026 87,1036 730,1039 734,1029 734,1001 712,991 710,991 709,991 490,999 406,989 404,989 357,999 306,999 297,991 297,989 296,989 294,989 292,989 88,996 88,1026" />
+      <Word id="l_0013-w_0001" text="in" error_score="0.066" />
+      <Word id="l_0013-w_0002" text="nördlicher" error_score="0.066" />
+      <Word id="l_0013-w_0003" text="Richtung" error_score="0.066" />
+      <Word id="l_0013-w_0004" text="herstellt." error_score="0.066" />
+    </TextLine>
+    <TextLine id="l_0014" text="Von der Babia gora an senkt sich die Sandstein- und">
+      <Coords points="190,1078 190,1090 207,1098 209,1098 210,1098 276,1090 304,1098 306,1098 307,1098 363,1090 390,1098 391,1098 393,1100 497,1100 497,1098 498,1098 500,1098 508,1090 520,1098 521,1098 523,1098 525,1100 610,1100 610,1098 612,1098 613,1098 622,1090 645,1098 646,1098 648,1098 692,1090 719,1098 720,1098 722,1100 811,1100 811,1098 813,1098 814,1098 824,1090 847,1098 849,1098 850,1100 916,1100 916,1098 918,1098 920,1098 928,1090 957,1098 959,1098 961,1098 1012,1090 1038,1098 1040,1098 1041,1098 1344,1088 1344,1078 1344,1052 190,1045 190,1078" />
+      <Word id="l_0014-w_0001" text="Von" error_score="0.066" />
+      <Word id="l_0014-w_0002" text="der" error_score="0.066" />
+      <Word id="l_0014-w_0003" text="Babia" error_score="0.066" />
+      <Word id="l_0014-w_0004" text="gora" error_score="0.047" />
+      <Word id="l_0014-w_0005" text="an" error_score="0.047" />
+      <Word id="l_0014-w_0006" text="senkt" error_score="0.047" />
+      <Word id="l_0014-w_0007" text="sich" error_score="0.047" />
+      <Word id="l_0014-w_0008" text="die" error_score="0.047" />
+      <Word id="l_0014-w_0009" text="Sandstein-" error_score="0.047" />
+      <Word id="l_0014-w_0010" text="und" error_score="0.047" />
+    </TextLine>
+    <TextLine id="l_0015" text="Klippenzone, wodurch auch die Wasserscheide auf die kri-">
+      <Coords points="85,1133 85,1142 337,1151 339,1151 340,1151 342,1151 352,1142 556,1142 617,1151 618,1151 742,1141 1135,1149 1137,1149 1138,1149 1168,1141 1222,1149 1224,1149 1226,1149 1254,1141 1291,1149 1293,1149 1341,1139 1342,1129 1341,1105 1313,1093 1311,1093 1310,1093 1308,1093 1285,1101 1263,1093 1262,1093 1260,1093 1259,1093 1257,1093 1245,1103 1206,1093 1204,1093 1203,1093 1201,1093 1171,1103 1138,1093 1137,1093 1135,1093 1133,1093 1112,1105 1048,1105 1031,1093 1030,1093 1028,1093 1026,1093 974,1103 959,1093 957,1093 956,1093 954,1093 952,1093 928,1105 834,1105 816,1093 814,1093 813,1093 768,1093 766,1093 765,1093 763,1093 750,1103 694,1095 692,1095 691,1095 689,1095 678,1105 640,1095 638,1095 636,1095 562,1105 523,1095 521,1095 520,1095 470,1103 441,1095 439,1095 437,1095 436,1095 434,1095 421,1105 172,1105 149,1095 148,1095 146,1095 83,1101 85,1133" />
+      <Word id="l_0015-w_0001" text="Klippenzone," error_score="0.047" />
+      <Word id="l_0015-w_0002" text="wodurch" error_score="0.047" />
+      <Word id="l_0015-w_0003" text="auch" error_score="0.047" />
+      <Word id="l_0015-w_0004" text="die" error_score="0.069" />
+      <Word id="l_0015-w_0005" text="Wasserscheide" error_score="0.069" />
+      <Word id="l_0015-w_0006" text="auf" error_score="0.069" />
+      <Word id="l_0015-w_0007" text="die" error_score="0.069" />
+      <Word id="l_0015-w_0008" text="kri-" error_score="0.069" />
+    </TextLine>
+    <TextLine id="l_0016" text="stallinische Zentralzone zurückweicht. In zickzackförmigem Laufe">
+      <Coords points="87,1184 87,1198 1341,1195 1342,1180 1339,1154 729,1146 727,1146 725,1146 724,1146 709,1154 116,1147 115,1147 113,1147 85,1156 87,1184" />
+      <Word id="l_0016-w_0001" text="stallinische" error_score="0.069" />
+      <Word id="l_0016-w_0002" text="Zentralzone" error_score="0.069" />
+      <Word id="l_0016-w_0003" text="zurückweicht." error_score="0.069" />
+      <Word id="l_0016-w_0004" text="In" error_score="0.069" />
+      <Word id="l_0016-w_0005" text="zickzackförmigem" error_score="0.069" />
+      <Word id="l_0016-w_0006" text="Laufe" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0017" text="brechen deshalb der Dunajecz und der Poprad. welche sich zur">
+      <Coords points="87,1236 87,1249 1341,1246 1342,1233 1339,1208 1255,1208 1240,1198 1239,1198 1237,1198 1236,1198 1234,1198 1232,1198 1221,1207 1208,1198 1206,1198 1204,1198 1203,1198 1201,1198 1199,1198 1188,1208 1105,1208 1091,1198 1089,1198 1087,1198 1086,1198 1084,1198 1082,1198 1071,1208 1005,1208 959,1198 957,1198 906,1207 860,1198 859,1198 821,1207 796,1198 794,1198 793,1198 791,1198 768,1207 747,1198 745,1198 743,1198 742,1198 706,1208 612,1200 610,1200 608,1200 579,1208 525,1200 523,1200 467,1208 447,1200 446,1200 444,1200 442,1200 421,1208 398,1200 396,1200 394,1200 85,1207 87,1236" />
+      <Word id="l_0017-w_0001" text="brechen" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0002" text="deshalb" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0003" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0004" text="Dunajecz" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0005" text="und" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0006" text="der" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0007" text="Poprad." error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0008" text="welche" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0009" text="sich" error_score="1.000" error_type="error" />
+      <Word id="l_0017-w_0010" text="zur" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0018" text="Weichsel wenden, durch den Sandsteinzug. Vor seinem Durch-">
+      <Coords points="90,1289 90,1302 1341,1299 1342,1285 1339,1261 1296,1251 1295,1251 1293,1251 1272,1259 1217,1251 1216,1251 1214,1251 1181,1259 1096,1251 1094,1251 1092,1251 1091,1251 1079,1259 997,1251 995,1251 954,1259 684,1253 683,1253 681,1253 679,1253 669,1261 622,1253 620,1253 618,1253 597,1261 566,1253 564,1253 562,1253 561,1253 534,1261 490,1253 488,1253 487,1253 469,1261 394,1253 393,1253 288,1261 274,1253 273,1253 271,1253 269,1253 268,1253 236,1261 204,1253 202,1253 200,1253 88,1254 90,1289" />
+      <Word id="l_0018-w_0001" text="Weichsel" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0002" text="wenden," error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0003" text="durch" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0004" text="den" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0005" text="Sandsteinzug." error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0006" text="Vor" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0007" text="seinem" error_score="1.000" error_type="error" />
+      <Word id="l_0018-w_0008" text="Durch-" error_score="1.000" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0019" text="bruch fliesst der Dunajecz im Längstal von Neumarkt in Galizien,">
+      <Coords points="87,1343 87,1355 1339,1356 1341,1343 1341,1313 87,1312 87,1343" />
+      <Word id="l_0019-w_0001" text="bruch" error_score="1.000" error_type="error" />
+      <Word id="l_0019-w_0002" text="fliesst" error_score="0.858" error_type="error" />
+      <Word id="l_0019-w_0003" text="der" error_score="0.858" error_type="error" />
+      <Word id="l_0019-w_0004" text="Dunajecz" error_score="0.858" error_type="error" />
+      <Word id="l_0019-w_0005" text="im" error_score="0.858" error_type="error" />
+      <Word id="l_0019-w_0006" text="Längstal" error_score="0.858" error_type="error" />
+      <Word id="l_0019-w_0007" text="von" error_score="0.858" error_type="error" />
+      <Word id="l_0019-w_0008" text="Neumarkt" error_score="0.858" error_type="error" />
+      <Word id="l_0019-w_0009" text="in" error_score="0.858" error_type="error" />
+      <Word id="l_0019-w_0010" text="Galizien," error_score="0.858" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0020" text="welches die kristallinische Zentralzone von dem Sandsteingebirge">
+      <Coords points="88,1392 87,1406 1336,1409 1339,1396 1338,1368 88,1364 88,1392" />
+      <Word id="l_0020-w_0001" text="welches" error_score="0.858" error_type="error" />
+      <Word id="l_0020-w_0002" text="die" error_score="0.386" />
+      <Word id="l_0020-w_0003" text="kristallinische" error_score="0.386" />
+      <Word id="l_0020-w_0004" text="Zentralzone" error_score="0.386" />
+      <Word id="l_0020-w_0005" text="von" error_score="0.386" />
+      <Word id="l_0020-w_0006" text="dem" error_score="0.386" />
+      <Word id="l_0020-w_0007" text="Sandsteingebirge" error_score="0.386" />
+    </TextLine>
+    <TextLine id="l_0021" text="scheidet. Nach Westen zu wird dieser Längstalzug von der">
+      <Coords points="85,1448 85,1458 710,1465 712,1465 913,1456 1152,1465 1153,1465 1155,1465 1180,1456 1244,1465 1245,1465 1247,1465 1265,1456 1324,1465 1326,1465 1328,1465 1329,1465 1341,1455 1341,1445 1338,1420 1291,1410 1290,1410 1288,1410 1270,1420 1097,1420 1074,1410 1073,1410 1071,1410 989,1419 921,1410 920,1410 918,1410 916,1410 906,1420 834,1420 788,1410 786,1410 785,1410 757,1419 734,1410 732,1410 730,1410 678,1420 131,1412 130,1412 83,1422 85,1448" />
+      <Word id="l_0021-w_0001" text="scheidet." error_score="0.386" />
+      <Word id="l_0021-w_0002" text="Nach" error_score="0.386" />
+      <Word id="l_0021-w_0003" text="Westen" error_score="0.386" />
+      <Word id="l_0021-w_0004" text="zu" error_score="0.386" />
+      <Word id="l_0021-w_0005" text="wird" error_score="0.084" />
+      <Word id="l_0021-w_0006" text="dieser" error_score="0.084" />
+      <Word id="l_0021-w_0007" text="Längstalzug" error_score="0.084" />
+      <Word id="l_0021-w_0008" text="von" error_score="0.084" />
+      <Word id="l_0021-w_0009" text="der" error_score="0.084" />
+    </TextLine>
+    <TextLine id="l_0022" text="Arva, welche zur Waag fliesst, benützt. Derselben Längsfurche">
+      <Coords points="83,1499 83,1514 1339,1514 1341,1499 1339,1473 1296,1463 1295,1463 1293,1463 1268,1471 1227,1463 1226,1463 1224,1463 1191,1471 1130,1463 1129,1463 1082,1471 892,1463 890,1463 888,1463 887,1463 875,1473 743,1473 724,1463 722,1463 720,1463 719,1463 697,1471 687,1463 686,1463 684,1463 683,1463 631,1471 579,1463 577,1463 510,1471 446,1463 444,1463 325,1471 271,1463 269,1463 149,1471 97,1463 95,1463 93,1463 92,1463 83,1468 83,1499" />
+      <Word id="l_0022-w_0001" text="Arva," error_score="0.084" />
+      <Word id="l_0022-w_0002" text="welche" error_score="0.084" />
+      <Word id="l_0022-w_0003" text="zur" error_score="0.084" />
+      <Word id="l_0022-w_0004" text="Waag" error_score="0.084" />
+      <Word id="l_0022-w_0005" text="fliesst," error_score="0.084" />
+      <Word id="l_0022-w_0006" text="benützt." error_score="0.007" />
+      <Word id="l_0022-w_0007" text="Derselben" error_score="0.007" />
+      <Word id="l_0022-w_0008" text="Längsfurche" error_score="0.007" />
+    </TextLine>
+    <TextLine id="l_0023" text="folgt auch die Verbindungsbahn, welche aus dem Tal der Arva">
+      <Coords points="85,1549 83,1560 1338,1563 1341,1552 1339,1526 1005,1516 1003,1516 1002,1516 1000,1516 989,1526 860,1526 806,1516 804,1516 719,1524 684,1514 683,1514 681,1514 679,1514 651,1522 638,1514 636,1514 635,1514 633,1514 582,1522 534,1514 533,1514 531,1514 510,1522 488,1514 487,1514 485,1514 434,1522 416,1514 414,1514 413,1514 373,1522 345,1514 343,1514 342,1514 340,1514 312,1522 274,1514 273,1514 271,1514 250,1522 136,1514 134,1514 85,1521 85,1549" />
+      <Word id="l_0023-w_0001" text="folgt" error_score="0.007" />
+      <Word id="l_0023-w_0002" text="auch" error_score="0.007" />
+      <Word id="l_0023-w_0003" text="die" error_score="0.007" />
+      <Word id="l_0023-w_0004" text="Verbindungsbahn," error_score="0.007" />
+      <Word id="l_0023-w_0005" text="welche" error_score="0.007" />
+      <Word id="l_0023-w_0006" text="aus" error_score="0.007" />
+      <Word id="l_0023-w_0007" text="dem" error_score="0.007" />
+      <Word id="l_0023-w_0008" text="Tal" error_score="0.370" />
+      <Word id="l_0023-w_0009" text="der" error_score="0.370" />
+      <Word id="l_0023-w_0010" text="Arva" error_score="0.370" />
+    </TextLine>
+    <TextLine id="l_0024" text="über Neumarkt nach Galizien führt. Zwischen der Arva und">
+      <Coords points="87,1604 87,1616 1341,1613 1342,1601 1341,1573 1331,1565 1329,1565 1328,1565 1326,1565 1324,1565 1323,1565 1310,1573 1147,1565 1145,1565 1097,1573 1076,1565 1074,1565 1073,1565 1071,1565 1069,1565 1058,1575 980,1575 962,1565 961,1565 959,1565 957,1565 934,1573 911,1565 910,1565 908,1565 906,1565 905,1565 895,1573 849,1565 847,1565 768,1573 714,1565 712,1565 710,1565 709,1565 696,1575 638,1567 636,1567 396,1575 350,1567 348,1567 347,1567 311,1575 197,1567 195,1567 141,1575 102,1567 100,1567 98,1567 97,1567 85,1573 87,1604" />
+      <Word id="l_0024-w_0001" text="über" error_score="0.370" />
+      <Word id="l_0024-w_0002" text="Neumarkt" error_score="0.370" />
+      <Word id="l_0024-w_0003" text="nach" error_score="0.370" />
+      <Word id="l_0024-w_0004" text="Galizien" error_score="0.370" />
+      <Word id="l_0024-w_0005" text="führt." error_score="0.370" />
+      <Word id="l_0024-w_0006" text="Zwischen" error_score="0.370" />
+      <Word id="l_0024-w_0007" text="der" error_score="0.370" />
+      <Word id="l_0024-w_0008" text="Arva" error_score="0.917" error_type="error" />
+      <Word id="l_0024-w_0009" text="und" error_score="0.917" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0025" text="dem Dunajecz wie dort, wo die Bahn von Kassa (Kaschau) nach">
+      <Coords points="87,1657 87,1670 1341,1670 1341,1657 1341,1629 87,1629 87,1657" />
+      <Word id="l_0025-w_0001" text="dem" error_score="0.917" error_type="error" />
+      <Word id="l_0025-w_0002" text="Dunajecz" error_score="0.917" error_type="error" />
+      <Word id="l_0025-w_0003" text="wie" error_score="0.917" error_type="error" />
+      <Word id="l_0025-w_0004" text="dort," error_score="0.917" error_type="error" />
+      <Word id="l_0025-w_0005" text="wo" error_score="0.917" error_type="error" />
+      <Word id="l_0025-w_0006" text="die" error_score="0.917" error_type="error" />
+      <Word id="l_0025-w_0007" text="Bahn" error_score="0.917" error_type="error" />
+      <Word id="l_0025-w_0008" text="von" error_score="0.917" error_type="error" />
+      <Word id="l_0025-w_0009" text="Kassa" error_score="0.612" error_type="error" />
+      <Word id="l_0025-w_0010" text="(Kaschau)" error_score="0.612" error_type="error" />
+      <Word id="l_0025-w_0011" text="nach" error_score="0.612" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0026" text="Neu-Sandec in Galizien aus dem Tal des Poprad in das der">
+      <Coords points="87,1710 87,1721 1339,1718 1341,1706 1338,1682 1288,1670 1287,1670 1285,1670 1283,1670 1270,1680 1196,1670 1194,1670 1193,1670 1191,1670 1176,1680 1115,1670 1114,1670 1112,1670 1110,1670 1099,1680 1074,1670 1073,1670 1071,1670 994,1680 967,1670 966,1670 964,1670 962,1670 929,1680 878,1670 877,1670 875,1670 855,1680 832,1670 831,1670 829,1670 710,1682 694,1672 692,1672 691,1672 689,1672 687,1672 668,1682 513,1672 411,1672 409,1672 408,1672 406,1672 394,1682 358,1672 357,1672 355,1672 353,1672 334,1682 281,1672 279,1672 278,1672 258,1680 210,1672 209,1672 207,1672 174,1682 126,1672 125,1672 85,1678 87,1710" />
+      <Word id="l_0026-w_0001" text="Neu-Sandec" error_score="0.612" error_type="error" />
+      <Word id="l_0026-w_0002" text="in" error_score="0.612" error_type="error" />
+      <Word id="l_0026-w_0003" text="Galizien" error_score="0.612" error_type="error" />
+      <Word id="l_0026-w_0004" text="aus" error_score="0.612" error_type="error" />
+      <Word id="l_0026-w_0005" text="dem" error_score="0.612" error_type="error" />
+      <Word id="l_0026-w_0006" text="Tal" error_score="0.612" error_type="error" />
+      <Word id="l_0026-w_0007" text="des" error_score="0.612" error_type="error" />
+      <Word id="l_0026-w_0008" text="Poprad" error_score="0.592" error_type="error" />
+      <Word id="l_0026-w_0009" text="in" error_score="0.592" error_type="error" />
+      <Word id="l_0026-w_0010" text="das" error_score="0.592" error_type="error" />
+      <Word id="l_0026-w_0011" text="der" error_score="0.592" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0027" text="Tarcza hinüberführt, sind demnach nur flache Talwasserscheiden">
+      <Coords points="90,1761 90,1777 1342,1777 1342,1761 1342,1734 90,1729 90,1761" />
+      <Word id="l_0027-w_0001" text="Tarcza" error_score="0.592" error_type="error" />
+      <Word id="l_0027-w_0002" text="hinüberführt," error_score="0.592" error_type="error" />
+      <Word id="l_0027-w_0003" text="sind" error_score="0.592" error_type="error" />
+      <Word id="l_0027-w_0004" text="demnach" error_score="0.592" error_type="error" />
+      <Word id="l_0027-w_0005" text="nur" error_score="0.592" error_type="error" />
+      <Word id="l_0027-w_0006" text="flache" error_score="0.592" error_type="error" />
+      <Word id="l_0027-w_0007" text="Talwasserscheiden" error_score="0.057" />
+    </TextLine>
+    <TextLine id="l_0028" text="vorhanden und diese seltene Anordnung öffnet das Gebirge in">
+      <Coords points="87,1815 87,1828 1341,1828 1341,1815 1341,1787 1308,1779 1306,1779 1305,1779 1303,1779 1283,1787 916,1779 915,1779 913,1779 911,1779 900,1789 813,1789 783,1779 781,1779 780,1779 727,1787 686,1779 684,1779 610,1787 567,1779 566,1779 464,1787 421,1779 419,1779 418,1779 398,1787 376,1779 375,1779 373,1779 371,1779 370,1779 358,1789 291,1789 236,1779 235,1779 177,1787 156,1779 154,1779 153,1779 87,1787 87,1815" />
+      <Word id="l_0028-w_0001" text="vorhanden" error_score="0.057" />
+      <Word id="l_0028-w_0002" text="und" error_score="0.057" />
+      <Word id="l_0028-w_0003" text="diese" error_score="0.057" />
+      <Word id="l_0028-w_0004" text="seltene" error_score="0.057" />
+      <Word id="l_0028-w_0005" text="Anordnung" error_score="0.057" />
+      <Word id="l_0028-w_0006" text="öffnet" error_score="0.057" />
+      <Word id="l_0028-w_0007" text="das" error_score="0.057" />
+      <Word id="l_0028-w_0008" text="Gebirge" error_score="0.057" />
+      <Word id="l_0028-w_0009" text="in" error_score="0.057" />
+    </TextLine>
+    <TextLine id="l_0029" text="der Längs- und in der Querrichtung. Die leichte Zugänglichkeit">
+      <Coords points="85,1864 83,1876 763,1887 765,1887 1341,1879 1342,1868 1342,1838 1333,1830 1331,1830 1329,1830 1328,1830 1287,1838 1275,1830 1273,1830 1272,1830 1270,1830 1165,1838 1124,1830 1122,1830 1120,1830 1094,1838 1048,1830 1046,1830 1045,1830 1015,1838 911,1830 910,1830 908,1830 882,1838 819,1830 817,1830 816,1830 814,1830 804,1840 730,1840 691,1828 689,1828 687,1828 618,1836 564,1828 562,1828 561,1828 531,1836 482,1828 480,1828 478,1828 462,1836 419,1828 418,1828 416,1828 401,1836 385,1828 383,1828 381,1828 380,1828 378,1828 363,1836 176,1828 174,1828 85,1835 85,1864" />
+      <Word id="l_0029-w_0001" text="der" error_score="0.004" />
+      <Word id="l_0029-w_0002" text="Längs-" error_score="0.004" />
+      <Word id="l_0029-w_0003" text="und" error_score="0.004" />
+      <Word id="l_0029-w_0004" text="in" error_score="0.004" />
+      <Word id="l_0029-w_0005" text="der" error_score="0.004" />
+      <Word id="l_0029-w_0006" text="Querrichtung." error_score="0.004" />
+      <Word id="l_0029-w_0007" text="Die" error_score="0.004" />
+      <Word id="l_0029-w_0008" text="leichte" error_score="0.004" />
+      <Word id="l_0029-w_0009" text="Zugänglichkeit" error_score="0.004" />
+    </TextLine>
+    <TextLine id="l_0030" text="des Oberungarischen Berglandes von Norden her und die hier">
+      <Coords points="87,1919 87,1932 1342,1932 1342,1919 1342,1892 87,1892 87,1919" />
+      <Word id="l_0030-w_0001" text="des" error_score="0.004" />
+      <Word id="l_0030-w_0002" text="Oberungarischen" error_score="0.007" />
+      <Word id="l_0030-w_0003" text="Berglandes" error_score="0.007" />
+      <Word id="l_0030-w_0004" text="von" error_score="0.007" />
+      <Word id="l_0030-w_0005" text="Norden" error_score="0.007" />
+      <Word id="l_0030-w_0006" text="her" error_score="0.007" />
+      <Word id="l_0030-w_0007" text="und" error_score="0.007" />
+      <Word id="l_0030-w_0008" text="die" error_score="0.007" />
+      <Word id="l_0030-w_0009" text="hier" error_score="0.007" />
+    </TextLine>
+    <TextLine id="l_0031" text="Jahrhunderte hindurch nicht genau festgestellte Grenze Ungarns">
+      <Coords points="83,1973 83,1994 241,1986 681,1993 683,1993 773,1984 1341,1984 1342,1970 1339,1943 92,1937 90,1937 88,1937 87,1937 87,1938 82,1942 83,1973" />
+      <Word id="l_0031-w_0001" text="Jahrhunderte" error_score="0.007" />
+      <Word id="l_0031-w_0002" text="hindurch" error_score="0.007" />
+      <Word id="l_0031-w_0003" text="nicht" error_score="0.006" />
+      <Word id="l_0031-w_0004" text="genau" error_score="0.006" />
+      <Word id="l_0031-w_0005" text="festgestellte" error_score="0.006" />
+      <Word id="l_0031-w_0006" text="Grenze" error_score="0.006" />
+      <Word id="l_0031-w_0007" text="Ungarns" error_score="0.006" />
+    </TextLine>
+    <TextLine id="l_0032" text="gegen Galizien war eine Folge davon.">
+      <Coords points="87,2025 87,2040 613,2037 673,2045 674,2045 676,2045 697,2037 849,2037 849,2025 849,1999 228,1989 227,1989 225,1989 223,1989 223,1991 215,1999 87,1999 87,2025" />
+      <Word id="l_0032-w_0001" text="gegen" error_score="0.006" />
+      <Word id="l_0032-w_0002" text="Galizien" error_score="0.006" />
+      <Word id="l_0032-w_0003" text="war" error_score="0.006" />
+      <Word id="l_0032-w_0004" text="eine" error_score="0.006" />
+      <Word id="l_0032-w_0005" text="Folge" error_score="0.006" />
+      <Word id="l_0032-w_0006" text="davon." error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0033" text="Zwischen den zentralen kristallinischen Kerngebirgen des">
+      <Coords points="190,2078 190,2088 1329,2095 1331,2095 1333,2095 1334,2095 1344,2086 1344,2075 1341,2048 1291,2039 1290,2039 1288,2039 1270,2047 990,2039 989,2039 921,2047 903,2039 901,2039 900,2039 898,2039 877,2047 788,2039 786,2039 704,2048 691,2040 689,2040 687,2040 686,2040 684,2040 664,2048 618,2040 617,2040 615,2040 587,2048 566,2040 564,2040 562,2040 561,2040 531,2048 426,2040 424,2040 422,2040 399,2050 337,2050 327,2040 325,2040 324,2040 322,2040 189,2047 190,2078" />
+      <Word id="l_0033-w_0001" text="Zwischen" error_score="0.001" />
+      <Word id="l_0033-w_0002" text="den" error_score="0.001" />
+      <Word id="l_0033-w_0003" text="zentralen" error_score="0.001" />
+      <Word id="l_0033-w_0004" text="kristallinischen" error_score="0.001" />
+      <Word id="l_0033-w_0005" text="Kerngebirgen" error_score="0.001" />
+      <Word id="l_0033-w_0006" text="des" error_score="0.001" />
+    </TextLine>
+    <TextLine id="l_0034" text="Nordungarischen Hochlandes und der Zentralzone der Alpen">
+      <Coords points="85,2131 85,2142 1341,2142 1342,2131 1341,2103 1260,2093 1259,2093 1219,2101 1161,2093 1160,2093 1158,2093 1138,2103 1041,2103 1023,2093 1022,2093 1020,2093 1018,2093 992,2101 969,2093 967,2093 966,2093 964,2093 934,2101 913,2093 911,2093 910,2093 908,2093 875,2101 819,2093 817,2093 816,2093 799,2101 771,2093 770,2093 768,2093 766,2093 745,2101 630,2093 628,2093 627,2093 605,2101 561,2093 559,2093 508,2101 483,2093 482,2093 480,2093 434,2101 362,2093 360,2093 358,2093 332,2101 311,2093 309,2093 307,2093 306,2093 278,2103 202,2103 190,2093 189,2093 187,2093 185,2093 184,2093 164,2101 85,2099 85,2131" />
+      <Word id="l_0034-w_0001" text="Nordungarischen" error_score="0.001" />
+      <Word id="l_0034-w_0002" text="Hochlandes" error_score="0.001" />
+      <Word id="l_0034-w_0003" text="und" error_score="0.001" />
+      <Word id="l_0034-w_0004" text="der" error_score="0.005" />
+      <Word id="l_0034-w_0005" text="Zentralzone" error_score="0.005" />
+      <Word id="l_0034-w_0006" text="der" error_score="0.005" />
+      <Word id="l_0034-w_0007" text="Alpen" error_score="0.005" />
+    </TextLine>
+    <TextLine id="l_0035" text="stellen das kristallinische Leithagebirge und die kri-">
+      <Coords points="87,2183 87,2195 1342,2195 1342,2183 1342,2155 1315,2146 1313,2146 1311,2146 1310,2146 1285,2154 1265,2146 1263,2146 1262,2146 1260,2146 1259,2146 1247,2155 1186,2146 1184,2146 1183,2146 1150,2155 1133,2146 1132,2146 1130,2146 1129,2146 1127,2146 1125,2146 1112,2157 974,2157 938,2146 936,2146 934,2146 933,2146 931,2146 918,2155 900,2146 898,2146 896,2146 895,2146 893,2146 880,2157 789,2157 776,2146 775,2146 773,2146 719,2146 717,2146 715,2146 676,2155 646,2146 645,2146 643,2146 641,2146 613,2155 582,2146 580,2146 579,2146 577,2146 549,2154 528,2146 526,2146 390,2146 388,2146 386,2146 368,2154 348,2146 347,2146 345,2146 343,2146 342,2146 330,2157 296,2157 266,2146 264,2146 263,2146 213,2155 151,2146 149,2146 87,2155 87,2183" />
+      <Word id="l_0035-w_0001" text="stellen" error_score="0.005" />
+      <Word id="l_0035-w_0002" text="das" error_score="0.005" />
+      <Word id="l_0035-w_0003" text="kristallinische" error_score="0.005" />
+      <Word id="l_0035-w_0004" text="Leithagebirge" error_score="0.005" />
+      <Word id="l_0035-w_0005" text="und" error_score="0.005" />
+      <Word id="l_0035-w_0006" text="die" error_score="0.005" />
+      <Word id="l_0035-w_0007" text="kri-" error_score="0.256" />
+    </TextLine>
+    <TextLine id="l_0036" text="stallinischen Teile der Kleinen Karpathen die Verbindung">
+      <Coords points="87,2238 87,2249 1338,2252 1341,2234 1338,2206 951,2206 933,2196 931,2196 929,2196 816,2205 760,2196 758,2196 709,2206 353,2198 352,2198 284,2206 266,2198 264,2198 263,2198 261,2198 241,2206 120,2198 118,2198 116,2198 85,2208 87,2238" />
+      <Word id="l_0036-w_0001" text="stallinischen" error_score="0.256" />
+      <Word id="l_0036-w_0002" text="Teile" error_score="0.256" />
+      <Word id="l_0036-w_0003" text="der" error_score="0.256" />
+      <Word id="l_0036-w_0004" text="Kleinen" error_score="0.256" />
+      <Word id="l_0036-w_0005" text="Karpathen" error_score="0.256" />
+      <Word id="l_0036-w_0006" text="die" error_score="0.256" />
+      <Word id="l_0036-w_0007" text="Verbindung" error_score="0.256" />
+    </TextLine>
+    <TextLine id="l_0037" text="her. Seinem geologischen Baue nach kann man daher das">
+      <Coords points="87,2290 87,2300 497,2308 498,2308 1015,2298 1096,2307 1097,2307 1099,2307 1124,2298 1133,2307 1135,2307 1137,2307 1138,2308 1231,2308 1231,2307 1232,2307 1262,2298 1326,2307 1328,2307 1329,2307 1331,2307 1342,2297 1342,2287 1339,2262 1291,2252 1290,2252 1288,2252 1267,2262 1201,2262 1191,2252 1189,2252 1188,2252 1186,2252 1132,2261 911,2252 910,2252 908,2252 887,2261 859,2252 857,2252 855,2252 854,2252 821,2261 85,2261 87,2290" />
+      <Word id="l_0037-w_0001" text="her." error_score="0.256" />
+      <Word id="l_0037-w_0002" text="Seinem" error_score="0.256" />
+      <Word id="l_0037-w_0003" text="geologischen" error_score="0.558" error_type="error" />
+      <Word id="l_0037-w_0004" text="Baue" error_score="0.558" error_type="error" />
+      <Word id="l_0037-w_0005" text="nach" error_score="0.558" error_type="error" />
+      <Word id="l_0037-w_0006" text="kann" error_score="0.558" error_type="error" />
+      <Word id="l_0037-w_0007" text="man" error_score="0.558" error_type="error" />
+      <Word id="l_0037-w_0008" text="daher" error_score="0.558" error_type="error" />
+      <Word id="l_0037-w_0009" text="das" error_score="0.558" error_type="error" />
+    </TextLine>
+    <TextLine id="l_0038" text="Leithagebirge auch zu dem kristallinischen Teile der Nord-">
+      <Coords points="88,2343 88,2354 1341,2349 1342,2338 1341,2313 1310,2302 1308,2302 1306,2302 1305,2302 1303,2302 1291,2312 1252,2302 1250,2302 1249,2302 1247,2302 1206,2312 1148,2302 1147,2302 1145,2302 1143,2302 1129,2312 1074,2302 1008,2302 1007,2302 1005,2302 1003,2302 990,2312 910,2303 908,2303 906,2303 885,2313 864,2303 862,2303 860,2303 859,2303 844,2312 827,2303 826,2303 684,2303 683,2303 681,2303 679,2303 666,2313 602,2303 600,2303 503,2315 464,2305 462,2305 460,2305 459,2305 429,2315 292,2305 291,2305 87,2310 88,2343" />
+      <Word id="l_0038-w_0001" text="Leithagebirge" error_score="0.558" error_type="error" />
+      <Word id="l_0038-w_0002" text="auch" error_score="0.558" error_type="error" />
+      <Word id="l_0038-w_0003" text="zu" error_score="0.558" error_type="error" />
+      <Word id="l_0038-w_0004" text="dem" error_score="0.102" />
+      <Word id="l_0038-w_0005" text="kristallinischen" error_score="0.102" />
+      <Word id="l_0038-w_0006" text="Teile" error_score="0.102" />
+      <Word id="l_0038-w_0007" text="der" error_score="0.102" />
+      <Word id="l_0038-w_0008" text="Nord-" error_score="0.102" />
+    </TextLine>
+    <TextLine id="l_0039" text="karpathen rechnen. Topographisch lässt man jedoch die">
+      <Coords points="87,2395 87,2405 706,2414 707,2414 819,2404 898,2412 900,2412 947,2404 1028,2412 1030,2412 1270,2404 1326,2412 1328,2412 1329,2412 1331,2412 1342,2402 1342,2392 1341,2368 1313,2358 1311,2358 1310,2358 1308,2358 1273,2366 1219,2358 1217,2358 1216,2358 1189,2366 1166,2358 1165,2358 1163,2358 1161,2358 1142,2366 1120,2358 1119,2358 1117,2358 1115,2358 1096,2366 888,2358 887,2358 844,2366 804,2358 803,2358 630,2368 564,2359 562,2359 516,2368 396,2359 394,2359 319,2368 228,2359 227,2359 85,2364 87,2395" />
+      <Word id="l_0039-w_0001" text="karpathen" error_score="0.102" />
+      <Word id="l_0039-w_0002" text="rechnen." error_score="0.102" />
+      <Word id="l_0039-w_0003" text="Topographisch" error_score="0.102" />
+      <Word id="l_0039-w_0004" text="lässt" error_score="0.102" />
+      <Word id="l_0039-w_0005" text="man" error_score="0.102" />
+      <Word id="l_0039-w_0006" text="jedoch" error_score="0.023" />
+      <Word id="l_0039-w_0007" text="die" error_score="0.023" />
+    </TextLine>
+    <TextLine id="l_0040" text="äussere Kerngebirgsreihe des Nordungarischen Hochlandes erst">
+      <Coords points="87,2448 87,2460 1344,2456 1344,2445 1341,2418 715,2410 714,2410 669,2418 95,2412 93,2412 92,2412 90,2412 90,2414 85,2417 87,2448" />
+      <Word id="l_0040-w_0001" text="äussere" error_score="0.023" />
+      <Word id="l_0040-w_0002" text="Kerngebirgsreihe" error_score="0.023" />
+      <Word id="l_0040-w_0003" text="des" error_score="0.023" />
+      <Word id="l_0040-w_0004" text="Nordungarischen" error_score="0.023" />
+      <Word id="l_0040-w_0005" text="Hochlandes" error_score="0.023" />
+      <Word id="l_0040-w_0006" text="erst" error_score="0.023" />
+    </TextLine>
+    <TextLine id="l_0041" text="mit den Kleinen Karpathen beginnen, welche nur der Donau-">
+      <Coords points="87,2499 87,2512 710,2520 712,2520 844,2512 1290,2519 1291,2519 1341,2509 1341,2496 1338,2473 1189,2463 1188,2463 1148,2471 1119,2463 1117,2463 1115,2463 1114,2463 1112,2463 1101,2473 972,2473 916,2463 915,2463 778,2471 720,2463 719,2463 717,2463 696,2473 663,2465 661,2465 659,2465 658,2465 636,2473 552,2465 551,2465 483,2473 431,2465 429,2465 427,2465 409,2473 264,2465 263,2465 261,2465 243,2473 187,2465 185,2465 184,2465 162,2473 128,2465 126,2465 125,2465 123,2465 85,2474 87,2499" />
+      <Word id="l_0041-w_0001" text="mit" error_score="0.023" />
+      <Word id="l_0041-w_0002" text="den" error_score="0.023" />
+      <Word id="l_0041-w_0003" text="Kleinen" error_score="0.026" />
+      <Word id="l_0041-w_0004" text="Karpathen" error_score="0.026" />
+      <Word id="l_0041-w_0005" text="beginnen," error_score="0.026" />
+      <Word id="l_0041-w_0006" text="welche" error_score="0.026" />
+      <Word id="l_0041-w_0007" text="nur" error_score="0.026" />
+      <Word id="l_0041-w_0008" text="der" error_score="0.026" />
+      <Word id="l_0041-w_0009" text="Donau-" error_score="0.026" />
+    </TextLine>
+    <TextLine id="l_0042" text="6">
+      <Coords points="1188,2543 1189,2553 1191,2566 1221,2562 1219,2548 1212,2520 1191,2524 1188,2543" />
+      <Word id="l_0042-w_0001" text="6" error_score="0.026" />
+    </TextLine>
+  </TextRegion>
+</Page>
