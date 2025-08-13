@@ -32,7 +32,6 @@ The goal is to automatically detect and score OCR errors after OCR has been perf
 notebooks/      # Jupyter notebooks for all approaches (each contains its own README)
 ocr_gui/        # OCR Quality Estimation web app (contains its own README)
 src/            # Core modules, scoring methods, and evaluation functions
-data/           # Example datasets (images, PAGE-XML, and related resources)
 
 ```
 
