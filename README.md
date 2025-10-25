@@ -101,6 +101,9 @@ Shows side-by-side plots and correlation metrics so you can see how closely each
 ### Main Interface  
 ![Main GUI View](OCR_GUI/screenshots/main_view.png)  
 
+### Color Representation: Unsupervised
+![Main GUI View](OCR_GUI/screenshots/ocr-gui.png)  
+
 ### Evaluation  
 ![Method Selector](OCR_GUI/screenshots/evaluation.png)  
 
